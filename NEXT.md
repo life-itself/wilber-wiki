@@ -38,28 +38,34 @@ another repo to pick this up.
 
 ## For Rufus
 
+This is 
+
 - Skim `people/habermas.md` — first example of a "people" page built from the real
   book text (chapter-cited, not notes-cited). If the shape's right, the remaining 6
   people already researched in `library/1995-sex-ecology-spirituality-people-source.md`
   (Joseph Campbell, Piaget, Freud & Jung, Foucault, Plotinus, Hegel) can be ported the
   same way.
+
+**FEEDBACK 2026-08-23: many more quotes we want at least 3-5 if we can and perhaps dozens would be fine per person. more like whta we have for concept.**
+
 - `docs/annotation-system.md` has the annotation-system research and recommendation
   (Recogito `text-annotator-js` + Hypothes.is fallback) — independently corroborated by
-  a second research pass this session, so reasonably high confidence. Nothing built yet.
+  a second research pass this session, so reasonably high confidence. Nothing built yet. **that's fine go for it.**
 
 ## For the AI (next session)
 
+Preliminaries
+
 - Read this file, then the relevant GitHub issue(s) and the doc(s) they link to, before
   doing anything. Everything needed is in this repo already.
-- **Don't run `fl .` (or any Flowershow publish) without checking `library/` first.**
-  `library/1995-sex-ecology-spirituality-full-text.md` is the actual book text, git-committed
-  per the site owner's explicit instruction, but Flowershow's CLI publish path does NOT
-  honor `config.json`'s `contentExclude` (confirmed this session — see AGENTS.md) —
-  publishing would make the full text live-reachable by URL. That may be fine (the site
-  owner has said not to worry about this for now), but it's a deliberate call to make
-  each time, not something to do reflexively via a habitual `fl .`.
+- When you run `fl .` (or any Flowershow publish) you'll publish library b/c it doesn't respect excludes but do NOT worry about this as this is a just preview url for teesting and main actual site running off git respects excludes.
+
+Actual work
+
 - Concept wiki (#1): re-derive/extend the 7 existing `concepts/*.md` pages against
   `library/1995-sex-ecology-spirituality-full-text.md` instead of the old notes file.
+  - Try to then make a fullish concepts list at concepts/index.md (obviously linking to concepts that have an entry in obvious with with wikilink or whatever)
+  - then pick the next 5/10/15 (or whatever) concepts that would seem valuable and do them
 - People index (#3): port the remaining 6 entries from
   `library/1995-sex-ecology-spirituality-people-source.md` into `people/*.md` here,
   following `people/habermas.md`'s shape (short synthesis in your own words + a couple of
@@ -67,6 +73,11 @@ another repo to pick this up.
   actually belongs on a public page, don't copy them wholesale). Add `people/index.md`
   (mirror `concepts/index.md`), cross-link from `concepts/` and
   `works/1995-sex-ecology-spirituality.md`, and add a card to root `index.md`.
+  - Then built a full list / index of potential people and have that list in people/index.md linking to the ones that are actually live
+  - implement another 10 (or more oif more to be done)
+
+Come to this if you have time.
+
 - Annotation system (#2): `docs/annotation-system.md` already has a clear recommendation
   and two-phase build plan — read it and either start Phase 1 or write a short design
   update to `docs/annotatable-reading-layer-vision.md` reflecting the chosen approach
