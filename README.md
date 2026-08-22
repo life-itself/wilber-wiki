@@ -20,6 +20,13 @@ site and create an initial working treatment of *Sex, Ecology, Spirituality*.
 - `works/<slug>.md` — one page per work, with frontmatter (title, year, format, cover,
   core, status) plus a description, an `## In-Depth Overview` on the 12 core works, and
   a `## Notes` section reserved for future annotations.
+- `concepts/index.md` — the concept wiki: one page per concept (`concepts/<slug>.md`),
+  each with a synthesis of Wilber's view plus curated excerpts from `library/` sources,
+  shown as foldable callouts (click a short quote to expand the full passage in place).
+  Pilot pass: 7 concepts, all sourced from *Sex, Ecology, Spirituality*.
+- `library/<slug>.md` — source reading notes used to curate concept excerpts from.
+  **Not published** (`contentExclude` in `config.json`) — denser/rawer than what's
+  meant to appear on a concept page.
 - `assets/covers/` — cached cover images (28 of 39 works so far), sourced from Open
   Library; see `assets/covers/SOURCES.md` for provenance and what's still missing.
 

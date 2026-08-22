@@ -70,6 +70,19 @@ critique *Bald Ambition* — largely over how reliably its enormous range of cit
 material is actually represented. Both the ambition and that criticism are worth
 tracking here as this wiki's annotation work on the book develops.
 
+## Related Concepts
+
+Pilot pass of the [concept wiki](../concepts/index.md), sourced from reading notes on
+this book:
+
+- [Holons](../concepts/holons.md)
+- [Holarchy](../concepts/holarchy.md)
+- [Dominator vs. Growth Hierarchy](../concepts/dominator-vs-growth-hierarchy.md)
+- [The Great Chain of Being](../concepts/great-chain-of-being.md)
+- [Systems Theory and the Sciences of Complexity](../concepts/systems-theory.md)
+- [Ascent and Descent](../concepts/ascent-and-descent.md)
+- [Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md)
+
 ## Notes
 
 _(Space for personal notes and annotations. Empty for now.)_
