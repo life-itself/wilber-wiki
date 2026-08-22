@@ -2,15 +2,21 @@
 
 ## What this project is
 
-A concept-level knowledge base on Ken Wilber and integral theory. Two distinct pieces
-of work, both described as vision docs before any implementation:
-[`docs/concept-wiki-vision.md`](docs/concept-wiki-vision.md) (the priority — a
-concept-first index over Wilber's ideas, synthesis + curated excerpts across works) and
-[`docs/annotatable-reading-layer-vision.md`](docs/annotatable-reading-layer-vision.md)
-(related but distinct, deferred — a web-viewable, annotatable rendering of a work's
-text). Read those before proposing new features; don't re-derive the vision from
-scratch. [`docs/plan.md`](docs/plan.md) is the older, broader initiative plan/brainstorm
-these two vision docs superseded the annotation section of.
+A concept-level knowledge base on Ken Wilber and integral theory. **Read
+[`NEXT.md`](NEXT.md) first** — it's the up-to-date map of the active work streams
+(concept wiki, people index, annotation system, text indexing), each with a GitHub
+issue linking to its vision/plan doc. Don't re-derive the vision from scratch, and don't
+conflate the work streams — they're deliberately separate.
+
+There's a related, separate private repo (`life-itself/library`) that holds the actual
+book text (raw EPUB + Markdown conversion, chapter digests, Anki flashcards) for
+Wilber's *Sex, Ecology, Spirituality* and other books — kept private specifically
+because it's copyrighted full-text, not just excerpts. This repo's
+`library/1995-sex-ecology-spirituality-full-text.md` is a copy of that conversion,
+git-committed here at the site owner's explicit instruction (he doesn't want copyright
+excerpting concerns to slow down building this site right now — see NEXT.md). That
+instruction covers committing it to this repo; it does **not** by itself mean *publish
+it live* — see the Publishing section below before ever running `fl`.
 
 ## Content structure
 
@@ -25,10 +31,15 @@ Flowershow can read it with no build step.
   natively collapsible — no JS). `concepts/index.md` lists them all. Frontmatter schema:
   `title`, `slug`, `aliases`, `category` (`core-term` vs. `wilber-on-x`), `status`,
   `works`.
-- `library/<slug>.md` — private source material (reading notes, not full book text)
-  that concept pages are curated *from*. Not meant to be read as wiki content in its own
-  right — see the Publishing section below for why "private" is currently aspirational,
-  not enforced.
+- `library/` — source material concept/people pages are curated *from*, not meant to be
+  read as wiki content in its own right. `1995-sex-ecology-spirituality.md` is the site
+  owner's reading notes (partial, thin coverage); `1995-sex-ecology-spirituality-full-text.md`
+  is the actual book, copied from the private `library` repo — **this is the real
+  source to build concept/people pages from**, not the notes file (an earlier session
+  mistakenly used the notes file before the full text was available here). See the
+  Publishing section below for why "private" is currently aspirational, not enforced.
+- `people/<slug>.md` — same shape as `concepts/`, but for people Wilber engages with
+  (Habermas, Joseph Campbell, etc.). `people/index.md` lists them. See NEXT.md/issue #3.
 - `docs/` — internal planning/vision docs, not wiki content.
 - `assets/covers/` — cached cover images from Open Library.
 - `bio.md` — draft Ken Wilber biography.
@@ -69,8 +80,10 @@ ingestion workflow, not the CLI's direct-upload path. Practical effect: on the
 the URL, even though nothing in the published content links to them. Don't treat this
 as real privacy. If/when this project gets a real production site, publishing via a
 connected GitHub repo (not the CLI) is what would actually make `contentExclude` work —
-worth revisiting before `library/` ever holds anything more sensitive than book-note
-excerpts.
+worth revisiting **now that `library/` holds the actual full book text**, not just
+excerpts. Check with the site owner before running `fl`/publishing if it's been a while
+since `library/`'s contents were last reviewed — this isn't a hard rule, just don't
+publish reflexively without thinking about what's currently in that folder.
 
 ## Changelog
 
