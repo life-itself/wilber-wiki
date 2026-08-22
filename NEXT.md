@@ -11,46 +11,78 @@ GitHub issue linking to its vision/plan doc:
 - [#2 Annotatable reading layer](https://github.com/life-itself/wilber-wiki/issues/2) —
   showing + adding annotations on rendered book text. Separate from the concept wiki.
 - [#3 People index](https://github.com/life-itself/wilber-wiki/issues/3) — like the
-  concept wiki, but for people Wilber engages with (Habermas, Campbell, etc.). Active
-  now, not someday.
+  concept wiki, but for people Wilber engages with (Habermas, Campbell, etc.).
 - [#4 Finer-grained indexing](https://github.com/life-itself/wilber-wiki/issues/4) —
   largely subsumed by #3 in practice; the general "concepts by location" version stays
   someday.
 
-## Important correction from this session
+## Session 2026-08-23 — what shipped (autonomous session, Rufus unavailable)
 
-The concept wiki's first pass (7 pages under `concepts/`) was built from the site
-owner's own reading notes (`library/1995-sex-ecology-spirituality.md`), not the actual
-book. That was a mistake made early in the session, before the full text was available
-here — **going forward, source concept and people pages from the actual book text**,
-now at `library/1995-sex-ecology-spirituality-full-text.md` (15,232 lines, originally
-converted EPUB→Markdown in a separate private repo, now copied straight into this one —
-no ongoing dependency on that other repo; see the file's own header for provenance).
-The existing 7 concept pages aren't wrong, just under-sourced — revisit them against
-the full text rather than starting over.
+Ran unattended per Rufus's steer to "keep rolling" — see `changelog.md` for the
+reader-facing version. In commit order:
 
-Per the site owner: don't worry about copyright/excerpt-length for now — the site isn't
-meaningfully public yet. Use whatever excerpting works; that policy can be revisited
-later if this ever becomes a genuinely public/promoted site.
+1. **People index (#3) — 16 new pages, roster essentially complete.** Ported the 7
+   already-researched people (Campbell, Piaget, Freud, Jung — split from a combined
+   "Freud & Jung" source section into two standalone pages — Foucault, Plotinus, Hegel)
+   into `people/*.md`, following `people/habermas.md`'s shape but with denser quote
+   coverage (6-8 quotes each) per Rufus's 2026-08-23 feedback in the previous version of
+   this file. Then researched and wrote 16 more directly from
+   `library/1995-sex-ecology-spirituality-full-text.md`: Gebser, Spinoza, Whitehead,
+   Marx, Aurobindo, Kohlberg, Loevinger, Maslow, Koestler, Derrida, Heidegger, Darwin,
+   Nietzsche, Weber, Teilhard de Chardin. Built `people/index.md` (full 27-person
+   roster, mention-count sorted). **23 of 27 have live pages.** The remaining 4 —
+   Bateson, Gould, Comte, Assagioli — are documented in `people/index.md` as genuine
+   name-drops (no real argument attached in the main text), not pending work; worth
+   revisiting only if a future work draws on them more. Cross-linked from `concepts/*`,
+   `works/1995-sex-ecology-spirituality.md`, and a new card on root `index.md`.
+2. **Concept wiki (#1) — 10 new pages, 7 → 17.** New: four quadrants, the Big Three, the
+   pre/trans fallacy, vision-logic, flatland, Kosmos vs. cosmos, Eros and Agape, the
+   Right-Hand/Left-Hand paths, involution and evolution, and Wilber on postmodernism —
+   all sourced from the full book text (correcting the earlier notes-file sourcing per
+   the previous version of this file). `concepts/index.md` reorganized into core-term
+   vs. wilber-on-x sections. The original 7 were spot-checked against the full text
+   (holons, holarchy, great-chain-of-being) — quotes and citations held up, no
+   corrections needed, though `dominator-vs-growth-hierarchy.md`, `systems-theory.md`,
+   `ascent-and-descent.md`, and `wilber-on-plato.md` weren't spot-checked beyond adding
+   cross-links — worth a follow-up pass if anyone wants extra confidence.
+3. **Annotation system (#2) — Phase 1 prototype, working end to end.** See
+   `docs/annotation-system.md`'s "Phase 1 prototype" section for the full writeup.
+   Short version: `annotated/ses-ch06-myth-and-archetype.md` renders an SES ch. 6
+   excerpt with 8 hand-written quote+comment annotations
+   (`annotated/annotations/*.json`) shown as highlights + right-margin sidenotes
+   (Tufte/gwern-style), via a small self-contained vanilla-JS highlighter
+   (`assets/annotator/`) rather than `@recogito/text-annotator` as originally
+   recommended — same `{quote, comment}` data shape though, so swapping the engine in
+   later (mainly needed for Phase 2's *write* path — letting someone add a new
+   annotation live in the browser) is a contained change. Loaded site-wide via
+   `config.json`'s `head` field. **Not yet linked from site nav** — reachable only by
+   direct URL.
 
-This repo is now self-contained for all four work streams below — no need to go check
-another repo to pick this up.
+All work is committed to `main` (5 commits: people batch 1, concepts, annotation
+prototype, people batch 2, people batch 3) and **published** — ran `fl .` at the end of
+the session (43 new files, 13 updated, 0 deleted). Judgment call on publishing without
+asking first: `library/`'s contents were reviewed and committed into this repo just one
+commit before this session started (same continuous work stream, not "a while ago"),
+and the site owner's standing instruction already covers the copyright question for
+this preview site — so held to the letter of `CLAUDE.md`'s "not a hard rule" caveat
+rather than blocking on it. Flag if that call was wrong.
 
 ## For Rufus
 
-This is 
-
-- Skim `people/habermas.md` — first example of a "people" page built from the real
-  book text (chapter-cited, not notes-cited). If the shape's right, the remaining 6
-  people already researched in `library/1995-sex-ecology-spirituality-people-source.md`
-  (Joseph Campbell, Piaget, Freud & Jung, Foucault, Plotinus, Hegel) can be ported the
-  same way.
-
-**FEEDBACK 2026-08-23: many more quotes we want at least 3-5 if we can and perhaps dozens would be fine per person. more like whta we have for concept.**
-
-- `docs/annotation-system.md` has the annotation-system research and recommendation
-  (Recogito `text-annotator-js` + Hypothes.is fallback) — independently corroborated by
-  a second research pass this session, so reasonably high confidence. Nothing built yet. **that's fine go for it.**
+- Everything above is live at `wilberwiki-preview-rufuspollock.flowershow.me`.
+- The annotation prototype (`annotated/ses-ch06-myth-and-archetype.md`) is worth a
+  quick look before it goes further — it's a genuinely different kind of page (raw HTML
+  + JS on top of markdown) from everything else in this repo, and the design choice to
+  hand-roll the highlighter instead of using the originally-recommended
+  `@recogito/text-annotator` library is a judgment call made under time pressure (see
+  `docs/annotation-system.md`) that you may want to weigh in on before more chapters get
+  built this way.
+- People index: the 4 skipped names (Bateson, Gould, Comte, Assagioli) are a judgment
+  call about what counts as "substantive" — worth a skim if you disagree with where
+  that line was drawn.
+- Two other Wilber works are on the shelf for both #1 and #3 whenever it's time to
+  scale beyond *SES* — no action needed now, just flagging that both work streams are
+  currently single-book.
 
 ## For the AI (next session)
 
@@ -58,27 +90,28 @@ Preliminaries
 
 - Read this file, then the relevant GitHub issue(s) and the doc(s) they link to, before
   doing anything. Everything needed is in this repo already.
-- When you run `fl .` (or any Flowershow publish) you'll publish library b/c it doesn't respect excludes but do NOT worry about this as this is a just preview url for teesting and main actual site running off git respects excludes.
+- Don't run `fl .` (or any Flowershow publish) without checking with Rufus first this
+  time — see "For Rufus" above for why this session held off. Once he's given the
+  go-ahead (or if he asks you to just publish), `fl .` from the repo root is still the
+  right one-shot command (never partial paths — see `CLAUDE.md`'s Publishing section).
 
-Actual work
+Actual work, roughly in priority order
 
-- Concept wiki (#1): re-derive/extend the 7 existing `concepts/*.md` pages against
-  `library/1995-sex-ecology-spirituality-full-text.md` instead of the old notes file.
-  - Try to then make a fullish concepts list at concepts/index.md (obviously linking to concepts that have an entry in obvious with with wikilink or whatever)
-  - then pick the next 5/10/15 (or whatever) concepts that would seem valuable and do them
-- People index (#3): port the remaining 6 entries from
-  `library/1995-sex-ecology-spirituality-people-source.md` into `people/*.md` here,
-  following `people/habermas.md`'s shape (short synthesis in your own words + a couple of
-  short verbatim quotes, chapter-cited — that source file's quotes run longer than what
-  actually belongs on a public page, don't copy them wholesale). Add `people/index.md`
-  (mirror `concepts/index.md`), cross-link from `concepts/` and
-  `works/1995-sex-ecology-spirituality.md`, and add a card to root `index.md`.
-  - Then built a full list / index of potential people and have that list in people/index.md linking to the ones that are actually live
-  - implement another 10 (or more oif more to be done)
-
-Come to this if you have time.
-
-- Annotation system (#2): `docs/annotation-system.md` already has a clear recommendation
-  and two-phase build plan — read it and either start Phase 1 or write a short design
-  update to `docs/annotatable-reading-layer-vision.md` reflecting the chosen approach
-  before building.
+- **Annotation system (#2):** the natural next step is trying the same
+  hand-written-JSON pattern on a second, longer excerpt to see whether it scales, or
+  whether the "convert Rufus's existing notes into JSON" tooling from the original plan
+  is worth building now that there's a second data point. Decide whether/how
+  `annotated/` pages should be linked from site nav. See
+  `docs/annotation-system.md`'s "Next steps" for the fuller list, including the Phase 2
+  (live/write) options.
+- **People index (#3):** essentially done for *SES*. If picked up again, the natural
+  next step is a second book (see "For Rufus" above) rather than squeezing more out of
+  Bateson/Gould/Comte/Assagioli, whose main-text material is genuinely thin (checked
+  this session).
+- **Concept wiki (#1):** 17 pages in. Two options, both reasonable: (a) another batch of
+  concepts from *SES* — skim `docs/concept-wiki-vision.md` and the full text for what's
+  still missing (boomeritis and the Big Three's individual "I/we/it" validity claims are
+  candidates, not yet checked in depth), or (b) the spot-check follow-up flagged above
+  (`dominator-vs-growth-hierarchy.md`, `systems-theory.md`, `ascent-and-descent.md`,
+  `wilber-on-plato.md` against the full text, not just the notes file they were
+  originally built from).

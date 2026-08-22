@@ -132,22 +132,43 @@
     });
   }
 
+  // Annotation data is read from an inline <script type="application/json">
+  // that's the container's first child, NOT fetched from the `data-annotations`
+  // URL — Flowershow serves repo files (including /assets/... and JSON data
+  // files) via a redirect to its R2 storage origin, which doesn't send
+  // Access-Control-Allow-Origin, so a same-origin `fetch()` that follows that
+  // redirect is blocked by CORS in a real browser (confirmed against the
+  // published preview site; curl doesn't enforce CORS so this was easy to
+  // miss). `data-annotations` is kept as a human-readable pointer to the
+  // matching JSON file in `annotated/annotations/` (for anyone editing the
+  // annotations, and as the natural shape for a future fetch-based Phase 2
+  // write path once that's served with proper CORS/from our own API), but
+  // the inline script tag is the actual source of truth read at runtime.
   function initContainer(container) {
-    const src = container.dataset.annotations;
-    if (!src) return;
+    if (!container.dataset.annotations) return;
     container.classList.add('annotated-text');
 
-    fetch(src)
-      .then((r) => r.json())
-      .then((annotations) => {
-        const highlightEls = {};
-        annotations.forEach((a) => {
-          const mark = highlightQuote(container, a.quote, a.id);
-          if (mark) highlightEls[a.id] = mark;
-        });
-        renderSidenotes(container, annotations, highlightEls);
-      })
-      .catch((err) => console.error('annotator.js: failed to load', src, err));
+    const dataEl = container.querySelector('script[type="application/json"]');
+    if (!dataEl) {
+      console.error('annotator.js: no inline annotation data found in', container);
+      return;
+    }
+
+    let annotations;
+    try {
+      annotations = JSON.parse(dataEl.textContent);
+    } catch (err) {
+      console.error('annotator.js: failed to parse inline annotation data', err);
+      return;
+    }
+    dataEl.remove();
+
+    const highlightEls = {};
+    annotations.forEach((a) => {
+      const mark = highlightQuote(container, a.quote, a.id);
+      if (mark) highlightEls[a.id] = mark;
+    });
+    renderSidenotes(container, annotations, highlightEls);
   }
 
   function init() {
