@@ -32,11 +32,19 @@ Flowershow can read it with no build step.
 - `docs/` — internal planning/vision docs, not wiki content.
 - `assets/covers/` — cached cover images from Open Library.
 - `bio.md` — draft Ken Wilber biography.
+- `index.md` — the site's homepage (landing page). `README.md` is the short
+  GitHub-facing blurb only; it isn't what renders as the site root.
 
 ## Publishing / preview site
 
-Deploy with the `fl` CLI (Flowershow). The live preview is **`wilberwiki-preview`**,
-recorded in the committed `.flowershow` file so you don't need `--name` again:
+Built and deployed with [Flowershow](https://flowershow.app) — for anything Flowershow
+config/CSS/setup-related beyond what's below, install their skill rather than guessing:
+`npx skills add flowershow/skills --global` (or read
+`https://raw.githubusercontent.com/flowershow/skills/main/SKILL.md` directly), and see
+https://flowershow.app/docs/agents.
+
+The live preview is **`wilberwiki-preview`**, recorded in the committed `.flowershow`
+file so you don't need `--name` again:
 
 ```
 fl . --yes
