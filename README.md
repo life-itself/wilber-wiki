@@ -8,6 +8,8 @@ site and create an initial working treatment of *Sex, Ecology, Spirituality*.
 
 ## Contents
 
+- `config.json` — Flowershow site config. `docs/` is excluded from publishing
+  (`contentExclude`) — it's internal planning, not wiki content.
 - `docs/plan.md` — initiative plan, brainstorm of future wiki sections, open questions.
 - `bio.md` — draft biography of Ken Wilber.
 - `works/index.md` — works list by year, linking to a dedicated page per work.

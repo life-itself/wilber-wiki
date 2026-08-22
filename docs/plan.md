@@ -15,6 +15,12 @@ All content lives at the repo root, not under a `content/` wrapper. These are co
 drafts, not a site — no framework, no styling, no build has been set up yet, deliberately:
 get the material right first, then decide how it's presented.
 
+Publishing target is [Flowershow](https://flowershow.app) (reads markdown + frontmatter
+directly, no separate build step needed). Added `config.json` at the repo root with
+`"contentExclude": ["/docs"]` so this planning folder never gets published as part of the
+site — `contentExclude` fully unpublishes a path (not just hidden from nav/search, as
+`contentHide` would leave it); `docs/` is internal, not wiki content.
+
 **Decided:** one markdown file per work (with frontmatter), not a single monolithic list
 or a separate YAML/JSON data file. Frontmatter carries the structured fields a future
 site would need for the "cover + year + blurb" grid layout (`cover`, `year`, `format`,
