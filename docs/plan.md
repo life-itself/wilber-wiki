@@ -124,6 +124,14 @@ eventually contain, beyond the bio and works list.
 
 ## Annotation feature (later phase)
 
+Superseded by two dedicated vision docs, written after a proper brainstorming pass:
+[`concept-wiki-vision.md`](concept-wiki-vision.md) (the priority — the concept-level
+index that makes this a wiki) and
+[`annotatable-reading-layer-vision.md`](annotatable-reading-layer-vision.md) (a related
+but distinct, deferred project: a web-viewable, personally-and-possibly-collaboratively
+annotated rendering of a work's text). The rest of this section is kept as historical
+context for the open questions that prompted those docs.
+
 Goal per the user: make core books (starting with *SES*) annotatable by them personally.
 Not designed yet — flagging the open questions to resolve before building:
 - **Single-user vs. multi-user?** If it's just for the user's own reading, a much simpler
