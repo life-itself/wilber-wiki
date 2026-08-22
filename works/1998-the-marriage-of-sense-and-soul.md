@@ -5,7 +5,7 @@ year: 1998
 year_note: null
 format: "book"
 contributors: null
-cover: null
+cover: "/assets/covers/1998-the-marriage-of-sense-and-soul.jpg"
 core: false
 status: verified
 ---

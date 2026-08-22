@@ -14,7 +14,10 @@ site and create an initial working treatment of *Sex, Ecology, Spirituality*.
 - `bio.md` — draft biography of Ken Wilber.
 - `works/index.md` — works list by year, linking to a dedicated page per work.
 - `works/<slug>.md` — one page per work, with frontmatter (title, year, format, cover,
-  core, status) plus a description and a `## Notes` section reserved for future
-  annotations.
+  core, status) plus a description, an `## In-Depth Overview` on the 12 core works, and
+  a `## Notes` section reserved for future annotations.
+- `assets/covers/` — cached cover images (28 of 39 works so far), sourced from Open
+  Library; see `assets/covers/SOURCES.md` for provenance and what's still missing.
 
-Just scaffolded — content drafts only, no site/build yet.
+Content drafts, not yet a styled site — Flowershow reads the markdown/frontmatter
+directly, so most of what's here is already publishable as-is.

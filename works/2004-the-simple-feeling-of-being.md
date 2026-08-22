@@ -1,11 +1,11 @@
 ---
-title: "The Simple Feeling of Being"
-subtitle: "Visionary, Spiritual, and Poetic Writings"
+title: The Simple Feeling of Being
+subtitle: Visionary, Spiritual, and Poetic Writings
 year: 2004
 year_note: null
-format: "editor"
+format: editor
 contributors: null
-cover: null
+cover: /assets/covers/2004-the-simple-feeling-of-being.jpg
 core: false
 status: verified
 ---

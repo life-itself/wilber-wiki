@@ -1,11 +1,11 @@
 ---
-title: "Transformations of Consciousness"
-subtitle: "Conventional and Contemplative Perspectives on Development"
+title: Transformations of Consciousness
+subtitle: Conventional and Contemplative Perspectives on Development
 year: 1986
 year_note: null
-format: "co-authored"
-contributors: "Jack Engler, Daniel P. Brown"
-cover: null
+format: co-authored
+contributors: Jack Engler, Daniel P. Brown
+cover: /assets/covers/1986-transformations-of-consciousness.jpg
 core: false
 status: draft
 ---

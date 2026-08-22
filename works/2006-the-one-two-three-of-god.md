@@ -1,11 +1,11 @@
 ---
-title: "The One Two Three of God"
+title: The One Two Three of God
 subtitle: null
 year: 2006
 year_note: null
-format: "audio"
+format: audio
 contributors: null
-cover: null
+cover: /assets/covers/2006-the-one-two-three-of-god.jpg
 core: false
 status: draft
 ---

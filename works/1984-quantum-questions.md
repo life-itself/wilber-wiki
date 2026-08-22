@@ -1,11 +1,11 @@
 ---
-title: "Quantum Questions"
-subtitle: "Mystical Writings of the World's Great Physicists"
+title: Quantum Questions
+subtitle: Mystical Writings of the World's Great Physicists
 year: 1984
 year_note: null
-format: "editor"
+format: editor
 contributors: null
-cover: null
+cover: /assets/covers/1984-quantum-questions.jpg
 core: false
 status: verified
 ---

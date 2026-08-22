@@ -1,11 +1,11 @@
 ---
-title: "The Eye of Spirit"
-subtitle: "An Integral Vision for a World Gone Slightly Mad"
+title: The Eye of Spirit
+subtitle: An Integral Vision for a World Gone Slightly Mad
 year: 1997
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1997-the-eye-of-spirit.jpg
 core: false
 status: verified
 ---

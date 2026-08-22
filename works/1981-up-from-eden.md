@@ -1,11 +1,11 @@
 ---
-title: "Up from Eden"
-subtitle: "A Transpersonal View of Human Evolution"
+title: Up from Eden
+subtitle: A Transpersonal View of Human Evolution
 year: 1981
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1981-up-from-eden.jpg
 core: false
 status: verified
 ---

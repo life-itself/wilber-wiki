@@ -1,11 +1,11 @@
 ---
-title: "The Holographic Paradigm and Other Paradoxes"
-subtitle: "Exploring the Leading Edge of Science"
+title: The Holographic Paradigm and Other Paradoxes
+subtitle: Exploring the Leading Edge of Science
 year: 1982
 year_note: null
-format: "editor"
+format: editor
 contributors: null
-cover: null
+cover: /assets/covers/1982-the-holographic-paradigm.jpg
 core: false
 status: draft
 ---

@@ -1,11 +1,11 @@
 ---
-title: "The Atman Project"
-subtitle: "A Transpersonal View of Human Development"
+title: The Atman Project
+subtitle: A Transpersonal View of Human Development
 year: 1980
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1980-the-atman-project.jpg
 core: false
 status: verified
 ---

@@ -1,11 +1,11 @@
 ---
-title: "No Boundary"
-subtitle: "Eastern and Western Approaches to Personal Growth"
+title: No Boundary
+subtitle: Eastern and Western Approaches to Personal Growth
 year: 1979
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1979-no-boundary.jpg
 core: false
 status: verified
 ---

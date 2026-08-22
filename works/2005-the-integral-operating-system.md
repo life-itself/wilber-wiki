@@ -1,11 +1,11 @@
 ---
-title: "The Integral Operating System"
+title: The Integral Operating System
 subtitle: null
 year: 2005
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/2005-the-integral-operating-system.jpg
 core: false
 status: draft
 ---

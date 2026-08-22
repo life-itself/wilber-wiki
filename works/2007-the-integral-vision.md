@@ -1,11 +1,12 @@
 ---
-title: "The Integral Vision"
-subtitle: "A Very Short Introduction to the Revolutionary Integral Approach to Life, God, the Universe, and Everything"
+title: The Integral Vision
+subtitle: A Very Short Introduction to the Revolutionary Integral Approach to Life,
+  God, the Universe, and Everything
 year: 2007
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/2007-the-integral-vision.jpg
 core: false
 status: verified
 ---

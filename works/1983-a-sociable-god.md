@@ -1,11 +1,11 @@
 ---
-title: "A Sociable God"
-subtitle: "A Brief Introduction to a Transcendental Sociology"
+title: A Sociable God
+subtitle: A Brief Introduction to a Transcendental Sociology
 year: 1983
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1983-a-sociable-god.jpg
 core: false
 status: verified
 ---

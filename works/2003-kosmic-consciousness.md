@@ -1,11 +1,11 @@
 ---
-title: "Kosmic Consciousness"
+title: Kosmic Consciousness
 subtitle: null
 year: 2003
 year_note: null
-format: "audio"
+format: audio
 contributors: null
-cover: null
+cover: /assets/covers/2003-kosmic-consciousness.jpg
 core: false
 status: draft
 ---

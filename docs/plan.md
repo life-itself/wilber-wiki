@@ -6,10 +6,20 @@ wiki before we build a real site. Nothing here is committed to a tech stack yet.
 ## What exists right now
 
 - `bio.md` — draft biography, sourced from Wikipedia + the Ken Wilber Fund.
-- `works/index.md` — works list by year, linking to a dedicated page per work.
+- `works/index.md` — works list by year (table with cover thumbnail, title/link, year,
+  format), linking to a dedicated page per work.
 - `works/<slug>.md` — one file per work (39 so far), each with YAML frontmatter (`title`,
   `subtitle`, `year`, `year_note`, `format`, `contributors`, `cover`, `core`, `status`), a
-  `## Description`, and an empty `## Notes` section reserved for future annotations.
+  `## Description`, and an empty `## Notes` section reserved for future annotations. The
+  12 works flagged `core: true` — *The Spectrum of Consciousness*, *Grace and Grit*,
+  *Sex, Ecology, Spirituality*, *A Brief History of Everything*, *One Taste*, *Integral
+  Psychology*, *A Theory of Everything*, *Boomeritis*, *Integral Spirituality*,
+  *Integral Life Practice*, *The Religion of Tomorrow*, *Finding Radical Wholeness* —
+  each additionally have a `## In-Depth Overview` section (structure, key concepts,
+  significance/reception), several paragraphs per book.
+- `assets/covers/` — 28 of 39 works have a cached cover image (`<slug>.jpg`, ~150–650px
+  on the long edge, "L" size from Open Library), with sourcing/provenance and the list
+  of the 11 still missing a cover documented in `assets/covers/SOURCES.md`.
 
 All content lives at the repo root, not under a `content/` wrapper. These are content
 drafts, not a site — no framework, no styling, no build has been set up yet, deliberately:
@@ -36,11 +46,12 @@ pages don't end up as two separate, driftable systems.
    World* (2024) is a distinct title or a reissue of *Trump and a Post-Truth World*
    (2017), and whether *Integral Politics* (2018, ebook) is distinct content or an
    excerpt.
-2. **Source cover art.** Plan: batch lookup via Open Library Covers API (by ISBN) or
-   Google Books API, writing the result into each page's `cover:` frontmatter field;
-   fall back to manual sourcing (official publisher pages, Amazon listings) for older or
-   small-press titles where API coverage is thin. Needs ISBNs gathered per edition first
-   — decide whether we track first-edition ISBNs, current-edition ISBNs, or both.
+2. **Source cover art — done for 28/39.** Batch-fetched via the Open Library Covers API
+   (title+author search, not ISBN — turned out not to need ISBNs at all) and cached
+   under `assets/covers/`. The 11 remaining are genuinely thin on Open Library (mostly
+   audio programs, ebook-only titles, and 2015+ releases); see
+   `assets/covers/SOURCES.md` for the per-title breakdown and next options (publisher
+   site, Amazon, manual scan) if we want to chase down the rest.
 3. **Pick a site approach** for when we're ready to make it "nice" — static site generator
    (e.g. Astro/Eleventy) makes sense for a content-heavy wiki like this, and can read the
    frontmatter directly to generate the works grid from `works/*.md` with no separate
@@ -73,12 +84,12 @@ eventually contain, beyond the bio and works list.
   have merged/rebranded — worth getting the institutional history straight).
 
 ### Book-level deep-dive pages
-- Start with **Sex, Ecology, Spirituality** as the flagship treatment (per the existing
-  project note), then likely **A Brief History of Everything**, **Integral Psychology**,
-  and **The Religion of Tomorrow** as the other load-bearing books for the theory. Each
-  deep-dive page could carry: chapter-by-chapter summary, key diagrams (the four-quadrant
-  chart, developmental-line comparison tables), notable quotes, and — per the user's
-  goal — an annotation layer (see below).
+- **First pass done:** all 12 `core: true` works now carry an `## In-Depth Overview`
+  section on their own page (structure/parts, key concepts introduced, significance —
+  a few paragraphs each, not chapter-by-chapter). Worth revisiting later with: key
+  diagrams (the four-quadrant chart, developmental-line comparison tables — currently
+  described in prose only, not reproduced visually), notable quotes, and — per the
+  user's goal — an annotation layer (see below).
 
 ### Reception, critique, and controversy
 - **Academic and popular critique** — a fair-minded page surveying serious criticism:

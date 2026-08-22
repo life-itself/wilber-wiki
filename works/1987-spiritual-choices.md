@@ -5,7 +5,7 @@ year: 1987
 year_note: null
 format: "co-authored"
 contributors: "Dick Anthony, Bruce Ecker"
-cover: null
+cover: "/assets/covers/1987-spiritual-choices.jpg"
 core: false
 status: draft
 ---

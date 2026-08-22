@@ -1,11 +1,11 @@
 ---
-title: "Eye to Eye"
-subtitle: "The Quest for the New Paradigm"
+title: Eye to Eye
+subtitle: The Quest for the New Paradigm
 year: 1984
 year_note: null
-format: "book"
+format: book
 contributors: null
-cover: null
+cover: /assets/covers/1984-eye-to-eye.jpg
 core: false
 status: verified
 ---

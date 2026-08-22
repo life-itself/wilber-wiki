@@ -1,11 +1,11 @@
 ---
-title: "The Essential Ken Wilber"
-subtitle: "An Introductory Reader"
+title: The Essential Ken Wilber
+subtitle: An Introductory Reader
 year: 1998
 year_note: null
-format: "editor"
+format: editor
 contributors: null
-cover: null
+cover: /assets/covers/1998-the-essential-ken-wilber.jpg
 core: false
 status: verified
 ---
