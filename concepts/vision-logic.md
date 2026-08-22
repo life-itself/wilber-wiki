@@ -76,6 +76,12 @@ capacity he assigns the job of healing what rationality's differentiation of the
 
 ## See Also
 
+- [[gebser|Jean Gebser]] — Wilber credits Gebser's "integral-aperspectival" as the
+  equivalent term arrived at independently
+- [[aurobindo|Sri Aurobindo]] — supplies, per Wilber, the "classic description" of
+  vision-logic
+- [[whitehead|Alfred North Whitehead]] / [[hegel|Georg Hegel]] — grouped by Wilber as
+  early philosophers of vision-logic's "identity-in-difference"
 - [[big-three]] — the differentiated domains vision-logic is tasked with integrating
 - [[postmodernism]] — the movement Wilber credits to early vision-logic, and criticizes for stalling there
 - [[pre-trans-fallacy]] — the developmental-sequence confusion vision-logic's map is meant to prevent

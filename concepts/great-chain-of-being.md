@@ -74,3 +74,5 @@ without needing to invoke it as tradition or dogma.
 - [[kosmos-vs-cosmos]] — the terminology Wilber uses for the Great Chain's full, undivided scope
 - [[plotinus|Plotinus]] — the historical figure Wilber credits with giving the Great
   Chain its first comprehensive presentation
+- [[aurobindo|Sri Aurobindo]] — Wilber's Eastern counterpart to Plotinus, whose own
+  holarchy is set alongside Plotinus's in figure 9-1 as independent confirmation

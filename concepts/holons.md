@@ -11,7 +11,7 @@ works: [1995-sex-ecology-spirituality]
 
 ## Wilber's View
 
-A **holon** — a term Wilber borrows from Arthur Koestler — is a whole that is
+A **holon** — a term Wilber borrows from [[koestler|Arthur Koestler]] — is a whole that is
 simultaneously a part of some other whole: an atom within a molecule, a cell within an
 organ, a person within a family. Wilber's claim in *Sex, Ecology, Spirituality* is
 stronger than "some things are holons": reality is composed *entirely* of holons, at
@@ -79,6 +79,7 @@ across levels — this page stays with what a holon *is*.
 
 ## See Also
 
+- [[koestler]] — coined the term "holon" itself
 - [[holarchy]] — how holons organize into nested levels
 - [[dominator-vs-growth-hierarchy]] — what can go wrong when holarchy turns pathological
 - [[four-quadrants]] — the four irreducible aspects every holon has

@@ -11,7 +11,7 @@ Pilot pass, sourced entirely from *[Sex, Ecology, Spirituality](../works/1995-se
 The roster below is the full set of significant recurring interlocutors found in a
 full-text scan of that book, sorted by mention count (main body only, footnotes and
 references excluded) — see `library/1995-sex-ecology-spirituality-people-source.md`
-for the underlying research. Eight have live pages so far; the rest are listed as
+for the underlying research. Seventeen have live pages so far; the rest are listed as
 plain text so the next pass can pick up where this one left off.
 
 | Person | Mentions | Peak chapter(s) |
@@ -22,21 +22,21 @@ plain text so the next pass can pick up where this one left off.
 | [Georg Hegel](hegel.md) | 130 | ch. 14, ch. 13 |
 | [Jean Piaget](piaget.md) | 125 | ch. 6, ch. 7 |
 | [Sigmund Freud](freud.md) | 107 | ch. 6, ch. 13 |
-| Jean Gebser | 63 | ch. 5 |
-| Baruch Spinoza | 58 | ch. 13 |
+| [Jean Gebser](gebser.md) | 63 | ch. 5 |
+| [Baruch Spinoza](spinoza.md) | 58 | ch. 13 |
 | [Joseph Campbell](campbell.md) | 58 | ch. 6 |
 | [Carl Jung](jung.md) | 57 | ch. 6 |
 | Jacques Derrida | 49 | — |
 | Martin Heidegger | 44 | — |
-| Alfred North Whitehead | 43 | — |
-| Karl Marx | 43 | — |
-| Sri Aurobindo | 31 | ch. 9 |
+| [Alfred North Whitehead](whitehead.md) | 43 | ch. 2 |
+| [Karl Marx](marx.md) | 43 | ch. 5 |
+| [Sri Aurobindo](aurobindo.md) | 31 | ch. 9 |
 | Charles Darwin | 27 | — |
 | Friedrich Nietzsche | 22 | — |
-| Lawrence Kohlberg | 20 | — |
-| Jane Loevinger | 15 | — |
-| Arthur Koestler | 15 | — |
-| Abraham Maslow | 13 | — |
+| [Lawrence Kohlberg](kohlberg.md) | 20 | ch. 6 |
+| [Jane Loevinger](loevinger.md) | 15 | ch. 6 |
+| [Arthur Koestler](koestler.md) | 15 | ch. 1 |
+| [Abraham Maslow](maslow.md) | 13 | ch. 6 |
 | Max Weber | 10 | — |
 | Pierre Teilhard de Chardin | 9 | — |
 | Gregory Bateson | 8 | — |
@@ -47,10 +47,8 @@ plain text so the next pass can pick up where this one left off.
 ## Not yet written
 
 The unlinked names above are real gaps, not omissions — each one gets substantive,
-not just name-dropped, treatment somewhere in *SES*. Natural next batch, in rough
-priority order: Gebser, Spinoza, Whitehead, Marx, Aurobindo (all discussed at enough
-length to support a full page), then Kohlberg, Loevinger, Maslow, and Koestler
-(lighter, but each anchors one specific concept — moral stages, ego development, the
-needs hierarchy, and the [[holons|holon]] concept itself, respectively). Derrida and
-Heidegger have high mention counts but their material is concentrated in the
-postmodernism/deconstruction chapters (12–13), not yet surveyed in depth.
+not just name-dropped, treatment somewhere in *SES*. Remaining, in rough mention-count
+order: Derrida, Heidegger, Darwin, Nietzsche, Weber, Teilhard, Bateson, Gould, Comte,
+Assagioli. Derrida and Heidegger have high mention counts but their material is
+concentrated in the postmodernism/deconstruction chapters (12–13), not yet surveyed in
+depth.
