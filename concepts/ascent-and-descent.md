@@ -73,3 +73,7 @@ reading in detail).
 
 - [[wilber-on-plato]] — Wilber's reading of Plato as holding Ascent and Descent together
 - [[great-chain-of-being]]
+- [[eros-and-agape]] — the motive forces (and their pathologies, Phobos and Thanatos) behind Ascent and Descent
+- [[involution-and-evolution]] — the same movement described in terms of Kosmic unfolding/enfolding
+- [[plotinus]] — Wilber draws the Ascent/Descent terminology directly from Plotinus's
+  own language of Reflux (return) and Efflux (outflowing)

@@ -83,6 +83,13 @@ this book:
 - [Ascent and Descent](../concepts/ascent-and-descent.md)
 - [Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md)
 
+## People
+
+*SES* is dense with named thinkers Wilber draws on, argues with, or both — Habermas,
+Plotinus, Foucault, Hegel, Piaget, Freud, Jung, Joseph Campbell, and more. See the
+[People Index](../people/index.md) for what Wilber actually says about each of them,
+chapter-cited from this book.
+
 ## Notes
 
 _(Space for personal notes and annotations. Empty for now.)_

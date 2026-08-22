@@ -15,9 +15,9 @@ the case, pulled from wherever in his work he makes it.
 
 ### [Concept Wiki →](concepts/index.md)
 
-The main event. Seven concepts so far — holons, holarchy, the Great Chain of Being,
-systems theory, ascent and descent, and more — each with Wilber's take plus expandable
-excerpts from the source text.
+The main event. Seventeen concepts so far — holons, holarchy, the four quadrants, the
+Great Chain of Being, the pre/trans fallacy, and more — each with Wilber's take plus
+expandable excerpts from the source text.
 
 </div>
 
@@ -47,6 +47,15 @@ What's shipped, in order, for anyone following along.
 
 </div>
 
+<div class="rounded-xl border p-5">
+
+### [People Index →](people/index.md)
+
+Who Wilber engages with, and how — Habermas, Plotinus, Foucault, Hegel, Piaget, Freud,
+Jung, Joseph Campbell, and more, each with Wilber's take plus chapter-cited excerpts.
+
+</div>
+
 </div>
 
 ## The vision
@@ -65,6 +74,6 @@ theory's promise and limits, his account of growth versus dominator hierarchies.
 "Wilber on X" pages are frequently the more interesting entries, not an afterthought to
 the canonical vocabulary.
 
-This is an early pilot: seven concepts, sourced entirely from *Sex, Ecology,
-Spirituality*, built to prove the shape of the thing before scaling out to the rest of
-his work.
+This is an early pilot: seventeen concepts, sourced entirely from the full text of
+*Sex, Ecology, Spirituality*, built to prove the shape of the thing before scaling out
+to the rest of his work.

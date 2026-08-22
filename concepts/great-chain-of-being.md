@@ -70,3 +70,7 @@ without needing to invoke it as tradition or dogma.
   this older, unifying picture
 - [[holarchy]] — the structural pattern (nested, transcend-and-include levels) the
   Great Chain describes
+- [[involution-and-evolution]] — how the Great Chain gets unfolded (evolution) and enfolded (involution)
+- [[kosmos-vs-cosmos]] — the terminology Wilber uses for the Great Chain's full, undivided scope
+- [[plotinus|Plotinus]] — the historical figure Wilber credits with giving the Great
+  Chain its first comprehensive presentation
