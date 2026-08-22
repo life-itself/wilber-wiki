@@ -77,3 +77,4 @@ transcendence.
 ## See Also
 
 - [[ascent-and-descent]] — the general framework this reading of Plato is an instance of
+- [[eros-and-agape]] — Wilber's technical vocabulary for the same Ascent/Descent movement he reads in Plato

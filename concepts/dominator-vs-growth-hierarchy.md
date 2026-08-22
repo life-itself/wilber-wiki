@@ -87,3 +87,4 @@ to do it without sliding into domination.
 - [[holarchy]] — the underlying structure this concept is defending against
   mischaracterization
 - [[holons]]
+- [[flatland]] — Wilber's word for the "wholism" he accuses deep ecology/ecofeminism of defending here

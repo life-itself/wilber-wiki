@@ -81,3 +81,5 @@ across levels — this page stays with what a holon *is*.
 
 - [[holarchy]] — how holons organize into nested levels
 - [[dominator-vs-growth-hierarchy]] — what can go wrong when holarchy turns pathological
+- [[four-quadrants]] — the four irreducible aspects every holon has
+- [[eros-and-agape]] — the motive force (Eros) behind a holon's self-transcendence (tenet 2c)

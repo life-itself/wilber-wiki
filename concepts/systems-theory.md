@@ -22,15 +22,18 @@ his illustrative example of "order out of chaos." That gives holism ("everything
 connected to everything else") a basis in hard science rather than only in tradition or
 intuition.
 
-**What this page doesn't yet cover:** the source notes behind this page stop at
-Wilber's *positive* case for systems theory — what it gets right, and why it matters for
-reuniting the physiosphere and biosphere. Elsewhere in *SES* he goes on to criticize
-systems theory's limits (roughly: that it can still describe only exteriors — patterns,
-structures, behavior — and doesn't by itself account for interiority, meaning, or
-consciousness, risking a subtler version of the "flatland" he criticizes elsewhere).
-That critique isn't excerpted here yet because it isn't in the source notes this page
-was built from — flagged as a clear next addition once more of the book gets processed,
-not a stance this page is silently taking.
+**Update:** the critique flagged below as missing is now written up — see [[flatland]]
+for Wilber's full argument that systems theory, however genuinely holistic in its
+positive claims, still describes only exteriors (the Right-Hand quadrants) and commits
+"subtle reductionism" the moment it's treated as a complete account of reality, since it
+has no way to register interiority, meaning, or consciousness as such.
+
+**What this page doesn't yet cover in its own excerpts:** the source notes behind this
+page stop at Wilber's *positive* case for systems theory — what it gets right, and why
+it matters for reuniting the physiosphere and biosphere. The critique itself (that it
+can still describe only exteriors and risks a subtler version of "flatland") is now
+covered on the [[flatland]] page instead of here; this page hasn't yet been rewritten to
+excerpt that critique directly from the chapters where Wilber makes it.
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -72,3 +75,5 @@ not a stance this page is silently taking.
 - [[great-chain-of-being]] — the older, traditional picture this modern science is
   presented as vindicating
 - [[holons]] / [[holarchy]] — the units and structure systems theory is describing
+- [[flatland]] — Wilber's critique of systems theory's limits, once it's mistaken for a complete account of reality
+- [[four-quadrants]] — the Right-Hand/Left-Hand distinction behind that critique
