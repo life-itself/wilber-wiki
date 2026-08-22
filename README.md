@@ -25,8 +25,9 @@ site and create an initial working treatment of *Sex, Ecology, Spirituality*.
   shown as foldable callouts (click a short quote to expand the full passage in place).
   Pilot pass: 7 concepts, all sourced from *Sex, Ecology, Spirituality*.
 - `library/<slug>.md` — source reading notes used to curate concept excerpts from.
-  **Not published** (`contentExclude` in `config.json`) — denser/rawer than what's
-  meant to appear on a concept page.
+  Denser/rawer than what's meant to appear on a concept page. Marked private via
+  `contentExclude` in `config.json`, though see AGENTS.md — that only takes effect
+  under GitHub-sync publishing, not the CLI-published preview site.
 - `assets/covers/` — cached cover images (28 of 39 works so far), sourced from Open
   Library; see `assets/covers/SOURCES.md` for provenance and what's still missing.
 

@@ -7,8 +7,11 @@ covers: Book 1 ("The Web of Life", "The Pattern That Connects" — the twenty te
   holons) and a later chapter ("The Way Up is the Way Down" — Ascent/Descent, Plato,
   Plotinus). Not a full-text transcription and not comprehensive over the whole book —
   only what the author took notes on.
-status: private working source — excluded from publishing via config.json
-  (`contentExclude`). Used to source excerpts for `concepts/`, not published as-is.
+status: private working source, not meant to be published as-is. `config.json`'s
+  `contentExclude` marks intent, but only takes effect via Flowershow's GitHub-sync
+  publishing — the `fl` CLI direct-upload path used for the preview site does NOT
+  enforce it (confirmed: this file is reachable by direct URL on the CLI-published
+  preview even though nothing links to it). See AGENTS.md.
 ---
 
 Reading notes on *Sex, Ecology, Spirituality*, structured as an outline with pulled
