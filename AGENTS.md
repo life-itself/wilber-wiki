@@ -8,15 +8,17 @@ A concept-level knowledge base on Ken Wilber and integral theory. **Read
 issue linking to its vision/plan doc. Don't re-derive the vision from scratch, and don't
 conflate the work streams — they're deliberately separate.
 
-There's a related, separate private repo (`life-itself/library`) that holds the actual
-book text (raw EPUB + Markdown conversion, chapter digests, Anki flashcards) for
-Wilber's *Sex, Ecology, Spirituality* and other books — kept private specifically
-because it's copyrighted full-text, not just excerpts. This repo's
-`library/1995-sex-ecology-spirituality-full-text.md` is a copy of that conversion,
-git-committed here at the site owner's explicit instruction (he doesn't want copyright
-excerpting concerns to slow down building this site right now — see NEXT.md). That
-instruction covers committing it to this repo; it does **not** by itself mean *publish
-it live* — see the Publishing section below before ever running `fl`.
+There's a separate private repo (`life-itself/library`) that originally converted the
+Wilber book from EPUB and did some independent people/annotation research — this repo
+now has its own copies of everything from there that's actually needed
+(`library/1995-sex-ecology-spirituality-full-text.md`,
+`library/1995-sex-ecology-spirituality-people-source.md`, `docs/annotation-system.md`),
+committed here at the site owner's explicit instruction (he doesn't want copyright
+excerpting concerns to slow down building this site right now — see NEXT.md). **No
+ongoing dependency on that other repo** — everything needed to work on this project is
+in this repo. That instruction covers committing the full text to this repo; it does
+**not** by itself mean *publish it live* — see the Publishing section below before ever
+running `fl`.
 
 ## Content structure
 
