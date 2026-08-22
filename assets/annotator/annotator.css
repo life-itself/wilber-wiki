@@ -1,0 +1,71 @@
+/* Phase 1 annotation display: highlighted quotes + margin sidenotes. */
+
+.annotated-text {
+  position: relative;
+}
+
+.annotated-text mark.annotation-highlight {
+  background: rgba(250, 204, 21, 0.35);
+  cursor: pointer;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+.annotated-text mark.annotation-highlight.is-active {
+  background: rgba(250, 204, 21, 0.65);
+}
+
+.annotation-sidenotes {
+  position: relative;
+}
+
+.annotation-sidenote {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: var(--sidenote-color, #555);
+  border-left: 2px solid rgba(250, 204, 21, 0.7);
+  padding-left: 0.75rem;
+  opacity: 0.85;
+  transition: opacity 0.15s ease;
+}
+
+.annotation-sidenote.is-active {
+  opacity: 1;
+  color: inherit;
+}
+
+@media (prefers-color-scheme: dark) {
+  .annotated-text mark.annotation-highlight {
+    background: rgba(250, 204, 21, 0.22);
+    color: inherit;
+  }
+  .annotation-sidenote {
+    color: var(--sidenote-color, #aaa);
+  }
+}
+
+/* Narrow viewports: sidenotes stack below the text instead of floating
+   in a margin column (no room for a margin column below ~900px). */
+@media (max-width: 900px) {
+  .annotation-layout {
+    display: block !important;
+  }
+  .annotation-sidenotes {
+    display: none;
+  }
+  .annotated-text .annotation-sidenote-inline {
+    display: block;
+    margin: 0.35rem 0 0.9rem;
+    font-size: 0.85rem;
+    color: var(--sidenote-color, #555);
+    border-left: 2px solid rgba(250, 204, 21, 0.7);
+    padding-left: 0.75rem;
+  }
+}
+
+.annotation-sidenote-inline {
+  display: none;
+}

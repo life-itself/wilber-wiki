@@ -1,3 +1,4 @@
 {
-  "contentExclude": ["/docs", "/library"]
+  "contentExclude": ["/docs", "/library"],
+  "head": "<link rel=\"stylesheet\" href=\"/assets/annotator/annotator.css\"><script defer src=\"/assets/annotator/annotator.js\"></script>"
 }

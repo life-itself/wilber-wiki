@@ -128,10 +128,70 @@ actually shown (e.g., only the quotes Rufus selected, not full chapters) vs.
 some other resolution. Flagging this now rather than building around it
 silently.
 
+## Phase 1 prototype — built 2026-08-23
+
+A working Phase 1 prototype exists:
+
+- `annotated/annotations/ses-ch06-myth-and-archetype.json` — 8 hand-written
+  `{id, quote, comment}` annotations against the Freud/Jung/Piaget/Campbell
+  passage in SES ch. 6 ("Myth and Archetype").
+- `assets/annotator/annotator.js` + `annotator.css` — the display layer.
+- `annotated/ses-ch06-myth-and-archetype.md` — the prototype page, a `<div
+  data-annotations="...">` wrapping the excerpt text (raw HTML in markdown
+  body, confirmed supported by Flowershow).
+- `config.json`'s `head` field now loads `annotator.css`/`.js` site-wide.
+
+**Deviation from the original recommendation, and why:** the display layer
+does *not* use `@recogito/text-annotator` (confirmed to exist as a UMD
+build, global `RecogitoJS`, via `unpkg.com/@recogito/text-annotator`) —
+instead it's a small self-contained vanilla-JS quote-finder
+(`TreeWalker` + `Range.surroundContents`), because I couldn't verify the
+library's actual highlight DOM output/class names without a build step to
+inspect it in a real browser, and this was explicitly the lowest-priority
+"if you have time" item — didn't want to risk shipping something built on
+guessed internals. It uses the *same* `{quote, comment}` data shape
+Recogito expects (its `target.selector` is quote-based too), so swapping in
+`text-annotator-js` later — mainly for **Phase 2, the write path** (live
+`createAnnotation` events when someone adds a new note in-browser), which
+is genuinely hard to hand-roll well (selection UI, popovers, etc.) — is a
+contained change, not a rewrite. One real gap already found and fixed:
+typographic quote mismatch (curly `“…”`/`’` from the book source vs.
+straight quotes possibly reintroduced by markdown rendering) — handled by
+normalizing both sides before matching (`annotator.js`'s `normalize()`).
+
+Sidenotes render in a right-margin column on wide screens, aligned to their
+highlight's vertical position (Tufte/gwern-style), collapsing to inline
+notes under the highlighted text below 900px — see `annotator.css`.
+
+**Not done yet / explicitly deferred:**
+- Not linked from site nav — reachable only by direct URL
+  (`/annotated/ses-ch06-myth-and-archetype`) until someone decides it's
+  ready to be a real section of the site.
+- Only one chapter excerpt, hand-written. Turning "Rufus's existing
+  notes" into JSON at scale (the original Phase 1 step 1) is still open —
+  there wasn't an existing corpus of pre-written quote+comment notes found
+  in this repo to convert; the people-index quotes are close in spirit but
+  aren't yet in this `{quote, comment}` shape site-wide.
+- Phase 2 (live/write path) untouched — still just the two options
+  described above (localStorage vs. a small write API vs. Hypothes.is).
+- The copyright/private-surface question below is still open in the
+  general sense (a real production site), but per the site owner
+  (see `CLAUDE.md`), not a blocker for the current preview site.
+
 ## Next steps
 
-- [ ] Resolve the copyright/private-surface question above.
-- [ ] Prototype Phase 1 on one chapter of the Wilber book: hand-write ~5
-      quote+comment annotations as JSON, get `text-annotator-js` to
-      highlight + sidenote them on a local render.
-- [ ] Decide margin-note visual design (Tufte CSS as a starting point).
+- [ ] Try this same pattern on a second, longer excerpt to see whether the
+      hand-written-JSON approach scales, or whether it's worth writing the
+      "notes -> JSON" conversion tooling once there's a real corpus to
+      convert.
+- [ ] Decide whether/how to surface `annotated/` pages in site nav
+      (a new landing page like `annotated/index.md`, cross-linked from
+      `docs/annotatable-reading-layer-vision.md` and maybe from the
+      relevant `works/*.md` page).
+- [ ] When ready to build Phase 2, swap `annotator.js`'s read path for
+      `@recogito/text-annotator`'s `createTextAnnotator()` +
+      `setAnnotations()`/`createAnnotation` — verify its actual DOM output
+      in a real browser first (this doc's Phase 1 build deliberately didn't
+      depend on that).
+- [ ] Resolve the copyright/private-surface question for any *future*
+      real production site (not blocking the current preview).
