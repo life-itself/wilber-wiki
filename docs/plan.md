@@ -5,33 +5,41 @@ wiki before we build a real site. Nothing here is committed to a tech stack yet.
 
 ## What exists right now
 
-- `content/bio/ken-wilber.md` — draft biography, sourced from Wikipedia + the Ken Wilber Fund.
-- `content/works/works.md` — draft works list, all known books/ebooks/audio programs by year,
-  with stub cover/description fields per entry.
+- `bio.md` — draft biography, sourced from Wikipedia + the Ken Wilber Fund.
+- `works/index.md` — works list by year, linking to a dedicated page per work.
+- `works/<slug>.md` — one file per work (39 so far), each with YAML frontmatter (`title`,
+  `subtitle`, `year`, `year_note`, `format`, `contributors`, `cover`, `core`, `status`), a
+  `## Description`, and an empty `## Notes` section reserved for future annotations.
 
-Both are content drafts, not a site. No framework, no styling, no build has been set up yet —
-that's a deliberate choice: get the material right first, then decide how it's presented.
+All content lives at the repo root, not under a `content/` wrapper. These are content
+drafts, not a site — no framework, no styling, no build has been set up yet, deliberately:
+get the material right first, then decide how it's presented.
+
+**Decided:** one markdown file per work (with frontmatter), not a single monolithic list
+or a separate YAML/JSON data file. Frontmatter carries the structured fields a future
+site would need for the "cover + year + blurb" grid layout (`cover`, `year`, `format`,
+`core`); the body carries the longer description and a `## Notes` section that becomes
+the natural home for annotations once that feature is built — so book pages and note
+pages don't end up as two separate, driftable systems.
 
 ## Immediate next steps (this phase)
 
 1. **Verify the tail of the bibliography** (2013 onward) against a publisher catalog or
    Integral World's bibliography page (fetch 503'd during this pass, retry) — several
-   `[DRAFT]` entries in `works.md` need confirming, especially whether *A Post-Truth World*
-   (2024) is a distinct title or a reissue of *Trump and a Post-Truth World* (2017), and
-   whether *Integral Politics* (2018, ebook) is distinct content or an excerpt.
-2. **Source cover art.** Plan: batch lookup via Open Library Covers API (by ISBN) or Google
-   Books API; fall back to manual sourcing (official publisher pages, Amazon listings) for
-   older or small-press titles where API coverage is thin. Needs ISBNs gathered per edition
-   first — decide whether we track first-edition ISBNs, current-edition ISBNs, or both.
-3. **Decide the works-page format.** Markdown-as-data (current approach: one file, one
-   section per work, machine-parseable fields) vs. one file per book vs. a structured
-   data file (YAML/JSON) with a separate render layer. This matters once we want the "nice
-   layout, cover + year + blurb" grid the user described — worth deciding before content
-   grows further, since migrating 30+ hand-written entries later is pure overhead.
-4. **Pick a site approach** for when we're ready to make it "nice" — static site generator
-   (e.g. Astro/Eleventy) makes sense for a content-heavy wiki like this; decide once the
-   annotation-feature requirements (below) are clearer, since that may push toward a
-   framework with more interactivity built in.
+   `status: draft` pages under `works/` need confirming, especially whether *A Post-Truth
+   World* (2024) is a distinct title or a reissue of *Trump and a Post-Truth World*
+   (2017), and whether *Integral Politics* (2018, ebook) is distinct content or an
+   excerpt.
+2. **Source cover art.** Plan: batch lookup via Open Library Covers API (by ISBN) or
+   Google Books API, writing the result into each page's `cover:` frontmatter field;
+   fall back to manual sourcing (official publisher pages, Amazon listings) for older or
+   small-press titles where API coverage is thin. Needs ISBNs gathered per edition first
+   — decide whether we track first-edition ISBNs, current-edition ISBNs, or both.
+3. **Pick a site approach** for when we're ready to make it "nice" — static site generator
+   (e.g. Astro/Eleventy) makes sense for a content-heavy wiki like this, and can read the
+   frontmatter directly to generate the works grid from `works/*.md` with no separate
+   data layer; decide once the annotation-feature requirements (below) are clearer, since
+   that may push toward a framework with more interactivity built in.
 
 ## Brainstorm: what else belongs in this wiki
 
@@ -114,6 +122,11 @@ Not designed yet — flagging the open questions to resolve before building:
   annotate against. Early "annotatable" pages will likely be our own chapter summaries
   and key-quote excerpts (fair-use length) rather than full book text, unless the user
   has their own copies/PDFs they want to work from privately.
+
+Each `works/<slug>.md` page already carries an empty `## Notes` section as a placeholder
+for this — cheapest possible starting point (freeform markdown notes under the relevant
+book), well short of real inline/paragraph-level annotation, but enough to start
+capturing notes on *SES* without blocking on the design questions above.
 
 This needs its own design pass once the bio/works foundation is solid — not blocking, but
 flagging now so it isn't a surprise later.
