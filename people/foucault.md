@@ -60,12 +60,6 @@ present in the book but less concentrated than the sympathetic material excerpte
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
-> This is likewise what Habermas refers to as "the totalitarian characteristics of an
-> instrumental reason that *objectifies* everything around it, *itself included*." In
-> this respect, Habermas is in complete agreement with Foucault.
->
-> — *Sex, Ecology, Spirituality*, ch. 12
-
 > As Foucault ably demonstrates, the rise of modernity was marked, not so much by a
 > repression of sexuality... as by an *obsession* with sexuality... Never, says
 > Foucault, had an epoch's discourse been so dominated by sexuality in so many domains.
@@ -75,11 +69,20 @@ present in the book but less concentrated than the sympathetic material excerpte
 >
 > — *Sex, Ecology, Spirituality*, ch. 13
 
-> And let us immediately note that Foucault eventually abandoned archaeology as an
-> exclusive methodology precisely because archaeology was itself merely a *part* of the
-> larger holon of social practices: not wholes, but whole/parts.
+> (Foucault, in his reductionistic archaeology phase, actually proceeded in just this
+> manner, bracketing *both* the truth *and* the meaning of linguistic statements, and
+> just reported their systematic behavior, which caused quite an uproar. He later
+> recanted and labeled the *exclusive* use of that approach "arrogant." But it is an
+> arrogance that all such "happy positivism" is prone to.)
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
+
+> Foucault, like all relativists, had exempted himself from the very criteria he
+> aggressively applied to others. He was making an extensive series of truth claims that
+> denied all truth claims (except his own privileged stance), and thus his position, as
+> critics from Habermas to Taylor pointed out, was profoundly incoherent.
+>
+> — *Sex, Ecology, Spirituality*, ch. 1
 
 ## See Also
 

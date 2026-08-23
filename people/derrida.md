@@ -68,6 +68,14 @@ real insight about context into outright nihilism.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
 
+> The study of holarchy, in short, is the study of nested truths. Deconstruction in its
+> American form simply takes the photographic negative of that and declares any approach
+> (other than its own) to be the study of nested lies, which is precisely why that
+> attitude lands it squarely in nihilism, whereas the study of nested truths leads not to
+> nihilism but to Emptiness, the creative plenum of the Kosmos.
+>
+> — *Sex, Ecology, Spirituality*, footnote to ch. 2
+
 ## See Also
 
 - [[postmodernism]] — Wilber's fuller diagnosis of the nihilism he thinks deconstruction lands in

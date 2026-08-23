@@ -29,7 +29,12 @@ serious, and ultimately unsuccessful attempt to "unite Fichte and Spinoza" — t
 subjective autonomy and objective wholeness together rather than collapsing into either.
 Spinoza isn't treated as wrong so much as *half* of an antinomy the culture never
 resolved; Wilber notes his continuing pull on "ecomasculinist" and deep-ecology thought
-as evidence the Eco pole is still very much alive.
+as evidence the Eco pole is still very much alive. Wilber is careful, though, to
+distinguish his own reading of Spinoza from the "God = Nature" version popular with those
+ecophilosophers: in an endnote he insists Spinoza never equated finite nature with the
+whole of Spirit, and that Spinoza himself separates transcendental Nature (*natura
+naturans*) from merely immanent nature (*natura naturata*) — a more careful,
+transcendence-*and*-immanence position than the simple "pantheist" label usually implies.
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -64,10 +69,15 @@ as evidence the Eco pole is still very much alive.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13
 
-> Spinoza, no doubt, summed it up best: "The purpose of Nature is to make men uniform,
-> as children of a common mother."
+> Spinoza maintained that Spirit is radically other to this world, and yet totally and
+> completely embraces this world as a logical premise embraces all its consequents...
+> At no point whatsoever did Spinoza equate the sum total of finite nature with the whole
+> of Spirit or God; this is utterly contrary to what he was trying to say. This is why he
+> himself differentiates carefully between Nature (as God or Spirit, *natura naturans*),
+> which is infinitely transcendental, and nature (as this world, *natura naturata*),
+> which is merely immanent.
 >
-> — Spinoza, quoted in *Sex, Ecology, Spirituality*, ch. 13
+> — *Sex, Ecology, Spirituality*, ch. 8, endnote
 
 ## See Also
 

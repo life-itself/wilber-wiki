@@ -43,11 +43,12 @@ takes the underlying complexity/consciousness correlation seriously.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> As Teilhard eloquently put it, "Refracted rear-wards along the course of evolution,
-> consciousness displays itself qualitatively as a spectrum of shifting shades whose
-> lower terms are lost in the night."
+> Many mystically inclined writers have made this assumption; it does make a certain
+> amount of first-blush sense. From the "Aquarian Conspiracy" to Teilhard's "final
+> Omega-point," from the dawn of a "New Age" to "Timewave Zero"—the millenarian End of
+> History has been exuberantly announced.
 >
-> — Teilhard de Chardin, quoted in *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — *Sex, Ecology, Spirituality*, ch. 8, "The Untenable Ranking"
 
 > And most people are familiar with Teilhard de Chardin's ultimate omega point, the
 > resurrection of Christ consciousness in each and all, which, like all omega points, is

@@ -68,13 +68,10 @@ regressive, undifferentiated state rather than genuine integration.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> Pathological heterarchy means not union but fusion; not integration but
-> indissociation; not relating but dissolving. All values become equalized and
-> homogenized in a flatland devoid of individual values or identities; nothing can be
-> said to be deeper or higher or better in any meaningful sense; all values vanish into
-> a herd mentality of the bland leading the bland.
+> It is from this flat and faded landscape, armed with good intentions and a
+> weakest–noodle science, that they cry out to us as our saviors.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
 ## See Also
 

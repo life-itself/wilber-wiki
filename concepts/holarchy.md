@@ -41,7 +41,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > spotted). This is Whitehead's famous dictum: "The many become one and are increased by
 > one."
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 4)
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 4)
 
 > "The number of levels which a hierarchy comprises determines whether it is 'shallow'
 > or 'deep'; and the number of holons on any given level we shall call its 'span.'" For
@@ -51,29 +51,26 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > enormous span... When molecules first emerged, they had a greater depth, a depth of
 > four, but initially a very small span.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 7)
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 7)
 
-> The greater the depth of a holon, the more precarious is its existence, since its
+> **Each successive level of evolution produces GREATER depth and LESS span.** The
+> greater the depth of a holon, the more precarious is its existence, since its
 > existence depends also on the existence of a whole series of other holons internal to
 > it. And since the lower holons are components of the higher, there physically cannot
 > be more numbers of the higher than there are numbers of components. Thus, for
 > example, the number of molecules in the universe will always be less than the number
 > of atoms in the universe.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 8)
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 8)
 
-> Agency and communion (or self-preservation and self-accommodation) refer to changes
-> in the horizontal dimension; self-transcendence and self-dissolution refer to changes
-> in the vertical dimension. So we can introduce a few more simple definitions: changes
-> in the horizontal dimension I will call translation, and changes in the vertical
-> dimension I will call transformation.
+> And so we can say: translation is a change in surface structures ("horizontal"),
+> whereas transformation is a change in deep structures ("vertical")... We can use our
+> simple analogy of the three-story building to summarize all of these definitions. Each
+> of the three main floors is a deep structure; the furniture, chairs, and tables on each
+> floor are the surface structures. Rearranging the furniture on any given floor is
+> translation; changing floors is transformation.
 >
-> We can use our simple analogy of the three-story building to summarize all of these
-> definitions. Each of the three main floors is a deep structure; the furniture, chairs,
-> and tables on each floor are the surface structures. Rearranging the furniture on any
-> given floor is translation; changing floors is transformation.
->
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (following tenet 8)
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (following tenet 8)
 
 > Holons do not evolve alone, because there are no alone holons (there are only fields
 > within fields within fields). This principle is often referred to as coevolution,
@@ -81,7 +78,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > molecule or plant or animal) but a holon plus its inseparable environment. Evolution,
 > that is, is ecological in the broadest sense.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 10)
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 10)
 
 ## See Also
 

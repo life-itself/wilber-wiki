@@ -44,12 +44,12 @@ of.
 >
 > — Charles Taylor, quoted in *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
-> Depths that range from Heidegger's clearing or opening (the pure *transcendens*), to
-> hermeneutics' restless search for the depths, to the mystical openings found even in
-> Nietzsche and Bataille and Derrida and, yes, in Foucault's intense search for limit
-> experiences and the "mad mystical" poets.
+> From Nietzsche to Bataille to Foucault, from Heidegger to Derrida to Lyotard, the
+> critics have continued their assault, with the postmodern poststructuralists being
+> merely the most recent, although possibly the loudest, of the long line of
+> antimodernists.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
 > In his idea of Eros as unlimited activity, [Schelling] set off a whole line of "will"
 > theorists, from Schopenhauer to Bergson to Nietzsche. Paul Tillich traces this line of

@@ -54,6 +54,12 @@ beyond," treating them instead as different in kind, not just degree.
 >
 > — *Sex, Ecology, Spirituality*, ch. 3
 
+> Some writers, such as Koestler, lump together self-adaptation and self-transcendence
+> and refer to them interchangeably, because both embody a type of "going beyond." But
+> apart from that similarity, the two are different in degree and in kind.
+>
+> — *Sex, Ecology, Spirituality*, ch. 2
+
 ## See Also
 
 - [[holons]] — the concept page for the term Koestler coined and Wilber builds the whole

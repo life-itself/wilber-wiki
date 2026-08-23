@@ -39,14 +39,13 @@ there as potential all along, not a private fabrication of the individual mind.
 
 ## In *Sex, Ecology, Spirituality*
 
-> Chapter 9... discusses evolution and involution. Evolution is the unfolding from
-> matter to body to mind to soul to spirit, with each higher dimension transcending and
-> including its juniors, resulting in the Great Nest of Being. Involution is the reverse
-> process, or the higher dimensions "enfolding" and "involving" themselves in the lower,
-> depositing themselves in the lower as great potentials, ready to unfold into actuality
-> with evolution.
+> This integration may be thought of (very crudely and, as always, somewhat misleadingly)
+> as a Great Circle. The descending or manifesting or creative path moves from the top of
+> the circle to the bottom, and the ascending or returning path from the bottom to the
+> top—both arcs traversing the *same dimensions*—which is why, as we will see, "The way up
+> is the way down."
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > Some readers felt that this made the universe completely deterministic and fated. But
 > involution, in my opinion, simply creates a vast field of potentials, which are not
@@ -70,7 +69,7 @@ there as potential all along, not a private fabrication of the individual mind.
 > stepping-down from the ground of its predecessor. This is why Plotinus says that
 > efflux (involution) is to be "understood in minuses."
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down" (footnote)
 
 > Mystical experiences... share at least a broad similarity wherever they occur... and
 > when they do occur, virtually all of them carry the overwhelming conviction that one
@@ -80,7 +79,7 @@ there as potential all along, not a private fabrication of the individual mind.
 > extremely fundamental sense existed prior to its recognition: it was there all along,
 > just not seen.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down" (footnote)
 
 ## See Also
 

@@ -63,10 +63,11 @@ to a nondual ground, had no way to reconcile them.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> Not only the ascending love of the lower for the higher, Plato's Eros, but also a love
-> of the higher which expressed itself in care for the lower, which could easily be
-> identified with Christian Agape. The two together make a vast circle of love through
-> the universe.
+> Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos; and
+> perhaps more clearly than anybody in history, he saw that so much human misery is and
+> always will be a battle between the two, and that the only solution to our suffering is
+> a union of Eros and Thanatos—and yet there is precisely nothing Freud could do about it.
+> There he was stranded, and there he left us stranded.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 

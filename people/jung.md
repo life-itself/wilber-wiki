@@ -64,7 +64,8 @@ it.
 > "archetypes," they lie in the direction of downward, not upward (shallower, not
 > deeper). This is why, I believe, however Jung variously defined the archetypes, he
 > always maintained they were "next to the instincts," or the "instincts' image of
-> themselves."
+> themselves." ... And proceeding in the *direction* of the archetypes we therefore
+> eventually run into, not Spirit, but atoms.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 

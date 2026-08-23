@@ -42,7 +42,10 @@ selection could replace a directional, spiritual reading of evolution.
 > the fact that a genuine theory of evolution demands something resembling Eros. Darwin's
 > *lasting* contribution was primarily a massive obscurantism. Scientists all cheery and
 > self-content began to scrub the universe clean of anything resembling love and its
-> all-encompassing embrace.
+> all-encompassing embrace, and all congratulated themselves on yet another victory for
+> truth (Wallace, as is well known, did *not* think natural selection could replace Eros;
+> evolution was itself, he thought, "the mode and manner of Spirit's creation," and
+> Darwin himself notoriously wavered).
 >
 > — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
 
@@ -54,9 +57,10 @@ selection could replace a directional, spiritual reading of evolution.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
 
-> Wallace, as is well known, did *not* think natural selection could replace Eros;
-> evolution was itself, he thought, "the mode and manner of Spirit's creation," and
-> Darwin himself notoriously wavered.
+> When Darwin came along and dutifully supplied some of the empirical evidence for
+> biological evolution, it shocked nobody except the remnants of the mythic believers in
+> the literal Genesis myth; but they were already shocked by what Schelling and other
+> developmentalists were doing anyway.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
 

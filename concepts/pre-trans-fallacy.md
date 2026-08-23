@@ -70,7 +70,7 @@ confusion so easy to fall into.
 > direction. Under a pre/trans fallacy and the pull of flatland, they confused
 > postconventional spirit with preconventional nature.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
 > This is why the work of such theorists as Jack Engler is so important... "You have to
 > be somebody before you can be nobody." That is, it is necessary to form a stable,
@@ -78,7 +78,7 @@ confusion so easy to fall into.
 > Condemning the ego for not being Emptiness is like condemning an acorn for not being an
 > oak.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (footnote)
 
 ## See Also
 

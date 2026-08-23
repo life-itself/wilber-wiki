@@ -61,7 +61,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 > production paradigms, nightmares through and through, with all interior depth...
 > reduced to being merely a strand in the endlessly flat and faded system.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
 > What rationality had put asunder, vision-logic would unite. That, at any rate, is the
 > potential and the promise and the struggle of postmodernity. What modernity

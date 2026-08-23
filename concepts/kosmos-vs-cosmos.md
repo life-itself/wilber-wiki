@@ -39,14 +39,14 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 > of existence, from matter to math to theos, and not merely the physical universe,
 > which is usually what both "cosmos" and "universe" mean today.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
 > So I would like to reintroduce this term, Kosmos. The Kosmos contains the cosmos (or
 > the physiosphere), the bios (or biosphere), nous (the noosphere), and theos (the
 > theosphere or divine domain)—none of them being foundational (even spirit shades into
 > Emptiness).
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
 > The bios is a part of the Kosmos, but not a part of the cosmos, and in that simple
 > move we have forever disavowed reductionism: physics is the most fundamental, and
@@ -60,7 +60,7 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 > described: it collapsed the Left half to its correlates on the Right half. Its great
 > crime was not gross reductionism but subtle reductionism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
 ## See Also
 

@@ -46,11 +46,14 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> The components of the Right half... are, in themselves, neutral surfaces, neutral
-> exteriors, neutral forms, all of which can fairly be described in "it" language. You
-> don't ever have to engage the interiors of any of those holons... Nothing is better or
-> worse, good or bad, desirable or undesirable, good or evil, noble or debased. The
-> surface forms simply are, and you simply observe and describe them.
+> For example, I have a thought; a thought occurs to me. That's the given holon, which we
+> will use as an example. For this holon, in the Upper-Right quadrant, there is a change in
+> brain physiology, a change that can be described in completely objective terms
+> (it-language)... But that is not how I experienced the thought, and I will never actually
+> *experience* my thought in those terms. Instead, the thought had an interesting and
+> important meaning to me, which I may or may not share with you. And even if you know what
+> every single atom of my brain is doing, you will never know the actual details of my
+> thought *unless I tell you*.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 

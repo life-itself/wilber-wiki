@@ -27,10 +27,30 @@ treated as opposed, are shown agreeing.
 
 ## In *Sex, Ecology, Spirituality*
 
-> Wilber's own description of Habermas, introducing him as a source whose conclusions
-> arrived independently at the same place as Wilber's.
+> The other is the work of Jürgen Habermas, whom many (myself included) consider the
+> world's foremost living philosopher and social theorist. The conclusions of these two
+> sources are in strong agreement, even though they were arrived at independently and
+> from very different angles.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
+
+> Likewise, Habermas's three validity claims, for truth (objects), truthfulness or
+> sincerity (subjects), and rightness or justice (intersubjectivity), refer respectively
+> to the Right half, the Upper Left, and the Lower Left...
+>
+> — *Sex, Ecology, Spirituality*, ch. 4
+
+> "With any speech act," he says, "the speaker takes up a relation to something in the
+> objective world [it], something in a common social world [we], and something in his own
+> subjective world [I]."
+>
+> — *Sex, Ecology, Spirituality*, ch. 4
+
+> This is likewise what Habermas refers to as "the totalitarian characteristics of an
+> instrumental reason that *objectifies* everything around it, *itself included*." In
+> this respect, Habermas is in complete agreement with Foucault.
+>
+> — *Sex, Ecology, Spirituality*, ch. 12
 
 ## See Also
 

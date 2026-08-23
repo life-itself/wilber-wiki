@@ -28,12 +28,15 @@ developmental logic playing out across many domains of the person.
 
 ## In *Sex, Ecology, Spirituality*
 
-> **Not everybody agrees with the details of Lawrence Kohlberg's seven moral stages**, nor
-> with the details of Carol Gilligan's reworking of Kohlberg's scheme. But there is
-> general and ample agreement that human moral development goes through at least three
-> broad stages.
+> Thus, we have seen moral development move from a *preconventional* orientation, which
+> is strongly egocentric, geocentric, biocentric, narcissistic, bound to the body's
+> separate feelings and nature's impulses (the first three fulcrums), to a
+> *conventional* or sociocentric or ethnocentric orientation, bound to one's society,
+> culture, tribe, or race, to a *postconventional* or worldcentric orientation, operating
+> in the space of universal pluralism and global grasp (these stages have been elaborated
+> by Piaget, Baldwin, Kohlberg, Gilligan, Habermas, Loevinger, Broughton, Selman, etc.).
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — *Sex, Ecology, Spirituality*, ch. 6
 
 > It is sometimes said that Carol Gilligan denied, not just the specific nature of the
 > stages of Kohlberg's scheme, but his entire hierarchical approach. This is simply not

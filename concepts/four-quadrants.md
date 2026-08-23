@@ -71,11 +71,12 @@ throughout the book.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> The point of this overall example is simply that my "single" thought, the original
-> holon, is not really a single thought as such, but rather a holon with four
-> inseparable aspects (intentional, behavioral, cultural, and social), each with its own
-> validity claims (subjective truthfulness, objective truth, intersubjective justness,
-> and interobjective functional fit).
+> For example, I have a thought; a thought occurs to me. That's the given holon, which we
+> will use as an example. ... The point of this overall example is simply that my
+> "single" thought, the original holon, is not really a single thought as such, but
+> rather a holon with four inseparable aspects (intentional, behavioral, cultural, and
+> social), each with its own validity claims (subjective truthfulness, objective truth,
+> intersubjective justness, and interobjective functional fit).
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 

@@ -64,13 +64,23 @@ just from the opposite ideological direction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
+> Pluralistic relativism was the only acceptable worldview. It claimed that all truth is
+> culturally situated (except its own truth, which is true for all cultures); it claimed
+> there are no transcendental truths (except its own pronouncements, which transcend
+> specific contexts); it claimed that all hierarchies or value rankings are oppressive and
+> marginalizing (except its own value ranking, which is superior to the alternatives); it
+> claimed that there are no universal truths (except its own pluralism, which is
+> universally true for all peoples).
+>
+> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+
 > The study of holarchy, in short, is the study of nested truths. Deconstruction in its
 > American form simply takes the photographic negative of that and declares any
 > approach (other than its own) to be the study of nested lies, which is precisely why
 > that attitude lands it squarely in nihilism, whereas the study of nested truths leads
 > not to nihilism but to Emptiness, the creative plenum of the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (footnote)
 
 ## See Also
 

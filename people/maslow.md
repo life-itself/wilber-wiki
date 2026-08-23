@@ -40,12 +40,6 @@ rigorous empirical basis it had previously lacked.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11
 
-> This unavoidable (and initially necessary) "sociocentric embeddedness" leads to what is
-> variously known as the *conventional stages* of morality (Kohlberg/Gilligan), the
-> *belongingness* needs (Maslow), the *conformist* mode (Loevinger).
->
-> — *Sex, Ecology, Spirituality*, ch. 6
-
 > "Who am I?" becomes, for the first time, a burning question, and the self-esteem needs
 > emerge from the belongingness needs (Maslow), or a "conscientious" self emerges from a
 > "conformist" mode (Loevinger).

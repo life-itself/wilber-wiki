@@ -43,7 +43,12 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 > its genuine *dignity*—was the clear differentiation of the Big Three, the
 > differentiation of science (it), morals (we), and art (I)... "Cultural modernity's
 > specific dignity is constituted by what Max Weber called the differentiation of the
-> value spheres in accord with their own logics."
+> value spheres in accord with their own logics." But if the *dignity* of modernity was
+> the differentiation of the Big Three, the *disaster* of modernity would be that it had
+> *not yet* found a way to *integrate* them. Indeed, with no unifying center, the Big
+> Three had already begun to move into *dissociation*—to exist as radically separate,
+> "hyper-autonomous" realms, with nothing to say to each other, bound only by a
+> thoroughgoing and often mutual disdain.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
