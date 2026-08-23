@@ -47,6 +47,18 @@ Where an annotation *does* tag a passage as relevant to a concept, that's a plau
 future feed into the concept wiki's excerpt curation — a lightweight bridge between the
 two projects, not a required dependency in either direction. Not designed here.
 
+A second, more concrete connection surfaced 2026-08-23 (see
+[concept-wiki-vision.md](concept-wiki-vision.md)'s "Design update" section): what Rufus
+actually wants when he says he wants "context" on a concept/people-page excerpt is a
+side panel that can show and scroll the live source book around that excerpt's
+location — not a bigger version of the excerpt itself. That's this project's territory,
+not the concept wiki's: it needs an addressable, scrollable rendering of book text to
+link *into*, which is exactly what a mature version of this reading layer would provide.
+Worth designing the excerpt pages' "see in context" link and this project's own
+addressing scheme together, once this project is picked up for real (see
+`docs/annotation-system.md`'s Phase 1 prototype for where the addressing groundwork
+already starts).
+
 ## The open question this project has to resolve before it can go beyond fully private
 use
 

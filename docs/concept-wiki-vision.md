@@ -98,6 +98,32 @@ Proposed sequencing:
 Explicitly not attempting exhaustive concept coverage, or coverage of every work, on the
 first pass.
 
+## Design update — excerpt display (2026-08-23)
+
+The first build of "expand to fuller passage" (line 52-56 above) used Obsidian's
+foldable callout syntax (`> [!quote]- "one-line teaser"`, click to expand to the full
+quote). Rufus's feedback: this isn't what he meant, and isn't useful — reduces the
+excerpt to a hidden one-liner when the quote itself *is* the point, and reads as the
+kind of accordion-chain digital-garden pattern he specifically doesn't want. **Removed
+across all concept and people pages** (2026-08-23): every excerpt now shows in full,
+directly, no per-excerpt heading (the surrounding prose already frames it), with its
+most load-bearing sentence bolded in place where a clean match exists.
+
+What "context" actually means, per Rufus, clarifying the original brainstorm note
+above: not a second, longer version of *the same excerpt* revealed by expanding it —
+scrolling the actual **surrounding pages of the source book itself**, in place, without
+losing where you are on the concept/person page. Described as "almost iframing the book
+into the side of the page, linking to this place" — i.e. a side panel that can show and
+scroll a live rendering of the book around the cited location, not just a bigger
+blockquote. This is a genuinely different, larger feature than anything built so far —
+it needs a scrollable, addressable rendering of full book text to link *into*, which is
+exactly the [annotatable reading layer](annotatable-reading-layer-vision.md)'s territory
+(that project's Phase 1 prototype, as of this date, already renders one book excerpt
+with per-passage anchors — the natural link target once this is designed properly).
+**Not built. Flagged here so the "expand excerpt" idea doesn't quietly get re-attempted
+as the accordion's replacement** — the actual ask is a link out to a live, scrollable
+book view, not a fancier inline expansion.
+
 ## Non-goals (for now)
 
 - A full web-viewable/annotatable rendering of entire works (that's the companion
