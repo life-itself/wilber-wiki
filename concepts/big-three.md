@@ -45,7 +45,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> In the broadest sense this is Plato's the True (or propositional truth referring to an
+> ...in the broadest sense this is Plato's the True (or propositional truth referring to an
 > objective state of affairs, it), the Good (or cultural justice and appropriateness,
 > we), and the Beautiful (or the individual-aesthetic dimension, I). The Big Three are
 > likewise Kant's three critiques: the Critique of Pure Reason (theoretical it-reason),

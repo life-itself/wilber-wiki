@@ -66,15 +66,15 @@ outflowing into the Many) are the same territory traversed in opposite direction
 
 > And thus Plotinus can easily make the nondual leap: "Spirit not only engenders all
 > things; *it is all things*" (the all-important third line of the Nondual
-> realization: the Many are illusory; the One alone is Real; the One is the Many—
-> Brahman is the World).
+> realization: the Many are illusory; the One alone is Real; the One is the
+> Many—Brahman is the World).
 >
 > — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
 
 > Thus, a typical Plotinian statement is (to use Inge's phrasing), "The World-Soul is
 > not in the world; rather, the World is in it, embraced by it and moulded by it." Or
-> again, "The Soul is not in the Body, but the Body is enveloped and penetrated by the
-> Soul which created it."
+> again, "The Soul is not in the Body, but the Body is [in the Soul,] enveloped and
+> penetrated by the Soul which created it."
 >
 > — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
 

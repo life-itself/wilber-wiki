@@ -42,6 +42,8 @@ across levels — this page stays with what a holon *is*.
 > time: it manages to remain itself across time's fluctuations—it displays
 > self-preservation in the simple sense of maintaining identity across time.
 >
+> ...
+>
 > b. Self-adaptation. A holon functions not only as a self-preserving whole but also as
 > a part of a larger whole, and in its capacity as a part it must adapt or accommodate
 > itself to other holons.

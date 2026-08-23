@@ -40,9 +40,9 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 
 > It is not often realized that Freud was in complete agreement with Jung about the
 > existence of this archaic heritage. Freud was struck by the fact that individuals in
-> therapy kept reproducing essentially similar "phantasies"... "I believe that these
+> therapy kept reproducing essentially similar "phantasies,"... I believe that these
 > primal phantasies are a phylogenetic possession. In them the individual stretches
-> out to the experiences of past ages."
+> out to the experiences of past ages.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
@@ -56,7 +56,7 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 > *Ego* is simply Latin for "I." Freud, for example, never used the term *ego*; he
 > used the German pronoun *das Ich*, or "the I," which Strachey unfortunately
 > translated as the "ego." And contrasted to "the I" was what Freud called the *Es*,
-> which is German for "it"... Thus Freud's great book *The Ego and the Id* was really
+> which is German for "it,"... Thus Freud's great book *The Ego and the Id* was really
 > called "The I and the It."
 >
 > — *Sex, Ecology, Spirituality*, ch. 6

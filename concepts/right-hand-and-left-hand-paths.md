@@ -57,7 +57,7 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> In the Upper-Left quadrant, the validity criterion is not so much truth as
+> ...in the Upper-Left quadrant, the validity criterion is not so much truth as
 > truthfulness, or sincerity. The question here is not "Is it raining outside?" The
 > question here is: when I tell you it is raining outside, am I telling you the truth or
 > am I lying?... It is not so much whether the map matches the territory, but whether
@@ -65,7 +65,7 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> The criterion for validity in the Lower-Left quadrant is not just the truth of my
+> ...the criterion for validity in the Lower-Left quadrant is not just the truth of my
 > statement, nor the truthfulness with which I put it, but whether you and I can come to
 > mutual understanding with each other. Not objective, not subjective, but
 > intersubjective.

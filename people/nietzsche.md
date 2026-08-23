@@ -37,10 +37,10 @@ of.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
-> "The more one examines the motives—what Nietzsche would call the 'genealogy'—of these
+> ...the more one examines the motives—what Nietzsche would call the 'genealogy'—of these
 > theories, the stranger they appear. It seems that they are motivated by the strongest
 > moral ideals, such as freedom, altruism, and universalism... And yet what these ideals
-> drive the theorists toward is a denial of all such goods."
+> drive the theorists toward is a denial of all such goods.
 >
 > — Charles Taylor, quoted in *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
@@ -51,13 +51,13 @@ of.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
-> In his idea of Eros as unlimited activity, [Schelling] set off a whole line of "will"
+> In his idea of Eros as unlimited activity, he set off a whole line of "will"
 > theorists, from Schopenhauer to Bergson to Nietzsche. Paul Tillich traces this line of
 > influence: "The most important pupil of Schopenhauer was Nietzsche. The line then runs
 > from Nietzsche to Bergson, the French voluntarist, Heidegger and Sartre, and to
 > Whitehead, the great metaphysician of our century—all of this came from Schelling."
 >
-> — Paul Tillich, quoted in *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders" (on Schelling, quoting Paul Tillich)
 
 ## See Also
 

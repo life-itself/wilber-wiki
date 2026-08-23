@@ -64,7 +64,7 @@ confusion so easy to fall into.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
 
-> In order to embrace Nature, the great Web of Life, they often recommended a simple
+> ...in order to embrace Nature, the great Web of Life, they often recommended a simple
 > return to nature (or preconventional sensory awareness). Not a transcendence from
 > biosphere to noosphere to theosphere... but a movement in exactly the opposite
 > direction. Under a pre/trans fallacy and the pull of flatland, they confused

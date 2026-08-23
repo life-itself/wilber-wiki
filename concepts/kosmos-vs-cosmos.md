@@ -48,14 +48,14 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 >
 > — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
-> The bios is a part of the Kosmos, but not a part of the cosmos, and in that simple
+> ...the bios is a part of the Kosmos, but not a part of the cosmos, and in that simple
 > move we have forever disavowed reductionism: physics is the most fundamental, and
 > least significant, of the sciences (the reason physics can't explain biology is
 > precisely because the bios is not in the cosmos).
 >
 > — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
 
-> The downside of the Enlightenment was that it took a Kosmos of both Left and Right
+> ...the downside of the Enlightenment was that it took a Kosmos of both Left and Right
 > dimensions and reduced it to a cosmos that could be empirically (or monologically)
 > described: it collapsed the Left half to its correlates on the Right half. Its great
 > crime was not gross reductionism but subtle reductionism.

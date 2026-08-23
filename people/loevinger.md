@@ -38,7 +38,7 @@ that, before the second half of the twentieth century, had been mostly speculati
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> It was only in the last half of this century that the stages of consciousness
+> ...it was only in the last half of this century that the stages of consciousness
 > development were outlined in any sort of rigorous fashion backed by research—Baldwin,
 > Werner, Graves, Maslow, Piaget, Loevinger, and so on.
 >

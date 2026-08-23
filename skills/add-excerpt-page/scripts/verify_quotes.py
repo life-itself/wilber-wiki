@@ -37,6 +37,16 @@ emphasis (converted from the original EPUB), so italic quotes should
 match with it intact. A quote that only fails because of italics is a
 sign the emphasis was added editorially and should be removed from the
 page, not a sign the checker is wrong.
+
+Only a trailing "." is forgiven (see above) — a trailing quotation mark
+(`"` or `,"`) is NOT, because closing a quotation early is a content
+change (it asserts the source's quoted material ends there), not just
+punctuation smoothing. If a quote opens or closes with a quotation mark,
+that mark must be real. Likewise, a quote that starts mid-sentence must
+keep the source's actual capitalization (usually lowercase) and lead
+with "..." — capitalizing an original lowercase word to make an excerpt
+look self-starting is exactly the kind of edit this script exists to
+catch.
 """
 import glob
 import re
@@ -112,10 +122,15 @@ def extract_quote_blocks(text: str) -> list[str]:
             block.append(lines[i])
             i += 1
         # drop trailing blank "> " line and the "> — attribution" line
+        # (once attribution starts, every remaining line in the block is
+        # part of it too — an attribution can wrap onto a second line)
         body = []
+        in_attribution = False
         for bl in block:
             stripped = bl[1:].strip()
             if stripped.startswith("—") or stripped.startswith("--"):
+                in_attribution = True
+            if in_attribution:
                 continue
             body.append(stripped)
         joined = " ".join(x for x in body if x)

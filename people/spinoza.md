@@ -46,7 +46,7 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
 
-> **The pantheism of Spinoza (who regarded himself as a good Cartesian)**, seeing mind and
+> ...**the pantheism of Spinoza (who regarded himself as a good Cartesian)**, seeing mind and
 > matter as two parallel attributes of God that *never* interacted (which he assumed
 > took care of *that* problem).
 >

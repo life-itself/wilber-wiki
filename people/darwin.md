@@ -40,7 +40,7 @@ selection could replace a directional, spiritual reading of evolution.
 > The lasting contribution of Darwin's theory, then, was not that it discovered a
 > mechanism for macroevolution, for it did not; rather, it obscured for over a century
 > the fact that a genuine theory of evolution demands something resembling Eros. Darwin's
-> *lasting* contribution was primarily a massive obscurantism. Scientists all cheery and
+> *lasting* contribution was primarily a massive obscuratanism. Scientists all cheery and
 > self-content began to scrub the universe clean of anything resembling love and its
 > all-encompassing embrace, and all congratulated themselves on yet another victory for
 > truth (Wallace, as is well known, did *not* think natural selection could replace Eros;

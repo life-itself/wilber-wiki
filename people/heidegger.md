@@ -44,7 +44,7 @@ postmodern lineage.
 >
 > — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
 
-> Linguistic structures aren't really *that* autonomous, because they exist only in the
+> ...linguistic structures aren't really *that* autonomous, because they exist only in the
 > context of pre-articulate worldviews that use language without language ever
 > registering that fact (the critique by Heidegger, Gebser).
 >

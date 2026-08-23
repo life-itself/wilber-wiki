@@ -72,6 +72,14 @@ Reference implementations: `concepts/holons.md`, `people/habermas.md`.
   swapping the source's actual trailing punctuation for a period to make an excerpt read
   as a complete sentence, is exactly the kind of "close enough" edit that produces an
   unverifiable quote. Cut to the last full clause instead, or use `...`.
+- **A quote starting mid-sentence keeps the source's actual capitalization** (usually
+  lowercase) and leads with `...` — don't capitalize the first word to make the excerpt
+  look self-starting. This was the single most common failure found when this script was
+  first run against the existing wiki.
+- A trailing "." can substitute for the source's real (different) closing punctuation —
+  that's the one tolerance the verification script allows. A trailing quotation mark
+  cannot: closing a quotation early asserts the quoted material ends there, which is a
+  content change, not punctuation smoothing.
 - Bold *within* a quote sparingly, only to flag the single most load-bearing phrase —
   don't bold whole sentences.
 

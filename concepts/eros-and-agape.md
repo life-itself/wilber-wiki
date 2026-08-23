@@ -45,7 +45,7 @@ to a nondual ground, had no way to reconcile them.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> Unintegrated Eros does not just reach up to the higher levels and transcend the lower;
+> ...unintegrated Eros does not just reach up to the higher levels and transcend the lower;
 > it alienates the lower, represses the lower... and does so out of fear (Phobos), fear
 > that the lower will "drag it down"... Phobos is Eros in flight from the lower instead
 > of embracing the lower. Phobos is Ascent divorced from Descent... Or, to say the same

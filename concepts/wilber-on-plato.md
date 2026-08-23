@@ -41,8 +41,7 @@ transcendence.
 > devoted to this very thing does truth flash upon the soul, like a flame kindled by a
 > leaping spark. No treatise by me concerning it exists or ever will exist.
 >
-> — Plato, *Seventh Epistle*, quoted in *Sex, Ecology, Spirituality*, "The Way Up Is the
-> Way Down"
+> — Plato, *Seventh Epistle*, quoted in *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
 > IT HAS ALWAYS struck me as odd that so much of our Western tradition is supposed to be
 > a series of footnotes to Plato, and yet the crucial book to which we are all

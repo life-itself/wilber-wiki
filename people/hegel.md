@@ -61,7 +61,7 @@ same forces it criticized.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> These intuitions and insights were expressed almost totally in and through
+> ...these intuitions and insights were expressed almost totally in and through
 > *vision-logic*, and this burdened Reason with a task it could never carry.
 > Particularly with Hegel, the transpersonal and transrational Spirit becomes wholly
 > *identified* with vision-logic or mature Reason, which condemns Reason to collapsing

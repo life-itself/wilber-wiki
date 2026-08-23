@@ -50,7 +50,7 @@ reading in detail).
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> The Many returning to and embracing the One is Good, and is known as wisdom; the One
+> ...the Many returning to and embracing the One is Good, and is known as wisdom; the One
 > returning to and embracing the Many is Goodness, and is known as compassion.
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"

@@ -62,7 +62,7 @@ there as potential all along, not a private fabrication of the individual mind.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
-> In Plotinus's view, in evolution or Reflux, if we represent the lowest level as A, the
+> ...in Plotinus's view, in evolution or Reflux, if we represent the lowest level as A, the
 > next level up is A + B, the next is A + B + C, and so on. But in involution or efflux,
 > if we start with the highest and represent it as A, the next level down is A – B, the
 > next is A – B – C, and so forth, since each involutionary efflux is a subtraction or a
