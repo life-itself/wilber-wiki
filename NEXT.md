@@ -16,7 +16,43 @@ GitHub issue linking to its vision/plan doc:
   largely subsumed by #3 in practice; the general "concepts by location" version stays
   someday.
 
-## Session 2026-08-23 — what shipped (autonomous session, Rufus unavailable)
+## Session 2026-08-23, part 2 — excerpt format + critique pass (Rufus back, gave feedback)
+
+Rufus reviewed the session-1 work and gave two pieces of feedback:
+
+1. **Drop the accordion.** The `> [!quote]- "teaser"` foldable-callout style (used on
+   every concept/people excerpt) wasn't landing — hides the quote, which is the actual
+   point, behind a one-line teaser and a click, in a pattern he specifically doesn't
+   want. Fixed: all 182 quotes across the 40 concept/people pages now show directly, no
+   teaser heading, with the most load-bearing sentence bolded in place where a clean
+   match existed (16 of 182). Also clarified what "see more context" actually meant to
+   him — not a bigger version of the same excerpt, but a scrollable side panel into the
+   *live source book* at that location ("almost iframing the book into the side of the
+   page"). That's the annotatable reading layer's territory, not the concept wiki's —
+   documented in both `docs/concept-wiki-vision.md` and
+   `docs/annotatable-reading-layer-vision.md` so it doesn't get misbuilt later as a
+   fancier accordion.
+2. **Go do a real critique of the excerpts.** Two independent passes read every quote on
+   all 40 pages against its actual surrounding context in the full book text — written
+   up in `docs/excerpt-critique-concepts.md` and `docs/excerpt-critique-people.md`. Most
+   serious finding: `people/habermas.md`'s only quote was a paraphrase formatted to look
+   verbatim, not real — rebuilt with 4 genuine quotes. Also fixed: a quote on
+   `dominator-vs-growth-hierarchy.md` that broke off mid-sentence; a recurring
+   chapter-mislabeling bug across 8 concept pages; `foucault.md` reading as pure-ally
+   despite its own synthesis claiming real disagreement exists; Maslow/Loevinger's heavy
+   mutual redundancy; a dozen other swaps (sharper unused quotes found nearby, dangling
+   references fixed, split-citation quotes merged). All applied and published.
+
+**Small optional items surfaced by the critique, deliberately left undone** (each is a
+one-line "nice to have," not worth a dedicated pass on its own — pick up opportunistically
+if touching the relevant page anyway): `concepts/big-three.md` could add a Three Jewels
+(Buddha/Dharma/Sangha) quote; `people/piaget.md`'s two egocentrism quotes are slightly
+redundant with each other; `people/whitehead.md`'s "dull, soundless, scentless" quote
+reads as decorative because the synthesis prose never names the role Wilber cites him
+for (critic of mechanistic flatland) — either name that role in the prose or reconsider
+the quote.
+
+## Session 2026-08-23, part 1 — what shipped (autonomous session, Rufus unavailable)
 
 Ran unattended per Rufus's steer to "keep rolling" — see `changelog.md` for the
 reader-facing version. In commit order:

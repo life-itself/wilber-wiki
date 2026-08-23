@@ -1,3 +1,15 @@
+## 2026-08-23 — Excerpts now shown directly, and a full accuracy pass
+
+The click-to-expand style used for excerpt quotes is gone — every quote across the
+concept wiki and people index now shows in full, directly on the page. That prompted a
+proper editorial review of all 182 excerpts against the source book, which turned up
+and fixed a real problem: one page's only "quote" was actually a paraphrase, not real
+text. Also fixed: a quote that broke off mid-sentence, several mislabeled chapter
+citations, and a handful of pages that were more one-sided or redundant than the book
+itself is. See [Jürgen Habermas](people/habermas.md) for the clearest before/after.
+
+![The Habermas page with quotes shown directly, no accordion](assets/changelog/2026-08-23-excerpt-format.png)
+
 ## 2026-08-23 — Annotatable reading layer: Phase 1 prototype
 
 A first working prototype of annotated book text: an excerpt of *Sex, Ecology,
