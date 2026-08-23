@@ -159,6 +159,21 @@ typographic quote mismatch (curly `“…”`/`’` from the book source vs.
 straight quotes possibly reintroduced by markdown rendering) — handled by
 normalizing both sides before matching (`annotator.js`'s `normalize()`).
 
+A second, more consequential gap: `fetch()`-ing a same-repo JSON file for
+annotation data initially failed **CORS in a real browser** (worked fine
+in `curl`, which doesn't enforce CORS) — Flowershow serves repo files via
+a `302` redirect to `r2.flowershow.app`, and that origin sends no
+`Access-Control-Allow-Origin` header, so a cross-origin redirect target
+gets blocked. Filed upstream as
+[flowershow/flowershow#1373](https://github.com/flowershow/flowershow/issues/1373).
+Worked around by embedding the annotation JSON inline as a `<script
+type="application/json">` in the page itself instead of fetching it —
+fine for one hand-written annotation set per page, but **this is the
+reason a shared/fetched data file across many annotated pages doesn't
+currently work** — worth revisiting if #1373 gets fixed upstream, since a
+proper fix there would let annotation data live in its own file(s) again
+rather than being duplicated inline per page.
+
 Sidenotes render in a right-margin column on wide screens, aligned to their
 highlight's vertical position (Tufte/gwern-style), collapsing to inline
 notes under the highlighted text below 900px — see `annotator.css`.
