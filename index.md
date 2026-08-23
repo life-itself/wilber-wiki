@@ -77,3 +77,10 @@ the canonical vocabulary.
 This is an early pilot: seventeen concepts, sourced entirely from the full text of
 *Sex, Ecology, Spirituality*, built to prove the shape of the thing before scaling out
 to the rest of his work.
+
+## About this project
+
+Wilber Wiki is a project of [Rufus Pollock](https://rufuspollock.com) and [Life Itself
+Research](https://lifeitself.org/research). It is an early, concept-first research
+index into Ken Wilber's work and Integral Theory, bringing together ideas, people,
+and the passages where Wilber develops them.

@@ -1,4 +1,32 @@
 {
+  "siteName": "Wilber Wiki",
+  "description": "A concept-first index into Ken Wilber and Integral Theory.",
+  "logo": "/assets/wilber-headshot.jpg",
+  "favicon": "/assets/wilber-headshot.jpg",
+  "nav": {
+    "title": "Wilber Wiki",
+    "links": [
+      { "name": "Concepts", "href": "/concepts" },
+      { "name": "People", "href": "/people" },
+      { "name": "Works", "href": "/works" },
+      { "name": "Biography", "href": "/bio" },
+      { "name": "About", "href": "/#about-this-project" }
+    ]
+  },
+  "social": [
+    { "label": "github", "href": "https://github.com/life-itself/wilber-wiki" }
+  ],
+  "footer": {
+    "navigation": [
+      {
+        "title": "Project",
+        "links": [
+          { "name": "Rufus Pollock", "href": "https://rufuspollock.com" },
+          { "name": "Life Itself Research", "href": "https://lifeitself.org/research" }
+        ]
+      }
+    ]
+  },
   "contentExclude": ["/docs", "/library", "/skills", "AGENTS.md", "CLAUDE.md", "README.md"],
   "head": "<link rel=\"stylesheet\" href=\"/assets/annotator/annotator.css\"><script defer src=\"/assets/annotator/annotator.js\"></script>"
 }
