@@ -38,7 +38,6 @@ present in the book but less concentrated than the sympathetic material excerpte
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "It is not power, but the subject, which is the general theme of my research" (Foucault, quoted)
 > Not only was it the central problem of the Enlightenment and the Romantic-Idealist
 > rebellion, it has continued to be a central, often *the* central, topic in theorists
 > from Habermas to Foucault to Taylor. (Foucault, for example, said, "The goal of my
@@ -48,14 +47,12 @@ present in the book but less concentrated than the sympathetic material excerpte
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
-> [!quote]- "These objectifying and systematic 'sciences of man' are in fact pseudo-sciences, according to both Foucault and Habermas"
 > These objectifying and systematic "sciences of man" are in fact pseudo-sciences,
 > according to both Foucault and Habermas, and pseudo-sciences driven by
 > self-aggrandizing *power*.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
-> [!quote]- "Humans became 'the object of information, never the subject in communication'"
 > And thus was born what Foucault called "the Age of Man"—the merely "objective" study
 > of humans. And in a beautiful phrase that would summarize the net effect of the
 > entire Enlightenment paradigm... Foucault points out that with the "Age of Man,"
@@ -63,14 +60,12 @@ present in the book but less concentrated than the sympathetic material excerpte
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
-> [!quote]- "This is likewise what Habermas refers to as 'the totalitarian characteristics of an instrumental reason'... In this respect, Habermas is in complete agreement with Foucault"
 > This is likewise what Habermas refers to as "the totalitarian characteristics of an
 > instrumental reason that *objectifies* everything around it, *itself included*." In
 > this respect, Habermas is in complete agreement with Foucault.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
-> [!quote]- "Sex became the object of a major investment of signification, of power, and of knowledge" (Foucault, quoted)
 > As Foucault ably demonstrates, the rise of modernity was marked, not so much by a
 > repression of sexuality... as by an *obsession* with sexuality... Never, says
 > Foucault, had an epoch's discourse been so dominated by sexuality in so many domains.
@@ -80,7 +75,6 @@ present in the book but less concentrated than the sympathetic material excerpte
 >
 > — *Sex, Ecology, Spirituality*, ch. 13
 
-> [!quote]- "Foucault eventually abandoned archaeology... precisely because archaeology was itself merely a part of the larger holon of social practices"
 > And let us immediately note that Foucault eventually abandoned archaeology as an
 > exclusive methodology precisely because archaeology was itself merely a *part* of the
 > larger holon of social practices: not wholes, but whole/parts.

@@ -27,7 +27,6 @@ treated as opposed, are shown agreeing.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "the world's foremost living philosopher and social theorist"
 > Wilber's own description of Habermas, introducing him as a source whose conclusions
 > arrived independently at the same place as Wilber's.
 >

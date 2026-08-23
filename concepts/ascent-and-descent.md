@@ -30,13 +30,11 @@ reading in detail).
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "All Truth, all Goodness, all Beauty was to be found, finally and fully, only in the contemplative absorption in the eternal and unspoken One."
 > All Truth, all Goodness, all Beauty was to be found, finally and fully, only in the
 > contemplative absorption in the eternal and unspoken One.
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> [!quote]- "Flee the Many, find the One; having found the One, embrace the Many as the One."
 > We can therefore summarize Plato's overall position in words that would apply to any
 > Nondual stance wherever it appears (as we have already seen it apply to Eckhart and
 > Ramana): flee the Many, find the One; having found the One, embrace the Many as the
@@ -44,7 +42,6 @@ reading in detail).
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> [!quote]- "The path of Ascent is the path of the Good; the path of Descent is the path of Goodness."
 > The Platonic and Neoplatonic traditions (and similar Nondual traditions in the East)
 > therefore maintained that the "Good" or Perfect One is expressed in and as the
 > "Goodness" of all creation. Those two terms—the "Good" and "Goodness"—are extremely
@@ -53,13 +50,11 @@ reading in detail).
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> [!quote]- "The Many returning to and embracing the One is Good, and is known as wisdom; the One returning to and embracing the Many is Goodness, and is known as compassion."
 > The Many returning to and embracing the One is Good, and is known as wisdom; the One
 > returning to and embracing the Many is Goodness, and is known as compassion.
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> [!quote]- "Wisdom sees that the Many is One... compassion sees that the One is the Many."
 > Wisdom knows that behind the Many is the One. Wisdom sees through the confusion of
 > shifting shapes and passing forms to the groundless Ground of all being... But if
 > wisdom sees that the Many is One, compassion knows that the One is the Many; that the

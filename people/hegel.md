@@ -39,14 +39,12 @@ same forces it criticized.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "'The Good,' says Hegel, 'is eternally accomplishing itself in the world... already in full actuality accomplished'"
 > The great far-off spectacular climax... is right now. "The Good," says Hegel, "the
 > absolutely Good, is eternally accomplishing itself in the world; and the result is
 > that it need not wait upon us, but is *already in full actuality accomplished*."
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> [!quote]- "Nature and Mind are both taken up and integrated in Spirit... hammered out by Hegel"
 > And those were precisely the requirements met by Schelling and hammered out by
 > Hegel. Nature and Mind are both taken up and integrated in Spirit, an integration
 > that can occur precisely because the Spirit that is *awakened* in the *integration*
@@ -55,8 +53,7 @@ same forces it criticized.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> [!quote]- "Would that Hegel had remained in poverty"
-> Would that Hegel had remained in poverty (with Plato: "No treatise by me concerning
+> **Would that Hegel had remained in poverty** (with Plato: "No treatise by me concerning
 > it exists or ever will exist"). But Hegel decided... that Reason could and should
 > develop the tongues of angels. This would have been fine, *if* Hegel also had more
 > dependable paradigms, more reproducible injunctions, for the developmental unfolding
@@ -64,7 +61,6 @@ same forces it criticized.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> [!quote]- "Particularly with Hegel, the transpersonal Spirit becomes wholly identified with vision-logic... which condemns Reason to collapsing under a weight it could never carry"
 > These intuitions and insights were expressed almost totally in and through
 > *vision-logic*, and this burdened Reason with a task it could never carry.
 > Particularly with Hegel, the transpersonal and transrational Spirit becomes wholly
@@ -73,7 +69,6 @@ same forces it criticized.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> [!quote]- "The first floor of the magnificent Idealist edifice crumbled... Idealism would survive no more than a few decades after Hegel's death"
 > This completely undercut any sort of idealist or spiritual view of evolution or
 > manifestation in general. The first floor of the magnificent Idealist edifice
 > crumbled, and the higher floors almost immediately followed suit (Idealism would
@@ -81,7 +76,6 @@ same forces it criticized.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
-> [!quote]- "None more perceptive and brutal than Hegel"
 > From the very beginning of modernity... there have been its many vocal critics (none
 > more perceptive and brutal than Hegel, for whom the Enlightenment in general, and
 > Kant in particular, was a "vanity of the understanding" and a "monster of arrested

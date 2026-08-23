@@ -34,7 +34,6 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The Great Holarchy according to Plotinus and Aurobindo"
 > For comparison, I have included the developmental holarchy as given by Sri Aurobindo,
 > generally regarded as the greatest synthesizer of the philosophies and psychologies of
 > India... That the greatest synthesizers of the West and the East are in such
@@ -42,22 +41,19 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "Aurobindo gave the classic description of vision-logic"
-> Aurobindo gave the classic description of vision-logic, which "can freely express
+> **Aurobindo gave the classic description of vision-logic**, which "can freely express
 > itself in single ideas, but its most characteristic movement is a mass ideation, a
 > system or totality of truth-seeing at a single view; the relations of idea with idea,
 > of truth with truth, self-seen in the integral whole."
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "The spiritual transformation culminates in a permanent ascension ... followed by an effective permanent descent" (Aurobindo, quoted)
 > As only one example, Aurobindo: "The spiritual transformation culminates in a
 > permanent ascension from the lower consciousness to the higher consciousness, followed
 > by an effective permanent descent of the higher nature into the lower."
 >
 > — Aurobindo, quoted in *Sex, Ecology, Spirituality*, ch. 10
 
-> [!quote]- "Many tantric and yogic schools ... put prime emphasis on 'the descent of the supermind'"
 > And not just in the West is Agape stressed. Many tantric and yogic schools—Aurobindo's
 > for example—put prime emphasis on "the descent of the supermind," the agape of the
 > supermind that "comes down" in order to pull us up to an identity with it, so that we
@@ -65,7 +61,6 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "Without in any way detracting from Aurobindo's magnificent contributions"
 > Credit for this type of developmental synthesis often goes to Aurobindo; without in
 > any way detracting from Aurobindo's magnificent contributions, the pioneering credit
 > belongs to Schelling, and by a century.

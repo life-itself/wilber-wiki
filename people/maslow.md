@@ -27,7 +27,6 @@ rigorous empirical basis it had previously lacked.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "This hierarchy of 'deficiency needs' ... bears striking resemblance to Abraham Maslow's"
 > One can't help but notice that this hierarchy of "deficiency needs" or "scarce
 > resources" bears striking resemblance to Abraham Maslow's (and Jane Loevinger's and
 > others') present-day ontogenetic needs hierarchy—from safety/power to conventional
@@ -35,21 +34,18 @@ rigorous empirical basis it had previously lacked.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "Just as in Maslow's needs hierarchy, which is precisely the same Great Holarchy in modern form"
 > The deeper or higher motivations are not simply *given* from the start; one has to
 > grow, develop, and unfold to effect these changes (just as in Maslow's needs
 > hierarchy, which is precisely the same Great Holarchy in modern form).
 >
 > — *Sex, Ecology, Spirituality*, ch. 11
 
-> [!quote]- "The belongingness needs (Maslow)"
 > This unavoidable (and initially necessary) "sociocentric embeddedness" leads to what is
 > variously known as the *conventional stages* of morality (Kohlberg/Gilligan), the
 > *belongingness* needs (Maslow), the *conformist* mode (Loevinger).
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "The self-esteem needs emerge from the belongingness needs (Maslow)"
 > "Who am I?" becomes, for the first time, a burning question, and the self-esteem needs
 > emerge from the belongingness needs (Maslow), or a "conscientious" self emerges from a
 > "conformist" mode (Loevinger).

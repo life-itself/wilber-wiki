@@ -33,7 +33,6 @@ as evidence the Eco pole is still very much alive.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Spinoza uses 'cognition' for knowing an event 'from the inside'"
 > Spinoza, Leibniz, Schopenhauer, Whitehead, Aurobindo, Schelling, and Radhakrishnan are
 > just a few of the major theorists who have explicitly recognized that the within of
 > things, the interiority of individual holons, is in essence the same as
@@ -42,14 +41,12 @@ as evidence the Eco pole is still very much alive.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
 
-> [!quote]- "The pantheism of Spinoza (who regarded himself as a good Cartesian)"
-> The pantheism of Spinoza (who regarded himself as a good Cartesian), seeing mind and
+> **The pantheism of Spinoza (who regarded himself as a good Cartesian)**, seeing mind and
 > matter as two parallel attributes of God that *never* interacted (which he assumed
 > took care of *that* problem).
 >
 > — *Sex, Ecology, Spirituality*, ch. 1
 
-> [!quote]- "'Unite Fichte and Spinoza!'"
 > And by the end of the eighteenth century, this tension—between the Ego and the Eco,
 > and in its extreme forms, between pure Ascent and pure Descent—this tension had become
 > extremely and even unbearably acute, and the watchwords of the age became "unite
@@ -59,7 +56,6 @@ as evidence the Eco pole is still very much alive.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13
 
-> [!quote]- "The Eco camps ... all had recourse to Spinoza"
 > The Eco camps, on the other hand, all had recourse to Spinoza, suitably interpreted
 > for their purposes (this recourse to Spinoza is still quite common in ecomasculinist
 > circles)... To the same age, Spinoza stood for Spirit as eternal and total objective
@@ -68,7 +64,6 @@ as evidence the Eco pole is still very much alive.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13
 
-> [!quote]- "'The purpose of Nature is to make men uniform'"
 > Spinoza, no doubt, summed it up best: "The purpose of Nature is to make men uniform,
 > as children of a common mother."
 >

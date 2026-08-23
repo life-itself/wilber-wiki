@@ -39,7 +39,6 @@ there as potential all along, not a private fabrication of the individual mind.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Evolution is the unfolding from matter to body to mind to soul to spirit... Involution is the reverse process..."
 > Chapter 9... discusses evolution and involution. Evolution is the unfolding from
 > matter to body to mind to soul to spirit, with each higher dimension transcending and
 > including its juniors, resulting in the Great Nest of Being. Involution is the reverse
@@ -49,7 +48,6 @@ there as potential all along, not a private fabrication of the individual mind.
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "Involution... simply creates a vast field of potentials, which are not determined as to their surface features at all."
 > Some readers felt that this made the universe completely deterministic and fated. But
 > involution, in my opinion, simply creates a vast field of potentials, which are not
 > determined as to their surface features at all. Those are co-created during evolution,
@@ -58,7 +56,6 @@ there as potential all along, not a private fabrication of the individual mind.
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "Moving upward... is the process of evolution (Reflux or Ascent, driven by Eros), and moving downward... is involution (Efflux or Descent, driven by Agape)."
 > Moving upward from the center (matter, the most fundamental) is the process of
 > evolution (Reflux or Ascent, driven by Eros), and moving downward from spirit (the
 > most significant) is involution (Efflux or Descent, driven by Agape). Each senior
@@ -66,7 +63,6 @@ there as potential all along, not a private fabrication of the individual mind.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
-> [!quote]- "In evolution or Reflux... the next level up is A + B... But in involution or efflux... the next level down is A – B..."
 > In Plotinus's view, in evolution or Reflux, if we represent the lowest level as A, the
 > next level up is A + B, the next is A + B + C, and so on. But in involution or efflux,
 > if we start with the highest and represent it as A, the next level down is A – B, the
@@ -76,7 +72,6 @@ there as potential all along, not a private fabrication of the individual mind.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> [!quote]- "One has the overwhelming apprehension that one is recognizing something once known but long forgotten..."
 > Mystical experiences... share at least a broad similarity wherever they occur... and
 > when they do occur, virtually all of them carry the overwhelming conviction that one
 > is not stumbling onto something sui generis, made up, constructed at the moment...

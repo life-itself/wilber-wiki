@@ -27,8 +27,7 @@ across levels — this page stays with what a holon *is*.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Reality as a whole is not composed of things or processes, but of holons..."
-> 1. Reality as a whole is not composed of things or processes, but of holons.
+> 1. **Reality as a whole is not composed of things or processes, but of holons**.
 > Composed, that is, of wholes that are simultaneously parts of other wholes, with no
 > upward or downward limit. To say that holons are processes instead of things is in
 > some ways true, but misses the essential point that processes themselves exist only
@@ -36,7 +35,6 @@ across levels — this page stays with what a holon *is*.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 1)
 
-> [!quote]- "Holons display four fundamental capacities: self-preservation, self-adaptation, self-transcendence, and self-dissolution."
 > a. Self-preservation. All holons display some capacity to preserve their
 > individuality, to preserve their own particular wholeness or autonomy. A hydrogen
 > atom, in a suitable context, can remain a hydrogen atom. It doesn't necessarily
@@ -50,7 +48,6 @@ across levels — this page stays with what a holon *is*.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 2)
 
-> [!quote]- "A new and in some ways unprecedented holon emerges... different wholes have come together to form a new and different whole."
 > c. Self-transcendence (or self-transformation). When an oxygen atom and two hydrogen
 > atoms are brought together under suitable circumstances, a new and in some ways
 > unprecedented holon emerges, that of a water molecule. This is not just a communion,
@@ -69,7 +66,6 @@ across levels — this page stays with what a holon *is*.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 2c)
 
-> [!quote]- "Holons that are built up... can also break down."
 > d. Self-dissolution—Holons that are built up (through vertical self-transformation)
 > can also break down. Not surprisingly, when holons "dissolve" or "come unglued," they
 > tend to do so along the same vertical sequence in which they were built up (only, of

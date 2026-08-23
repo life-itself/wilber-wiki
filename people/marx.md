@@ -31,7 +31,6 @@ solutions" don't.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The enduring concern of Marx, even if we reject his particular solutions"
 > A planetary culture will in effect have to deal with equitable material-economic
 > distribution in the physiosphere (the enduring concern of Marx, even if we reject his
 > particular solutions), and it will have to deal with sustainable ecological
@@ -39,7 +38,6 @@ solutions" don't.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "It reduced the noosphere to the physiosphere"
 > In a nutshell, that movement did not just ground the noosphere in the physiosphere
 > (which *is* vitally important because of compound individuality); it reduced the
 > noosphere to the physiosphere, such an egregious reduction that it took evolution less
@@ -50,7 +48,6 @@ solutions" don't.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "The Greens are in essentially the same predicament as the Marxists"
 > For the Greens are in essentially the same predicament as the Marxists—both of them
 > are reducing higher levels to lower levels simply because of the undisputed fact that
 > the lower is indeed *more fundamental*... Where the Marxists tended to reduce all
@@ -59,14 +56,12 @@ solutions" don't.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "We see it in Marx: rationality ... will overcome egocentric and ethnocentric class divisions"
 > We see it in Marx: rationality, as a worldcentric mode of cognition, will, with its
 > economic developments, overcome egocentric and ethnocentric class divisions and usher
 > in a true communion of equally free subjects.
 >
 > — *Sex, Ecology, Spirituality*, ch. 8
 
-> [!quote]- "For Marx, a classless society in which alienation ... would be healed"
 > For Marx, a classless society in which alienation of labor and produce would be healed
 > in shared mutual care.
 >

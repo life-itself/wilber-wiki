@@ -31,8 +31,7 @@ the map is tracking something real rather than a private theoretical artifact.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "I followed the groundbreaking work of Jean Gebser"
-> In *Up from Eden* (and *Eye to Eye*) I followed the groundbreaking work of Jean Gebser
+> In *Up from Eden* (and *Eye to Eye*) **I followed the groundbreaking work of Jean Gebser**
 > in recognizing four major epochs of human evolution, each anchored by a particular
 > structure (or level) of *individual* consciousness that correspondingly produced (and
 > was produced by) a particular *social worldview*. These general stages Gebser called
@@ -40,14 +39,12 @@ the map is tracking something real rather than a private theoretical artifact.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
 
-> [!quote]- "Gebser called it integral-aperspectival"
 > I also refer to postformal cognition as *network-logic* or *vision-logic*—Gebser
 > called it *integral-aperspectival*—and it is vision-logic that drives the best of
 > postmodernism.
 >
 > — *Sex, Ecology, Spirituality*, ch. 1
 
-> [!quote]- "Vision-logic adds up all the perspectives ... it is aperspectival"
 > Jean Gebser refers to the emerging vision-logic as the "*integral-aperspectival*"
 > mind, which is a particularly apt phrase. The previous structure (the egoic-rational),
 > Gebser refers to as the "rational-perspectival," because rationality can indeed take
@@ -57,7 +54,6 @@ the map is tracking something real rather than a private theoretical artifact.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "Gebser's masterpiece, The Ever-Present Origin"
 > Gebser's masterpiece, *The Ever-Present Origin*, was completed in 1953, the
 > culmination of several decades of thought and research. He died in 1973 and thus he
 > did not live to see the full extent of the explosion of aperspectivism in today's
@@ -68,14 +64,12 @@ the map is tracking something real rather than a private theoretical artifact.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "The part is to a certain degree always a betrayal of the whole" (Gebser, quoted)
-> As Gebser says, "The part is to a certain degree always a betrayal of the whole, for
+> As Gebser says, "**The part is to a certain degree always a betrayal of the whole**, for
 > which reason the sum of the parts also only yields a fictitious but not an efficacious
 > whole."
 >
 > — Gebser, quoted in *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "Mutations in consciousness" (Gebser, quoted)
 > Gebser refers to such transformations as "mutations in consciousness," emphasizing
 > their radically emergent nature. Nonetheless, each structure unfolds holarchically,
 > transcending and including its predecessor(s). "None of these mutations of

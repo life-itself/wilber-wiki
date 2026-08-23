@@ -39,7 +39,6 @@ without reduction.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "I will often refer to the study of both the Upper-Right and Lower-Right quadrants as the Right-Hand path..."
 > I will often refer to the study of both the Upper-Right and Lower-Right quadrants as
 > the Right-Hand path: the path of that which can be seen with the eye of flesh or its
 > extensions. In short, the path of "it"-language (objectivist, monological, observable,
@@ -47,7 +46,6 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Nothing is better or worse, good or bad, desirable or undesirable... The surface forms simply are, and you simply observe and describe them."
 > The components of the Right half... are, in themselves, neutral surfaces, neutral
 > exteriors, neutral forms, all of which can fairly be described in "it" language. You
 > don't ever have to engage the interiors of any of those holons... Nothing is better or
@@ -56,7 +54,6 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "The validity criterion is not so much truth as truthfulness, or sincerity."
 > In the Upper-Left quadrant, the validity criterion is not so much truth as
 > truthfulness, or sincerity. The question here is not "Is it raining outside?" The
 > question here is: when I tell you it is raining outside, am I telling you the truth or
@@ -65,7 +62,6 @@ without reduction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "The criterion for validity in the Lower-Left quadrant... is whether you and I can come to mutual understanding with each other. Not objective, not subjective, but intersubjective."
 > The criterion for validity in the Lower-Left quadrant is not just the truth of my
 > statement, nor the truthfulness with which I put it, but whether you and I can come to
 > mutual understanding with each other. Not objective, not subjective, but

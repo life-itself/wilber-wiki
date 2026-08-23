@@ -29,7 +29,6 @@ beyond," treating them instead as different in kind, not just degree.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Arthur Koestler coined the term holon"
 > Arthur Koestler coined the term *holon* to refer to that which, being a *whole* in one
 > context, is simultaneously a *part* in another. With reference to the phrase "the bark
 > of a dog," for example, the word *bark* is a whole with reference to its individual
@@ -37,21 +36,18 @@ beyond," treating them instead as different in kind, not just degree.
 >
 > — *Sex, Ecology, Spirituality*, ch. 1
 
-> [!quote]- "Koestler ... pointed out that the correct word for 'hierarchy' is actually holarchy"
 > It is for all these reasons that Koestler, after noting that all such hierarchies are
 > composed of holons, or increasing orders of wholeness, pointed out that the correct
 > word for "hierarchy" is actually *holarchy*.
 >
 > — *Sex, Ecology, Spirituality*, ch. 1
 
-> [!quote]- "'On different levels of the inorganic and organic hierarchies...'" (Koestler, quoted)
 > Koestler: "On different levels of the inorganic and organic hierarchies, the
 > polarisation of 'particularistic' [agency] and 'holistic' [communion] forces takes
 > different forms, but it is *observable on every level*."
 >
 > — Koestler, quoted in *Sex, Ecology, Spirituality*, ch. 2
 
-> [!quote]- "Koestler refers to this difference as 'fixed codes and flexible strategies'"
 > Koestler refers to this difference as "fixed codes and flexible strategies"—that is,
 > relatively stable deep structures and changing surface structures within the basic
 > guidelines (or basic limiting principles) of the deep structure.

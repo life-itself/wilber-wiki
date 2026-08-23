@@ -35,7 +35,6 @@ to a nondual ground, had no way to reconcile them.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Eros is the love of the lower reaching up to the higher (Ascent); Agape is the love of the higher reaching down to the lower (Descent)."
 > In this general conception (which is how I will use the terms from now on), Eros is
 > the love of the lower reaching up to the higher (Ascent); Agape is the love of the
 > higher reaching down to the lower (Descent). In individual development, one ascends
@@ -46,7 +45,6 @@ to a nondual ground, had no way to reconcile them.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> [!quote]- "Phobos is Eros without Agape (transcendence without embrace, negation without preservation)."
 > Unintegrated Eros does not just reach up to the higher levels and transcend the lower;
 > it alienates the lower, represses the lower... and does so out of fear (Phobos), fear
 > that the lower will "drag it down"... Phobos is Eros in flight from the lower instead
@@ -56,17 +54,15 @@ to a nondual ground, had no way to reconcile them.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> [!quote]- "Thanatos is Agape without Eros."
 > Thanatos, on the other hand, is Descent divorced from Ascent. It is the lower in
 > flight from the higher, compassion gone mad: not just embracing the lower but
 > regressing to the lower, not just caressing but remaining stuck in it (fixation,
 > arrest)—cosmic reductionism run amok... Thanatos is Agape in flight from the higher
 > instead of expressing the higher. It preserves the lower but refuses to negate it...
-> In other words, Thanatos is Agape without Eros.
+> In other words, **Thanatos is Agape without Eros.**
 >
 > — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
-> [!quote]- "The two together make a vast circle of love through the universe."
 > Not only the ascending love of the lower for the higher, Plato's Eros, but also a love
 > of the higher which expressed itself in care for the lower, which could easily be
 > identified with Christian Agape. The two together make a vast circle of love through

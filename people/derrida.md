@@ -34,7 +34,6 @@ real insight about context into outright nihilism.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Derrida himself defines the notion very simply as 'the process of differentiation.'"
 > And for all the commotion surrounding Derrida's notion of *différance* (to differ and
 > defer)—some critics have used the notion to deconstruct anything they didn't happen to
 > like—Derrida himself defines the notion very simply as "the process of
@@ -44,7 +43,6 @@ real insight about context into outright nihilism.
 >
 > — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
-> [!quote]- "Derrida does not deny truth per se, but only insists that truth and meaning are context-bound"
 > This is why Jonathan Culler, perhaps the foremost interpreter of Jacques Derrida's
 > deconstruction, can point out that Derrida does *not* deny truth per se, but only
 > insists that truth and meaning are *context*-*bound* (each context being a whole that
@@ -54,7 +52,6 @@ real insight about context into outright nihilism.
 >
 > — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
-> [!quote]- "Nothing, in either the elements or the system, is anywhere ever simply present or absent." (Derrida, quoted)
 > The play of differences involves syntheses and referrals which prevent there from
 > being at any moment or in any way a simple element which is *present* in and of itself
 > and refers only to itself... This linkage means that each "element" is constituted
@@ -63,7 +60,6 @@ real insight about context into outright nihilism.
 >
 > — Derrida, quoted in *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
-> [!quote]- "The deconstructionists are very thin soup indeed... they almost always miss the punch line"
 > The deconstructionists have picked up certain of these lines of thought (mostly from
 > Hegel, whom Derrida uncharacteristically treats with much respect), but after Bradley
 > and Nagarjuna, the deconstructionists are very thin soup indeed, and, depressingly,

@@ -36,7 +36,6 @@ capacity he assigns the job of healing what rationality's differentiation of the
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "I also refer to postformal cognition as network-logic or vision-logic—Gebser called it integral-aperspectival..."
 > "Postformal" means the cognitive stages lying immediately beyond linear rationality or
 > formal operational thinking. Thus, cognitive development proceeds from sensorimotor to
 > preoperational to concrete operational to formal operational to postformal cognition...
@@ -45,7 +44,6 @@ capacity he assigns the job of healing what rationality's differentiation of the
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "Where rationality gives all possible perspectives, vision-logic adds them up into a totality..."
 > As rationality continues its quest for a truly universal or global or planetary
 > outlook, noncoercive in nature, it eventually gives way to a type of cognition I call
 > vision-logic or network-logic. Where rationality gives all possible perspectives,
@@ -54,7 +52,6 @@ capacity he assigns the job of healing what rationality's differentiation of the
 >
 > — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
 
-> [!quote]- "Vision-logic can hold in mind contradictions, it can unify opposites..."
 > What I am trying to do in this book, and what you are trying to do as you read it...
 > is use vision-logic: not just reasonably decide the individual issues, but hold them
 > together at once in mind, and judge how they all fit together as a truth-vision...
@@ -64,7 +61,6 @@ capacity he assigns the job of healing what rationality's differentiation of the
 >
 > — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
 
-> [!quote]- "Pluralistic relativism gives way to universal integralism."
 > When vision-logic matures into its middle and late phases, pluralistic relativism
 > increasingly gives way to more holistic modes of awareness, which begin to weave the
 > pluralistic voices together into beautiful tapestries of integral intent. Pluralistic

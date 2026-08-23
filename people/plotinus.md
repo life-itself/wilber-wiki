@@ -39,7 +39,6 @@ outflowing into the Many) are the same territory traversed in opposite direction
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "From Plato the torch of nonduality... passed most notably to Plotinus"
 > From Plato the torch of nonduality, the integrative vision, still intact, passed most
 > notably to Plotinus (205–270 CE), who gave it one of the most complete, most
 > compelling, most powerful statements to be found anywhere, at any time, in any form,
@@ -47,28 +46,24 @@ outflowing into the Many) are the same territory traversed in opposite direction
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "It is with Plotinus that the Great Holarchy of Being receives its first comprehensive presentation"
 > It is with Plotinus that the Great Holarchy of Being receives its first comprehensive
 > presentation, although the notion itself, of course, goes back directly to Plato and
 > Aristotle.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "The One in Plotinus is not unconscious, but superconscious; not infra-rational but supra-rational" (Inge, quoted)
 > "The One in Plotinus," says Inge, "is not unconscious, but superconscious; not
 > infra-rational but supra-rational."
 >
 > — Inge, quoted in *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "For Plotinus, all development is envelopment"
 > For Plotinus (and Aurobindo), we find that *on the Path of Ascent*—or what Plotinus
 > calls Reflux (return)—each successive level goes beyond and yet subsumes or
 > "envelops," as Plotinus says, its predecessors—the familiar concept of development as
-> successive holons... For Plotinus, all development is envelopment.
+> successive holons... **For Plotinus, all development is envelopment**.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "Spirit not only engenders all things; it is all things" (Plotinus, quoted)
 > And thus Plotinus can easily make the nondual leap: "Spirit not only engenders all
 > things; *it is all things*" (the all-important third line of the Nondual
 > realization: the Many are illusory; the One alone is Real; the One is the Many—
@@ -76,7 +71,6 @@ outflowing into the Many) are the same territory traversed in opposite direction
 >
 > — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "The World-Soul is not in the world; rather, the World is in it, embraced by it and moulded by it" (Plotinus, via Inge)
 > Thus, a typical Plotinian statement is (to use Inge's phrasing), "The World-Soul is
 > not in the world; rather, the World is in it, embraced by it and moulded by it." Or
 > again, "The Soul is not in the Body, but the Body is enveloped and penetrated by the
@@ -84,7 +78,6 @@ outflowing into the Many) are the same territory traversed in opposite direction
 >
 > — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "These systems are... the results of actual contemplative apprehensions and direct developmental phenomenology"
 > But in fact these systems are, through and through, from top to bottom, the results
 > of actual contemplative apprehensions and direct developmental phenomenology. The
 > higher levels of these systems cannot be experienced or deduced *rationally*... There

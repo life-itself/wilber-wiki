@@ -37,19 +37,17 @@ confusion so easy to fall into.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The essence of the pre/trans fallacy is itself fairly simple..."
 > Ever since I began writing on the distinctions between prerational (or prepersonal)
 > states of awareness and transrational (or transpersonal) states—what I called the
 > pre/trans fallacy—I have become more convinced than ever that this understanding is
 > absolutely crucial for grasping the nature of higher (or deeper) or truly spiritual
-> states of consciousness. The essence of the pre/trans fallacy is itself fairly simple:
+> states of consciousness. **The essence of the pre/trans fallacy is itself fairly simple**:
 > since both prerational states and transrational states are, in their own ways,
 > nonrational, they appear similar or even identical to the untutored eye.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
 
-> [!quote]- "Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy."
-> Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.
+> **Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.**
 > And the point is that they are both half right and half wrong. A good deal of neurosis
 > is indeed a fixation/regression to prerational states, states that are not to be
 > glorified. On the other hand, mystical states do indeed exist, beyond (not beneath)
@@ -57,7 +55,6 @@ confusion so easy to fall into.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
 
-> [!quote]- "Campbell wants to call the transrational realms 'mythological' as well..."
 > And here Campbell commits the classic pre/trans fallacy. Since the prerational realms
 > are definitely mythological, then Campbell wants to call the transrational realms
 > "mythological" as well, since they too are nonrational... So on the one side he lumps
@@ -67,7 +64,6 @@ confusion so easy to fall into.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
 
-> [!quote]- "Under a pre/trans fallacy and the pull of flatland, they confused postconventional spirit with preconventional nature."
 > In order to embrace Nature, the great Web of Life, they often recommended a simple
 > return to nature (or preconventional sensory awareness). Not a transcendence from
 > biosphere to noosphere to theosphere... but a movement in exactly the opposite
@@ -76,7 +72,6 @@ confusion so easy to fall into.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
 
-> [!quote]- "You have to be somebody before you can be nobody."
 > This is why the work of such theorists as Jack Engler is so important... "You have to
 > be somebody before you can be nobody." That is, it is necessary to form a stable,
 > cohesive self before one can transcend (or deconstruct) that self in pure Emptiness.

@@ -31,14 +31,12 @@ selection could replace a directional, spiritual reading of evolution.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "There was precisely nothing new or unusual in Darwin's presentation of the continuous tree of life"
 > The idea of the continuity of life—the web of life, the tree of life, the "no gaps in
 > nature" view—was at least as old as Plato and Aristotle, and... there was precisely
 > nothing new or unusual in Darwin's presentation of the continuous tree of life.
 >
 > — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
-> [!quote]- "The lasting contribution of Darwin's theory... was primarily a massive obscurantism"
 > The lasting contribution of Darwin's theory, then, was not that it discovered a
 > mechanism for macroevolution, for it did not; rather, it obscured for over a century
 > the fact that a genuine theory of evolution demands something resembling Eros. Darwin's
@@ -48,7 +46,6 @@ selection could replace a directional, spiritual reading of evolution.
 >
 > — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
 
-> [!quote]- "Darwin was never the problem. It was Carnot, Clausius, and Kelvin."
 > But it wasn't the Darwinian "revolution" that would play most decisively into the
 > hands of the Descenders. After all, the Darwinists could always be seen... as simply
 > supplying empirical evidence for a scheme already known and accepted, namely, evolution
@@ -57,7 +54,6 @@ selection could replace a directional, spiritual reading of evolution.
 >
 > — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
 
-> [!quote]- "Wallace... did not think natural selection could replace Eros; evolution was itself... 'the mode and manner of Spirit's creation'"
 > Wallace, as is well known, did *not* think natural selection could replace Eros;
 > evolution was itself, he thought, "the mode and manner of Spirit's creation," and
 > Darwin himself notoriously wavered.

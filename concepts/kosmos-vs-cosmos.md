@@ -34,7 +34,6 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The Pythagoreans introduced the term 'Kosmos'... the original meaning was the patterned nature or process of all domains of existence."
 > The Pythagoreans introduced the term "Kosmos," which we usually translate as "cosmos."
 > But the original meaning of Kosmos was the patterned nature or process of all domains
 > of existence, from matter to math to theos, and not merely the physical universe,
@@ -42,7 +41,6 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 >
 > — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
-> [!quote]- "The Kosmos contains the cosmos (or the physiosphere), the bios..., nous..., and theos..., none of them being foundational."
 > So I would like to reintroduce this term, Kosmos. The Kosmos contains the cosmos (or
 > the physiosphere), the bios (or biosphere), nous (the noosphere), and theos (the
 > theosphere or divine domain)—none of them being foundational (even spirit shades into
@@ -50,7 +48,6 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 >
 > — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
-> [!quote]- "The bios is a part of the Kosmos, but not a part of the cosmos... physics is the most fundamental, and least significant, of the sciences."
 > The bios is a part of the Kosmos, but not a part of the cosmos, and in that simple
 > move we have forever disavowed reductionism: physics is the most fundamental, and
 > least significant, of the sciences (the reason physics can't explain biology is
@@ -58,7 +55,6 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 >
 > — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
 
-> [!quote]- "It took a Kosmos of both Left and Right dimensions and reduced it to a cosmos that could be empirically described..."
 > The downside of the Enlightenment was that it took a Kosmos of both Left and Right
 > dimensions and reduced it to a cosmos that could be empirically (or monologically)
 > described: it collapsed the Left half to its correlates on the Right half. Its great

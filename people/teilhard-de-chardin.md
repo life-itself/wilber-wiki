@@ -31,13 +31,11 @@ takes the underlying complexity/consciousness correlation seriously.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "'The within, consciousness, spontaneity—three expressions for the same thing.'" (Teilhard, quoted)
 > As for Teilhard de Chardin, he put it very simply: "The within, consciousness,
 > spontaneity—three expressions for the same thing."
 >
 > — Teilhard de Chardin, quoted in *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Teilhard expressed this in his 'law of complexity and consciousness'"
 > Teilhard expressed this in his "law of complexity and consciousness"—namely, the more
 > of the former, the more of the latter. Since... evolution tends in the direction of
 > greater complexity, it amounts to the same thing to say that it tends in the direction
@@ -45,14 +43,12 @@ takes the underlying complexity/consciousness correlation seriously.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "'Refracted rear-wards along the course of evolution, consciousness displays itself...'" (Teilhard, quoted)
 > As Teilhard eloquently put it, "Refracted rear-wards along the course of evolution,
 > consciousness displays itself qualitatively as a spectrum of shifting shades whose
 > lower terms are lost in the night."
 >
 > — Teilhard de Chardin, quoted in *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Most people are familiar with Teilhard de Chardin's ultimate omega point"
 > And most people are familiar with Teilhard de Chardin's ultimate omega point, the
 > resurrection of Christ consciousness in each and all, which, like all omega points, is
 > maintained to be the purpose of history and evolution itself.

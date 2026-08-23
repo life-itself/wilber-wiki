@@ -35,13 +35,11 @@ regressive, undifferentiated state rather than genuine integration.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The second part of the book therefore looks at that which prevents us from seeing the holistic Kosmos. It looks at what I call flatland."
 > The second part of the book therefore looks at that which prevents us from seeing the
 > holistic Kosmos. It looks at what I call flatland.
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "They reduce a four-quadrant holism (or Kosmic holism) to merely a Right-Hand holism, a flatland holism."
 > What these systems and "holistic" theorists don't seem to understand is that while
 > they have indeed avoided gross reductionism—and for that are to be highly praised—they
 > are nonetheless (and apparently unknown to them) the exemplars of subtle reductionism.
@@ -52,7 +50,6 @@ regressive, undifferentiated state rather than genuine integration.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Compassion is better than murder, but quarks are not better than photons..."
 > All of that can still be heartily embraced by the subtle reductionist; it's just that
 > all holarchies of quality have been lost entirely in holarchies of quantity, and all
 > gradations of interior depth have been replaced by gradations of meaningless
@@ -62,7 +59,6 @@ regressive, undifferentiated state rather than genuine integration.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Not 'Where am I situated in the Kosmos?' but 'How can I function better in the cosmos?'"
 > Similarly, personal integrity and intentions (UL) are reduced to healthy brain
 > functioning (UR), to the now rampant model of biological psychiatry (one is depressed,
 > not if one's life becomes meaningless or lacks values, but if one's neurotransmitters
@@ -72,7 +68,6 @@ regressive, undifferentiated state rather than genuine integration.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "All values become equalized and homogenized in a flatland devoid of individual values or identities..."
 > Pathological heterarchy means not union but fusion; not integration but
 > indissociation; not relating but dissolving. All values become equalized and
 > homogenized in a flatland devoid of individual values or identities; nothing can be

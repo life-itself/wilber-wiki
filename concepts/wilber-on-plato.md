@@ -33,7 +33,6 @@ transcendence.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "It is not something that can be put into words... No treatise by me concerning it exists or ever will exist." (Plato, Seventh Epistle)
 > But this much at any rate I can affirm about any present or future writers who
 > pretend to knowledge of the matters with which I concern myself [mystical knowledge of
 > the One]; in my judgement it is impossible that they should have any understanding of
@@ -45,7 +44,6 @@ transcendence.
 > — Plato, *Seventh Epistle*, quoted in *Sex, Ecology, Spirituality*, "The Way Up Is the
 > Way Down"
 
-> [!quote]- "So much of our Western tradition is supposed to be a series of footnotes to Plato... the crucial book... was never written."
 > IT HAS ALWAYS struck me as odd that so much of our Western tradition is supposed to be
 > a series of footnotes to Plato, and yet the crucial book to which we are all
 > footnotes... was never written. "No treatise by me concerning it exists or ever will
@@ -53,7 +51,6 @@ transcendence.
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
 
-> [!quote]- "Zeno (and Parmenides) might have been attempting... a direct pointing to reality freed of all differentiating conceptualizations." (footnote)
 > Reading the remaining fragments of Parmenides, one gets the strongest impression that
 > he had directly glimpsed the causal, formless "One," against which all manifest
 > objects are fleeting and ultimately unreal shadows... If we take his assertion that
@@ -66,7 +63,6 @@ transcendence.
 >
 > — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down" (footnote)
 
-> [!quote]- "The entire manifest world—this world—Plato calls a 'visible, sensible God.'"
 > The manifest realm, far from being a world of shadows in the Cave, is now seen as the
 > realm and very embodiment of the Radiance of Spirit itself, suffused with Goodness and
 > with Love... The entire manifest world—this world—Plato calls a "visible, sensible

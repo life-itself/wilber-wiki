@@ -38,7 +38,6 @@ it.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy"
 > Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans
 > fallacy. And the point is that they are *both* half right and half wrong. A good
 > deal of neurosis is indeed a fixation/regression to prerational states, states that
@@ -47,14 +46,12 @@ it.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "Jung and his followers... are forced to read a deeply transpersonal and spiritual status into states that are merely indissociated"
 > Jung and his followers, of course, often take this route, and are forced to read a
 > deeply transpersonal and spiritual status into states that are merely indissociated
 > and undifferentiated and actually lacking any sort of integration at all.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5
 
-> [!quote]- "Freud was in complete agreement with Jung about the existence of this archaic heritage"
 > This directly brings us... to the work of Carl Jung and his conclusion that the
 > essential forms and motifs of the world's great mythologies—the "archaic forms" or
 > "archetypes"—are collectively inherited in the individual psyche of each of us. It is
@@ -63,7 +60,6 @@ it.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "As for these 'archetypes,' they lie in the direction of downward, not upward"
 > But as for the images and symbols and early concepts themselves, as for these
 > "archetypes," they lie in the direction of downward, not upward (shallower, not
 > deeper). This is why, I believe, however Jung variously defined the archetypes, he
@@ -72,14 +68,12 @@ it.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "The deeper layers of the psyche lose their individual uniqueness as they retreat farther and farther into darkness" (Jung, quoted)
 > Jung: "The deeper layers of the psyche lose their individual uniqueness as they
 > retreat farther and farther into darkness. 'Lower down' they become increasingly
 > extinguished in the body's materiality, i.e., in chemical substances."
 >
 > — Jung, quoted in *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "It is altogether necessary to contact and befriend them, but it is finally necessary to differentiate and individuate from them"
 > And this, I believe, is behind Jung's dual stance toward the archetypes: it is
 > altogether necessary to contact and befriend them, but it is finally necessary to
 > *differentiate* and *individuate* from them, break them of their power over us. In

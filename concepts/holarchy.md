@@ -31,7 +31,6 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Holons emerge holarchically... organisms contain cells, but not vice versa..."
 > 4. Holons emerge holarchically. That is, as a series of increasing whole/parts.
 > Organisms contain cells, but not vice versa; cells contain molecules, but not vice
 > versa; molecules contain atoms, but not vice versa. And it is that not vice versa, at
@@ -44,7 +43,6 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 4)
 
-> [!quote]- "The number of levels which a hierarchy comprises determines whether it is 'shallow' or 'deep'..."
 > "The number of levels which a hierarchy comprises determines whether it is 'shallow'
 > or 'deep'; and the number of holons on any given level we shall call its 'span.'" For
 > this example, let us arbitrarily assign atoms a depth of three (they contain as
@@ -55,7 +53,6 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 7)
 
-> [!quote]- "Each successive level of evolution produces GREATER depth and LESS span."
 > The greater the depth of a holon, the more precarious is its existence, since its
 > existence depends also on the existence of a whole series of other holons internal to
 > it. And since the lower holons are components of the higher, there physically cannot
@@ -65,7 +62,6 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 8)
 
-> [!quote]- "Changes in the horizontal dimension I will call translation, and changes in the vertical dimension I will call transformation."
 > Agency and communion (or self-preservation and self-accommodation) refer to changes
 > in the horizontal dimension; self-transcendence and self-dissolution refer to changes
 > in the vertical dimension. So we can introduce a few more simple definitions: changes
@@ -79,7 +75,6 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (following tenet 8)
 
-> [!quote]- "Holarchies coevolve."
 > Holons do not evolve alone, because there are no alone holons (there are only fields
 > within fields within fields). This principle is often referred to as coevolution,
 > which simply means that the "unit" of evolution is not an isolated holon (individual

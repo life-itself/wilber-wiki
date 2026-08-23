@@ -35,7 +35,6 @@ to do it without sliding into domination.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "An important distinction should be made between domination and actualization hierarchies." (Riane Eisler, quoted by Wilber)
 > Thus Riane Eisler, herself a rather staunch champion of heterarchy, nonetheless
 > emphatically notes that "an important distinction should be made between domination
 > and actualization hierarchies. The term domination hierarchies describes
@@ -48,7 +47,6 @@ to do it without sliding into domination.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects
 
-> [!quote]- "Pathological hierarchy is ontological fascism, pathological heterarchy is ontological totalitarianism"
 > Whereas pathological hierarchy is a type of ontological fascism (with the one
 > dominating the many), pathological heterarchy is a type of ontological totalitarianism
 > (with the many dominating the one)—all of which we will discuss in detail in later
@@ -58,7 +56,6 @@ to do it without sliding into domination.
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (source notes cut
 > off mid-sentence here)
 
-> [!quote]- "Virtually all deep ecologists and ecofeminists reject the notion of holarchy, for rather confused reasons, it seems to me."
 > Virtually all deep ecologists and ecofeminists reject the notion of holarchy, for
 > rather confused reasons, it seems to me. From what I can tell, they seem to think that
 > hierarchy and atomism are "bad," and that their "wholism" is the opposite of both. But
@@ -71,8 +68,7 @@ to do it without sliding into domination.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects
 
-> [!quote]- "Why is the finding of value in the world inherent in the human situation?"
-> Why is the finding of value in the world inherent in the human situation? And since,
+> **Why is the finding of value in the world inherent in the human situation?** And since,
 > even if we decide to value everything equally, that involves rejecting value systems
 > that do not, why is some sort of ranking unavoidable? Why are qualitative distinctions
 > built into the fabric of the human orientation? Why is trying to deny value itself a

@@ -37,7 +37,6 @@ excerpt that critique directly from the chapters where Wilber makes it.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Under certain circumstances matter will 'wind itself up' into states of higher order..."
 > The closing of the gap between the physiosphere and the biosphere came precisely in
 > the rather recent discovery of those subtler and originally hidden aspects of the
 > material realm that, under certain circumstances, propel themselves into states of
@@ -50,7 +49,6 @@ excerpt that critique directly from the chapters where Wilber makes it.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Web of Life
 
-> [!quote]- "The sciences of complexity — including General System Theory, cybernetics, nonequilibrium thermodynamics..."
 > The new sciences dealing with these "self-winding" or "self-organizing" systems are
 > known collectively as the sciences of complexity—including General System Theory
 > (Bertalanffy, Weiss), cybernetics (Wiener), nonequilibrium thermodynamics (Prigogine),
@@ -64,7 +62,6 @@ excerpt that critique directly from the chapters where Wilber makes it.
 >
 > — *Sex, Ecology, Spirituality*, Book 1: The Web of Life
 
-> [!quote]- "Everything is connected to everything else"
 > They claim, in other words, that "everything is connected to everything else"—the web
 > of life as a scientific and not just religious conclusion.
 >

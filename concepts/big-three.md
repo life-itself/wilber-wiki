@@ -37,7 +37,6 @@ already-differentiated Big Three at a higher level — a task he assigns to
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "I will refer to these as the Big Three (I, we, it)."
 > With reference to the four quadrants: because both of the Right-Hand quadrants are
 > exteriors that can be described in it-language, I will sometimes count them as one
 > major domain, the other two being the I-language of the Upper Left and the we-language
@@ -46,7 +45,6 @@ already-differentiated Big Three at a higher level — a task he assigns to
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "Plato's the True... the Good... and the Beautiful. The Big Three are likewise Kant's three critiques..."
 > In the broadest sense this is Plato's the True (or propositional truth referring to an
 > objective state of affairs, it), the Good (or cultural justice and appropriateness,
 > we), and the Beautiful (or the individual-aesthetic dimension, I). The Big Three are
@@ -56,7 +54,6 @@ already-differentiated Big Three at a higher level — a task he assigns to
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "The differentiation of the Big Three thus degenerated... into the dissociation of the Big Three..."
 > The differentiation of the Big Three thus degenerated, by the end of the eighteenth
 > century, into the dissociation of the Big Three (a point made by Habermas)—which in
 > turn allowed the Big Three to be rudely reduced to the Big One of it-language: the
@@ -66,7 +63,6 @@ already-differentiated Big Three at a higher level — a task he assigns to
 >
 > — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
 
-> [!quote]- "What modernity differentiated, postmodernity must integrate."
 > What rationality had put asunder, vision-logic would unite. That, at any rate, is the
 > potential and the promise and the struggle of postmodernity. What modernity
 > differentiated, postmodernity must integrate. And if rationality did the

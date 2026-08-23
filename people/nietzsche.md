@@ -32,13 +32,11 @@ of.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "It soon came to be summarized in Nietzsche's famous dictum, 'God is dead.'"
 > "No more myths!" was the philosophical battle cry of an entire age, and it soon came
 > to be summarized in Nietzsche's famous dictum, "God is dead."
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
-> [!quote]- "The more one examines the motives—what Nietzsche would call the 'genealogy'—of these theories, the stranger they appear" (Taylor, quoted)
 > "The more one examines the motives—what Nietzsche would call the 'genealogy'—of these
 > theories, the stranger they appear. It seems that they are motivated by the strongest
 > moral ideals, such as freedom, altruism, and universalism... And yet what these ideals
@@ -46,7 +44,6 @@ of.
 >
 > — Charles Taylor, quoted in *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
-> [!quote]- "The mystical openings found even in Nietzsche and Bataille and Derrida"
 > Depths that range from Heidegger's clearing or opening (the pure *transcendens*), to
 > hermeneutics' restless search for the depths, to the mystical openings found even in
 > Nietzsche and Bataille and Derrida and, yes, in Foucault's intense search for limit
@@ -54,7 +51,6 @@ of.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
-> [!quote]- "The line then runs from Nietzsche to Bergson... Heidegger and Sartre, and to Whitehead" (Tillich, quoted)
 > In his idea of Eros as unlimited activity, [Schelling] set off a whole line of "will"
 > theorists, from Schopenhauer to Bergson to Nietzsche. Paul Tillich traces this line of
 > influence: "The most important pupil of Schopenhauer was Nietzsche. The line then runs

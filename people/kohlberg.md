@@ -28,15 +28,13 @@ developmental logic playing out across many domains of the person.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Not everybody agrees with the details of Lawrence Kohlberg's seven moral stages"
-> Not everybody agrees with the details of Lawrence Kohlberg's seven moral stages, nor
+> **Not everybody agrees with the details of Lawrence Kohlberg's seven moral stages**, nor
 > with the details of Carol Gilligan's reworking of Kohlberg's scheme. But there is
 > general and ample agreement that human moral development goes through at least three
 > broad stages.
 >
 > — *Sex, Ecology, Spirituality*, ch. 1
 
-> [!quote]- "Gilligan ... accepts Kohlberg's general three-stage or three-tiered hierarchical scheme"
 > It is sometimes said that Carol Gilligan denied, not just the specific nature of the
 > stages of Kohlberg's scheme, but his entire hierarchical approach. This is simply not
 > true. Gilligan, in fact, accepts Kohlberg's general three-stage or three-tiered
@@ -45,14 +43,12 @@ developmental logic playing out across many domains of the person.
 >
 > — *Sex, Ecology, Spirituality*, ch. 2
 
-> [!quote]- "Kohlberg and Gilligan: egocentric to sociocentric to worldcentric reason"
 > We see it in Marx... We see it in Piaget... Kohlberg and Gilligan: egocentric to
 > sociocentric to worldcentric reason. Hegel: Self-positing Spirit returns to itself in
 > the form of global Reason.
 >
 > — *Sex, Ecology, Spirituality*, ch. 8
 
-> [!quote]- "Thus Kohlberg, Gilligan, and Habermas ... all refer to this general stage as postconventional"
 > Thus Kohlberg, Gilligan, and Habermas (to name a few) all refer to this general stage
 > as *postconventional* (which doesn't mean postcultural or postsocial, but simply
 > postconformist in some significant ways). Socrates versus Athens. Martin Luther King,

@@ -42,8 +42,7 @@ throughout the book.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Thus we have four major quadrants or four major aspects to each and every holon."
-> Thus we have four major quadrants or four major aspects to each and every holon. The
+> **Thus we have four major quadrants or four major aspects to each and every holon.** The
 > Upper-Right (UR) is the exterior form or structure of an individual holon... Which
 > would be the Upper-Left (UL) quadrant. This quadrant—the interior form of an
 > individual holon—runs from the center to prehension, sensation, impulse, image,
@@ -54,7 +53,6 @@ throughout the book.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "No holon simply exists in one of the four quadrants; each holon has four quadrants."
 > There are important truths in both the Left- and Right-Hand approaches, and both are
 > required for a balanced or "all-quadrant" view. My position is that every holon has
 > (at least) these four aspects or four dimensions (or four "quadrants") of its
@@ -64,7 +62,6 @@ throughout the book.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "They don't reduce everything to atoms; they reduce everything in the Left-Hand to a Right-Hand description..."
 > What these systems and "holistic" theorists don't seem to understand is that while
 > they have indeed avoided gross reductionism—and for that are to be highly praised—they
 > are nonetheless (and apparently unknown to them) the exemplars of subtle reductionism.
@@ -74,7 +71,6 @@ throughout the book.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
 
-> [!quote]- "My 'single' thought... is a holon with four inseparable aspects (intentional, behavioral, cultural, and social)..."
 > The point of this overall example is simply that my "single" thought, the original
 > holon, is not really a single thought as such, but rather a holon with four
 > inseparable aspects (intentional, behavioral, cultural, and social), each with its own

@@ -35,7 +35,6 @@ postmodern lineage.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Dread, as Heidegger said, is the authentic response of the existential (centauric) being"
 > As vision-logic adds up all the possibilities given to the mind's eye, it eventually
 > reaches a dismal conclusion: personal life is a brief spark in the cosmic void... dread,
 > as Heidegger said, is the authentic response of the existential (centauric) being, a
@@ -45,14 +44,12 @@ postmodern lineage.
 >
 > — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
 
-> [!quote]- "The critique by Heidegger, Gebser" — the pre-articulate worldview beneath language
 > Linguistic structures aren't really *that* autonomous, because they exist only in the
 > context of pre-articulate worldviews that use language without language ever
 > registering that fact (the critique by Heidegger, Gebser).
 >
 > — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
 
-> [!quote]- "The last-named is also a 'pioneer' of poststructuralism"
 > He particularly focuses on Bergson, Husserl, and Heidegger, although he had some sharp
 > criticisms of them as well (the last-named is also a "pioneer" of poststructuralism,
 > and his notion of the *Destruktion* of rationalist ontology appears in Derrida as
@@ -60,11 +57,10 @@ postmodern lineage.
 >
 > — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
 
-> [!quote]- "Heidegger's centauric being-in-the-world (also an attempt to reweave the fragments)"
 > This is the postmodern *integrative vision* we have mentioned often before, in
 > connection with Gebser ("integral-aperspectival"), Habermas (whose theory of
 > communicative action is specifically designed to integrate the Big Three), and
-> Heidegger's centauric being-in-the-world (also an attempt to reweave the fragments).
+> **Heidegger's centauric being-in-the-world (also an attempt to reweave the fragments)**.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 

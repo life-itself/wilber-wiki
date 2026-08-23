@@ -30,33 +30,28 @@ an emergent add-on but a dimension present at every level of the Kosmos.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "This is what Whitehead referred to as creativity"
 > This is what Whitehead referred to as *creativity* (which he called "the ultimate
 > category"—the category necessary to understand *any* other category), and what
 > Jantsch and Waddington call *self-transcendence*.
 >
 > — *Sex, Ecology, Spirituality*, ch. 2
 
-> [!quote]- "'The many become one and are increased by one'"
 > This is Whitehead's famous dictum: "The many become one and are increased by one."
 >
 > — *Sex, Ecology, Spirituality*, ch. 2
 
-> [!quote]- "Whitehead uses 'prehension' to describe the contact ... by any subject"
 > Whitehead uses "prehension" to describe the contact and thus "feeling" of an object by
 > any subject, no matter how "primitive," including atoms (thus his famous statement,
 > "Biology is the study of big organisms, physics the study of little organisms").
 >
 > — *Sex, Ecology, Spirituality*, ch. 4
 
-> [!quote]- "'A dull affair, soundless, scentless, colourless'"
 > As Whitehead's famous summary has it, the cosmos is now "a dull affair, soundless,
 > scentless, colourless; merely the hurrying of material, endlessly, meaninglessly."
 > (To which he added, "Thereby, modern philosophy has been ruined.")
 >
 > — Whitehead, quoted in *Sex, Ecology, Spirituality*, ch. 12
 
-> [!quote]- "Hegel ... Schelling, Whitehead, and a few others"
 > Hegel was one of the first great philosophers of vision-logic, as were Schelling,
 > Whitehead, and a few others we will explore later; and not just because of their
 > systematic wholeness—that had been attempted before—but because of their explicit

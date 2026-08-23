@@ -32,7 +32,6 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Weber... differentiated between purposive-rationality... formal rationality... and intersubjective or practical rationality"
 > The word *rational* is an impossible label; it means a million things to a million
 > people... Weber, for example, differentiated between purposive-rationality (such as
 > scientific-technological knowledge), formal rationality (such as mathematics), and
@@ -40,7 +39,6 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 >
 > — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
 
-> [!quote]- "'Cultural modernity's specific dignity is constituted by what Max Weber called the differentiation of the value spheres...'"
 > We have seen that one of the great defining marks of modernity—what has been called
 > its genuine *dignity*—was the clear differentiation of the Big Three, the
 > differentiation of science (it), morals (we), and art (I)... "Cultural modernity's
@@ -49,7 +47,6 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 >
 > — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
 
-> [!quote]- "That is a short summary of the hermeneutic program from Wilhelm Dilthey and Weber and Heidegger"
 > To understand and articulate this in a sociological fashion... I must look into the
 > whole network of shared social practices and the "background unconscious" of
 > linguistically... structured meanings... (That is a short summary of the hermeneutic

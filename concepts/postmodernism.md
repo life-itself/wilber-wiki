@@ -37,7 +37,6 @@ just from the opposite ideological direction.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "The truths of postmodernism include constructivism... contextualism... and integral-aperspectivism."
 > As I suggested in those publications, the truths of postmodernism include
 > constructivism (the world is not just a perception but an interpretation);
 > contextualism (all truths are context-dependent, and contexts are boundless); and
@@ -48,7 +47,6 @@ just from the opposite ideological direction.
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "Postmodernism often degenerated into the nihilism and narcissism for which it is now so well known..."
 > Having heroically developed beyond a rigid universal formalism, it became suspicious of
 > any universals at all, and thus it tended to fight the emergence of universal
 > integralism with the same ferocity that it deconstructed all previous systems. It
@@ -58,7 +56,6 @@ just from the opposite ideological direction.
 >
 > — *Sex, Ecology, Spirituality*, Preface to the Second Edition
 
-> [!quote]- "What is required... is not a retreat to a predifferentiated state... what is required is the integration of the Big Three."
 > What is required, of course, is not a retreat to a predifferentiated state (that's not
 > even possible, although retro-Romantics often make the recommendation); what is
 > required is the integration of the Big Three. And that, indeed, is what might be
@@ -67,7 +64,6 @@ just from the opposite ideological direction.
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
-> [!quote]- "Deconstruction... lands it squarely in nihilism, whereas the study of nested truths leads not to nihilism but to Emptiness..."
 > The study of holarchy, in short, is the study of nested truths. Deconstruction in its
 > American form simply takes the photographic negative of that and declares any
 > approach (other than its own) to be the study of nested lies, which is precisely why

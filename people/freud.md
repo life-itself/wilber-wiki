@@ -38,7 +38,6 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 
 ## In *Sex, Ecology, Spirituality*
 
-> [!quote]- "Freud was in complete agreement with Jung about the existence of this archaic heritage"
 > It is not often realized that Freud was in complete agreement with Jung about the
 > existence of this archaic heritage. Freud was struck by the fact that individuals in
 > therapy kept reproducing essentially similar "phantasies"... "I believe that these
@@ -47,15 +46,13 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "Freud and Jung bitterly parted ways" over the nature of archetypes
-> The question then centers—and here Freud and Jung bitterly parted ways—on the nature
+> The question then centers—and here **Freud and Jung bitterly parted ways**—on the nature
 > and function of these mythic motifs, these archetypes. Are they *merely* infantile
 > and regressive (Freud), or do they also contain a rich source of spiritual wisdom
 > (Jung)? Piaget, needless to say, sided with Freud on this particular issue.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "Freud's great book The Ego and the Id was really called 'The I and the It'"
 > *Ego* is simply Latin for "I." Freud, for example, never used the term *ego*; he
 > used the German pronoun *das Ich*, or "the I," which Strachey unfortunately
 > translated as the "ego." And contrasted to "the I" was what Freud called the *Es*,
@@ -64,7 +61,6 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "Where id was, there ego shall be" — actually "Where it was, there I shall be"
 > Freud's basic aim in therapy was therefore to reunite the I and the it and thus heal
 > the split between them. His most famous statement of the goal of therapy—"Where id
 > was, there ego shall be"—actually reads, "Where it was, there I shall be." Whether
@@ -73,8 +69,7 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6
 
-> [!quote]- "Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos"
-> Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos; and
+> **Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos**; and
 > perhaps more clearly than anybody in history, he saw that so much human misery is and
 > always will be a battle between the two, and that the only solution to our suffering
 > is a union of Eros and Thanatos—and yet there is precisely nothing Freud could do
@@ -82,7 +77,6 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
 
-> [!quote]- "One of the many, and certainly one of the greatest, of the fractured footnotes to Plato"
 > Lacking the unifying Heart, the unspoken One, that joins Ascent and Descent in the
 > everlasting Circle of Redemption and Embrace, Freud simply remained as one of the
 > many, and certainly one of the greatest, of the fractured footnotes to Plato.
