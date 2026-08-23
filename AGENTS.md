@@ -20,6 +20,24 @@ in this repo. That instruction covers committing the full text to this repo; it 
 **not** by itself mean *publish it live* — see the Publishing section below before ever
 running `fl`.
 
+## Skills
+
+`skills/` holds this repo's own reusable-process skills — tool-agnostic (not
+`.claude`-specific, since this repo gets worked on from more than one agent runtime).
+Claude Code discovers them via a symlink at `.claude/skills/<name>` → `../../skills/<name>`
+(same pattern as `CLAUDE.md` → `AGENTS.md`); other runtimes should read this section and
+follow the referenced `SKILL.md` directly, since project-level skill auto-discovery isn't
+guaranteed everywhere. Add a matching symlink for any other runtime's expected skills
+path if that runtime doesn't otherwise find these.
+
+- **[`skills/add-excerpt-page/SKILL.md`](skills/add-excerpt-page/SKILL.md)** — the
+  process for adding/editing a `concepts/*.md` or `people/*.md` page: sourcing,
+  page shape, and a **mandatory** quote-verification script
+  (`skills/add-excerpt-page/scripts/verify_quotes.py`) that checks every excerpt is
+  real text from the source book, not a paraphrase or reconstruction. Built after a
+  page shipped once with a fabricated quote formatted as verbatim — read this before
+  touching either folder.
+
 ## Content structure
 
 Content lives at the repo root, not under a `content/` wrapper — deliberate, so
@@ -29,10 +47,10 @@ Flowershow can read it with no build step.
   `core: true` works also get an `## In-Depth Overview`). `works/index.md` is the full
   catalog.
 - `concepts/<slug>.md` — the concept wiki itself: a `## Wilber's View` synthesis plus
-  excerpts as foldable Obsidian callouts (`> [!quote]- teaser` / `> full passage`,
-  natively collapsible — no JS). `concepts/index.md` lists them all. Frontmatter schema:
-  `title`, `slug`, `aliases`, `category` (`core-term` vs. `wilber-on-x`), `status`,
-  `works`.
+  excerpts shown directly (no accordion — see `skills/add-excerpt-page/SKILL.md` for the
+  page shape and the mandatory quote-verification step before adding/editing one of
+  these). `concepts/index.md` lists them all. Frontmatter schema: `title`, `slug`,
+  `aliases`, `category` (`core-term` vs. `wilber-on-x`), `status`, `works`.
 - `library/` — source material concept/people pages are curated *from*, not meant to be
   read as wiki content in its own right. `1995-sex-ecology-spirituality.md` is the site
   owner's reading notes (partial, thin coverage); `1995-sex-ecology-spirituality-full-text.md`
