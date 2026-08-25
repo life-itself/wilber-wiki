@@ -118,7 +118,7 @@ rather than blocking on it. Flag if that call was wrong.
 
 ## For Rufus
 
-- Everything above is live at `wilberwiki-preview-rufuspollock.flowershow.me`.
+- Everything above is live at https://wilber.wiki (custom domain, as of 2026-08-25).
 - The annotation prototype (`annotated/ses-ch06-myth-and-archetype.md`) is worth a
   quick look before it goes further — it's a genuinely different kind of page (raw HTML
   + JS on top of markdown) from everything else in this repo, and the design choice to

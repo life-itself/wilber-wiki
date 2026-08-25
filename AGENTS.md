@@ -78,7 +78,9 @@ file so you don't need `--name` again:
 fl . --yes
 ```
 
-Run from the repo root. Site: https://wilberwiki-preview-rufuspollock.flowershow.me
+Run from the repo root. Live at the custom domain **https://wilber.wiki** (the
+Flowershow-assigned URL, https://wilberwiki-preview-rufuspollock.flowershow.me, still
+works too — same site, both point at the same deployment).
 
 **Always pass `.`, never individual files/folders.** `fl` treats whatever paths you
 give it as the *complete* authoritative set for the site — passing e.g. just
