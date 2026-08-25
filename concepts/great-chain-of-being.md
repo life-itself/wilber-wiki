@@ -78,3 +78,6 @@ without needing to invoke it as tradition or dogma.
   Chain its first comprehensive presentation
 - [[aurobindo|Sri Aurobindo]] — Wilber's Eastern counterpart to Plotinus, whose own
   holarchy is set alongside Plotinus's in figure 9-1 as independent confirmation
+- [[transpersonal-domains]] / [[psychic-subtle-causal-nondual|The Psychic, Subtle,
+  Causal, and Nondual]] — the Great Chain's territory beyond mind
+- [[waves-and-streams]] — the modern developmental vocabulary for the Chain's levels

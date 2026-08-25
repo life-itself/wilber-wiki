@@ -97,3 +97,8 @@ outflowing into the Many) are the same territory traversed in opposite direction
   language of Reflux and Efflux
 - [[freud]] — contrasted with Plotinus as a figure who saw Ascent and Descent's tension
   clearly but, unlike Plotinus, never reached the unifying One
+- [[psychic-subtle-causal-nondual|The Psychic, Subtle, Causal, and Nondual]] — Wilber
+  credits Plotinus (with Nagarjuna) as the Western source of the nondual breakthrough
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — the Ascender/Descender
+  rivalry this page's Ascent/Descent terminology falls apart into when Plotinus's
+  unifying nondual insight is lost

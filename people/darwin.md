@@ -69,3 +69,5 @@ selection could replace a directional, spiritual reading of evolution.
 - [[eros-and-agape]] — the directional drive Wilber thinks Darwinism let science forget
 - [[involution-and-evolution]] — the fuller developmental scheme Wilber sees Darwin's "evolution" as only half of
 - [[great-chain-of-being]] — the older continuity-of-life tradition Wilber says Darwin's "web of life" already belonged to
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — natural selection as the Descended alternative to any Eros-driven account of evolution
+- [[spirit-in-action]] — the Eros/Spirit-driven account of evolution Wilber contrasts with Darwin's mechanism

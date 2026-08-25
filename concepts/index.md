@@ -33,6 +33,13 @@ interesting concept than the bare term.
 | ★ [Ascent and Descent](ascent-and-descent.md) | wisdom's return to the One, compassion's embrace of the Many |
 | ★ [Eros and Agape](eros-and-agape.md) | the motive forces behind Ascent and Descent, and their pathologies |
 | ★ [Involution and Evolution](involution-and-evolution.md) | Spirit's enfolding into, and unfolding out of, the lower |
+| ★ [Waves and Streams](waves-and-streams.md) | levels of consciousness vs. the developmental lines that move through them |
+| ★ [The Psychic, Subtle, Causal, and Nondual](psychic-subtle-causal-nondual.md) | the four stages of transpersonal development beyond mind |
+| ★ [Interiority (the "Within" of holons)](interiority.md) | why every holon has an inside as well as an outside |
+| ★ [Repression](repression.md) | the noosphere's "no" carried to extremes, individual and civilizational |
+| ★ [The Ego Camp and the Eco Camp (Ascenders vs. Descenders)](ego-camp-and-eco-camp.md) | Book Two's central polemic, from Plotinus to modernity |
+| ★ [Spirit-in-Action](spirit-in-action.md) | Wilber's panentheism: Spirit as both Alpha and Omega of evolution |
+| ★ [The Transpersonal Domains](transpersonal-domains.md) | the case for contemplative knowledge as a genuine reconstructive science |
 
 ## Wilber on X
 
@@ -42,3 +49,6 @@ interesting concept than the bare term.
 | [Dominator vs. Growth Hierarchy](dominator-vs-growth-hierarchy.md) | separating hierarchy from domination |
 | [Wilber's Non-Dual Reading of Plato](wilber-on-plato.md) | Plato as mystic, not just rationalist |
 | [Wilber on Postmodernism](postmodernism.md) | its real achievement (vision-logic, pluralism) and its derailment (nihilism, narcissism) |
+| [Sex and Gender: Male and Female Advantage/Liberation](sex-and-gender.md) | Wilber's own account of sex differences in development |
+| [The Dignity and Disaster of Modernity](dignity-and-disaster-of-modernity.md) | differentiation of the value spheres vs. their dissociation |
+| [Environmental Ethics / Holonic Ecology](environmental-ethics.md) | Wilber's constructive alternative to "bioequality" |

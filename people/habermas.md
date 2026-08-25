@@ -57,3 +57,6 @@ treated as opposed, are shown agreeing.
 - [[foucault]] — allied with Habermas on the critique of instrumental reason
 - [[holons]] / [[holarchy]] — the developmental framework Habermas's stages are cited to
   support
+- [[sex-and-gender|Sex and Gender: Male and Female Advantage/Liberation]] — the
+  hominid hunting-band/family argument Wilber builds this section on directly from
+  Habermas

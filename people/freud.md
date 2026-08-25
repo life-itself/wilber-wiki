@@ -92,3 +92,6 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
   resolution Wilber says Freud never reached
 - [[pre-trans-fallacy]] — Freud is Wilber's paradigm case of the fallacy's
   "reductionist" side
+- [[repression]] — the concept Wilber extends from Freud's clinical usage to a
+  civilization-scale diagnosis
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's placement of Freud among the Descenders

@@ -87,3 +87,4 @@ there as potential all along, not a private fabrication of the individual mind.
 - [[ascent-and-descent]] — the same movement described in terms of wisdom and compassion
 - [[great-chain-of-being]] — the nested structure evolution unfolds and involution enfolds
 - [[kosmos-vs-cosmos]] — the fundamental/significant inversion involution's "minuses" produce
+- [[spirit-in-action]] — Schelling and Hegel's account of Spirit's own unfolding, the German Idealist vocabulary for this same movement

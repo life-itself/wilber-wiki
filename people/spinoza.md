@@ -86,3 +86,4 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 - [[ascent-and-descent]] — the concept page for the Ego/Eco, Ascent/Descent polarity
   Spinoza anchors on the Descent side
 - [[holons]] — the "within of things" claim Spinoza's epistemology supports
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's modern-era example of pure Descent (Spinoza's "pure Substance")

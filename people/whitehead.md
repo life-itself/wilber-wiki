@@ -68,3 +68,4 @@ an emergent add-on but a dimension present at every level of the Kosmos.
 - [[vision-logic]] — the mode of cognition Wilber credits Whitehead (with Hegel and
   Gebser) as an early philosopher of
 - [[hegel]] — grouped with Whitehead as an early philosopher of vision-logic
+- [[spirit-in-action]] — credited with the "gentle persuasion" image of God's action complementing Schelling and Hegel's account

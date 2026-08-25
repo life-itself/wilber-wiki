@@ -47,7 +47,7 @@ excerpt that critique directly from the chapters where Wilber makes it.
 > equilibrium," they tend under their own power to escape chaos by transforming it into
 > a higher and more structured order—commonly called "order out of chaos."
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Web of Life
+> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
 > The new sciences dealing with these "self-winding" or "self-organizing" systems are
 > known collectively as the sciences of complexity—including General System Theory
@@ -60,12 +60,12 @@ excerpt that critique directly from the chapters where Wilber makes it.
 > will refer to them collectively as systems theory, dynamic systems theory, or
 > evolutionary systems theory.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Web of Life
+> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
 > They claim, in other words, that "everything is connected to everything else"—the web
 > of life as a scientific and not just religious conclusion.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Web of Life
+> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
 
 ## See Also
 

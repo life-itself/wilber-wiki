@@ -77,3 +77,4 @@ already-differentiated Big Three at a higher level — a task he assigns to
 - [[vision-logic]] — the cognitive mode Wilber credits with the capacity to integrate the Big Three
 - [[flatland]] — the "Big One" outcome when It swallows I and We
 - [[postmodernism]] — Wilber's account of the differentiation/dissociation arc in more detail
+- [[dignity-and-disaster-of-modernity|The Dignity and Disaster of Modernity]] — the differentiation (dignity) and dissociation (disaster) of the Big Three specifically

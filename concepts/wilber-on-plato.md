@@ -41,14 +41,14 @@ transcendence.
 > devoted to this very thing does truth flash upon the soul, like a flame kindled by a
 > leaping spark. No treatise by me concerning it exists or ever will exist.
 >
-> — Plato, *Seventh Epistle*, quoted in *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — Plato, *Seventh Epistle*, quoted in *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > IT HAS ALWAYS struck me as odd that so much of our Western tradition is supposed to be
 > a series of footnotes to Plato, and yet the crucial book to which we are all
 > footnotes... was never written. "No treatise by me concerning it exists or ever will
 > exist."
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > Reading the remaining fragments of Parmenides, one gets the strongest impression that
 > he had directly glimpsed the causal, formless "One," against which all manifest
@@ -60,14 +60,14 @@ transcendence.
 > to Vedanta Hinduism, for example, we often find statements such as "that which moves
 > is not Real."
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down" (footnote)
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down" (footnote)
 
 > The manifest realm, far from being a world of shadows in the Cave, is now seen as the
 > realm and very embodiment of the Radiance of Spirit itself, suffused with Goodness and
 > with Love... The entire manifest world—this world—Plato calls a "visible, sensible
 > God."
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 ## See Also
 

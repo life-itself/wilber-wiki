@@ -74,3 +74,4 @@ solutions" don't.
 - [[dominator-vs-growth-hierarchy]] — the distinction underlying Wilber's diagnosis of
   Marxism's slide into "mythic-imperial" empire
 - [[holarchy]] — the "ground but don't reduce" principle Wilber says Marxism violates
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's placement of Marx among the Descenders

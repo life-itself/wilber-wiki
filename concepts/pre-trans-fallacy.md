@@ -87,3 +87,4 @@ confusion so easy to fall into.
 - [[dominator-vs-growth-hierarchy]] — a related confusion, between hierarchy as growth and hierarchy as domination
 - [[campbell|Joseph Campbell]] — the book's central worked example of the fallacy's "elevationist" side
 - [[freud|Freud]] / [[jung|Jung]] — Wilber's paradigm case of reductionism vs. elevationism
+- [[transpersonal-domains]] — the "personal plus, not personal minus" distinction this fallacy is a confusion of

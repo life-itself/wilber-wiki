@@ -79,3 +79,8 @@ regressive, undifferentiated state rather than genuine integration.
 - [[four-quadrants]] — the Left/Right distinction subtle reductionism erases
 - [[systems-theory]] — the science flatland co-opts while discarding its holistic promise
 - [[pre-trans-fallacy]] — a confusion flatland's blindness to interiors makes especially easy
+- [[interiority|Interiority (the "Within" of holons)]] — the argument (subtle vs. gross
+  reductionism) that this page's collapse names the outcome of
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's diagnosis that both
+  modern camps share this same flatland ground
+- [[environmental-ethics|Environmental Ethics / Holonic Ecology]] — "bioequality" as flatland applied to ecophilosophy

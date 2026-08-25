@@ -59,5 +59,6 @@ takes the underlying complexity/consciousness correlation seriously.
 ## See Also
 
 - [[four-quadrants]] — the interior/exterior distinction Wilber's Teilhard quote is enlisted to support
+- [[interiority|Interiority (the "Within" of holons)]] — the "within of things" argument Teilhard's epigraph opens
 - [[great-chain-of-being]] — the depth-tracks-consciousness claim Teilhard's "law" feeds into
 - [[involution-and-evolution]] — where Wilber situates (and gently distances himself from) omega-point, end-of-history readings of evolution

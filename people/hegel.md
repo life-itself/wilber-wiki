@@ -91,3 +91,4 @@ same forces it criticized.
   Hegel, from Nietzsche through Heidegger and Derrida
 - [[habermas]] — Wilber leans on Habermas's own account of what happened to reason
   "after Hegel"
+- [[spirit-in-action]] — Hegel and Schelling's account (with Wilber) of Spirit's own self-realizing evolution

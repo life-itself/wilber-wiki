@@ -65,3 +65,4 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 - [[big-three]] — the science/morals/art differentiation Wilber ties to Weber's "value spheres"
 - [[flatland]] — the dissociated, one-dimensional result Wilber thinks followed when Weber's differentiation went too far
 - [[habermas]] — the source through whom Wilber mostly encounters and quotes Weber
+- [[dignity-and-disaster-of-modernity|The Dignity and Disaster of Modernity]] — Weber's "differentiation of value spheres" is the source of the "dignity" half of this concept

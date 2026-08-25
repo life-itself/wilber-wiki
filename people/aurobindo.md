@@ -77,3 +77,5 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
   Aurobindo's "descent of the supermind" is cited to support
 - [[vision-logic]] — the concept page whose "classic description," per Wilber, is
   Aurobindo's
+- [[psychic-subtle-causal-nondual|The Psychic, Subtle, Causal, and Nondual]] — Wilber's
+  Eastern parallel figure for the nondual breakthrough, alongside Ramana Maharshi

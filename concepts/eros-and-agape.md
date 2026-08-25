@@ -77,3 +77,5 @@ to a nondual ground, had no way to reconcile them.
 - [[holons]] — self-transcendence (tenet 2c), the capacity Eros names dynamically
 - [[wilber-on-plato]] — the source of the Eros/Ascent reading Wilber builds on
 - [[involution-and-evolution]] — the Kosmic-scale version of the same Ascent/Descent pairing
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Phobos and Thanatos, the pathological forms of Eros and Agape, as the modern camps' respective failure modes
+- [[spirit-in-action]] — Eros as the self-organizing, self-transcending drive of Spirit itself

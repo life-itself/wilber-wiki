@@ -82,3 +82,7 @@ across levels — this page stays with what a holon *is*.
 - [[dominator-vs-growth-hierarchy]] — what can go wrong when holarchy turns pathological
 - [[four-quadrants]] — the four irreducible aspects every holon has
 - [[eros-and-agape]] — the motive force (Eros) behind a holon's self-transcendence (tenet 2c)
+- [[interiority|Interiority (the "Within" of holons)]] — the argument that holons have an inside as well as an outside
+- [[repression]] — a pathology of tenet 2c: transcendence without preservation
+- [[environmental-ethics|Environmental Ethics / Holonic Ecology]] — the three kinds of value (Ground, intrinsic, instrumental) every holon carries
+- [[spirit-in-action]] — self-transcendence read as Spirit's own self-realization at cosmic scale

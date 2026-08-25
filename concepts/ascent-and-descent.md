@@ -30,17 +30,26 @@ reading in detail).
 
 ## In *Sex, Ecology, Spirituality*
 
+> ...while Plato emphasized *both* movements, Western civilization has been a battle royale
+> *between* these two movements, between those who wanted only to live in "this world" of
+> Manyness and those who wanted to live only in the "other world" of transcendent
+> Oneness—*both* of them equally and catastrophically forgetting the unifying Heart, the
+> unspoken Word, that integrates both Ascent and Descent and finds Spirit both transcending
+> the Many and embracing the Many.
+>
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+
 > All Truth, all Goodness, all Beauty was to be found, finally and fully, only in the
 > contemplative absorption in the eternal and unspoken One.
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > We can therefore summarize Plato's overall position in words that would apply to any
 > Nondual stance wherever it appears (as we have already seen it apply to Eckhart and
 > Ramana): flee the Many, find the One; having found the One, embrace the Many as the
 > One.
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > The Platonic and Neoplatonic traditions (and similar Nondual traditions in the East)
 > therefore maintained that the "Good" or Perfect One is expressed in and as the
@@ -48,12 +57,12 @@ reading in detail).
 > important... The path of Ascent is the path of the Good; the path of Descent is the
 > path of Goodness.
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > ...the Many returning to and embracing the One is Good, and is known as wisdom; the One
 > returning to and embracing the Many is Goodness, and is known as compassion.
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 > Wisdom knows that behind the Many is the One. Wisdom sees through the confusion of
 > shifting shapes and passing forms to the groundless Ground of all being... But if
@@ -62,7 +71,7 @@ reading in detail).
 > compassion and care, not in any condescending fashion, but rather because each being,
 > exactly as it is, is a perfect manifestation of Spirit.
 >
-> — *Sex, Ecology, Spirituality*, "The Way Up Is the Way Down"
+> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
 
 ## See Also
 
@@ -72,3 +81,6 @@ reading in detail).
 - [[involution-and-evolution]] — the same movement described in terms of Kosmic unfolding/enfolding
 - [[plotinus]] — Wilber draws the Ascent/Descent terminology directly from Plotinus's
   own language of Reflux (return) and Efflux (outflowing)
+- [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — the partisan, fractured
+  version of this same axis that Wilber traces through Western history
+- [[spirit-in-action]] — Schelling and Hegel's account of Spirit's own ascending/descending movement
