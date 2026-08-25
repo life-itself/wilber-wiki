@@ -7,11 +7,15 @@ Four active, deliberately separate work streams — don't conflate them. Each ha
 GitHub issue linking to its vision/plan doc:
 
 - [#1 Concept wiki](https://github.com/life-itself/wilber-wiki/issues/1) — the
-  concept-first index. **Priority.**
+  concept-first index. **Priority.** Now doubles as the epic: a checklist of the 17
+  done pages (with a quality note each) plus a prioritized backlog of ~28 more,
+  sourced from an actual read of the book's chapter structure (2026-08-25).
 - [#2 Annotatable reading layer](https://github.com/life-itself/wilber-wiki/issues/2) —
   showing + adding annotations on rendered book text. Separate from the concept wiki.
 - [#3 People index](https://github.com/life-itself/wilber-wiki/issues/3) — like the
-  concept wiki, but for people Wilber engages with (Habermas, Campbell, etc.).
+  concept wiki, but for people Wilber engages with (Habermas, Campbell, etc.). Also
+  now an epic checklist: the *SES* roster (23/27) is complete, so the backlog here is
+  a discussion of which second Wilber book to mine next, not more SES names.
 - [#4 Finer-grained indexing](https://github.com/life-itself/wilber-wiki/issues/4) —
   largely subsumed by #3 in practice; the general "concepts by location" version stays
   someday.
@@ -126,10 +130,11 @@ Preliminaries
 
 - Read this file, then the relevant GitHub issue(s) and the doc(s) they link to, before
   doing anything. Everything needed is in this repo already.
-- Don't run `fl .` (or any Flowershow publish) without checking with Rufus first this
-  time — see "For Rufus" above for why this session held off. Once he's given the
-  go-ahead (or if he asks you to just publish), `fl .` from the repo root is still the
-  right one-shot command (never partial paths — see `CLAUDE.md`'s Publishing section).
+- Normal publishing caution applies again (the "check before publishing if it's been a
+  while since `library/` was last reviewed" guidance in `CLAUDE.md`'s Publishing
+  section) — the extra "ask first" override from the 2026-08-23 unattended session was
+  specific to that session, not a standing rule. `fl .` from the repo root is the right
+  one-shot publish command (never partial paths).
 
 Actual work, roughly in priority order
 
@@ -141,13 +146,14 @@ Actual work, roughly in priority order
   `docs/annotation-system.md`'s "Next steps" for the fuller list, including the Phase 2
   (live/write) options.
 - **People index (#3):** essentially done for *SES*. If picked up again, the natural
-  next step is a second book (see "For Rufus" above) rather than squeezing more out of
+  next step is a second book — see issue #3's "Next: which second work to mine"
+  section for candidates — rather than squeezing more out of
   Bateson/Gould/Comte/Assagioli, whose main-text material is genuinely thin (checked
   this session).
-- **Concept wiki (#1):** 17 pages in. Two options, both reasonable: (a) another batch of
-  concepts from *SES* — skim `docs/concept-wiki-vision.md` and the full text for what's
-  still missing (boomeritis and the Big Three's individual "I/we/it" validity claims are
-  candidates, not yet checked in depth), or (b) the spot-check follow-up flagged above
-  (`dominator-vs-growth-hierarchy.md`, `systems-theory.md`, `ascent-and-descent.md`,
-  `wilber-on-plato.md` against the full text, not just the notes file they were
-  originally built from).
+- **Concept wiki (#1):** 17 pages in, all quote-verified. Two options, both reasonable:
+  (a) work through the prioritized backlog now in issue #1 (~28 candidates, tiered
+  P1-P3, each with a real chapter location — start at the top of P1), or (b) the
+  spot-check follow-up flagged above (`dominator-vs-growth-hierarchy.md`,
+  `systems-theory.md`, `ascent-and-descent.md`, `wilber-on-plato.md` — these were
+  quote-verified in the 2026-08-25 pass but not re-read against the full text as
+  carefully as the rest were during the critique pass).
