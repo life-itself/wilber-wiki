@@ -20,6 +20,15 @@ GitHub issue linking to its vision/plan doc:
   largely subsumed by #3 in practice; the general "concepts by location" version stays
   someday.
 
+Plus one inbox, not a work stream with a plan — nothing to build until Rufus retrieves
+the actual material:
+
+- [#6 Import Rufus's existing Wilber writing](https://github.com/life-itself/wilber-wiki/issues/6)
+  — notes on *Integral Spirituality*, two quadrants/AQAL articles from the Second
+  Renaissance newsletter, more in his Obsidian vault, and extensive notes on "Trump and
+  the Post-Truth World" on his personal site. An AI session can't pull these in on its
+  own — they're not in this repo or any source it has access to.
+
 ## Session 2026-08-23, part 2 — excerpt format + critique pass (Rufus back, gave feedback)
 
 Rufus reviewed the session-1 work and gave two pieces of feedback:
