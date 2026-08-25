@@ -147,11 +147,10 @@ Preliminaries
 
 Actual work, roughly in priority order
 
-- **Annotation system (#2):** the natural next step is trying the same
-  hand-written-JSON pattern on a second, longer excerpt to see whether it scales, or
-  whether the "convert Rufus's existing notes into JSON" tooling from the original plan
-  is worth building now that there's a second data point. Decide whether/how
-  `annotated/` pages should be linked from site nav. See
+- **Annotation system (#2):** a rough assessment with a prioritized gap list is now on
+  the issue (2026-08-25 comment) — top two are nearly-free (link `annotated/` pages from
+  site nav, currently only reachable by direct URL) and the real scaling test (try the
+  same hand-written-JSON pattern on a second, longer excerpt). See
   `docs/annotation-system.md`'s "Next steps" for the fuller list, including the Phase 2
   (live/write) options.
 - **People index (#3):** essentially done for *SES*. If picked up again, the natural
