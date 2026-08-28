@@ -84,3 +84,9 @@ reading in detail).
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — the partisan, fractured
   version of this same axis that Wilber traces through Western history
 - [[spirit-in-action]] — Schelling and Hegel's account of Spirit's own ascending/descending movement
+- [[the-two-gods|The Two Gods: Ascending vs. Descending Theology]] — the specific
+  theological history of Ascent and Descent hardening into two irreconcilable Gods
+- [[death-of-god|The Death of God]] — the historical endpoint of that hardening: the
+  Ascending God discarded along with the mythic God it was confused with
+- [[great-plenitude|The Great Plenitude]] — Lovejoy's principle of Plenitude, the
+  Descending half of this axis given a name and a history

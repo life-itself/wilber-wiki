@@ -70,6 +70,8 @@ without needing to invoke it as tradition or dogma.
 
 - [[systems-theory]] — the modern scientific development Wilber treats as vindicating
   this older, unifying picture
+- [[two-arrows-of-time]] — the specific physics/biology conflict Wilber says fractured
+  the Chain, and that complexity science later rejoins
 - [[holarchy]] — the structural pattern (nested, transcend-and-include levels) the
   Great Chain describes
 - [[involution-and-evolution]] — how the Great Chain gets unfolded (evolution) and enfolded (involution)
@@ -81,3 +83,6 @@ without needing to invoke it as tradition or dogma.
 - [[transpersonal-domains]] / [[psychic-subtle-causal-nondual|The Psychic, Subtle,
   Causal, and Nondual]] — the Great Chain's territory beyond mind
 - [[waves-and-streams]] — the modern developmental vocabulary for the Chain's levels
+- [[great-plenitude|The Great Plenitude]] — Lovejoy's principle of Plenitude, the
+  Descending half of the Chain that Wilber argues drove its actual reception as a
+  scientific research program

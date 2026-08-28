@@ -103,3 +103,6 @@ the scaffolding for an argument about gender, not the argument's payoff.
   gender-neutral waves rather than a wave itself
 - [[habermas|Jürgen Habermas]] — the source of the hominid hunting-band/family argument
   Wilber builds the "male advantage/female advantage" account on
+- [[sexuality-and-modernity|Sexuality and Modernity]] — Wilber's separate account of
+  sexuality (not gender roles) under modernity, driven by flatland collapse rather than
+  developmental differentiation

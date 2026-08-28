@@ -94,6 +94,8 @@ projecting human interiority onto radically different kinds of holons.
 - [[flatland]] — what results when subtle reductionism wins and interiors are lost
   entirely from the picture
 - [[systems-theory]] — the specific target of the gross/subtle reductionism distinction
+- [[limits-of-the-exterior-approach]] — the chapter immediately before this one, arguing
+  systems theory's own tenets can't reach interiority even on their own terms
 - [[right-hand-and-left-hand-paths]] — the exterior/interior split this page is the
   argument *for*
 - [[teilhard-de-chardin|Pierre Teilhard de Chardin]] — quoted as an epigraph for

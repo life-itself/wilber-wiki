@@ -88,3 +88,5 @@ confusion so easy to fall into.
 - [[campbell|Joseph Campbell]] — the book's central worked example of the fallacy's "elevationist" side
 - [[freud|Freud]] / [[jung|Jung]] — Wilber's paradigm case of reductionism vs. elevationism
 - [[transpersonal-domains]] — the "personal plus, not personal minus" distinction this fallacy is a confusion of
+- [[death-of-god|The Death of God]] — the same confusion applied at civilizational
+  scale: the Enlightenment discarding the transrational along with the prerational

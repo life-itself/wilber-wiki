@@ -99,3 +99,8 @@ reasoning as the case for that premise rather than independent argument of his o
 - [[hegel|Georg Hegel]] — co-architect, with Schelling, of this account
 - [[whitehead|Alfred North Whitehead]] — credited with the complementary image of God
   acting through "gentle persuasion"
+- [[agony-of-modernity-fichte-vs-spinoza|The Agony of Modernity: Fichte versus Spinoza]]
+  — the standoff (subjective Fichte vs. objective Spinoza) that this Schelling/Hegel
+  synthesis is Wilber's proposed answer to
+- [[legacy-of-the-idealists|The Legacy of the Idealists]] — why this synthesis, for all
+  its ambition, failed as a movement within decades of Hegel's death

@@ -93,3 +93,6 @@ to do it without sliding into domination.
 - [[flatland]] — Wilber's word for the "wholism" he accuses deep ecology/ecofeminism of defending here
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — the Eco camp's rejection of hierarchy as such is a version of this same confusion
 - [[environmental-ethics|Environmental Ethics / Holonic Ecology]] — the constructive alternative Wilber offers to "bioequality"
+- [[dialectic-of-progress|The Dialectic of Progress]] — Habermas's companion argument
+  that new stages bring new burdens, not just new goods — a related corrective to
+  simplistic hierarchy-bashing

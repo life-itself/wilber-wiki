@@ -84,3 +84,5 @@ regressive, undifferentiated state rather than genuine integration.
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's diagnosis that both
   modern camps share this same flatland ground
 - [[environmental-ethics|Environmental Ethics / Holonic Ecology]] — "bioequality" as flatland applied to ecophilosophy
+- [[sexuality-and-modernity|Sexuality and Modernity]] — Wilber's case study of what
+  flatland's collapse into mononature does to a single, obsessively over-invested topic

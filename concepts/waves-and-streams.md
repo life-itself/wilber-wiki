@@ -97,3 +97,5 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 - [[piaget|Jean Piaget]] — the cognitive stream Wilber uses as his worked example
 - [[loevinger|Jane Loevinger]] / [[kohlberg|Lawrence Kohlberg]] — researchers of other
   developmental streams (ego development, moral development) Wilber draws on
+- [[dialectic-of-progress|The Dialectic of Progress]] — Habermas's independently-derived
+  social-evolution hierarchy, which Wilber treats as confirming this same wave structure

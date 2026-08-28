@@ -88,3 +88,6 @@ just from the opposite ideological direction.
 - [[big-three]] — the differentiation/dissociation framing his critique of postmodernism relies on
 - [[pre-trans-fallacy]] — a related confusion he finds among Eco-Romantic critics of modernity
 - [[flatland]] — the outcome he thinks deconstructive postmodernism shares with scientific materialism, from the opposite direction
+- [[multiculturalism-and-transnationalism|Multiculturalism and Transnationalism]] — the
+  same "no perspective is final" vs. "all perspectives are equal" critique applied to
+  the multicultural movement specifically

@@ -73,3 +73,5 @@ transcendence.
 
 - [[ascent-and-descent]] — the general framework this reading of Plato is an instance of
 - [[eros-and-agape]] — Wilber's technical vocabulary for the same Ascent/Descent movement he reads in Plato
+- [[the-two-gods|The Two Gods: Ascending vs. Descending Theology]] — the historical
+  fracture of this Plato-Plotinus unity into two irreconcilable Gods

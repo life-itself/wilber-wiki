@@ -86,3 +86,5 @@ across levels — this page stays with what a holon *is*.
 - [[repression]] — a pathology of tenet 2c: transcendence without preservation
 - [[environmental-ethics|Environmental Ethics / Holonic Ecology]] — the three kinds of value (Ground, intrinsic, instrumental) every holon carries
 - [[spirit-in-action]] — self-transcendence read as Spirit's own self-realization at cosmic scale
+- [[micro-macro-coevolution]] — how a holon's individual (micro) and social (macro)
+  aspects coemerge rather than sitting on the same ladder

@@ -92,6 +92,8 @@ tradition would likely push back on.
 
 - [[transpersonal-domains]] — the argument that these stages are real and
   reconstructible in the first place
+- [[reconstruction-of-the-contemplative-path]] — the methodology (deep vs. surface
+  structure, Brown and Engler's comparative work) behind this four-stage reconstruction
 - [[great-chain-of-being]] — the psychic/subtle/causal/nondual sequence is the Great
   Chain's territory above mind
 - [[ascent-and-descent]] — this sequence is largely told through the Ascending path;

@@ -105,3 +105,11 @@ Psychic, Subtle, Causal, and Nondual]] for that payoff.
   beyond mind
 - [[waves-and-streams]] — the transpersonal as further waves, not a different kind of
   thing
+- [[validity-claims-of-mysticism|Validity Claims of Mysticism]] — the three-strand
+  epistemology (injunction, illumination, confirmation) this page's argument rests on,
+  covered in full
+- [[reconstruction-of-the-contemplative-path]] — the deep-structure/surface-structure
+  method used to reconstruct the stages this page introduces
+- [[legacy-of-the-idealists|The Legacy of the Idealists]] — the negative case study:
+  a movement Wilber holds to exactly this injunctive-practice standard, and judges to
+  have failed it

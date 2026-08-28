@@ -40,6 +40,9 @@ interesting concept than the bare term.
 | ★ [The Ego Camp and the Eco Camp (Ascenders vs. Descenders)](ego-camp-and-eco-camp.md) | Book Two's central polemic, from Plotinus to modernity |
 | ★ [Spirit-in-Action](spirit-in-action.md) | Wilber's panentheism: Spirit as both Alpha and Omega of evolution |
 | ★ [The Transpersonal Domains](transpersonal-domains.md) | the case for contemplative knowledge as a genuine reconstructive science |
+| ★ [Micro/Macro Coevolution](micro-macro-coevolution.md) | individual and collective holons evolve together, never separately |
+| ★ [The Reconstruction of the Contemplative Path](reconstruction-of-the-contemplative-path.md) | contemplation as a repeatable, falsifiable injunction, not a private feeling |
+| ★ [Validity Claims of Mysticism](validity-claims-of-mysticism.md) | how a contemplative claim can actually be checked |
 
 ## Wilber on X
 
@@ -52,3 +55,13 @@ interesting concept than the bare term.
 | [Sex and Gender: Male and Female Advantage/Liberation](sex-and-gender.md) | Wilber's own account of sex differences in development |
 | [The Dignity and Disaster of Modernity](dignity-and-disaster-of-modernity.md) | differentiation of the value spheres vs. their dissociation |
 | [Environmental Ethics / Holonic Ecology](environmental-ethics.md) | Wilber's constructive alternative to "bioequality" |
+| [Two Arrows of Time](two-arrows-of-time.md) | entropy's decay vs. evolution's rise — physics and biology tell opposite stories |
+| [The Limits of the Exterior Approach](limits-of-the-exterior-approach.md) | why empirical science alone can't see a holon's interior |
+| [The Two Gods: Ascending vs. Descending Theology](the-two-gods.md) | the transcendent Vedanta God vs. the immanent "schizoid God" |
+| [The Agony of Modernity: Fichte versus Spinoza](agony-of-modernity-fichte-vs-spinoza.md) | Ascending idealism vs. Descending pantheism as a named 19th-century split |
+| [The Death of God](death-of-god.md) | secularization as the Descended camp's historical triumph |
+| [The Great Plenitude](great-plenitude.md) | Lovejoy's principle as a research program for the Great Chain |
+| [The Legacy of the Idealists](legacy-of-the-idealists.md) | why German Idealism collapsed as a movement |
+| [Sexuality and Modernity](sexuality-and-modernity.md) | Wilber's argument about sex under modernity's dissociation |
+| [Multiculturalism and Transnationalism](multiculturalism-and-transnationalism.md) | Wilber's read on these as developmental-stage phenomena |
+| [The Dialectic of Progress](dialectic-of-progress.md) | every developmental stage solves old problems and creates new ones |

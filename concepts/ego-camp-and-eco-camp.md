@@ -112,3 +112,10 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 - [[marx|Karl Marx]] — a Descender in Wilber's account, materialism without a transcendent dimension
 - [[darwin|Charles Darwin]] — natural selection as the Descended alternative to any Eros-driven account of evolution
 - [[freud|Sigmund Freud]] — an avowed Descender in Wilber's reading, notoriously hostile to anything "oceanic"
+- [[agony-of-modernity-fichte-vs-spinoza|The Agony of Modernity: Fichte versus Spinoza]]
+  — this same rivalry's precise 19th-century philosophical crystallization, in Fichte's
+  Pure Ego versus Spinoza's Absolute Substance
+- [[death-of-god|The Death of God]] — the historical victory of the Descenders that sets
+  up this rivalry's modern, secular form
+- [[sexuality-and-modernity|Sexuality and Modernity]] — where Wilber says the Ego and Eco
+  camps' otherwise opposed interests secretly converge
