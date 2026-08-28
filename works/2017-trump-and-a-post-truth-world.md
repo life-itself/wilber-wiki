@@ -25,4 +25,6 @@ lens of stage regression/reaction.
 
 ## Notes
 
-_(Space for personal notes and annotations. Empty for now.)_
+[Rufus's notes on *Trump and a Post-Truth World*](../notes/2020-trump-and-post-truth-world-notes.md) —
+a detailed section-by-section review, including where he agrees, pushes back, and
+connects it to his own writing on post-truth and populism.

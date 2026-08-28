@@ -56,6 +56,15 @@ Jung, Joseph Campbell, and more, each with Wilber's take plus chapter-cited exce
 
 </div>
 
+<div class="rounded-xl border p-5">
+
+### [Rufus's Notes →](notes/index.md)
+
+Rufus's own reading notes and reviews of Wilber's books, distinct from the curated
+concept/people wiki above.
+
+</div>
+
 </div>
 
 ## The vision

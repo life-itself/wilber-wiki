@@ -60,4 +60,6 @@ responsibly* as much as it is a restatement of the theory itself.
 
 ## Notes
 
-_(Space for personal notes and annotations. Empty for now.)_
+[Rufus's notes on *Integral Spirituality*](../notes/2019-integral-spirituality-notes.md) —
+reading notes and commentary, including AQAL, the Wilber-Combs lattice, and how the book
+connects to Life Itself's own focus on culture.
