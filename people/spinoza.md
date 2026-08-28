@@ -87,3 +87,7 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
   Spinoza anchors on the Descent side
 - [[holons]] — the "within of things" claim Spinoza's epistemology supports
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's modern-era example of pure Descent (Spinoza's "pure Substance")
+- [[agony-of-modernity-fichte-vs-spinoza|The Agony of Modernity: Fichte versus Spinoza]]
+  — the specific philosophical showdown this page's "pure Descent" role is drawn from
+- [[the-two-gods|The Two Gods: Ascending vs. Descending Theology]] — Spinoza's place in
+  the "Western Vedanta" lineage Wilber traces from Augustine

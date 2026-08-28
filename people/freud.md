@@ -95,3 +95,6 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 - [[repression]] — the concept Wilber extends from Freud's clinical usage to a
   civilization-scale diagnosis
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's placement of Freud among the Descenders
+- [[sexuality-and-modernity|Sexuality and Modernity]] — Wilber's fuller argument that
+  psychoanalysis, despite calling itself "depth psychology," works only the shallowest
+  layer of the self

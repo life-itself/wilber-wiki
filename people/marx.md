@@ -75,3 +75,5 @@ solutions" don't.
   Marxism's slide into "mythic-imperial" empire
 - [[holarchy]] — the "ground but don't reduce" principle Wilber says Marxism violates
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — Wilber's placement of Marx among the Descenders
+- [[legacy-of-the-idealists|The Legacy of the Idealists]] — the movement, via Feuerbach,
+  Marx and Engels helped finish off, clearing the field for their own materialism

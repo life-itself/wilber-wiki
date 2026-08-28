@@ -92,3 +92,9 @@ same forces it criticized.
 - [[habermas]] — Wilber leans on Habermas's own account of what happened to reason
   "after Hegel"
 - [[spirit-in-action]] — Hegel and Schelling's account (with Wilber) of Spirit's own self-realizing evolution
+- [[agony-of-modernity-fichte-vs-spinoza|The Agony of Modernity: Fichte versus Spinoza]]
+  — the Fichte/Spinoza standoff Hegel inherits and (on Wilber's account) partially resolves
+- [[the-two-gods|The Two Gods: Ascending vs. Descending Theology]] — Hegel's place in
+  the "Western Vedanta" lineage Wilber traces from Augustine
+- [[legacy-of-the-idealists|The Legacy of the Idealists]] — the movement-level version of
+  this page's diagnosis (why Idealism as a whole rose and collapsed, not just Hegel)

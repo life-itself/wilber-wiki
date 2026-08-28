@@ -90,3 +90,5 @@ present in the book but less concentrated than the sympathetic material excerpte
   on the critique of objectifying instrumental reason
 - [[hegel]] — one of the long line of Enlightenment critics Wilber places Foucault
   within, from Hegel and Nietzsche through Heidegger and Derrida
+- [[sexuality-and-modernity|Sexuality and Modernity]] — the argument (repression
+  reframed as obsession) Wilber builds directly on Foucault's account here

@@ -60,3 +60,8 @@ treated as opposed, are shown agreeing.
 - [[sex-and-gender|Sex and Gender: Male and Female Advantage/Liberation]] — the
   hominid hunting-band/family argument Wilber builds this section on directly from
   Habermas
+- [[dialectic-of-progress|The Dialectic of Progress]] — Habermas's own term, quoted at
+  length, for the pattern (each stage solves old problems while creating new ones)
+  Wilber treats as independent confirmation of his developmental scheme
+- [[multiculturalism-and-transnationalism|Multiculturalism and Transnationalism]] —
+  Wilber's reading of both, via the same Habermasian stage-transition logic

@@ -102,3 +102,10 @@ outflowing into the Many) are the same territory traversed in opposite direction
 - [[ego-camp-and-eco-camp|The Ego Camp and the Eco Camp]] — the Ascender/Descender
   rivalry this page's Ascent/Descent terminology falls apart into when Plotinus's
   unifying nondual insight is lost
+- [[the-two-gods|The Two Gods: Ascending vs. Descending Theology]] — the theological
+  history of that falling-apart, from Plotinus's "One World" through Augustine's
+  Western Vedanta to two irreconcilable Gods
+- [[death-of-god|The Death of God]] — the modern endpoint of that falling-apart: the
+  Enlightenment's rejection of myth taking Plotinus's transrational Godhead down with it
+- [[great-plenitude|The Great Plenitude]] — the Descending half of Plotinus's system,
+  isolated and pressed into service as an actual scientific research program
