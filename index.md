@@ -58,10 +58,11 @@ Jung, Joseph Campbell, and more, each with Wilber's take plus chapter-cited exce
 
 <div class="rounded-xl border p-5">
 
-### [Rufus's Notes →](notes/index.md)
+### [Notes on Wilber →](notes/index.md)
 
-Rufus's own reading notes and reviews of Wilber's books, distinct from the curated
-concept/people wiki above.
+Rufus's own reading notes and reviews, plus Second Renaissance newsletter pieces on
+Integral Theory — external writing, kept distinct from the curated concept/people wiki
+above.
 
 </div>
 
