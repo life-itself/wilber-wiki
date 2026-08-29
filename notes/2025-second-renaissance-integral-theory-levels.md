@@ -1,7 +1,7 @@
 ---
 title: "Second Renaissance Newsletter: Integral Theory — Levels"
 slug: 2025-second-renaissance-integral-theory-levels
-author: Catherine Tran and Rosie Bell
+author: Rufus Pollock, Catherine Tran, and Rosie Bell
 original_date: 2025-04-23
 source_url: https://news.secondrenaissance.net/p/seeds-of-a-second-renaissance-integral-theory-levels
 works: [2006-integral-spirituality]
@@ -10,12 +10,12 @@ status: imported (Wilber/Integral section only, verbatim; newsletter cruft trimm
 
 # Second Renaissance Newsletter: Integral Theory — Levels
 
-From *Seeds of a Second Renaissance*, Issue 3 (April 2025) — **not Rufus's own
-writing**; authored by Catherine Tran and Rosie Bell for the newsletter. Follows on from
-[the quadrants piece](2025-second-renaissance-integral-theory-quadrants.md) the month
-before. Imported verbatim for the Integral Theory / levels content specifically; the
-newsletter's generic events, jobs board, and poem-of-the-month sections (unrelated to
-Wilber) are trimmed here — see the [full original issue](https://news.secondrenaissance.net/p/seeds-of-a-second-renaissance-integral-theory-levels)
+From *Seeds of a Second Renaissance*, Issue 3 (April 2025) — the Second Renaissance
+newsletter, authored/produced by Rufus Pollock, Catherine Tran, and Rosie Bell. Follows
+on from [the quadrants piece](2025-second-renaissance-integral-theory-quadrants.md) the
+month before. Imported verbatim for the Integral Theory / levels content specifically;
+the newsletter's generic events, jobs board, and poem-of-the-month sections (unrelated
+to Wilber) are trimmed here — see the [full original issue](https://news.secondrenaissance.net/p/seeds-of-a-second-renaissance-integral-theory-levels)
 for those.
 
 ---

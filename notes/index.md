@@ -17,10 +17,10 @@ Reading notes and reviews Rufus wrote himself, linked from the relevant
 
 ## Second Renaissance newsletter
 
-**Not Rufus's own writing** — authored by Catherine Tran and Rosie Bell for the *Seeds
-of a Second Renaissance* newsletter, which Rufus is involved with. Imported here for
-the Wilber/Integral-relevant content specifically (each note trims the newsletter's
-generic events/jobs/poetry sections, linking to the full original issue).
+Authored/produced by Rufus Pollock, Catherine Tran, and Rosie Bell for the *Seeds of a
+Second Renaissance* newsletter. Imported here for the Wilber/Integral-relevant content
+specifically (each note trims the newsletter's generic events/jobs/poetry sections,
+linking to the full original issue).
 
 | Note | Topic | Originally published |
 |---|---|---|

@@ -29,9 +29,9 @@ you're done).
   someday; subsumed by #3 in practice.
 - **[#6 Notes/materials inbox](https://github.com/life-itself/wilber-wiki/issues/6)** —
   4 external pieces imported so far into `notes/` (2 of Rufus's own book reviews, 2
-  Second Renaissance newsletter pieces on quadrants/levels — correctly attributed to
-  their actual authors, Catherine Tran and Rosie Bell, not Rufus). Still open: Rufus's
-  wider Obsidian vault (unsearched), and confirming whether a third found piece
+  Second Renaissance newsletter pieces on quadrants/levels, attributed to all three
+  people behind the newsletter — Rufus Pollock, Catherine Tran, and Rosie Bell). Still
+  open: Rufus's wider Obsidian vault (unsearched), and confirming whether a third found piece
   (*Integral Psychology*, same newsletter) is distinct or a misremembered duplicate of
   one of the two already imported.
 

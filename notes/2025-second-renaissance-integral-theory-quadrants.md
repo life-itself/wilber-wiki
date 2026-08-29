@@ -1,7 +1,7 @@
 ---
 title: "Second Renaissance Newsletter: Integral Theory — the Four Quadrant Model"
 slug: 2025-second-renaissance-integral-theory-quadrants
-author: Catherine Tran and Rosie Bell
+author: Rufus Pollock, Catherine Tran, and Rosie Bell
 original_date: 2025-03-26
 source_url: https://news.secondrenaissance.net/p/seeds-of-a-second-renaissance-integral-theory-quadrants
 works: [2006-integral-spirituality]
@@ -10,8 +10,8 @@ status: imported (Wilber/Integral section only, verbatim; newsletter cruft trimm
 
 # Second Renaissance Newsletter: Integral Theory — the Four Quadrant Model
 
-From *Seeds of a Second Renaissance*, Issue 2 (March 2025) — **not Rufus's own
-writing**; authored by Catherine Tran and Rosie Bell for the newsletter. Imported
+From *Seeds of a Second Renaissance*, Issue 2 (March 2025) — the Second Renaissance
+newsletter, authored/produced by Rufus Pollock, Catherine Tran, and Rosie Bell. Imported
 verbatim for the Integral Theory / quadrants content specifically; the newsletter's
 generic events, jobs board, and poem-of-the-month sections (unrelated to Wilber) are
 trimmed here — see the [full original issue](https://news.secondrenaissance.net/p/seeds-of-a-second-renaissance-integral-theory-quadrants)
