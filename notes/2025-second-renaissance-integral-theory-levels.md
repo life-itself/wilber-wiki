@@ -20,9 +20,6 @@ for those.
 
 ---
 
-Welcome to *Seeds of a Second Renaissance* – a monthly newsletter for explorers of
-inner-led change towards radically wiser societies.
-
 This edition continues the basic digest of Integral Theory, building on the previous
 exploration of the AQAL ("All Quadrants, All Levels") model based on Ken Wilber's
 synthesis. Today's focus is "levels": the Integral map of holonic human growth,

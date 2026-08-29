@@ -19,13 +19,6 @@ for those.
 
 ---
 
-Welcome to *Seeds of a Second Renaissance* – a monthly newsletter for explorers of
-**inner-led change towards radically wiser societies**.
-
-For both seasoned travellers and those new to these shores, each edition offers a
-bite-sized exploration of keystone ideas and thinkers whose work you may wish to know
-more deeply.
-
 ## Integral Theory: the basics
 
 This month, a very basic digest of Integral Theory – among the most pervasive ideas in
