@@ -96,3 +96,5 @@ and the "dialectic of progress" framing itself doesn't settle which reading is c
   problem, only its pathological, dominating form
 - [[pre-trans-fallacy]] — the companion confusion this dialectic is meant to guard
   against from the opposite direction (mistaking earlier stages for simpler-and-better)
+- [[primal-ecological-wisdom]] — this argument applied to one specific retro-Romantic
+  claim, that pre-modern societies possessed an ecological wisdom modernity lost

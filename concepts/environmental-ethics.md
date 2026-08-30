@@ -101,3 +101,5 @@ say) is asserted rather than worked out here.
 - [[repression]] — the civilizational-neurosis diagnosis this constructive ethics is
   meant to help resolve
 - [[flatland]] — the ontology Wilber says "bioequality" unwittingly inherits
+- [[primal-ecological-wisdom]] — Wilber's critique of the Eco-Romantic backdrop this
+  ethics is written against

@@ -1,3 +1,12 @@
+## 2026-08-30 — New concept page: The Myth of Primal Ecological Wisdom
+
+Added [The Myth of Primal Ecological Wisdom](concepts/primal-ecological-wisdom.md), on
+Wilber's argument that the Eco-Romantic claim that tribal societies possessed a lost
+"ecological wisdom" confuses indissociation (nature not yet differentiated from mind) with
+integration, and that pre-modern peoples did real ecological damage too — limited by means,
+not restrained by wisdom. Cross-linked with the pre/trans fallacy, environmental ethics,
+and the dialectic of progress.
+
 ## 2026-08-23 — Excerpts now shown directly, and a full accuracy pass
 
 The click-to-expand style used for excerpt quotes is gone — every quote across the

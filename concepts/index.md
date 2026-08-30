@@ -55,6 +55,7 @@ interesting concept than the bare term.
 | [Sex and Gender: Male and Female Advantage/Liberation](sex-and-gender.md) | Wilber's own account of sex differences in development |
 | [The Dignity and Disaster of Modernity](dignity-and-disaster-of-modernity.md) | differentiation of the value spheres vs. their dissociation |
 | [Environmental Ethics / Holonic Ecology](environmental-ethics.md) | Wilber's constructive alternative to "bioequality" |
+| [The Myth of Primal Ecological Wisdom](primal-ecological-wisdom.md) | why "tribal societies had ecological wisdom" confuses indissociation with integration |
 | [Two Arrows of Time](two-arrows-of-time.md) | entropy's decay vs. evolution's rise — physics and biology tell opposite stories |
 | [The Limits of the Exterior Approach](limits-of-the-exterior-approach.md) | why empirical science alone can't see a holon's interior |
 | [The Two Gods: Ascending vs. Descending Theology](the-two-gods.md) | the transcendent Vedanta God vs. the immanent "schizoid God" |

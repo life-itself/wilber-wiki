@@ -90,3 +90,5 @@ confusion so easy to fall into.
 - [[transpersonal-domains]] — the "personal plus, not personal minus" distinction this fallacy is a confusion of
 - [[death-of-god|The Death of God]] — the same confusion applied at civilizational
   scale: the Enlightenment discarding the transrational along with the prerational
+- [[primal-ecological-wisdom]] — the ecological special case: indissociation with
+  nature mistaken for integration with it
