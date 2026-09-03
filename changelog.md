@@ -1,3 +1,14 @@
+## 2026-09-03 — A roadmap through Wilber's ideas
+
+All 41 concepts now sit on a single visual reading path: four acts, nineteen
+numbered stops down a central spine, with optional side branches for depth and
+counterargument. There are two ways in — start at the top if you are new, or jump
+straight to a topic if you came looking for one — plus a six-stop express route for
+anyone with only an afternoon, and a panel pointing at the places Wilber's argument
+is most contested. See [the roadmap](roadmap.md).
+
+![The roadmap's central spine, with numbered stops and side branches](assets/changelog/2026-09-03-roadmap.png)
+
 ## 2026-08-30 — New concept page: The Myth of Primal Ecological Wisdom
 
 Added [The Myth of Primal Ecological Wisdom](concepts/primal-ecological-wisdom.md), on
