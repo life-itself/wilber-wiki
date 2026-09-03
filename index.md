@@ -9,15 +9,25 @@ that: instead of a concept scattered across hundreds of pages, each core idea ge
 own page, pairing a synthesis of Wilber's view with the actual passages where he makes
 the case, pulled from wherever in his work he makes it.
 
+<div class="rounded-xl border-2 p-6 mb-4">
+
+### [Start here: A Roadmap Through Ken Wilber →](roadmap.md)
+
+New to Wilber, or bounced off him before? All 41 concepts arranged in an order that
+actually builds — four acts, nineteen stops, with a six-stop express route if you only
+have an afternoon.
+
+</div>
+
 <div class="grid gap-4 sm:grid-cols-2">
 
 <div class="rounded-xl border p-5">
 
 ### [Concept Wiki →](concepts/index.md)
 
-The main event. Seventeen concepts so far — holons, holarchy, the four quadrants, the
+The main event. Forty-one concepts so far — holons, holarchy, the four quadrants, the
 Great Chain of Being, the pre/trans fallacy, and more — each with Wilber's take plus
-expandable excerpts from the source text.
+chapter-cited excerpts from the source text.
 
 </div>
 
@@ -84,9 +94,10 @@ theory's promise and limits, his account of growth versus dominator hierarchies.
 "Wilber on X" pages are frequently the more interesting entries, not an afterthought to
 the canonical vocabulary.
 
-This is an early pilot: seventeen concepts, sourced entirely from the full text of
+This is an early pilot: forty-one concepts, sourced entirely from the full text of
 *Sex, Ecology, Spirituality*, built to prove the shape of the thing before scaling out
-to the rest of his work.
+to the rest of his work. The [roadmap](roadmap.md) sequences them all into a single
+reading path.
 
 ## About this project
 
