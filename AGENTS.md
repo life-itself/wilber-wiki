@@ -63,7 +63,7 @@ Flowershow can read it with no build step.
 - `index.md` — the site's homepage (landing page). `README.md` is the short
   GitHub-facing blurb only; it isn't what renders as the site root.
 
-## Publishing / preview site
+## Publishing: two separate Flowershow sites, not one
 
 Built and deployed with [Flowershow](https://flowershow.app) — for anything Flowershow
 config/CSS/setup-related beyond what's below, install their skill rather than guessing:
@@ -71,16 +71,30 @@ config/CSS/setup-related beyond what's below, install their skill rather than gu
 `https://raw.githubusercontent.com/flowershow/skills/main/SKILL.md` directly), and see
 https://flowershow.app/docs/agents.
 
-The live preview is **`wilberwiki-preview`**, recorded in the committed `.flowershow`
-file so you don't need `--name` again:
+**These are two distinct sites with two distinct publish paths.** An earlier version of
+this doc claimed the CLI preview and **https://wilber.wiki** were "the same deployment."
+They are not — confirmed with `fl settings --name <site>` on both:
+
+| | `wilberwiki-preview` | `wilber-wiki` (production) |
+|---|---|---|
+| URL | `wilberwiki-preview-rufuspollock.flowershow.me` | **https://wilber.wiki** |
+| Updated by | `fl . --yes` from a local checkout | **pushing to `main` on GitHub** |
+| Plan | Free | Premium (search, comments) |
+| `contentExclude` enforced? | **No** — see below | **Yes** |
+
+**To update the CLI preview**, from the repo root:
 
 ```
 fl . --yes
 ```
 
-Run from the repo root. Live at the custom domain **https://wilber.wiki** (the
-Flowershow-assigned URL, https://wilberwiki-preview-rufuspollock.flowershow.me, still
-works too — same site, both point at the same deployment).
+The site name is recorded in the committed `.flowershow` file, so `--name` isn't needed.
+
+**To update production (wilber.wiki), commit and `git push origin main`.** It's
+connected to `life-itself/wilber-wiki` on GitHub and rebuilds from there — running `fl`
+does not touch it, and a local commit that hasn't been pushed will not appear on
+wilber.wiki no matter how many times `fl` is re-run. If a change looks live in the CLI
+preview but not on wilber.wiki, check `git push` first.
 
 **Always pass `.`, never individual files/folders.** `fl` treats whatever paths you
 give it as the *complete* authoritative set for the site — passing e.g. just
@@ -90,19 +104,18 @@ follow-up publish with explicit folder names instead of `.` silently flattened t
 `assets/` path prefix and broke every page route). `fl .` is the only combination
 verified to preserve correct site structure and navigation.
 
-**`config.json`'s `contentExclude` (currently `/docs`, `/library`) is NOT enforced by
-this CLI publish path.** Confirmed by direct testing: neither repo-level
-`contentExclude` nor page-level `publish: false` frontmatter has any effect when
-publishing via `fl` — that filtering is implemented only in Flowershow's GitHub-sync
-ingestion workflow, not the CLI's direct-upload path. Practical effect: on the
-`wilberwiki-preview` site, `docs/` and `library/` pages **are** reachable if you know
-the URL, even though nothing in the published content links to them. Don't treat this
-as real privacy. If/when this project gets a real production site, publishing via a
-connected GitHub repo (not the CLI) is what would actually make `contentExclude` work —
-worth revisiting **now that `library/` holds the actual full book text**, not just
-excerpts. Check with the site owner before running `fl`/publishing if it's been a while
-since `library/`'s contents were last reviewed — this isn't a hard rule, just don't
-publish reflexively without thinking about what's currently in that folder.
+**`config.json`'s `contentExclude` (currently `/docs`, `/library`) is enforced on
+production but NOT on the `wilberwiki-preview` CLI path** (see table above) — confirmed
+by direct testing on both. That filtering is implemented only in Flowershow's GitHub-sync
+ingestion workflow, which is how production builds; the CLI's direct-upload path ignores
+it entirely, and neither repo-level `contentExclude` nor page-level `publish: false`
+frontmatter changes that. Practical effect: on `wilberwiki-preview`, `docs/` and
+`library/` pages **are** reachable if you know the URL, even though nothing in the
+published content links to them and the same paths correctly 404 on wilber.wiki. Don't
+treat the CLI preview as private, even now that production is. Check with the site owner
+before running `fl`/publishing if it's been a while since `library/`'s contents were
+last reviewed — this isn't a hard rule, just don't publish reflexively without thinking
+about what's currently in that folder.
 
 ## Changelog
 
