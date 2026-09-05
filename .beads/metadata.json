@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "wilberwiki",
+  "project_id": "8853d735-fada-46a9-83db-1fc31fe8a9af"
+}
