@@ -31,3 +31,12 @@ if command -v bd >/dev/null 2>&1; then
   if [ $_bd_exit -ne 0 ]; then exit $_bd_exit; fi
 fi
 # --- END BEADS INTEGRATION v1.1.2 ---
+
+# Push Dolt beads data alongside git push. Run in the background so a temporary
+# network failure does not block the Git push; run `bd dolt push` manually when
+# you need to confirm completion before ending a session.
+if command -v bd >/dev/null 2>&1; then
+  _beads_log="$(git rev-parse --git-common-dir)/../.beads/dolt-push.log"
+  nohup bd dolt push >>"$_beads_log" 2>&1 &
+  disown 2>/dev/null || true
+fi

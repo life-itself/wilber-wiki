@@ -31,3 +31,9 @@ if command -v bd >/dev/null 2>&1; then
   if [ $_bd_exit -ne 0 ]; then exit $_bd_exit; fi
 fi
 # --- END BEADS INTEGRATION v1.1.2 ---
+
+# Pull Dolt beads data after a branch switch or fresh clone (arg $3 = 1),
+# not on a plain file checkout (arg $3 = 0). Failure does not block checkout.
+if [ "$3" = "1" ] && command -v bd >/dev/null 2>&1; then
+  bd dolt pull || echo >&2 "beads: dolt pull failed — run 'bd dolt pull' manually"
+fi

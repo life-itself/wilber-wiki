@@ -31,3 +31,9 @@ if command -v bd >/dev/null 2>&1; then
   if [ $_bd_exit -ne 0 ]; then exit $_bd_exit; fi
 fi
 # --- END BEADS INTEGRATION v1.1.2 ---
+
+# Pull Dolt beads data after every git pull, so local data doesn't go stale.
+# Failure here (e.g. offline) does not block the git pull.
+if command -v bd >/dev/null 2>&1; then
+  bd dolt pull || echo >&2 "beads: dolt pull failed — run 'bd dolt pull' manually"
+fi
