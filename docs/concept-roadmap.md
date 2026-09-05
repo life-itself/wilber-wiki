@@ -49,12 +49,6 @@ Two consequences that drove the revision:
 
 ## Framing the page must carry
 
-**This is Wilber circa 1995.** Every page is sourced from *Sex, Ecology, Spirituality* —
-the phase-4 turn in a body of work with five acknowledged phases, and he revised real
-things afterward. Presenting these ideas as timeless is the most common failure of
-popular Wilber treatments. The page carries a banner saying so, linking to
-[`bio.md`](../bio.md) and [`works/`](../works/index.md).
-
 **Two entrances, not one.** Newcomers start at stop 1. But most real arrivals are
 topical — people search *Wilber on postmodernism*, *Wilber environmental ethics*, *Wilber
 on gender*, not *holarchy*. The "Wilber on X" applications are therefore a labelled side

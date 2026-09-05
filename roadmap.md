@@ -12,9 +12,7 @@ showToc: false
 
 <h1 className="wr-title">A Roadmap Through Ken Wilber</h1>
 
-<p className="wr-lede">Wilber built a system, not a glossary &mdash; each idea leans on the ones before it, which is why picking up one of his books cold is rough going. Here are forty-one of those ideas in the order they need each other. Follow the spine top to bottom, or take the six-stop shortcut if that&rsquo;s all the time you&rsquo;ve got. And where the argument gets shaky, we say so.</p>
-
-<div className="wr-banner"><strong>This is Wilber circa 1995.</strong> Every page here is sourced from <em>Sex, Ecology, Spirituality</em> &mdash; the phase-four turn in a body of work with five acknowledged phases. He revised real things afterwards. See the <a href="/bio">biography</a> and <a href="/works">the works</a> for how his thinking moved.</div>
+<p className="wr-lede">An accessible overview and introduction to Wilber&rsquo;s work, laid out so you can work through it incrementally. Follow the spine top to bottom, or take the six-stop shortcut if that&rsquo;s all the time you&rsquo;ve got.</p>
 
 <div className="wr-panels">
   <div className="wr-panel">
