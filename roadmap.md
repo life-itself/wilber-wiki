@@ -12,7 +12,7 @@ showToc: false
 
 <h1 className="wr-title">A Roadmap Through Ken Wilber</h1>
 
-<p className="wr-lede">Forty-one ideas, in an order that actually builds. Follow the spine from top to bottom, or take the six-stop express route. Side branches are optional on a first pass.</p>
+<p className="wr-lede">Wilber built a system, not a glossary &mdash; each idea leans on the ones before it, which is why picking up one of his books cold is rough going. Here are forty-one of those ideas in the order they need each other. Follow the spine top to bottom, or take the six-stop shortcut if that&rsquo;s all the time you&rsquo;ve got. And where the argument gets shaky, we say so.</p>
 
 <div className="wr-banner"><strong>This is Wilber circa 1995.</strong> Every page here is sourced from <em>Sex, Ecology, Spirituality</em> &mdash; the phase-four turn in a body of work with five acknowledged phases. He revised real things afterwards. See the <a href="/bio">biography</a> and <a href="/works">the works</a> for how his thinking moved.</div>
 
@@ -20,13 +20,13 @@ showToc: false
   <div className="wr-panel">
     <div className="wr-panel__kicker">Entrance 1</div>
     <div className="wr-panel__title">New to Wilber?</div>
-    <p className="wr-panel__body">Start at stop 1 and walk down. If you only have an afternoon, follow the six stops marked with a star &mdash; that is a genuinely coherent minimal Wilber: the units, the map, the ladder, the diagnosis, the guardrail, the payoff.</p>
+    <p className="wr-panel__body">Start at stop 1 and work down. Only got an afternoon? The six starred stops hold together on their own &mdash; the units, the map, the ladder, the diagnosis, the guardrail, the payoff. Everything else can wait.</p>
     <a href="#act-1" className="wr-cta">Begin at the top &darr;</a>
   </div>
   <div className="wr-panel wr-panel--dashed">
     <div className="wr-panel__kicker">Entrance 2</div>
     <div className="wr-panel__title">Here for one topic?</div>
-    <p className="wr-panel__body">Most people arrive looking for Wilber on a specific subject. Go straight there &mdash; each page links back onto the spine.</p>
+    <p className="wr-panel__body">Most people show up looking for Wilber on one subject, not the whole system. Go straight there &mdash; each page links back to the spine.</p>
     <div className="wr-chips">
     <a href="/concepts/postmodernism" className="wr-chip">Postmodernism</a>
     <a href="/concepts/environmental-ethics" className="wr-chip">Environmental ethics</a>
@@ -40,7 +40,7 @@ showToc: false
 <div className="wr-panel wr-panel--wide">
   <div className="wr-panel__kicker">If you are unconvinced</div>
   <div className="wr-panel__title">Where Wilber is most contested</div>
-  <p className="wr-panel__body">Every page on this wiki says plainly what is strong in Wilber&rsquo;s argument and what is weak. These are the six where the objections bite hardest &mdash; a fair place to start if you suspect the whole thing is too neat.</p>
+  <p className="wr-panel__body">Every page on this wiki says plainly what holds up in Wilber&rsquo;s argument and what doesn&rsquo;t. These are the six where the objections bite hardest &mdash; a fair place to start if the whole thing sounds too neat to you.</p>
   <div className="wr-chips">
     <a href="/concepts/pre-trans-fallacy" className="wr-chip wr-chip--solid">Pre/trans fallacy</a>
     <a href="/concepts/dominator-vs-growth-hierarchy" className="wr-chip wr-chip--solid">Hierarchy</a>
@@ -138,7 +138,7 @@ showToc: false
     <div className="wr-node__head">
       <a href="/concepts/interiority" className="wr-node__title">Interiority</a>
     </div>
-    <p className="wr-node__body">Every holon has an inside as well as an outside. The single move that separates Wilber from every systems theorist he otherwise resembles.</p>
+    <p className="wr-node__body">Every holon has an inside as well as an outside &mdash; the one move that splits Wilber from the systems theorists he otherwise sounds just like.</p>
   </div>
   <div className="wr-branches wr-branches--right">
     <a href="/concepts/limits-of-the-exterior-approach" className="wr-branch">
@@ -154,7 +154,7 @@ showToc: false
   <div className="wr-act__band">
     <div className="wr-act__num">Act II</div>
     <div className="wr-act__title">Four faces of every moment</div>
-    <p className="wr-act__sub">Interiority plus holarchy gives you a grid. The grid is the famous part &mdash; this is what people mean by AQAL. <em>Each facet requires its own mode of knowing.</em></p>
+    <p className="wr-act__sub">Interiority plus holarchy gives you a grid. The grid is the famous part &mdash; it&rsquo;s what people mean by AQAL, and each face of it calls for its own way of knowing.</p>
   </div>
 </div>
 
@@ -167,7 +167,7 @@ showToc: false
       <a href="/concepts/four-quadrants" className="wr-node__title">The Four Quadrants</a>
       <span className="wr-star">&#9733;</span>
     </div>
-    <p className="wr-node__body">Interior/exterior by individual/collective. AQAL&rsquo;s load-bearing diagram, and the one picture most people have seen even if they have read nothing.</p>
+    <p className="wr-node__body">Interior/exterior &times; individual/collective. AQAL&rsquo;s load-bearing diagram, and the one picture most people have seen even if they&rsquo;ve read nothing else.</p>
   </div>
   <div className="wr-branches wr-branches--right">
     <a href="/concepts/micro-macro-coevolution" className="wr-branch">
@@ -200,7 +200,7 @@ showToc: false
       <a href="/concepts/flatland" className="wr-node__title">Flatland</a>
       <span className="wr-star">&#9733;</span>
     </div>
-    <p className="wr-node__body">The diagnosis &mdash; and only nameable now you have the grid. Modernity collapsed the Left-Hand quadrants into the Right, re-describing everything interior as an &ldquo;it.&rdquo;</p>
+    <p className="wr-node__body">The diagnosis, and you can only name it once you&rsquo;ve got the grid: modernity collapsed the Left-Hand quadrants into the Right, re-describing everything interior as an &ldquo;it.&rdquo;</p>
   </div>
   <div className="wr-branches wr-branches--right">
     <a href="/concepts/dignity-and-disaster-of-modernity" className="wr-branch">
@@ -408,7 +408,7 @@ showToc: false
 
 <div className="wr-outro">
   <div className="wr-outro__title">You reached the end of the spine</div>
-  <p className="wr-outro__body">19 stops, four acts, and one argument: that the universe has an inside, that insides develop, and that modernity built a civilization which cannot see either. What Wilber does with that claim is the rest of the wiki.</p>
+  <p className="wr-outro__body">19 stops, four acts, one argument: the universe has an inside, insides develop, and modernity built a civilization that can&rsquo;t see either one. Everything else in the wiki is what Wilber does with that claim.</p>
   <div className="wr-outro__links">
     <a href="/concepts" className="wr-cta">All 41 concepts</a>
     <a href="/people" className="wr-chip">The thinkers he argues with</a>

@@ -206,7 +206,7 @@ enfolded itself into matter.
 
 ## Side entrance: Wilber on X
 
-Applications, not prerequisites — and the way most real readers actually arrive. Placed
+Applications, not prerequisites — and the way most real readers arrive. Placed
 at the **top** of the diagram as a labelled alternate entrance, with a route back to the
 spine.
 

@@ -52,8 +52,8 @@ ACTS = [
                   "Lovejoy&rsquo;s principle as a research programme"),
              ]),
             ("interiority", "Interiority",
-             "Every holon has an inside as well as an outside. The single move that separates "
-             "Wilber from every systems theorist he otherwise resembles.", False, None, [
+             "Every holon has an inside as well as an outside &mdash; the one move that splits "
+             "Wilber from the systems theorists he otherwise sounds just like.", False, None, [
                  ("right", "limits-of-the-exterior-approach", "The Limits of the Exterior Approach",
                   "why no amount of science reaches the inside"),
              ]),
@@ -63,11 +63,13 @@ ACTS = [
         num="Act II",
         title="Four faces of every moment",
         sub="Interiority plus holarchy gives you a grid. The grid is the famous part &mdash; "
-            "this is what people mean by AQAL. <em>Each facet requires its own mode of knowing.</em>",
+            "it&rsquo;s what people mean by AQAL, and each face of it calls for its own way of "
+            "knowing.",
         stops=[
             ("four-quadrants", "The Four Quadrants",
-             "Interior/exterior by individual/collective. AQAL&rsquo;s load-bearing diagram, and "
-             "the one picture most people have seen even if they have read nothing.", True, None, [
+             "Interior/exterior &times; individual/collective. AQAL&rsquo;s load-bearing diagram, "
+             "and the one picture most people have seen even if they&rsquo;ve read nothing else.",
+             True, None, [
                  ("right", "micro-macro-coevolution", "Micro/Macro Coevolution",
                   "why the columns can never collapse into one another"),
              ]),
@@ -79,9 +81,9 @@ ACTS = [
                   "two different kinds of language the grid demands"),
              ]),
             ("flatland", "Flatland",
-             "The diagnosis &mdash; and only nameable now you have the grid. Modernity collapsed "
-             "the Left-Hand quadrants into the Right, re-describing everything interior as an "
-             "&ldquo;it.&rdquo;", True, None, [
+             "The diagnosis, and you can only name it once you&rsquo;ve got the grid: modernity "
+             "collapsed the Left-Hand quadrants into the Right, re-describing everything interior "
+             "as an &ldquo;it.&rdquo;", True, None, [
                  ("right", "dignity-and-disaster-of-modernity", "The Dignity and Disaster of Modernity",
                   "the fair version: differentiation before dissociation"),
              ]),
@@ -217,9 +219,11 @@ def render():
     w("")
     w('<h1 className="wr-title">A Roadmap Through Ken Wilber</h1>')
     w("")
-    w('<p className="wr-lede">Forty-one ideas, in an order that actually builds. Follow the '
-      "spine from top to bottom, or take the six-stop express route. Side branches are "
-      "optional on a first pass.</p>")
+    w('<p className="wr-lede">Wilber built a system, not a glossary &mdash; each idea leans on '
+      "the ones before it, which is why picking up one of his books cold is rough going. Here "
+      "are forty-one of those ideas in the order they need each other. Follow the spine top to "
+      "bottom, or take the six-stop shortcut if that&rsquo;s all the time you&rsquo;ve got. And "
+      "where the argument gets shaky, we say so.</p>")
     w("")
     w('<div className="wr-banner"><strong>This is Wilber circa 1995.</strong> Every page here '
       "is sourced from <em>Sex, Ecology, Spirituality</em> &mdash; the phase-four turn in a body "
@@ -233,17 +237,16 @@ def render():
     w('  <div className="wr-panel">')
     w('    <div className="wr-panel__kicker">Entrance 1</div>')
     w('    <div className="wr-panel__title">New to Wilber?</div>')
-    w('    <p className="wr-panel__body">Start at stop 1 and walk down. If you only have an '
-      "afternoon, follow the six stops marked with a star &mdash; that is a genuinely coherent "
-      "minimal Wilber: the units, the map, the ladder, the diagnosis, the guardrail, the "
-      "payoff.</p>")
+    w('    <p className="wr-panel__body">Start at stop 1 and work down. Only got an afternoon? '
+      "The six starred stops hold together on their own &mdash; the units, the map, the ladder, "
+      "the diagnosis, the guardrail, the payoff. Everything else can wait.</p>")
     w('    <a href="#act-1" className="wr-cta">Begin at the top &darr;</a>')
     w("  </div>")
     w('  <div className="wr-panel wr-panel--dashed">')
     w('    <div className="wr-panel__kicker">Entrance 2</div>')
     w('    <div className="wr-panel__title">Here for one topic?</div>')
-    w('    <p className="wr-panel__body">Most people arrive looking for Wilber on a specific '
-      "subject. Go straight there &mdash; each page links back onto the spine.</p>")
+    w('    <p className="wr-panel__body">Most people show up looking for Wilber on one subject, '
+      "not the whole system. Go straight there &mdash; each page links back to the spine.</p>")
     w('    <div className="wr-chips">')
     w(chips(TOPICS))
     w("    </div>")
@@ -255,9 +258,9 @@ def render():
     w('<div className="wr-panel wr-panel--wide">')
     w('  <div className="wr-panel__kicker">If you are unconvinced</div>')
     w('  <div className="wr-panel__title">Where Wilber is most contested</div>')
-    w('  <p className="wr-panel__body">Every page on this wiki says plainly what is strong in '
-      "Wilber&rsquo;s argument and what is weak. These are the six where the objections bite "
-      "hardest &mdash; a fair place to start if you suspect the whole thing is too neat.</p>")
+    w('  <p className="wr-panel__body">Every page on this wiki says plainly what holds up in '
+      "Wilber&rsquo;s argument and what doesn&rsquo;t. These are the six where the objections "
+      "bite hardest &mdash; a fair place to start if the whole thing sounds too neat to you.</p>")
     w('  <div className="wr-chips">')
     w(chips(CONTESTED, "wr-chip wr-chip--solid"))
     w("  </div>")
@@ -318,9 +321,9 @@ def render():
     # outro
     w('<div className="wr-outro">')
     w('  <div className="wr-outro__title">You reached the end of the spine</div>')
-    w(f'  <p className="wr-outro__body">{n} stops, four acts, and one argument: that the '
-      "universe has an inside, that insides develop, and that modernity built a civilization "
-      "which cannot see either. What Wilber does with that claim is the rest of the wiki.</p>")
+    w(f'  <p className="wr-outro__body">{n} stops, four acts, one argument: the universe has an '
+      "inside, insides develop, and modernity built a civilization that can&rsquo;t see either "
+      "one. Everything else in the wiki is what Wilber does with that claim.</p>")
     w('  <div className="wr-outro__links">')
     w('    <a href="/concepts" className="wr-cta">All 41 concepts</a>')
     w('    <a href="/people" className="wr-chip">The thinkers he argues with</a>')
