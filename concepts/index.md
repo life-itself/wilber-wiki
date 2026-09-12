@@ -34,6 +34,7 @@ interesting concept than the bare term.
 | ★ [Eros and Agape](eros-and-agape.md) | the motive forces behind Ascent and Descent, and their pathologies |
 | ★ [Involution and Evolution](involution-and-evolution.md) | Spirit's enfolding into, and unfolding out of, the lower |
 | ★ [Waves and Streams](waves-and-streams.md) | levels of consciousness vs. the developmental lines that move through them |
+| ★ [The Proximate Self and the Distal Self](proximate-self-and-distal-self.md) | the "I" that navigates vs. the "me" it leaves behind at each stage |
 | ★ [The Psychic, Subtle, Causal, and Nondual](psychic-subtle-causal-nondual.md) | the four stages of transpersonal development beyond mind |
 | ★ [Interiority (the "Within" of holons)](interiority.md) | why every holon has an inside as well as an outside |
 | ★ [Repression](repression.md) | the noosphere's "no" carried to extremes, individual and civilizational |

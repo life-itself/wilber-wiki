@@ -99,3 +99,5 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
   developmental streams (ego development, moral development) Wilber draws on
 - [[dialectic-of-progress|The Dialectic of Progress]] — Habermas's independently-derived
   social-evolution hierarchy, which Wilber treats as confirming this same wave structure
+- [[proximate-self-and-distal-self|The Proximate Self and the Distal Self]] — the self
+  that navigates the waves, and what happens to its own sense of "I" at each transition
