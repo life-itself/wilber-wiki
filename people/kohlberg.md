@@ -96,5 +96,7 @@ explicitly transpersonal stage — absent from the *SES* treatment.
   underlying sequence
 - [[chart-5-morals-and-perspectives|Chart 5: The Self-Related Stages of Morals and Perspectives]] — Kohlberg is the central figure this chart correlates against 13 other researchers
 - [[habermas]] — joins Kohlberg and Gilligan as a source for the postconventional stage
+- [[gilligan|Carol Gilligan]] — her own page, including the IP-specific point about the
+  "cultural myth" that grew up around her work
 - [[piaget]] — the cognitive-developmental framework Wilber sees Kohlberg's moral stages
   as running alongside
