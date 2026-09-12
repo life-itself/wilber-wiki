@@ -4,7 +4,7 @@ slug: aurobindo
 aliases: [aurobindo, sri aurobindo]
 relationship: ally
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Sri Aurobindo
@@ -67,8 +67,45 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
 >
 > — *Sex, Ecology, Spirituality*, ch. 14
 
+## In *Integral Psychology*
+
+*Integral Psychology* gives Aurobindo his own dedicated profile among the "modern
+pioneers," including a rare direct critique alongside the praise.
+
+> Aurobindo (1872–1950) was India's greatest modern philosopher-sage, and the
+> magnitude of his achievements is hard to convey convincingly.
+— *Integral Psychology*, ch. 7
+
+> His "integral yoga" is a concerted effort to unite and integrate the ascending
+> (evolutionary) and descending (involutionary) currents in human beings, thus uniting
+> otherworldly and this-worldly, transcendent and immanent, spirit and matter.
+— *Integral Psychology*, ch. 7
+
+> Aurobindo's overall model of consciousness consists basically of three systems: (1)
+> the surface/outer/frontal consciousness (typically gross state), consisting of
+> physical, vital, and mental levels of consciousness; (2) a deeper/psychic/soul
+> system "behind" the frontal in each of its levels (inner physical, inner vital,
+> inner mental, and innermost psychic or soul; typically subtle state); and (3) the
+> vertical ascending/descending systems stretching both above the mind (higher mind,
+> illumined mind, intuitive mind, overmind, supermind; including causal/nondual) and
+> below the mind (the subconscient and inconscient)—all nested in Sat-Chit-Ananda, or
+> pure nondual Spirit.
+— *Integral Psychology*, ch. 7
+
+> ...greatest shortcoming is a shortcoming faced by all theorists, namely, the
+> unavailability of the important discoveries made since his time. Aurobindo was most
+> concerned with the transformations of consciousness (Upper Left) and the correlative
+> changes in the material body (Upper Right). Although he had many important insights
+> on the social and political system, he did not seem to grasp the actual
+> interrelations of cultural, social, intentional, and behavioral, nor did his
+> analysis at any point proceed on the level of intersubjectivity (Lower Left) and
+> interobjectivity (Lower Right). He did not, that is, fully assimilate the
+> differentiations of modernity.
+— *Integral Psychology*, ch. 7
+
 ## See Also
 
+- [[chart-2-basic-structures-in-other-systems|Chart 2: Basic Structures in Other Systems]] — Aurobindo's terms for the basic-structures spine, used across several charts
 - [[plotinus]] — the Western counterpart Wilber pairs Aurobindo with throughout, most
   explicitly in figure 9-1
 - [[great-chain-of-being]] — the structure Plotinus and Aurobindo's holarchies are
