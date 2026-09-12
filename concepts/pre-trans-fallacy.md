@@ -87,6 +87,7 @@ confusion so easy to fall into.
 - [[dominator-vs-growth-hierarchy]] — a related confusion, between hierarchy as growth and hierarchy as domination
 - [[campbell|Joseph Campbell]] — the book's central worked example of the fallacy's "elevationist" side
 - [[freud|Freud]] / [[jung|Jung]] — Wilber's paradigm case of reductionism vs. elevationism
+- [[five-definitions-of-spirituality|Is Spirituality Developmental? The Five Definitions]] — a closely related trap: mistaking a temporary peak state for permanent structural attainment
 - [[transpersonal-domains]] — the "personal plus, not personal minus" distinction this fallacy is a confusion of
 - [[death-of-god|The Death of God]] — the same confusion applied at civilizational
   scale: the Enlightenment discarding the transrational along with the prerational

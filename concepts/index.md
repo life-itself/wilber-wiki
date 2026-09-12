@@ -49,6 +49,7 @@ interesting concept than the bare term.
 
 | Concept | Notes |
 |---|---|
+| [Is Spirituality Developmental? The Five Definitions](five-definitions-of-spirituality.md) | five different meanings of "spirituality," only some of them stage-like |
 | [Systems Theory and the Sciences of Complexity](systems-theory.md) | Wilber's case for, and (elsewhere) against, complexity science as holism |
 | [Dominator vs. Growth Hierarchy](dominator-vs-growth-hierarchy.md) | separating hierarchy from domination |
 | [Wilber's Non-Dual Reading of Plato](wilber-on-plato.md) | Plato as mystic, not just rationalist |
