@@ -4,7 +4,7 @@ slug: waves-and-streams
 aliases: [levels and lines, waves streams states self]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Waves and Streams
@@ -83,6 +83,48 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > two-dozen developmental lines, none of which, as lines, can claim preeminence.
 >
 > — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+
+## In *Integral Psychology*
+
+*Integral Psychology* gives the "levels/structures/waves" terminology a more careful
+treatment than *SES* does, spelling out why he uses three overlapping words for one
+phenomenon rather than picking one.
+
+> I use all three terms—basic levels, basic structures, and basic waves—interchangeably,
+> as referring to essentially the same phenomenon; but each has a slightly different
+> connotation that conveys important information. "Level" emphasizes the fact that these
+> are qualitatively distinct levels of organization, arranged in a nested hierarchy (or
+> holarchy) of increasing holistic embrace...
+>
+> "Structure" emphasizes the fact that these are enduring holistic patterns of being and
+> consciousness (each is a holon, a whole that is part of other wholes). And "wave"
+> emphasizes the fact that these levels are not rigidly separate and isolated, but, like
+> the colors of a rainbow, infinitely shade and grade into each other.
+>
+> — *Integral Psychology*, ch. 1
+
+> ...these basic levels are holons of consciousness. A holon is a whole that is part of
+> other wholes. For example, a whole atom is part of a whole molecule, a whole molecule
+> is part of a whole cell, a whole cell is part of a whole organism, and so on.
+>
+> — *Integral Psychology*, ch. 1
+
+> There is nothing linear or rigid about these various waves. As we will abundantly see,
+> individual development through the various waves of consciousness is a very fluid and
+> flowing affair. Individuals can be at various waves in different circumstances; aspects
+> of their own consciousness can be at many different waves; even subpersonalities in an
+> individual's own being can be at different waves. Overall development is a very messy
+> affair!
+>
+> — *Integral Psychology*, ch. 1
+
+> Each senior dimension in the Great Nest—from matter to body to mind to soul to
+> spirit—transcends and includes its juniors, so that living bodies transcend but
+> include minerals, minds transcend but include vital bodies, luminous souls transcend
+> but include conceptual minds, and radiant spirit transcends and includes absolutely
+> everything.
+>
+> — *Integral Psychology*, ch. 1
 
 ## See Also
 

@@ -4,7 +4,7 @@ slug: big-three
 aliases: [I we it, art morals science, Big 3]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # The Big Three
@@ -71,6 +71,36 @@ already-differentiated Big Three at a higher level — a task he assigns to
 >
 > — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
 
+## In *Integral Psychology*
+
+*Integral Psychology* ch. 14 coins the specific term "the 1-2-3 of consciousness
+studies" for the Big Three applied to how consciousness itself should be studied — and
+argues that most "integral" approaches to consciousness studies stop at honoring all
+three perspectives without also recognizing that each of the three develops through
+stages.
+
+> This acknowledgment of the four quadrants (or simply the Big Three) allows an equal
+> inclusion of first-person phenomenal accounts ("I"), second-person intersubjective
+> backgrounds ("we"), and third-person physical systems ("it")—what we will call "the
+> 1-2-3 of consciousness studies."
+>
+> — *Integral Psychology*, ch. 14
+
+> ...one is hard-pressed to find in many of those authors a full appreciation of the
+> stage conceptions of consciousness development, such as the works of Baldwin,
+> Habermas, Loevinger, Graves, Kohlberg, Wade, Cook-Greuter, Beck, Kegan, et al., even
+> though, as we have seen, there is substantial evidence for their validity. It is not
+> enough to simply note that first-person realities reciprocally influence and
+> determine third-person mechanisms, and that both circulate through second-person
+> intermediaries.
+>
+> — *Integral Psychology*, ch. 14
+
+> ...a truly integral approach, in my opinion, will move from being merely
+> all-quadrant to being all-level, all-quadrant. Or 1-2-3 across all levels.
+>
+> — *Integral Psychology*, ch. 14
+
 ## See Also
 
 - [[four-quadrants]] — the fuller scheme the Big Three collapses into three terms
@@ -78,3 +108,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 - [[flatland]] — the "Big One" outcome when It swallows I and We
 - [[postmodernism]] — Wilber's account of the differentiation/dissociation arc in more detail
 - [[dignity-and-disaster-of-modernity|The Dignity and Disaster of Modernity]] — the differentiation (dignity) and dissociation (disaster) of the Big Three specifically
+- [[waves-and-streams|Waves and Streams]] — the "all-level" half of "all-level, all-quadrant" this page's IP excerpts argue for
+- [[proximate-self-and-distal-self|The Proximate Self and the Distal Self]] — the
+  first-person stage research (Baldwin, Loevinger, Kegan, et al.) the 1-2-3 framework
+  draws on

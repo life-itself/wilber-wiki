@@ -4,7 +4,7 @@ slug: four-quadrants
 aliases: [four quadrants, AQAL, quadrants]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # The Four Quadrants
@@ -79,6 +79,28 @@ throughout the book.
 > intersubjective justness, and interobjective functional fit).
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+
+## In *Integral Psychology*
+
+Ch. 14 applies the quadrant framework directly to the mind-body problem, and adds a
+term — "tetra-evolve" — for how the four quadrants causally interlock rather than just
+sitting side by side.
+
+> It is not enough to say that organism and environment coevolve; it is not enough to
+> say that culture and consciousness coevolve. All four of those "tetra-evolve"
+> together.
+>
+> — *Integral Psychology*, ch. 14
+
+> ...the objective organism (the Upper-Right quadrant), with its DNA, its neuronal
+> pathways, its brain systems, and its behavioral patterns, mutually interacts with the
+> objective environment, ecosystems, and social realities (the Lower Right), and all of
+> those do indeed coevolve. Likewise, individual consciousness (Upper Left), with its
+> intentionality, structures, and states, arises within, and mutually interacts with,
+> the intersubjective culture (Lower Left) in which it finds itself, and which it in
+> turn helps to create, so that these, too, coevolve.
+>
+> — *Integral Psychology*, ch. 14
 
 ## See Also
 

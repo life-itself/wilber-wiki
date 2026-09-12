@@ -6,11 +6,14 @@ a synthesis plus curated excerpts pulled from wherever he actually makes the cas
 across works. See [`docs/concept-wiki-vision.md`](../docs/concept-wiki-vision.md) for
 the full rationale.
 
-All pages below are sourced from the full text of *[Sex, Ecology,
+Pages are sourced from the full text of the books they cite (see each page's `works:`
+frontmatter), chapter-cited. Most draw on *[Sex, Ecology,
 Spirituality](../works/1995-sex-ecology-spirituality.md)*
-(`library/1995-sex-ecology-spirituality-full-text.md`), chapter-cited. Not exhaustive —
-see each page's `status` and the vision doc for what's deliberately left for later
-passes, and for other Wilber works this wiki hasn't drawn from yet.
+(`library/1995-sex-ecology-spirituality-full-text.md`); a growing number also draw on
+*[Integral Psychology](../works/2000-integral-psychology.md)*
+(`library/2000-integral-psychology-full-text.md`). Not exhaustive — see each page's
+`status` and the vision doc for what's deliberately left for later passes, and for
+other Wilber works this wiki hasn't drawn from yet.
 
 ★ marks `category: core-term` pages (Wilber's own vocabulary); the rest are
 `category: wilber-on-x` pages — his take on a topic, which is often the more

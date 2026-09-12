@@ -4,7 +4,7 @@ slug: flatland
 aliases: [flatland ontology, scientific materialism, the collapse of the Kosmos]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Flatland
@@ -72,6 +72,26 @@ regressive, undifferentiated state rather than genuine integration.
 > weakest–noodle science, that they cry out to us as our saviors.
 >
 > — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+
+## In *Integral Psychology*
+
+Ch. 14 names flatland as the direct cause of the philosophical mind-body problem — not
+just an ecological or political confusion, but the specific reason "mind" and "body"
+seem impossible to relate once their interior/exterior meanings get flattened together.
+
+> ...a good deal of the mind-body problem is a product of flatland. Not the
+> differentiation of mind and body, which is at least as old as civilization and never
+> bothered anybody before; but the dissociation of mind and body, which is a peculiar
+> lesion in the modern and postmodern consciousness, concomitant with the collapse of
+> the Kosmos into flatland.
+>
+> — *Integral Psychology*, ch. 14
+
+> Here is the world-knot, the inherent paradox of flatland: the body is in the mind,
+> but the brain is in the Body. Both of those statements are true, but in flatland they
+> appear contradictory, and those contradictions drive much of the world-knot.
+>
+> — *Integral Psychology*, ch. 14
 
 ## See Also
 
