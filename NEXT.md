@@ -23,20 +23,25 @@ you're done).
   longer excerpt.
 - **[#3 People index](https://github.com/life-itself/wilber-wiki/issues/3)** — 23 of 27
   *SES* interlocutors done (roster complete for this book; the other 4 are documented
-  name-drops, not gaps). Next step is picking a second Wilber book to mine — candidates
-  and reasoning are on the issue.
+  name-drops, not gaps). Second book now mined too — see #7. 6 new people pages added
+  from it (Baldwin, Graves, Kegan, Erikson, Gilligan, Cook-Greuter) and all 8 people
+  common to both books now carry excerpts from both.
 - **[#4 Finer-grained indexing](https://github.com/life-itself/wilber-wiki/issues/4)** —
   someday; subsumed by #3 in practice.
 - **[#7 Second book: Integral Psychology](https://github.com/life-itself/wilber-wiki/issues/7)** —
-  full-text import done, and all 11 appendix chart pages done (see the
-  [Chart Index](charts/index.md)) — the book's ~21 scanned correlation charts,
-  redrawn as web tables. Concept/people extension in progress: 2 new concept pages, 4
-  extended; 1 new people page (Baldwin), 2 extended (Piaget, Habermas). Design:
-  [`docs/integral-psychology-import-design.md`](docs/integral-psychology-import-design.md),
-  backlogs in [`docs/integral-psychology-concept-backlog.md`](docs/integral-psychology-concept-backlog.md)
-  and `library/2000-integral-psychology-people-source.md`. Remaining beads under epic
-  `wilberwiki-vxk` (`bd list -l integral-psychology`): more people/concept extensions,
-  and the two-source-status fix to `people/index.md` once those land.
+  done. Full-text import; all 11 appendix chart pages (see the
+  [Chart Index](charts/index.md)) — the book's ~21 scanned correlation charts, redrawn
+  as web tables, linked into site nav; 4 concept pages new
+  (proximate-self-and-distal-self, five-definitions-of-spirituality, horizontal-types,
+  integral-psychograph) + 4 extended (waves-and-streams, four-quadrants, flatland,
+  big-three); 6 people pages new (Baldwin, Graves, Kegan, Erikson, Gilligan,
+  Cook-Greuter) + all 8 SES/IP-overlap people extended with IP excerpts. All
+  quote-bearing pages pass `verify_quotes.py`. Epic `wilberwiki-vxk` closed (23/23
+  beads). Design: [`docs/integral-psychology-import-design.md`](docs/integral-psychology-import-design.md).
+  Left open, not tracked as beads: a few SES-overlap concept pages
+  (dignity-and-disaster-of-modernity, agony-of-modernity-fichte-vs-spinoza,
+  postmodernism) were flagged in the concept backlog as *likely* sources of further IP
+  excerpts but never actually scanned — pick up there if extending this further.
 - **[#6 Notes/materials inbox](https://github.com/life-itself/wilber-wiki/issues/6)** —
   4 external pieces imported so far into `notes/` (2 of Rufus's own book reviews, 2
   Second Renaissance newsletter pieces on quadrants/levels, attributed to all three
