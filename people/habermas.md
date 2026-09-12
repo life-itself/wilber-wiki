@@ -4,7 +4,7 @@ slug: habermas
 aliases: [habermas]
 relationship: ally
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Jürgen Habermas
@@ -52,9 +52,54 @@ treated as opposed, are shown agreeing.
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
+## In *Integral Psychology*
+
+*Integral Psychology* gives Habermas his own dedicated profile among the "modern
+pioneers" (alongside Baldwin, Aurobindo, and Maslow) — and is considerably more candid
+about where Wilber thinks Habermas falls short than the more purely admiring *SES*
+treatment.
+
+> Jürgen Habermas (born 1929) has, in the course of his distinguished career, applied
+> his integral vision across a wide variety of domains—philosophy, psychology,
+> anthropology, evolutionary theory, linguistics, politics.
+— *Integral Psychology*, ch. 7
+
+> Habermas's overall model has three tiers. First is a theory of communication
+> ("universal pragmatics"), which serves as the starting point for an account of the
+> development of subjective (aesthetic), intersubjective (moral), and objective
+> (scientific) consciousness (i.e., the Big Three; this developmental account of the
+> individual is the second tier).
+— *Integral Psychology*, ch. 7
+
+> Habermas is the most comprehensive developmental philosopher now working. However,
+> lamentably, he leaves out and totally ignores any of the stages of I, we, and it
+> consciousness beyond vision-logic. As I would put it, Habermas is all-quadrant, but
+> not quite all-level.
+— *Integral Psychology*, ch. 7
+
+> ...in placing his reliance on linguistically generated structures of understanding,
+> Habermas places an unfortunate wedge between human and nonhuman nature, so that his
+> approach to nature is essentially instrumental. In short, we might say that his
+> integral view is inadequate to both the prerational and the transrational
+> domains—inadequate to both nature and spirit (a major flaw, some would say).
+— *Integral Psychology*, ch. 7
+
+> ...for the ground it covers, his work has already assured him a place in history as
+> being at least one of the half-dozen most important thinkers of this century, and it
+> appears that no integral view can hope to succeed that ignores his profound
+> contributions.
+— *Integral Psychology*, ch. 7
+
+> Habermas's attempt to reconstruct historical materialism on the basis of universal
+> pragmatics and communicative action remains the most sophisticated of modern attempts
+> to trace sociocultural evolution.
+— *Integral Psychology*, ch. 12
+
 ## See Also
 
 - [[foucault]] — allied with Habermas on the critique of instrumental reason
+- [[baldwin|James Mark Baldwin]] — the other "modern pioneer" IP credits with the same
+  aesthetic/moral/scientific (Big Three) developmental scope, decades earlier
 - [[holons]] / [[holarchy]] — the developmental framework Habermas's stages are cited to
   support
 - [[sex-and-gender|Sex and Gender: Male and Female Advantage/Liberation]] — the
