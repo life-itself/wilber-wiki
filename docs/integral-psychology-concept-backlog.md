@@ -46,24 +46,19 @@ also argues, often more systematically:
   at any stage; peak experiences) and which ones are stage-like. A genuinely reusable
   reference distinction, not just IP-specific.
 
-**Plausible, not yet read — title/summary-inferred only:**
+**Resolved (2026-09-13):**
 
-- **States vs. Structures (or States vs. Stages)** — the recurring Wilber distinction
-  between temporary states of consciousness (available at any stage) and permanent
-  structural stages. Referenced throughout ch. 1–2 in passing; worth checking whether
-  it deserves its own page or is better folded into the Proximate/Distal Self page or
-  waves-and-streams. Needs a read before committing.
-- **Horizontal Types** — personality/style variables (Myers-Briggs, gender, etc.) that
-  cut across levels rather than ranking on them. The gender-identity/worldview table in
-  [Chart 1](../charts/chart-1-wilber-correlations.md) is drawn straight from this
-  material, so there's a natural chart-to-concept link already drafted, but the ch. 4
-  prose itself hasn't been read yet.
-- **The Integral Psychograph** — the practice of plotting an individual's level-by-line
-  profile as a diagnostic/self-understanding tool, distinct from the reference charts
-  themselves (which show *models*, not an individual's actual profile). Mentioned in
-  the book's framing per the existing works-page summary; not confirmed to have a
-  dedicated passage worth excerpting versus being scattered commentary. Lowest
-  confidence of this list — check before committing to a page.
+- **States vs. Structures** — read (ch. 10, in full). Folded into
+  [five-definitions-of-spirituality.md](../concepts/five-definitions-of-spirituality.md)
+  rather than standing alone, as anticipated — the cleanest passage for it (states as
+  temporary/incompatible vs. structures as cumulative/coexisting) comes up specifically
+  in the definition-5 discussion there, not as an independent section elsewhere.
+- **Horizontal Types** — read (ch. 4, "Finally, a word about 'horizontal' typologies").
+  Confirmed to have a dedicated, self-contained passage — new page:
+  [horizontal-types.md](../concepts/horizontal-types.md).
+- **The Integral Psychograph** — read (ch. 2, ch. 5, ch. 8). Confirmed to have a real
+  definitional passage plus a diagnostic/therapeutic-use passage, not just scattered
+  mentions — new page: [integral-psychograph.md](../concepts/integral-psychograph.md).
 
 ## Not recommended as standalone pages
 
