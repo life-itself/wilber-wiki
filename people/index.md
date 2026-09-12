@@ -5,7 +5,10 @@ index inverts the book's own footnotes the same way the [concept wiki](../concep
 inverts its arguments: instead of a person scattered across hundreds of pages, each
 page here collects what Wilber actually says about one thinker — where he agrees,
 where he departs, and the passages where he makes the case, chapter-cited from the
-source text.
+source text. Many of these same names also appear correlated against Wilber's own
+developmental scale in the **[Chart Index](../charts/index.md)** — reconstructed
+comparative tables from *Integral Psychology*'s appendix, a different content type
+from the synthesis-plus-excerpt pages here.
 
 Two source books so far. The main roster below is sourced entirely from *[Sex, Ecology,
 Spirituality](../works/1995-sex-ecology-spirituality.md)* — the full set of significant

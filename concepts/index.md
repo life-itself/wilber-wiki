@@ -15,6 +15,9 @@ Spirituality](../works/1995-sex-ecology-spirituality.md)*
 `status` and the vision doc for what's deliberately left for later passes, and for
 other Wilber works this wiki hasn't drawn from yet.
 
+*Integral Psychology*'s appendix charts — comparative tables, not synthesis-plus-excerpt
+pages — live separately in the **[Chart Index](../charts/index.md)**.
+
 ★ marks `category: core-term` pages (Wilber's own vocabulary); the rest are
 `category: wilber-on-x` pages — his take on a topic, which is often the more
 interesting concept than the bare term.
