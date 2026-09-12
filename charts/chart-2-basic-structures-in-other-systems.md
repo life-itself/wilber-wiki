@@ -98,14 +98,14 @@ Back to the familiar individual basic-structures spine.
 <tr><td>(late)</td><td>—</td></tr>
 <tr><td rowspan="2">Formop</td><td>Formal</td><td>Logical mind (reasoning)</td><td rowspan="2">Tiferet</td></tr>
 <tr><td>(late)</td><td>—</td></tr>
-<tr><td rowspan="3">Postformal</td><td>Vision-logic</td><td rowspan="3">Soul (psychic and subtle)</td><td>Higher mind (systems)</td><td>—</td></tr>
+<tr><td rowspan="3">Postformal</td><td>Vision-logic</td><td rowspan="7">Soul (psychic and subtle)</td><td>Higher mind (systems)</td><td>—</td></tr>
 <tr><td>(middle)</td><td>—</td><td>—</td></tr>
 <tr><td>(late)</td><td>—</td><td>—</td></tr>
 <tr><td rowspan="2">Psychic</td><td>Early (vision)</td><td>Illumined mind</td><td rowspan="2">Chesed/Gevurah</td></tr>
 <tr><td>Late</td><td>—</td></tr>
 <tr><td rowspan="2">Subtle</td><td>Early (archetype)</td><td>Intuitive mind</td><td rowspan="2">Chokhmah/Binah</td></tr>
 <tr><td>Late</td><td>—</td></tr>
-<tr><td rowspan="2">Causal</td><td>Early (formless)</td><td rowspan="4">Spirit (causal and nondual)</td><td>Overmind</td><td rowspan="2">Keter, Ayn</td></tr>
+<tr><td rowspan="2">Causal</td><td>Early (formless)</td><td rowspan="5">Spirit (causal and nondual)</td><td>Overmind</td><td rowspan="2">Keter, Ayn</td></tr>
 <tr><td>Late</td><td>—</td></tr>
 <tr><td rowspan="3">Nondual</td><td>Early</td><td>Supermind, satchitananda</td><td rowspan="3">Ein, Sof</td></tr>
 <tr><td>Middle</td><td>—</td></tr>
@@ -126,7 +126,7 @@ causal, turiya), not the individual basic-structures spine.
 <tr><td rowspan="3">Waking</td><td rowspan="3">Gross</td><td rowspan="2">1. Material (annamayakosha)</td><td>Physical</td><td>Physical</td><td>1. Physical body</td></tr>
 <tr><td>Etheric</td><td>Etheric (fine physical)</td><td>—</td></tr>
 <tr><td rowspan="2">2. Emotional-sexual (pranamayakosha)</td><td>Astral</td><td>Astral (emotional)</td><td>2. Emotional body</td></tr>
-<tr><td rowspan="3">Dreaming</td><td rowspan="3">Subtle</td><td>m-1 (lower mind)</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="4">Dreaming</td><td rowspan="4">Subtle</td><td>m-1 (lower mind)</td><td>—</td><td>—</td></tr>
 <tr><td rowspan="2">3. Middle mind (manomayakosha)</td><td>m-2 (intellectual mind)</td><td>Mental</td><td>3. Lower mind, willpower, gross-mind</td></tr>
 <tr><td>—</td><td>Causal (higher mind)</td><td>—</td></tr>
 <tr><td>4. Higher mind (vijnanamayakosha)</td><td>m-3 (spiritual mind)</td><td>Buddhic (illumined mind)</td><td>4. Higher mind, psychic opening; 5. Supramental psychic/subtle</td></tr>
