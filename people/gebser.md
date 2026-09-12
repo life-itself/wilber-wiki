@@ -4,7 +4,7 @@ slug: gebser
 aliases: [gebser, jean gebser]
 relationship: ally
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Jean Gebser
@@ -78,8 +78,40 @@ the map is tracking something real rather than a private theoretical artifact.
 >
 > — Gebser, quoted in *Sex, Ecology, Spirituality*, ch. 5
 
+## In *Integral Psychology*
+
+*Integral Psychology* is more explicit than *SES* about exactly where Gebser's
+"integral structure" stops — a limit Wilber treats as significant enough to quote
+Gebser's own leading American interpreter agreeing with him about.
+
+> The pioneering work of Jean Gebser is paradigmatic: he sees cultural worldviews
+> evolving—to use his words—from archaic to magic to mythic to mental to integral.
+— *Integral Psychology*, ch. 12
+
+> Gebser's masterpiece, Ursprung und Gegenwart (The Ever-Present Origin), is certainly
+> one of the most brilliant surveys of cultural evolution ever written, and no
+> integral theory, in my opinion, can hope to succeed without taking its meticulous
+> formulations into account.
+— *Integral Psychology*, ch. 12
+
+> It should be noted, however, that Gebser's "integral structure" refers basically to
+> the overall vision-logic wave, and does not adequately cover the higher, truly
+> transpersonal stages (psychic, subtle, causal, and nondual).
+— *Integral Psychology*, ch. 12
+
+> Nonetheless, in the domain of average collective development—archaic to magic to
+> mythic to rational to integral—Gebser is unsurpassed.
+— *Integral Psychology*, ch. 12
+
+> Jean Gebser, whom we have seen in connection with worldviews, coined the term
+> integral-aperspectival to refer to this pluralistic or multiple-perspectives view,
+> which I also refer to as vision-logic or network-logic.
+— *Integral Psychology*, ch. 13
+
 ## See Also
 
+- [[chart-9-sociocultural-evolution|Chart 9: Sociocultural Evolution]] — Gebser's
+  archaic-to-integral epochs, correlated against a dozen other theorists
 - [[vision-logic]] — the concept page for what Wilber adopts, in essence, as Gebser's
   integral-aperspectival mind
 - [[habermas]] — the other major independent-convergence source for the same
