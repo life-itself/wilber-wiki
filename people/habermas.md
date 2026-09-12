@@ -100,6 +100,8 @@ treatment.
 - [[foucault]] — allied with Habermas on the critique of instrumental reason
 - [[baldwin|James Mark Baldwin]] — the other "modern pioneer" IP credits with the same
   aesthetic/moral/scientific (Big Three) developmental scope, decades earlier
+- [[chart-10-habermas|Chart 10: Jürgen Habermas]] — his own seven-stage
+  good-life/validity/ethics sequence, reconstructed in full
 - [[holons]] / [[holarchy]] — the developmental framework Habermas's stages are cited to
   support
 - [[sex-and-gender|Sex and Gender: Male and Female Advantage/Liberation]] — the
