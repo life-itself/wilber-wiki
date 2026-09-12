@@ -91,8 +91,9 @@ still pending a substance check before a page gets written.
 | [Jane Loevinger](loevinger.md) | 16 | ch. 4, ch. 3, ch. 8 | Yes |
 | [Abraham Maslow](maslow.md) | 14 | ch. 7, ch. 4, ch. 1 | Yes |
 | [Plotinus](plotinus.md) | 8 | ch. 1, ch. 12, ch. 3 | Yes |
+| [Clare Graves](graves.md) | 21 | ch. 4, ch. 13, ch. 3 | No — new to this wiki |
 
-All nine names in the table above now carry IP excerpts (see each page's `works:`
-frontmatter) — the full overlap between the SES and IP rosters is done. Clare Graves,
-Robert Kegan, Erik Erikson, Carol Gilligan, and Susanne Cook-Greuter are strong
-new-page candidates the scan surfaced but that don't have pages yet.
+All ten names in the table above now carry IP excerpts (see each page's `works:`
+frontmatter) — the full overlap between the SES and IP rosters is done. Robert Kegan,
+Erik Erikson, Carol Gilligan, and Susanne Cook-Greuter are strong new-page candidates
+the scan surfaced but that don't have pages yet.
