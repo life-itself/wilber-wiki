@@ -4,7 +4,7 @@ slug: plotinus
 aliases: [plotinus]
 relationship: ally
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Plotinus
@@ -86,6 +86,25 @@ outflowing into the Many) are the same territory traversed in opposite direction
 > comprehensive.
 >
 > — *Sex, Ecology, Spirituality*, ch. 9
+
+## In *Integral Psychology*
+
+Plotinus doesn't get his own dedicated profile in *Integral Psychology* the way
+Baldwin, Habermas, Aurobindo, and Maslow do — he shows up as a recurring citation
+rather than a subject in his own right, cited for a compact formula about evolution
+and as a source for the vision-logic-equivalent stage in his own scheme.
+
+> Plotinus temporalized = evolution.
+— *Integral Psychology*, ch. 12
+
+> ...almost every sophisticated Great Chain theorist had something that corresponded
+> with vision-logic or higher reason (Plotinus's creative reason, Aurobindo's higher
+> or integrative mind, Gebser's integral-aperspectival, and so on).
+— *Integral Psychology*, ch. 8 (footnote)
+
+> The great Nondual traditions began around 200 CE, especially with such figures as
+> Nagarjuna and Plotinus.
+— *Integral Psychology*, ch. 12
 
 ## See Also
 
