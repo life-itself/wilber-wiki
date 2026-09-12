@@ -4,7 +4,7 @@ slug: loevinger
 aliases: [loevinger, jane loevinger]
 relationship: source
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
 ---
 
 # Jane Loevinger
@@ -44,8 +44,38 @@ that, before the second half of the twentieth century, had been mostly speculati
 >
 > — *Sex, Ecology, Spirituality*, ch. 12
 
+## In *Integral Psychology*
+
+*Integral Psychology* treats Loevinger's ego-development research as essentially
+identical to what Wilber calls proximate-self development — see
+[The Proximate Self and the Distal Self](../concepts/proximate-self-and-distal-self.md).
+
+> What Loevinger calls "ego development" is quite similar to what I refer to as
+> proximate-self development. And proximate-self development is, in my view, at the
+> very heart of the evolution of consciousness.
+— *Integral Psychology*, ch. 3
+
+> Jane Loevinger's impressive research focused specifically on ego
+> development...it brought a great deal of precision to the field and sparked an
+> explosion of further developmental studies.
+— *Integral Psychology*, ch. 7
+
+> She found that ego (proximate-self) development moves through about ten discernible
+> stages, the names of which tend to tell the story: autistic, symbiotic, impulsive,
+> self-protective, conformist, conscientious-conformist, conscientious,
+> individualistic, autonomous, and integrated.
+— *Integral Psychology*, ch. 7
+
+> Her research has been repeated in several different cultures now, and continues to
+> garner wide support.
+— *Integral Psychology*, ch. 7
+
 ## See Also
 
+- [[proximate-self-and-distal-self|The Proximate Self and the Distal Self]] — Wilber
+  treats Loevinger's "ego development" as essentially his own proximate-self line
+- [[chart-4-self-related-stages|Chart 4: Self-Related Stages]] — Loevinger is the
+  central figure this chart correlates against Broughton
 - [[maslow]] — the needs-hierarchy parallel Wilber runs alongside Loevinger's ego stages
 - [[kohlberg]] — the moral-stage parallel to the same conformist/postconventional shift
 - [[habermas]] — completes the "Habermas/Maslow/Loevinger" convergence Wilber cites
