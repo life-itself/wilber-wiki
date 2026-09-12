@@ -112,3 +112,5 @@ stages.
 - [[proximate-self-and-distal-self|The Proximate Self and the Distal Self]] — the
   first-person stage research (Baldwin, Loevinger, Kegan, et al.) the 1-2-3 framework
   draws on
+- [[cook-greuter|Susanne Cook-Greuter]] — the perspective-taking research behind the
+  "1-2-3" formula itself

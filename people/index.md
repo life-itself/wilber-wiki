@@ -95,8 +95,9 @@ still pending a substance check before a page gets written.
 | [Robert Kegan](kegan.md) | 9 | ch. 4, ch. 3, ch. 2 | No — new to this wiki |
 | [Erik Erikson](erikson.md) | 8 | ch. 4, ch. 3, ch. 8 | No — new to this wiki |
 | [Carol Gilligan](gilligan.md) | 7 | ch. 2, ch. 13, ch. 1 | No — new to this wiki |
+| [Susanne Cook-Greuter](cook-greuter.md) | 7 | ch. 1, ch. 4, ch. 3 | No — new to this wiki |
 
-All thirteen names in the table above now carry IP excerpts (see each page's `works:`
-frontmatter) — the full overlap between the SES and IP rosters is done. Susanne
-Cook-Greuter is the last strong new-page candidate the scan surfaced but that doesn't
-have a page yet.
+All fourteen names in the table above now carry IP excerpts (see each page's `works:`
+frontmatter) — the full overlap between the SES and IP rosters is done, and all six
+strong new-page candidates the mention-count scan surfaced (Baldwin, Graves, Kegan,
+Erikson, Gilligan, Cook-Greuter) now have pages.
