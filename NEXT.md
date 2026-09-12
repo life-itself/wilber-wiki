@@ -27,6 +27,14 @@ you're done).
   and reasoning are on the issue.
 - **[#4 Finer-grained indexing](https://github.com/life-itself/wilber-wiki/issues/4)** —
   someday; subsumed by #3 in practice.
+- **[#7 Second book: Integral Psychology](https://github.com/life-itself/wilber-wiki/issues/7)** —
+  planned, not yet executed. Design:
+  [`docs/integral-psychology-import-design.md`](docs/integral-psychology-import-design.md).
+  Full-text import + a new `charts/` content type reconstructing the book's 21 appendix
+  correlation charts as 11 web-readable pages, plus concept/people extension. Broken
+  into 23 beads under epic `wilberwiki-vxk` (`bd list -l integral-psychology`) — start
+  with the P0s (full-text import, then the Chart 1 spike). Open questions logged in the
+  design doc, notably the copyright posture on reproducing the charts themselves.
 - **[#6 Notes/materials inbox](https://github.com/life-itself/wilber-wiki/issues/6)** —
   4 external pieces imported so far into `notes/` (2 of Rufus's own book reviews, 2
   Second Renaissance newsletter pieces on quadrants/levels, attributed to all three
