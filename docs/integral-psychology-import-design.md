@@ -130,28 +130,19 @@ confirmed).
 
 ## Open questions (for Rufus, not blocking)
 
-1. **Copyright posture on the charts specifically.** AGENTS.md's existing
-   "don't publish reflexively" note was written about the *full text* import
-   (quotable prose). Redrawing all 21 correlation charts is closer to reproducing
-   Wilber's own structural/creative work (the charts themselves, not just quoting
-   sentences from them) than excerpting prose is — worth a deliberate look before these
-   go live on wilber.wiki, separate from the general "check before `fl`" rule.
+1. ~~Copyright posture on the charts specifically.~~ — **resolved 2026-09-13**: Rufus
+   said not to worry about it, same posture as the full-text import.
 2. **`charts/` vs folding into `concepts/`** — went with a separate directory (decision
    4 above); flag if you'd rather they live under `concepts/` with a `category:
    reference-chart` instead, to keep one fewer top-level folder.
-3. **Raw HTML tables in Markdown under Flowershow — genuinely blocked, not just
-   unverified.** No existing page in this repo uses a raw HTML `<table>` (checked), so
-   there's no precedent either way, and there's no local Flowershow dev server — the
-   only way to actually see it render is `fl . --yes` to the CLI preview. That's the
-   same command AGENTS.md says to check with you before running whenever `library/`'s
-   contents have changed recently and haven't been reviewed — which is exactly the
-   state right now (this session just added the full IP text and all 58 chart images
-   under `library/`, unreviewed, and the CLI preview doesn't enforce `contentExclude`).
-   Didn't want to make that publish call unilaterally. Chart 1's content is drafted
-   (see `charts/chart-1-wilber-correlations.md`) with HTML tables; it needs either a
-   `fl . --yes` check (yours or mine, once you've looked at what's now in `library/`)
-   or a switch to flattened plain-Markdown tables (loses the nested row-grouping, still
-   legible) if you'd rather not publish-to-test right now.
+3. ~~Raw HTML tables in Markdown under Flowershow~~ — **resolved 2026-09-13, confirmed
+   working.** Rufus gave the go-ahead to `fl . --yes` (and said not to worry about the
+   copyright question in #1 above either). Checked the published Chart 1 page's raw
+   HTML directly (`curl` + inspecting the DOM): all 3 tables rendered, all 10
+   `rowSpan` attributes present with correct values (React renders the JSX prop as
+   `rowSpan`, camelCase — a first grep for lowercase `rowspan="..."` came up empty and
+   looked like a failure before this was noticed), all cell content intact. HTML tables
+   with `rowSpan` are the confirmed approach for every remaining chart page.
 4. **How many chart pages are actually worth doing.** All 11 charts have real value,
    but some (Chart 7 "Misc Developmental Lines", Chart 8 "Miscellaneous") are visibly
    thinner than the big ones (Chart 1, 4, 5, 6). Worth doing all 11, or triage like the

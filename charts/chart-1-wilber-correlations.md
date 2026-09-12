@@ -18,10 +18,9 @@ and the worldview that goes with it.
 
 Transcribed and cross-checked against the source page images
 (`library/2000-integral-psychology-images/00016.jpg`–`00019.jpg`); not yet independently
-verified by a second pass — treat cell contents as draft until reviewed. Rendering of
-the HTML tables below under Flowershow is also unconfirmed (see
-[`docs/integral-psychology-import-design.md`](../docs/integral-psychology-import-design.md),
-open question 3).
+verified by a second pass — treat cell contents as draft until reviewed. Rendering
+confirmed working (checked the published page's raw HTML: all rowSpan grouping and
+cell content intact).
 
 ## Structures, self-sense, defenses, affect, and exchange
 
