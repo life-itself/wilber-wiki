@@ -87,3 +87,5 @@ directly, not just asserted.
   which Wilber treats as an independent arrival at the same distinction
 - [[chart-1-wilber-correlations|Chart 1: Wilber Correlations]] — Baldwin is one of the
   researchers the fulcrum table draws on
+- [[chart-11-baldwin|Chart 11: James Mark Baldwin]] — his own five-level scheme
+  (prelogical to hyperlogical), reconstructed in full
