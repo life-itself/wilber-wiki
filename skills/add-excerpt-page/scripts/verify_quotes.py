@@ -58,6 +58,7 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 # work slug (as used in a page's `works:` frontmatter) -> source file
 WORK_SOURCES = {
     "1995-sex-ecology-spirituality": "library/1995-sex-ecology-spirituality-full-text.md",
+    "2000-integral-psychology": "library/2000-integral-psychology-full-text.md",
 }
 
 MIN_SEGMENT_LEN = 12  # shorter fragments are skipped, not false-failed
