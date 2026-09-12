@@ -62,6 +62,23 @@ with the full table in one place: `charts/chart-1-wilber-correlations.md`,
 `chart-8-miscellaneous.md`, `chart-9-sociocultural-evolution.md`, `chart-10-habermas.md`,
 `chart-11-baldwin.md`. 11 pages total, not 21.
 
+> **Finding from the Chart 1 spike (2026-09-13): the shared-spine assumption above is
+> only partly right.** Checked all four images for Chart 1 (00016-00019) against each
+> other. 00016 and 00018 (Chart 1A p.1, Chart 1B p.1) really do share one identical
+> row spine ("Correlative Basic Structures": sensorimotor → phantasmic-emotional →
+> rep-mind → conop → formop → postformal → psychic → subtle → causal → nondual) and
+> merge cleanly into one wide table (6 data columns: Self-Sense, Specific Aspects,
+> Defenses, Affect, Levels of "Food"). But 00017 (Chart 1A p.2) uses a *different*,
+> coarser spine keyed to Wilber's fulcrum numbering (F-0 to F-9 + Ground) — related to
+> the same levels but not the same rows — and 00019 (Chart 1B p.2) uses a *third*,
+> unrelated spine (archaic → magic → mythic → rational → pluralistic → integral gender/
+> worldview stages). Revised rule: **a chart page holds however many distinct sub-tables
+> the source actually has, in book order, not one forced merge** — for Chart 1 that's
+> three tables under one page (Structures/Self-Sense/Affect/etc.; Fulcrums/Pathology/
+> Treatment/Moral Span; Gender Identity/Worldviews), not one. Check each of the
+> remaining 10 charts' page-images against each other the same way before assuming they
+> merge — don't repeat the assumption unchecked.
+
 **5. Chart page shape:**
 ```yaml
 ---
@@ -122,10 +139,19 @@ confirmed).
 2. **`charts/` vs folding into `concepts/`** — went with a separate directory (decision
    4 above); flag if you'd rather they live under `concepts/` with a `category:
    reference-chart` instead, to keep one fewer top-level folder.
-3. **Raw HTML tables in Markdown under Flowershow** — assumed this renders fine but
-   unverified; the first chart page (Chart 1) is the spike that confirms or refutes it.
-   If it doesn't render, fallback is flattening to plain Markdown tables (loses the
-   nested row-grouping, still legible).
+3. **Raw HTML tables in Markdown under Flowershow — genuinely blocked, not just
+   unverified.** No existing page in this repo uses a raw HTML `<table>` (checked), so
+   there's no precedent either way, and there's no local Flowershow dev server — the
+   only way to actually see it render is `fl . --yes` to the CLI preview. That's the
+   same command AGENTS.md says to check with you before running whenever `library/`'s
+   contents have changed recently and haven't been reviewed — which is exactly the
+   state right now (this session just added the full IP text and all 58 chart images
+   under `library/`, unreviewed, and the CLI preview doesn't enforce `contentExclude`).
+   Didn't want to make that publish call unilaterally. Chart 1's content is drafted
+   (see `charts/chart-1-wilber-correlations.md`) with HTML tables; it needs either a
+   `fl . --yes` check (yours or mine, once you've looked at what's now in `library/`)
+   or a switch to flattened plain-Markdown tables (loses the nested row-grouping, still
+   legible) if you'd rather not publish-to-test right now.
 4. **How many chart pages are actually worth doing.** All 11 charts have real value,
    but some (Chart 7 "Misc Developmental Lines", Chart 8 "Miscellaneous") are visibly
    thinner than the big ones (Chart 1, 4, 5, 6). Worth doing all 11, or triage like the
