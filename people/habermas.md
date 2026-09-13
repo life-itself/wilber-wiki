@@ -17,8 +17,7 @@ living philosopher and social theorist (SES, ch. 4). Two structural pieces of th
 book's own architecture come from him directly: Habermas's account of the three
 validity claims a speaker implicitly makes — for truth, for sincerity, and for rightness
 — maps onto the objective, subjective, and intersubjective axes that underlie Wilber's
-[[four-quadrants|four quadrants]] (a concept page for that model doesn't exist yet —
-see [[holons]] and [[holarchy]] for the surrounding framework); and an
+[[four-quadrants|four quadrants]]; and an
 independently-derived account of the stages of social and cultural evolution that
 Wilber treats as confirming his own earlier developmental scheme. Later in the book,
 Habermas also becomes an ally against the "flatland" reduction of reason to bare

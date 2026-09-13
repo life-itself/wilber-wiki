@@ -34,8 +34,8 @@ an enduring structural trait counts as development.
 
 What's worth pressing on: the "separate developmental line" definition is where his
 own model has the most riding on it, since that's the one he can point to actual
-research charts for (see [chart 6](../charts/chart-6-stages-of-spirituality.md) once
-drafted) — but it's also the definition most vulnerable to the charge that he's
+research charts for (see [Chart 6](../charts/chart-6-stages-of-spirituality.md)) — but
+it's also the definition most vulnerable to the charge that he's
 selecting which contemplative traditions count as evidence and reading a Wilberian
 stage sequence back into them, rather than the sequence emerging independently. He
 addresses a version of this objection (critics accusing him of over-reading Buddhist/

@@ -13,7 +13,7 @@ works: [2000-integral-psychology]
 
 The **integral psychograph** is Wilber's name for a specific diagnostic tool, distinct
 from the reference charts elsewhere on this wiki: where a chart like
-[Chart 1](chart-1-wilber-correlations.md) plots *models* — theorists' stage sequences
+[Chart 1](../charts/chart-1-wilber-correlations.md) plots *models* — theorists' stage sequences
 laid side by side — a psychograph plots one actual *individual*, level by developmental
 line, to show how unevenly a real person's growth is distributed. The construction is
 simple to state: put the basic-structures levels on the vertical axis, run several

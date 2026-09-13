@@ -61,7 +61,10 @@ cell content intact).
 
 A coarser, ten-fulcrum version of the same territory — this is the spine of Wilber's
 psychotherapy model, roughly aligned with (but not row-for-row identical to) the
-structures table above.
+structures table above. "BPM" (Basic Perinatal Matrices) is Stanislav Grof's term,
+adopted here for the pre-birth/birth stage below F-1 — see
+[Chart 2](chart-2-basic-structures-in-other-systems.md#stan-grof-battista-the-chakras-and-baldwin)
+for Grof's own fuller scheme.
 
 <table>
 <thead>

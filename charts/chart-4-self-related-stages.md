@@ -22,21 +22,30 @@ independently verified by a second pass.
 
 ## Loevinger and Broughton
 
+Neither researcher's stages extend past vision-logic in the source — the table stops
+there rather than padding out with empty transpersonal rows.
+
 <table>
 <thead>
 <tr><th>Level</th><th>Structure</th><th>Jane Loevinger (ego stages)</th><th>John Broughton (self epistemology)</th></tr>
 </thead>
 <tbody>
-<tr><td rowspan="2">Sensorimotor</td><td>Sensation</td><td rowspan="2">Presocial, autistic</td><td rowspan="4">—</td></tr>
-<tr><td>Perception</td></tr>
-<tr><td rowspan="2">Phantasmic-emotional</td><td>Impulse/emotion</td><td>Symbiotic</td></tr>
+<tr><td rowspan="4">Sensorimotor</td><td>Matter</td><td>—</td><td rowspan="7">—</td></tr>
+<tr><td>Sensation</td><td>Presocial</td></tr>
+<tr><td>Perception</td><td>Autistic</td></tr>
+<tr><td>Exocept</td><td>—</td></tr>
+<tr><td rowspan="3">Phantasmic-emotional</td><td>Impulse/emotion</td><td>Symbiotic</td></tr>
+<tr><td>Image</td><td>—</td></tr>
 <tr><td>Symbol</td><td>Impulsive</td></tr>
-<tr><td>Rep-mind</td><td>Concept</td><td>Self-protective</td><td>0. Self "inside," reality "outside"; 1. Big-person mind, little-person body</td></tr>
-<tr><td>Conop</td><td>Rule/role, early</td><td>Conformist</td><td>2. Naive subjectivism, mind and body differentiated</td></tr>
-<tr><td rowspan="2">Formop</td><td>Formal, early</td><td>Conscientious-conformist</td><td>3. Persona vs. inner self</td></tr>
+<tr><td rowspan="2">Rep-mind</td><td>Endocept</td><td>—</td><td>—</td></tr>
+<tr><td>Concept</td><td>Self-protective</td><td>0. Self "inside," reality "outside"; 1. Big-person mind, little-person body</td></tr>
+<tr><td rowspan="2">Conop</td><td>Rule/role, early</td><td>Conformist</td><td>2. Naive subjectivism, mind and body differentiated</td></tr>
+<tr><td>Rule/role, late</td><td>—</td><td>—</td></tr>
+<tr><td rowspan="3">Formop</td><td>(transition)</td><td>—</td><td>—</td></tr>
+<tr><td>Formal, early</td><td>Conscientious-conformist</td><td>3. Persona vs. inner self</td></tr>
 <tr><td>Formal, late</td><td>Conscientious</td><td>4. Dualist or positivist, cynical, mechanistic</td></tr>
-<tr><td>Postformal (transition)</td><td>—</td><td>Individualistic</td><td>5. Inner observer, differentiated from ego</td></tr>
-<tr><td rowspan="2">Postformal</td><td>Vision-logic, early</td><td>Autonomous</td><td rowspan="2">6. Mind and body experiences of an integrated self</td></tr>
+<tr><td rowspan="3">Postformal</td><td>(transition)</td><td>Individualistic</td><td>5. Inner observer, differentiated from ego</td></tr>
+<tr><td>Vision-logic, early</td><td>Autonomous</td><td rowspan="2">6. Mind and body experiences of an integrated self</td></tr>
 <tr><td>Vision-logic, middle</td><td>Integrated</td></tr>
 </tbody>
 </table>
@@ -85,7 +94,7 @@ psychological stages.
 <tr><td>Image</td><td>—</td><td>Maternal incest</td></tr>
 <tr><td>Symbol</td><td>—</td><td>Bodyself narcissism</td></tr>
 <tr><td rowspan="2">Rep-mind</td><td>Endocept</td><td>Separation of the World Parents</td><td>Oedipus/Electra</td></tr>
-<tr><td>Concept</td><td>Dragon fight</td><td>Cs/uncs</td></tr>
+<tr><td>Concept</td><td>Dragon fight</td><td>Conscious/unconscious</td></tr>
 <tr><td rowspan="2">Conop</td><td>Rule/role, early</td><td>Birth of the Hero</td><td>Overcoming instincts, emergence of ego</td></tr>
 <tr><td>Rule/role, late</td><td>Slaying of Mother</td><td>Differentiation of anima</td></tr>
 <tr><td rowspan="2">Formop</td><td>Formal, early</td><td>Slaying of Father</td><td>Differentiation of animus</td></tr>

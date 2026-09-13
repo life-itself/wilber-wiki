@@ -57,8 +57,9 @@ independently verified by a second pass.
 ## Stan Grof, Battista, the chakras, and Baldwin
 
 A different spine — Grof's own perinatal-matrix-derived stages, not the individual
-basic-structures spine used elsewhere. "BPM: oceanic to birth" brackets the first two
-rows.
+basic-structures spine used elsewhere. "BPM" (Basic Perinatal Matrices, Grof's term
+for the stages of the birth process itself) — "BPM: oceanic to birth" — brackets the
+first two rows.
 
 <table>
 <thead>
