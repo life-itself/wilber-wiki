@@ -85,10 +85,17 @@ They are not — confirmed with `fl settings --name <site>` on both:
 **To update the CLI preview**, from the repo root:
 
 ```
-fl . --yes
+./scripts/publish-preview.sh
 ```
 
-The site name is recorded in the committed `.flowershow` file, so `--name` isn't needed.
+**Do not run bare `fl . --yes`.** The CLI's direct-upload path ignores
+`config.json`'s `contentExclude` entirely (confirmed 2026-09-13, same limitation
+already noted below for `docs/`/`library/`) — it would republish `.beads/` (the full
+issue database, including backup files) and `NEXT.md` at guessable URLs even though
+both are excluded from production. `scripts/publish-preview.sh` wraps `fl . --yes`,
+moving those out of the working tree for the publish and restoring them immediately
+after, so the preview site never has them and your local checkout is untouched. The
+site name is recorded in the committed `.flowershow` file, so `--name` isn't needed.
 
 **To update production (wilber.wiki), commit and `git push origin main`.** It's
 connected to `life-itself/wilber-wiki` on GitHub and rebuilds from there — running `fl`

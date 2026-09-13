@@ -29,6 +29,6 @@
       }
     ]
   },
-  "contentExclude": ["/docs", "/library", "/skills", "AGENTS.md", "CLAUDE.md", "README.md"],
+  "contentExclude": ["/docs", "/library", "/skills", "/.beads", "AGENTS.md", "CLAUDE.md", "README.md", "NEXT.md"],
   "head": "<link rel=\"stylesheet\" href=\"/assets/annotator/annotator.css\"><link rel=\"stylesheet\" href=\"/assets/roadmap/roadmap.css\"><script defer src=\"/assets/annotator/annotator.js\"></script>"
 }
