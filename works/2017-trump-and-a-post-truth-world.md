@@ -7,7 +7,7 @@ format: "book"
 contributors: null
 cover: null
 core: false
-status: draft
+status: verified
 ---
 
 # Trump and a Post-Truth World
@@ -15,13 +15,20 @@ status: draft
 **Year:** 2017 · **Format:** Book
 
 
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+Published by Shambhala in 2017; see the
+[publisher/distributor record](https://www.penguinrandomhouse.com/books/562220/trump-and-a-post-truth-world-by-ken-wilber/).
 
 ## Description
 
 Applies AQAL's developmental-stage model to contemporary American politics and the
 2016 election, reading the Trump phenomenon and "post-truth" discourse through the
 lens of stage regression/reaction.
+
+## Later edition
+
+Retitled [A Post-Truth World](2024-a-post-truth-world.md) for the 2024 second edition.
+The extent of revision remains unverified; these are related editions, not two
+independently conceived books.
 
 ## Notes
 

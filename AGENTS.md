@@ -65,7 +65,9 @@ Flowershow can read it with no build step.
   Publishing section below for why "private" is currently aspirational, not enforced.
 - `people/<slug>.md` — same shape as `concepts/`, but for people Wilber engages with
   (Habermas, Joseph Campbell, etc.). `people/index.md` lists them. See NEXT.md/issue #3.
-- `docs/` — internal planning/vision docs, not wiki content.
+- `docs/` — documentation of how this wiki works, not wiki content.
+- `docs/plans/` — plans, research proposals, and implementation designs. Put new
+  planning documents here; keep operational documentation directly in `docs/`.
 - `assets/covers/` — cached cover images from Open Library.
 - `bio.md` — draft Ken Wilber biography.
 - `index.md` — the site's homepage (landing page). `README.md` is the short

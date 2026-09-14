@@ -1,28 +1,29 @@
 ---
 title: "Spiritual Choices"
-subtitle: "The Problem of Recognizing Authentic Paths to Inner Transformation"
+subtitle: "The Problems of Recognizing Authentic Paths to Inner Transformation"
 year: 1987
 year_note: null
-format: "co-authored"
+format: "editor"
 contributors: "Dick Anthony, Bruce Ecker"
 cover: "/assets/covers/1987-spiritual-choices.jpg"
 core: false
-status: draft
+status: verified
 ---
 
 # Spiritual Choices
 
-*The Problem of Recognizing Authentic Paths to Inner Transformation*
+*The Problems of Recognizing Authentic Paths to Inner Transformation*
 
-**Year:** 1987 · **Format:** Co-authored book · **With:** Dick Anthony, Bruce Ecker
-
-
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+**Year:** 1987 · **Format:** Co-edited collection · **Co-editors:** Dick Anthony, Bruce Ecker
 
 ## Description
 
-With Dick Anthony and Bruce Ecker. Proposes criteria for distinguishing genuine
-transformative spiritual paths from spiritually or psychologically harmful ones.
+An edited collection examining how to evaluate spiritual paths and teachers.
+Wilber, Dick Anthony, and Bruce Ecker are its editors, rather than the joint
+authors of a single continuous argument.
+
+Bibliographic details: [CiNii library record](https://ci.nii.ac.jp/ncid/BA71346960)
+and [Google Books record](https://books.google.com/books/about/Spiritual_Choices.html?id=Z3goAAAAYAAJ).
 
 ## Notes
 

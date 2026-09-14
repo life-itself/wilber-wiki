@@ -1,27 +1,32 @@
 ---
 title: "Integral Politics"
-subtitle: null
+subtitle: "A Summary of Its Essential Ingredients"
 year: 2018
 year_note: null
 format: "ebook"
 contributors: null
 cover: null
 core: false
-status: draft
+status: verified
 ---
 
 # Integral Politics
 
-**Year:** 2018 · **Format:** Ebook
+*A Summary of Its Essential Ingredients*
 
-
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+**Year:** 2018 · **Format:** Digital publication (Integral Life)
 
 ## Description
 
-Ebook extending the political application further. Possibly overlaps with or draws
-from *Trump and a Post-Truth World* — verify distinct content before treating as a
-separate work.
+Wilber's summary of his integral political model. It is available through
+[Integral Life's publication page](https://integrallife.com/deep-dive-books/integral-politics/),
+currently as a member download. The [Integral Life ebook archive](https://integrallife.com/category/media-type/ebook/)
+dates the entry, titled *Integral Politics: Its Essential Ingredients*, to November 4, 2018.
+
+This is a digital publication rather than a conventional trade book. Its textual
+relationship to [Trump and a Post-Truth World](2017-trump-and-a-post-truth-world.md)
+or earlier political essays has not been established; shared subject matter does
+not by itself make it an edition of either.
 
 ## Notes
 

@@ -49,6 +49,15 @@ isolation. It's the most complete single statement of Wilber's mature system as 
 to religion and contemplative practice specifically, at the cost of being considerably
 longer and more repetitive than the shorter core books.
 
+## Relationship to earlier work
+
+In his [published introduction](https://www.shambhala.com/future-religion-excerpt-ken-wilber/),
+Wilber describes [The Fourth Turning](2014-the-fourth-turning.md) as a preliminary
+version of this book. That shorter work was also republished as
+[Integral Buddhism](2018-integral-buddhism.md). This is a documented development
+relationship, not evidence that *The Religion of Tomorrow* is a numbered volume
+of the [Kosmos trilogy](phases.md#what-happened-to-the-kosmos-trilogy).
+
 ## Notes
 
 _(Space for personal notes and annotations. Empty for now.)_

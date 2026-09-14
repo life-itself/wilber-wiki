@@ -7,22 +7,27 @@ format: co-authored
 contributors: Jack Engler, Daniel P. Brown
 cover: /assets/covers/1986-transformations-of-consciousness.jpg
 core: false
-status: draft
+status: verified
 ---
 
 # Transformations of Consciousness
 
 *Conventional and Contemplative Perspectives on Development*
 
-**Year:** 1986 · **Format:** Co-authored book · **With:** Jack Engler, Daniel P. Brown
-
-
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+**Year:** 1986 · **Format:** Collaborative collection · **With:** Jack Engler, Daniel P. Brown
 
 ## Description
 
-With Jack Engler and Daniel P. Brown. Academic, clinically oriented synthesis of
-Western developmental psychology and Buddhist contemplative maps of the path.
+A clinically oriented collection bringing developmental psychology into conversation
+with contemplative development. The [1986 bibliographic record and contents](https://books.google.com/books/about/Transformations_of_Consciousness.html?id=mqF9AAAAMAAJ)
+identify Wilber, Jack Engler, and Daniel P. Brown, a jointly credited introduction,
+and separately titled chapters. This is collaborative work, not a solo Wilber book.
+
+The [library record](https://ci.nii.ac.jp/ncid/BA11024241) gives the three names as
+the book's statement of responsibility; scholarly citations also describe them as
+editors. The catalog retains the three-person credit without treating every chapter
+as jointly written. See [Integral World's detailed bibliography](https://www.integralworld.net/bibliography.html)
+for Wilber's individual contributions.
 
 ## Notes
 

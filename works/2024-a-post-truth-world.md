@@ -1,27 +1,35 @@
 ---
 title: "A Post-Truth World"
-subtitle: null
+subtitle: "Politics, Polarization, and a Vision for Transcending the Chaos"
 year: 2024
-year_note: null
+year_note: "Retitled second edition of Trump and a Post-Truth World (2017)"
 format: "book"
 contributors: null
 cover: null
 core: false
-status: draft
+status: verified
 ---
 
 # A Post-Truth World
 
-**Year:** 2024 · **Format:** Book
+*Politics, Polarization, and a Vision for Transcending the Chaos*
 
-
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+**Year:** 2024 · **Format:** Book (retitled second edition)
 
 ## Description
 
-Unclear whether this is a distinct new title or a reissue/retitling of the 2017
-*Trump and a Post-Truth World*; needs verification against publisher records before
-this entry is trusted.
+A retitled second edition of
+[Trump and a Post-Truth World (2017)](2017-trump-and-a-post-truth-world.md), applying
+Wilber's integral approach to political polarization and post-truth culture.
+
+The [library catalog record](https://loveland.marmot.org/Record/.b31350896)
+identifies the second edition and records the copyright-page statement that it was
+previously published under the 2017 title. See also the
+[publisher's edition record](https://www.shambhala.com/a-post-truth-world-9780834845701.html).
+
+**If you have read the 2017 book:** this belongs to the same work's publication
+history. The extent of textual revision has not been verified here, so this page
+does not claim either that it is unchanged or that it is a substantial rewrite.
 
 ## Notes
 

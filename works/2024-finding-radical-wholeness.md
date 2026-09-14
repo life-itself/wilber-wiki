@@ -3,48 +3,40 @@ title: "Finding Radical Wholeness"
 subtitle: "The Integral Path to Unity, Growth, and Delight"
 year: 2024
 year_note: null
-format: "co-authored"
-contributors: "Corey W. deVos"
+format: "book"
+contributors: null
 cover: null
 core: true
-status: draft
+status: verified
 ---
 
 # Finding Radical Wholeness
 
 *The Integral Path to Unity, Growth, and Delight*
 
-**Year:** 2024 · **Format:** Co-authored book · **With:** Corey W. deVos
-
-
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+**Year:** 2024 · **Format:** Book
 
 ## Description
 
-With Corey W. deVos. Recent restatement of the full integral path aimed at general
-readers, framed around growth, waking up, and "showing up" in daily life.
+A practical synthesis of Wilber's integral approach, organized around Waking Up,
+Growing Up, Opening Up, Cleaning Up, and Showing Up. The publisher credits Ken
+Wilber as the sole author, with a first hardcover publication date of June 11, 2024.
 
 ## In-Depth Overview
 
-Co-written with Corey W. deVos (editor-in-chief of Integral Life), *Finding Radical
-Wholeness* is Wilber's most recent full restatement of the integral path, and the
-increasingly collaborative authorship pattern of his later career (following *Wicked
-and Wise* with Alan Watkins) continues here. The book reworks the familiar
-"growing up / waking up / cleaning up / showing up" quartet from *Integral Life
-Practice* and *The Religion of Tomorrow* into a fivefold path by adding a new term,
-**"Opening Up"** — development of the heart and subtle-energy dimension of practice,
-drawing more explicitly than earlier books on energy-body material (in the tradition of
-the Vedantic koshas referenced in *Integral Psychology*) rather than folding that
-territory into the Waking Up or Cleaning Up categories as before.
+The book brings spiritual practice, psychological development, shadow work, and
+participation in everyday life into a shared account of wholeness. Its organizing
+question is how these different kinds of growth can complement one another.
 
-Structurally it reads as a practical, general-audience guide rather than a technical
-theory book — closer in spirit to *Integral Life Practice* than to *Integral
-Spirituality* — walking through the four quadrants, multiple developmental
-"intelligences," and shadow work as applied, everyday practices rather than as
-technical apparatus. As the newest core title (2024), its treatment here is flagged
-`draft` in the works index pending closer verification against the book itself, and it
-hasn't yet accumulated the secondary commentary or critical reception that the older
-core books have.
+For a reading path, treat it as a later practical synthesis alongside
+[Integral Life Practice](2008-integral-life-practice.md), rather than assuming it
+introduces an entirely separate theoretical system. That is a reading recommendation,
+not a claim that the two books contain identical material.
+
+This overview is limited to the publisher's verified description. A detailed
+chapter comparison with the earlier practice books remains to be done.
+
+Source: [Shambhala's publication record](https://www.shambhala.com/finding-radical-wholeness.html).
 
 ## Notes
 

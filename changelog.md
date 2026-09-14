@@ -1,3 +1,10 @@
+## 2026-09-14 — Choosing what to read
+
+Added a [selective reading guide](works/reading-guide.md) and a guide to
+[Wilber's five phases and the Kosmos trilogy](works/phases.md). The chronological
+catalog now distinguishes retitled editions and reused material, with corrected
+publication details and clearer notes where the evidence remains uncertain.
+
 ## 2026-09-03 — A roadmap through Wilber's ideas
 
 All 41 concepts now sit on a single visual reading path: four acts, nineteen

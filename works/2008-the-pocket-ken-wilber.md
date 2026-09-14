@@ -3,11 +3,11 @@ title: "The Pocket Ken Wilber"
 subtitle: null
 year: 2008
 year_note: null
-format: "editor"
+format: anthology
 contributors: null
 cover: null
 core: false
-status: draft
+status: verified
 ---
 
 # The Pocket Ken Wilber
@@ -15,12 +15,16 @@ status: draft
 **Year:** 2008 · **Format:** Edited anthology
 
 
-> Description below is a draft and should be verified against a primary source before treating it as settled.
-
 ## Description
 
 Short pocket-format anthology of excerpts, publisher's companion to similar "Pocket"
 volumes on other authors.
+
+## Relationship to earlier works
+
+Short selections from Wilber's publications. Read as a portable sampler; do not assume it is a new theory book or an exact abridgment of another anthology.
+
+Source: [Publisher description](https://www.penguinrandomhouse.com/books/190455/the-pocket-ken-wilber-by-ken-wilber/).
 
 ## Notes
 

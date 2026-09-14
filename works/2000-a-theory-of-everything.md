@@ -36,11 +36,11 @@ a postmodern/pluralistic worldview genuinely can't hear each other's concerns as
 in his account, because each is operating from a different center of gravity, not
 just a different opinion.
 
-This is the book most directly responsible for AQAL's uptake outside psychology and
-spirituality — in conscious-business, leadership, and organizational-development
-circles specifically — and functions as a direct precursor to both Integral Institute
-(founded 1998, shortly before this book) and the more applied, practice-oriented
-*Integral Life Practice* that followed it in 2008.
+For readers choosing among introductions, its emphasis is on applying the framework
+across fields. It overlaps with [A Brief History of Everything](1996-a-brief-history-of-everything.md)
+as an introduction to the integral approach; neither is a prerequisite for reading
+the other. This is an editorial reading recommendation, not an assertion that their
+texts are identical.
 
 ## Notes
 

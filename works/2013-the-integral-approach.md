@@ -17,11 +17,16 @@ status: draft
 **Year:** 2013 · **Format:** Ebook
 
 
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+> Bibliographic identification remains provisional: a publisher record or the ebook
+> itself has not yet been located.
 
 ## Description
 
-Ebook-only short introduction/overview essay.
+Listed as a 2013 ebook in the
+[Ken Wilber Fund bibliography](https://www.kenwilberfund.org/books-by-ken-wilber/).
+Its independent publication details and relationship to Wilber's other short
+introductions remain unverified. Do not assume that this is a distinct new theory
+book, or that it is a retitling of another introduction.
 
 ## Notes
 

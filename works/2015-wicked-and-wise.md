@@ -7,7 +7,7 @@ format: "co-authored"
 contributors: "Alan Watkins"
 cover: null
 core: false
-status: draft
+status: verified
 ---
 
 # Wicked and Wise
@@ -17,12 +17,15 @@ status: draft
 **Year:** 2015 · **Format:** Co-authored book · **With:** Alan Watkins
 
 
-> Description below is a draft and should be verified against a primary source before treating it as settled.
+Published by Urbane Publications in 2015, credited to Alan Watkins and Ken Wilber.
 
 ## Description
 
 With Alan Watkins. Applies integral thinking to complex, "wicked" global problems
 (e.g., organizational and societal-scale challenges).
+
+Sources: [bibliographic record](https://books.google.com/books/about/Wicked_and_Wise.html?id=ouEIogEACAAJ)
+and [book excerpt, including Wilber's contribution](https://archive.peoplesbookprize.com/Extracts/i1348.extract.pdf).
 
 ## Notes
 

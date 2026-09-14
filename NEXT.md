@@ -13,6 +13,16 @@ you're done).
 
 ## Work streams
 
+- **Works validation and reading guides** — epic `wilberwiki-at6`.
+  Catalog audit and basic guides implemented locally: [reading guide](works/reading-guide.md),
+  [Wilber I–V and Kosmos trilogy](works/phases.md), and a
+  [40-entry audit ledger](docs/plans/2026-09-14-works-bibliography-audit.md).
+  Uncertain publication details remain explicit. The visual lineage/timeline is
+  deferred (`wilberwiki-at6.4`); collaborative/pseudonymous additions are a separate
+  follow-up (`wilberwiki-at6.6`). Working conventions: [catalog documentation](docs/works-catalog.md).
+  Research and implementation history:
+  [research note](docs/plans/2026-09-14-works-reading-guides-research.md) and
+  [implementation plan](docs/plans/2026-09-14-works-reading-guides-implementation.md).
 - **[#1 Concept wiki](https://github.com/life-itself/wilber-wiki/issues/1)** —
   40 pages, all quote-verified. Only the P3 tier (5 thinner/niche candidates) of the
   backlog checklist is still open; everything else on the original list is done.
