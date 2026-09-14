@@ -4,9 +4,17 @@
 
 A concept-level knowledge base on Ken Wilber and integral theory. **Read
 [`NEXT.md`](NEXT.md) first** — it's the up-to-date map of the active work streams
-(concept wiki, people index, annotation system, text indexing), each with a GitHub
-issue linking to its vision/plan doc. Don't re-derive the vision from scratch, and don't
-conflate the work streams — they're deliberately separate.
+(concept wiki, people index, annotation system, text indexing), each with a Beads epic
+or task and, where relevant, a linked vision/plan doc. Don't re-derive the vision from
+scratch, and don't conflate the work streams — they're deliberately separate.
+
+## Work tracking
+
+**Use Beads for task tracking.** `bd` is the canonical CLI for this repository; create
+and update work with it, and use `bd dolt push` when a task needs to be available to
+other checkouts. `NEXT.md` is the short map of active streams, not a task backlog.
+Existing GitHub issues are historical/project-level references; do not create a GitHub
+issue for routine task capture unless the site owner explicitly asks for one.
 
 There's a separate private repo (`life-itself/library`) that originally converted the
 Wilber book from EPUB and did some independent people/annotation research — this repo
