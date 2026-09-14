@@ -12,7 +12,7 @@ Spirituality → Integral Psychology → Integral Spirituality**. Start with
 This is an editorial selection for readers who want the main ideas without reading
 every introduction or restatement. It is not a ranking of literary merit, a complete
 bibliography, or a claim that the early books have been superseded in every respect.
-Use the [chronological catalog](index.md) for publication details and
+Use the [chronological catalog](catalog.md) for publication details and
 [the phases guide](phases.md) for the evolution of the theory.
 
 ## The main route

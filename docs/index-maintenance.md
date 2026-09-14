@@ -7,11 +7,11 @@ uncertainty in ordinary reader-facing language.
 
 ## Navigation
 
-The top menu links to Works at `/works`. The opening of `works/index.md` links to
-the selective reading guide and phases guide; those guides link to one another,
-the chronological catalog, and individual books. No dropdown is needed for these
-two complementary views. See [Maintaining the works catalog](works-catalog.md)
-for the book-page standard.
+The top menu links to the reader-first Works hub at `/works`. It presents three
+routes: an inline recommendation with a link to the full reading guide, the complete
+chronological catalog at `/works/catalog`, and the phases guide. Those guides link to
+one another and to individual books. No dropdown is needed. See
+[Maintaining the works catalog](works-catalog.md) for the book-page standard.
 
 ## Concepts
 

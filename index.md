@@ -33,10 +33,10 @@ chapter-cited excerpts from the source text.
 
 <div class="rounded-xl border p-5">
 
-### [Works Catalog →](works/index.md)
+### [Works →](works/index.md)
 
-All 39 known works by year, one page per book, with cover art and in-depth overviews of
-the twelve core titles.
+Find the best place to begin, browse the complete catalog, or follow the evolution of
+Wilber's thought—with a visual route through four recommended books.
 
 </div>
 

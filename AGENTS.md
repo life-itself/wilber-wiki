@@ -49,8 +49,8 @@ Content lives at the repo root, not under a `content/` wrapper — deliberate, s
 Flowershow can read it with no build step.
 
 - `works/<slug>.md` — one page per Wilber book (bibliographic + description; the 12
-  `core: true` works also get an `## In-Depth Overview`). `works/index.md` is the full
-  catalog.
+  `core: true` works also get an `## In-Depth Overview`). `works/index.md` is the
+  reader-first hub; `works/catalog.md` is the full chronological catalog.
 - `concepts/<slug>.md` — the concept wiki itself: a `## Wilber's View` synthesis plus
   excerpts shown directly (no accordion — see `skills/add-excerpt-page/SKILL.md` for the
   page shape and the mandatory quote-verification step before adding/editing one of

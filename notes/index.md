@@ -7,8 +7,8 @@ Two sources so far, kept clearly separate by author.
 
 ## Rufus's own notes
 
-Reading notes and reviews Rufus wrote himself, linked from the relevant
-[work page](../works/index.md)'s "Notes" section.
+Reading notes and reviews Rufus wrote himself, linked from each relevant work page's
+"Notes" section. Browse the full list from the [works catalog](../works/catalog.md).
 
 | Note | On | Originally published |
 |---|---|---|

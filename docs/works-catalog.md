@@ -1,7 +1,8 @@
 # Maintaining the works catalog
 
-Public content lives in `works/`: one page per title/edition, a chronological
-`index.md`, a selective `reading-guide.md`, and an intellectual-history `phases.md`.
+Public content lives in `works/`: one page per title/edition, a reader-first hub in
+`index.md`, a chronological `catalog.md`, a selective `reading-guide.md`, and an
+intellectual-history `phases.md`.
 Research and implementation plans belong in `docs/plans/`; this file documents
 the working conventions.
 
@@ -40,7 +41,7 @@ selection, and conceptual development/application. The last two may involve many
 source works; do not force them into a single-parent hierarchy. Editorial reading
 advice should be recognizable as advice, separate from bibliographic fact.
 
-Keep index rows chronological and match the page's year, format and draft label.
+Keep catalog rows chronological and match the page's year, format and draft label.
 Show important edition relationships beside the title. The reading guide can be
 selective; the catalog should not delete a useful title simply because another
 edition or introduction overlaps with it.
@@ -49,7 +50,7 @@ edition or introduction overlaps with it.
 
 To add a work, create `works/<year>-<slug>.md` with the fields above, a concise
 description, and cited publication evidence. Add its row in the appropriate year
-group in `works/index.md`; include any known edition relationship. Add it to a
+group in `works/catalog.md`; include any known edition relationship. Add it to a
 reading guide only if it serves that guide's selection, not automatically. Verify
 new cover provenance in `assets/covers/SOURCES.md` when adding an image.
 

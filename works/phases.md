@@ -11,7 +11,7 @@ development or spirituality. They are not stages a reader must pass through, and
 they do not make every later book a theoretical advance over every earlier one.
 
 For a practical selection, see [What to read, and why](reading-guide.md).
-For all titles and dates, use the [chronological catalog](index.md).
+For all titles and dates, use the [chronological catalog](catalog.md).
 
 ## The five phases at a glance
 

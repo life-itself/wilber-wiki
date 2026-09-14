@@ -83,4 +83,4 @@ excerpts pulled straight from the source text. Example: [Holons](concepts/holons
 Booted up the project: a draft biography of Ken Wilber, a complete works list (39
 titles across five decades) with a dedicated page per book, cover art for most of them,
 and in-depth overviews for the twelve core works. See the [Biography](bio.md) and
-[Works Catalog](works/index.md).
+[Works Catalog](works/catalog.md).
