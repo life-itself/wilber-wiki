@@ -47,6 +47,12 @@ edition or introduction overlaps with it.
 
 ## Checking changes
 
+To add a work, create `works/<year>-<slug>.md` with the fields above, a concise
+description, and cited publication evidence. Add its row in the appropriate year
+group in `works/index.md`; include any known edition relationship. Add it to a
+reading guide only if it serves that guide's selection, not automatically. Verify
+new cover provenance in `assets/covers/SOURCES.md` when adding an image.
+
 Check all new local links, index/page consistency, and `git diff --check`. Compare
 any factual correction with its cited evidence. Content-only edits do not require
 application tests. No source-book text should be linked into the public guides;

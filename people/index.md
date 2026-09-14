@@ -1,26 +1,19 @@
 # People Index
 
-Wilber's work is dense with named thinkers he draws on, argues with, or both. This
-index inverts the book's own footnotes the same way the [concept wiki](../concepts/index.md)
-inverts its arguments: instead of a person scattered across hundreds of pages, each
-page here collects what Wilber actually says about one thinker — where he agrees,
-where he departs, and the passages where he makes the case, chapter-cited from the
-source text. Many of these same names also appear correlated against Wilber's own
-developmental scale in the **[Chart Index](../charts/index.md)** — reconstructed
-comparative tables from *Integral Psychology*'s appendix, a different content type
-from the synthesis-plus-excerpt pages here.
+Explore the thinkers Wilber draws on, argues with, and reinterprets. Each linked
+page brings together his view of that person with passages from the books where
+he discusses them.
 
-Two source books so far. The main roster below is sourced entirely from *[Sex, Ecology,
-Spirituality](../works/1995-sex-ecology-spirituality.md)* — the full set of significant
-recurring interlocutors found in a full-text scan of that book, sorted by mention count
-(main body only, footnotes and references excluded) — see
-`library/1995-sex-ecology-spirituality-people-source.md` for the underlying research.
-Twenty-three have live pages; the remaining four names in the table are name-drops with
-no substantive discussion attached (see "Not written up" below) — the roster is
-otherwise complete. A second roster below it is being built from *[Integral
-Psychology](../works/2000-integral-psychology.md)*, per the scan in
-`library/2000-integral-psychology-people-source.md`; most names there overlap with the
-SES roster above (same person, `works:` extended) rather than being wholly new.
+Browse the two book rosters below, or visit the [Concept Index](../concepts/index.md)
+to follow an idea. For comparisons between developmental models, see the
+[charts from Integral Psychology](../charts/index.md).
+
+## From Sex, Ecology, Spirituality
+
+The thinkers below appear in [Sex, Ecology, Spirituality](../works/1995-sex-ecology-spirituality.md).
+Mention counts offer a rough indication of frequency, not a ranking of influence
+or depth of engagement. Names without links have only brief references in the
+material reviewed so far.
 
 | Person | Mentions | Peak chapter(s) |
 |---|---|---|
@@ -52,37 +45,15 @@ SES roster above (same person, `works:` extended) rather than being wholly new.
 | Auguste Comte | 1 | — |
 | Roberto Assagioli | 1 | — |
 
-## Not written up
-
-These four are deliberately left as plain text, not gaps to fill later — each was
-checked against the full text and found to be a name-drop with no argument or stance
-attached, not a substantive discussion:
-
-- **Gregory Bateson** — his 8 mentions are all in the endnotes (none in the main body),
-  and even there he appears only secondhand, as the source of the "cybernetics" that
-  Morris Berman leans on; the passage is really a critique of Berman, not an engagement
-  with Bateson's own ideas.
-- **Stephen Jay Gould** — appears once, credited in passing (with Niles Eldredge) for
-  the "punctuational model" of evolution, with no further discussion.
-- **Auguste Comte** — appears once, in a list of structural-functionalists ("from Comte
-  to Parsons to Niklas Luhmann"), with no argument attached.
-- **Roberto Assagioli** — appears only in the bibliography (0 mentions in the main
-  body); *Psychosynthesis* is listed as a reference but never discussed in the text.
-
-Any of these could get a page later if a future work (or a closer look at *SES* itself)
-turns up more substance, but as of this pass the roster of people *SES* actually
-argues with is complete.
-
 ## From Integral Psychology
 
-Mention counts here are separate from the SES table above (same person can have
-different counts in each book) — see
-`library/2000-integral-psychology-people-source.md` for the full scan, including names
-still pending a substance check before a page gets written.
+These pages include passages from [Integral Psychology](../works/2000-integral-psychology.md).
+Counts refer to this book only; a person who appears in both rosters has a single
+page bringing their excerpts together.
 
 | Person | Mentions (in IP) | Peak chapter(s) | Also in SES roster? |
 |---|---|---|---|
-| [James Mark Baldwin](baldwin.md) | 43 | ch. 7, ch. 4, ch. 1 | No — new to this wiki |
+| [James Mark Baldwin](baldwin.md) | 43 | ch. 7, ch. 4, ch. 1 | No |
 | [Jean Piaget](piaget.md) | 31 | ch. 1, ch. 4, ch. 7 | Yes |
 | [Jürgen Habermas](habermas.md) | 24 | ch. 7, ch. 12, ch. 13 | Yes |
 | [Lawrence Kohlberg](kohlberg.md) | 23 | ch. 4, ch. 7, ch. 9 | Yes |
@@ -91,13 +62,8 @@ still pending a substance check before a page gets written.
 | [Jane Loevinger](loevinger.md) | 16 | ch. 4, ch. 3, ch. 8 | Yes |
 | [Abraham Maslow](maslow.md) | 14 | ch. 7, ch. 4, ch. 1 | Yes |
 | [Plotinus](plotinus.md) | 8 | ch. 1, ch. 12, ch. 3 | Yes |
-| [Clare Graves](graves.md) | 21 | ch. 4, ch. 13, ch. 3 | No — new to this wiki |
-| [Robert Kegan](kegan.md) | 9 | ch. 4, ch. 3, ch. 2 | No — new to this wiki |
-| [Erik Erikson](erikson.md) | 8 | ch. 4, ch. 3, ch. 8 | No — new to this wiki |
-| [Carol Gilligan](gilligan.md) | 7 | ch. 2, ch. 13, ch. 1 | No — new to this wiki |
-| [Susanne Cook-Greuter](cook-greuter.md) | 7 | ch. 1, ch. 4, ch. 3 | No — new to this wiki |
-
-All fourteen names in the table above now carry IP excerpts (see each page's `works:`
-frontmatter) — the full overlap between the SES and IP rosters is done, and all six
-strong new-page candidates the mention-count scan surfaced (Baldwin, Graves, Kegan,
-Erikson, Gilligan, Cook-Greuter) now have pages.
+| [Clare Graves](graves.md) | 21 | ch. 4, ch. 13, ch. 3 | No |
+| [Robert Kegan](kegan.md) | 9 | ch. 4, ch. 3, ch. 2 | No |
+| [Erik Erikson](erikson.md) | 8 | ch. 4, ch. 3, ch. 8 | No |
+| [Carol Gilligan](gilligan.md) | 7 | ch. 2, ch. 13, ch. 1 | No |
+| [Susanne Cook-Greuter](cook-greuter.md) | 7 | ch. 1, ch. 4, ch. 3 | No |

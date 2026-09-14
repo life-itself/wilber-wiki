@@ -5,6 +5,8 @@ Added a [selective reading guide](works/reading-guide.md) and a guide to
 catalog now distinguishes retitled editions and reused material, with corrected
 publication details and clearer notes where the evidence remains uncertain.
 
+Simplified the People and Concepts introductions to make the indexes easier to browse.
+
 ## 2026-09-03 — A roadmap through Wilber's ideas
 
 All 41 concepts now sit on a single visual reading path: four acts, nineteen

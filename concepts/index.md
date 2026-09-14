@@ -1,26 +1,16 @@
 # Concept Index
 
-The inverted index this wiki exists for: instead of a concept scattered across
-hundreds of pages of a single book, each page here collects Wilber's view on one idea —
-a synthesis plus curated excerpts pulled from wherever he actually makes the case,
-across works. See [`docs/concept-wiki-vision.md`](../docs/concept-wiki-vision.md) for
-the full rationale.
+Explore Wilber's ideas through short explanations and passages from his books.
+Start with the core terms for his main vocabulary, or browse his views on subjects
+such as spirituality, science, politics, and culture.
 
-Pages are sourced from the full text of the books they cite (see each page's `works:`
-frontmatter), chapter-cited. Most draw on *[Sex, Ecology,
-Spirituality](../works/1995-sex-ecology-spirituality.md)*
-(`library/1995-sex-ecology-spirituality-full-text.md`); a growing number also draw on
-*[Integral Psychology](../works/2000-integral-psychology.md)*
-(`library/2000-integral-psychology-full-text.md`). Not exhaustive — see each page's
-`status` and the vision doc for what's deliberately left for later passes, and for
-other Wilber works this wiki hasn't drawn from yet.
+The current selection draws on [Sex, Ecology, Spirituality](../works/1995-sex-ecology-spirituality.md)
+and [Integral Psychology](../works/2000-integral-psychology.md).
+For a guided route, follow the [roadmap](../roadmap.md); for comparisons between
+developmental models, visit the [Chart Index](../charts/index.md).
 
-*Integral Psychology*'s appendix charts — comparative tables, not synthesis-plus-excerpt
-pages — live separately in the **[Chart Index](../charts/index.md)**.
-
-★ marks `category: core-term` pages (Wilber's own vocabulary); the rest are
-`category: wilber-on-x` pages — his take on a topic, which is often the more
-interesting concept than the bare term.
+★ marks core terms in Wilber's vocabulary. The second section gathers his views
+on broader questions and topics.
 
 ## Core terms
 
@@ -53,7 +43,7 @@ interesting concept than the bare term.
 | ★ [The Reconstruction of the Contemplative Path](reconstruction-of-the-contemplative-path.md) | contemplation as a repeatable, falsifiable injunction, not a private feeling |
 | ★ [Validity Claims of Mysticism](validity-claims-of-mysticism.md) | how a contemplative claim can actually be checked |
 
-## Wilber on X
+## Wilber on broader topics
 
 | Concept | Notes |
 |---|---|
