@@ -17,9 +17,13 @@ you're done).
   Catalog audit and basic guides implemented locally: [reading guide](works/reading-guide.md),
   [Wilber I–V and Kosmos trilogy](works/phases.md), and a
   [40-entry audit ledger](docs/plans/2026-09-14-works-bibliography-audit.md).
-  Uncertain publication details remain explicit. The visual lineage/timeline is
-  deferred (`wilberwiki-at6.4`); collaborative/pseudonymous additions are a separate
-  follow-up (`wilberwiki-at6.6`). Working conventions: [catalog documentation](docs/works-catalog.md).
+  Uncertain publication details remain explicit. Visual lineage research and design
+  is now active under `wilberwiki-at6.4`, with a source-grounded
+  [research/design plan](docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md)
+  and seven dependency-ordered child Beads; start with `wilberwiki-at6.4.1` and do not
+  implement a polished visualization before the `wilberwiki-at6.4.6` human decision
+  gate. Collaborative/pseudonymous additions are a separate follow-up
+  (`wilberwiki-at6.6`). Working conventions: [catalog documentation](docs/works-catalog.md).
   Research and implementation history:
   [research note](docs/plans/2026-09-14-works-reading-guides-research.md) and
   [implementation plan](docs/plans/2026-09-14-works-reading-guides-implementation.md).
