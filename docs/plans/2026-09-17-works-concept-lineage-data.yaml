@@ -1,0 +1,387 @@
+# Research contract and seed data only; not a completed historical genealogy.
+schema_version: 1
+status: pilot-schema
+updated: '2026-09-18'
+bead: wilberwiki-at6.4.1
+plan: docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md
+
+scope:
+  id: examined-corpus
+  meaning: Only the specified passages and editions actually inspected, not all Wilber publications.
+  target_corpus: Thirteen catalog works plus selected Kosmos II excerpts.
+  examined_so_far: [ip-local]
+  limitations:
+    - Three seed appearances in one book do not establish historical priority or corpus coverage.
+    - A target work is not an examined work; missing appearances mean unexamined, not absent.
+    - Publication year, composition date, and date of an inspected edition are distinct.
+    - No influence edge may be inferred from semantic similarity.
+    - Confidence concerns attribution and the stated textual claim, not the truth of Wilber's theory.
+  accepted_jobs:
+    - Understand emergence, revision, and integration across the intellectual project.
+    - Trace one concept through confirmed formulations and later uses.
+    - Identify what one book carries forward and contributes.
+    - Compare retained, rejected, differentiated, and added claims between works.
+    - Eventually share a self-contained sourced overview.
+
+contract:
+  ids: Stable lowercase kebab-case; catalog work IDs are existing filenames without .md.
+  concept_identity: >-
+    Concepts are editorial research families, not assertions that every historical
+    formulation is identical. Definitions delimit the search; aliases are search
+    aids, not evidence of historical equivalence. Split a family if the research
+    finds differences that cannot be expressed as a qualified formulation.
+  appearances:
+    required: [id, concept, work, role, claim, rationale, evidence, confidence, confidence_reason, scope]
+    evidence_required: [source, kind, citation, locator]
+    target: >-
+      Use work for catalog works. For uncatalogued excerpts use source_unit instead
+      of work, exactly one target per appearance. No invented catalog slug.
+    multiplicity: Multiple roles per concept/work require separate claims and records.
+    priority: >-
+      introduces requires an explicit comparison_basis listing inspected earlier
+      corpus units and remaining gaps. Say earliest confirmed in the examined
+      corpus; never first ever. None of the seed examples establishes priority.
+    comparison: >-
+      develops can identify substantial distinctions or argument in a work without
+      claiming historical novelty. Any claim of an addition, rejection, or change
+      relative to an earlier work must identify that work and cite both formulations.
+      revises requires comparison_basis and evidence for the earlier and later claims.
+    evidence_shape: Nonempty list; source registry supplies edition/access details.
+  terminology:
+    required: [id, concept, term, claim, evidence, confidence, confidence_reason, scope]
+    target: Same work or source_unit rule as appearances.
+    rule: >-
+      Record observed wording separately from conceptual formulation. A later name
+      cannot date the underlying idea. Absence from this list means not researched.
+  work_relationships:
+    required: [id, from, to, type, claim, rationale, evidence, confidence, confidence_reason, scope, revision_extent]
+    direction: Earlier/source catalog entry to later/derived catalog entry.
+    rule: Edition identity and reuse are bibliographic relationships, not conceptual roles.
+    revision_extent_values: [unknown, compared]
+    comparison: compared requires a citation to the actual textual comparison; do not invent percentages.
+  visibility: >-
+    No automatic overview eligibility. Audit in wilberwiki-at6.4.4 precedes visual
+    use; low-confidence and mentions records normally remain detail-only. Do not
+    draw continuity across missing evidence or imply equal phase boundaries.
+
+vocabularies:
+  roles:
+    introduces: Earliest confirmed substantive formulation in the explicitly examined corpus.
+    develops: Substantial distinctions, argument, or structure; historical novelty needs comparative evidence.
+    revises: Explicit change or rejection of an earlier formulation, with both sides identified.
+    integrates: Combines identified concepts within a larger architecture.
+    applies: Uses an existing framework in a specified domain or practice.
+    restates: Accessible presentation without a demonstrated major theoretical change.
+    mentions: Present without substantive treatment.
+  work_relationship_types:
+    retitled-edition: Later edition of the same work under a different title; revision extent separate.
+    revised-edition: Documented revised edition; magnitude must be independently established.
+    abridgment: Documented shortening of a source work, not merely a shorter treatment of similar ideas.
+    anthology-extraction: Documented inclusion of source passages in a collection.
+    edition-identity: Two catalog entries documented as editions of one work without a stronger classification.
+    popularized-restatement: Documented accessible re-presentation, not necessarily textual abridgment.
+    expanded-treatment: Documented expansion from a precursor; does not assert edition identity.
+  source_kinds:
+    primary-text: Direct inspection of the author's argument in the identified text/edition.
+    author-retrospective: Author's later account of earlier thought; not inspection of that earlier text.
+    bibliographic-record: Publication, edition, authorship, or contents metadata only.
+    publisher-description: Publisher summary; limited support for broad subject or positioning.
+    independent-scholarship: Attributed scholarly interpretation distinct from the author's account.
+    editorial-inference: Explicit researcher inference grounded in cited passages, not a primary statement.
+  confidence:
+    high: Direct unambiguous evidence supports the narrowly worded claim; edition and locator specified.
+    medium: Indirect or retrospective support, interpretive mapping, or a material edition/coverage limitation.
+    low: Tentative interpretation with identified weak support; retain as a research lead.
+  coverage_statuses:
+    unexamined: No substantive passage inspected for this ledger.
+    seed-only: Selected passages inspected; book-wide coverage incomplete.
+    researched: Relevant passages searched and documented; not an absence assertion by itself.
+  absence: >-
+    Negative claims require a recorded search scope and method. No empty list or
+    unexamined status is evidence of conceptual absence.
+
+sources:
+  - id: catalog-audit
+    kind: bibliographic-record
+    path: docs/plans/2026-09-14-works-bibliography-audit.md
+    citation: Works bibliography audit, 2026-09-14, Entry-by-entry ledger.
+    limitation: Repository audit of linked records; metadata reused here, underlying web records not rechecked in this task.
+  - id: ip-local
+    kind: primary-text
+    path: library/2000-integral-psychology-full-text.md
+    citation: 'Ken Wilber, Integral Psychology: Consciousness, Spirit, Psychology, Therapy, Shambhala, copyright 2000, eISBN 978-0-8348-2114-9.'
+    edition: Local EPUB transcription; copyright and cataloging page identifies first paperback; EPUB metadata dated 2011.
+    limitation: No original-print collation; do not use an EPUB metadata timestamp as the concept's publication date.
+    inspected: Chapter 3; chapter 9 note 15; chapter 12 note 12; chapter 14 note 20.
+  - id: ses-local
+    kind: primary-text
+    path: library/1995-sex-ecology-spirituality-full-text.md
+    citation: Ken Wilber, Sex, Ecology, Spirituality, local EPUB transcription including revised-edition material.
+    edition: Revised text; individual passages must be checked before attribution to the 1995 edition.
+    limitation: Available but not mined for seed claims in this task.
+
+# sampling_group expresses the plan's research allocation, not a hard phase assignment.
+# Bibliographic evidence is inherited from metadata_source plus each row's locator.
+work_metadata_contract:
+  metadata_source: catalog-audit
+  confidence: medium
+  confidence_reason: Existing source-linked audit reused; no fresh edition-by-edition verification.
+  date_basis: First publication from the audit; stable URL year is not authoritative.
+  phase_basis: Plan section 6 and works/phases.md; approximate research groups only.
+works:
+  - id: 1977-spectrum-of-consciousness
+    title: The Spectrum of Consciousness
+    publication_year: 1977
+    sampling_group: I
+    metadata_locator: Entry-by-entry ledger, The Spectrum of Consciousness row.
+    coverage: unexamined
+    source_gap: Primary text not locally available; obtain edition-specific passages.
+  - id: 1979-no-boundary
+    title: No Boundary
+    publication_year: 1979
+    sampling_group: I
+    metadata_locator: Entry-by-entry ledger, No Boundary row.
+    coverage: unexamined
+    source_gap: Primary text not locally available; obtain edition-specific passages.
+  - id: 1980-the-atman-project
+    title: The Atman Project
+    publication_year: 1980
+    sampling_group: II
+    metadata_locator: Entry-by-entry ledger, The Atman Project row.
+    coverage: unexamined
+    source_gap: Primary text not locally available; distinguish author retrospectives from direct evidence.
+  - id: 1981-up-from-eden
+    title: Up from Eden
+    publication_year: 1981
+    sampling_group: II
+    metadata_locator: Entry-by-entry ledger, Up from Eden row.
+    coverage: unexamined
+    source_gap: Primary text not locally available; distinguish cultural application from theoretical revision.
+  - id: 1983-a-sociable-god
+    title: A Sociable God
+    publication_year: 1983
+    sampling_group: II-III-transition
+    metadata_locator: Entry-by-entry ledger, A Sociable God row.
+    coverage: unexamined
+    source_gap: Inspect original and later prefaces separately; IP's retrospective is only a lead.
+  - id: 1984-eye-to-eye
+    title: Eye to Eye
+    publication_year: 1983
+    sampling_group: III
+    metadata_locator: Entry-by-entry ledger, Eye to Eye row; corrected 1983 date with retained 1984 URL.
+    coverage: unexamined
+    source_gap: Essay composition and revised editions must be dated separately.
+  - id: 1986-transformations-of-consciousness
+    title: Transformations of Consciousness
+    publication_year: 1986
+    sampling_group: III
+    metadata_locator: Entry-by-entry ledger, Transformations of Consciousness row.
+    coverage: unexamined
+    source_gap: Collaborative collection; attribute each claim to its chapter author, not automatically Wilber.
+  - id: 1995-sex-ecology-spirituality
+    title: Sex, Ecology, Spirituality
+    publication_year: 1995
+    sampling_group: IV
+    metadata_locator: Entry-by-entry ledger, Sex, Ecology, Spirituality row.
+    coverage: unexamined
+    available_sources: [ses-local]
+    source_gap: Revised local text is not proof that a passage appeared in 1995.
+  - id: 1996-a-brief-history-of-everything
+    title: A Brief History of Everything
+    publication_year: 1996
+    sampling_group: IV
+    metadata_locator: Entry-by-entry ledger, A Brief History of Everything row.
+    coverage: unexamined
+    source_gap: Obtain primary text; popularization does not establish exact textual overlap with SES.
+  - id: 2000-integral-psychology
+    title: Integral Psychology
+    publication_year: 2000
+    sampling_group: IV
+    metadata_locator: Entry-by-entry ledger, Integral Psychology row.
+    coverage: seed-only
+    available_sources: [ip-local]
+    source_gap: Relation to 1999 Collected Works material requires comparison before priority claims.
+  - id: 2006-integral-spirituality
+    title: Integral Spirituality
+    publication_year: 2006
+    sampling_group: V
+    metadata_locator: Entry-by-entry ledger, Integral Spirituality row.
+    coverage: unexamined
+    source_gap: Local reader notes are leads; primary passages and edition details still required.
+  - id: 2017-the-religion-of-tomorrow
+    title: The Religion of Tomorrow
+    publication_year: 2017
+    sampling_group: V
+    metadata_locator: Entry-by-entry ledger, The Religion of Tomorrow row.
+    coverage: unexamined
+    source_gap: Obtain primary passages; introduction/publisher excerpts can support only their own limited claims.
+  - id: 2024-finding-radical-wholeness
+    title: Finding Radical Wholeness
+    publication_year: 2024
+    sampling_group: late-practical-synthesis
+    metadata_locator: Entry-by-entry ledger, Finding Radical Wholeness row.
+    coverage: unexamined
+    source_gap: Not an assumed sixth phase; conceptual additions versus practical synthesis remain to be researched.
+
+# Source units are research targets, not invented finished books or public routes.
+source_units:
+  - id: kosmos-ii-excerpt-a
+    label: Kosmos II, Excerpt A
+    sampling_group: V
+    work_slug: null
+    publication_year: null
+    coverage: unexamined
+    selection_basis: Provisional methods/perspectives sample for Task 3; verify author-hosted text and version.
+    source_gap: No local primary copy or verified edition/date; attach source record before making claims.
+  - id: kosmos-ii-excerpt-c
+    label: Kosmos II, Excerpt C
+    sampling_group: V
+    work_slug: null
+    publication_year: null
+    coverage: unexamined
+    selection_basis: Provisional perspectives sample identified in works/phases.md; verify primary text and version.
+    source_gap: No local primary copy or verified edition/date; do not equate excerpt release with completed volume II.
+
+concepts:
+  - id: spectrum-levels
+    label: Spectrum and levels of consciousness
+    aliases: [spectrum of consciousness, levels, waves, Great Nest]
+    definition: Ordered ranges of consciousness; record changing ontological and psychological meanings in each claim.
+  - id: return-and-development
+    label: Return to unity and developmental growth
+    aliases: [recaptured-goodness, growth-to-goodness]
+    definition: Competing accounts of spiritual realization as recovery of lost unity or development of capacities.
+  - id: pre-trans-fallacy
+    label: Pre/trans fallacy
+    aliases: [prepersonal and transpersonal, pre-rational and transrational]
+    definition: Confusion of pre-rational and transrational conditions because neither is ordinary rationality.
+  - id: structures-stages
+    label: Structures and stages
+    aliases: [basic structures, developmental stages]
+    definition: Enduring organizations and developmental sequences; related to levels but not synonymous in every use.
+  - id: states
+    label: States of consciousness
+    aliases: [altered states, peak experiences]
+    definition: Modes or temporary conditions of experience, distinguished from enduring developmental structures.
+  - id: developmental-lines
+    label: Developmental lines
+    aliases: [streams, lines of development]
+    definition: Capacities that can develop with relative independence and uneven attainment.
+  - id: types
+    label: Types
+    aliases: [horizontal types, typologies]
+    definition: Patterns distinguished horizontally rather than ranked as developmental attainment.
+  - id: self-system
+    label: Self-system
+    aliases: [proximate self, distal self, overall self]
+    definition: Identity, navigation, and integration of development; distinguish component selves within this family.
+  - id: evolution-involution
+    label: Evolution and involution
+    aliases: [Eros, involution]
+    definition: Accounts of unfolding and its ground or prior movement; track metaphysical and later reinterpretations separately.
+  - id: holons-holarchy
+    label: Holons and holarchy
+    aliases: [whole-parts, holarchy]
+    definition: Entities as both wholes and parts, and their nested relations; borrowing and first use need evidence.
+  - id: four-quadrants
+    label: Four quadrants
+    aliases: [quadrants, interior-exterior and individual-collective]
+    definition: Subjective, behavioral, cultural, and social dimensions considered together.
+  - id: big-three
+    label: The Big Three
+    aliases: [I-we-it, art-morals-science]
+    definition: Subjective, intersubjective, and objective domains; relationship to four quadrants must be sourced.
+  - id: aqal
+    label: AQAL integration
+    aliases: [all-level all-quadrant, all quadrants all levels]
+    definition: Integrating formulation whose included dimensions and exact wording must be dated separately.
+  - id: perspectives-zones
+    label: Perspectives and zones
+    aliases: [eight zones, indigenous perspectives]
+    definition: Differentiations of perspectives within and on domains; not automatically equivalent to quadrants.
+  - id: methodological-pluralism
+    label: Integral methodological pluralism
+    aliases: [IMP, methodological pluralism]
+    definition: Coordination of multiple methods of inquiry; distinguish early pluralism from the explicitly named formulation.
+  - id: state-stage-relations
+    label: State-stage relations
+    aliases: [Wilber-Combs lattice, states interpreted through structures]
+    definition: Relations between experiential states and developmental structures; named lattice and precursors require separate records.
+  - id: integral-post-metaphysics
+    label: Integral post-metaphysics
+    aliases: [postmetaphysics, post-metaphysical spirituality]
+    definition: Reworking spiritual and ontological claims through perspectives and conditions of disclosure.
+  - id: integral-practice-wholeness
+    label: Integral practice and wholeness
+    aliases: [integral practice, radical wholeness]
+    definition: Coordination of practical cultivation across dimensions; later named practices are formulations to verify, not timeless aliases.
+
+appearances:
+  - id: ip-quadrants-integration
+    concept: four-quadrants
+    work: 2000-integral-psychology
+    role: integrates
+    claim: IP places levels and developmental lines within all four quadrants in its account of psychological development.
+    rationale: The passage explicitly combines quadrant development with levels, lines, and the subject's capacity to grasp the quadrants.
+    integrates_concepts: [spectrum-levels, developmental-lines]
+    evidence:
+      - source: ip-local
+        kind: primary-text
+        citation: Integral Psychology, chapter 14, note 20.
+        locator: 'library/2000-integral-psychology-full-text.md, lines 3115–3119; paragraph beginning The integral psychology that I am presenting.'
+        verification_excerpt: following all of the levels and lines in all of the quadrants
+    confidence: high
+    confidence_reason: Direct explicit combination in the inspected text; no claim that IP originated the combination or that it is empirically validated.
+    scope: examined-corpus
+  - id: ip-self-distinctions
+    concept: self-system
+    work: 2000-integral-psychology
+    role: develops
+    claim: IP distinguishes proximate, distal, and overall self and explains development through the subject becoming an object of awareness.
+    rationale: Chapter 3 gives a substantive account of the distinctions and their developmental mechanism, beyond a passing mention.
+    evidence:
+      - source: ip-local
+        kind: primary-text
+        citation: Integral Psychology, chapter 3, The Self, The Self as the Navigator of the Waves and Streams.
+        locator: 'library/2000-integral-psychology-full-text.md, lines 637–645; paragraphs defining I and me and their developmental relationship.'
+        verification_excerpt: the subject of one stage becomes an object of the next
+    confidence: high
+    confidence_reason: Distinctions and mechanism explicit; develops describes substantial exposition, not demonstrated novelty over earlier books.
+    scope: examined-corpus
+  - id: ip-state-structure-relations
+    concept: state-stage-relations
+    work: 2000-integral-psychology
+    role: develops
+    claim: IP explicitly discusses states interpreted through different structures and distinguishes structures, states, and realms.
+    rationale: The extended discussion of Combs supplies substantive distinctions; it is not evidence of the later lattice name.
+    evidence:
+      - source: ip-local
+        kind: primary-text
+        citation: Integral Psychology, chapter 12, note 12.
+        locator: 'library/2000-integral-psychology-full-text.md, lines 2941–2959; especially paragraph beginning Combs says he needs to do this.'
+        verification_excerpt: psychic, subtle, causal, or nondual states interpreted by archaic, magic, mythic, or mental structures
+      - source: ip-local
+        kind: author-retrospective
+        citation: Integral Psychology, chapter 12, note 12, retrospective reference to A Sociable God (1983).
+        locator: 'library/2000-integral-psychology-full-text.md, line 2957.'
+        limitation: Supports an earlier-work research lead only; A Sociable God has not been directly inspected here.
+    confidence: high
+    confidence_reason: High for the discussion present in IP only; retrospective dating to 1983 is not independently established by this seed.
+    scope: examined-corpus
+
+terminology: []
+work_relationships: []
+
+handoff:
+  early_research: wilberwiki-at6.4.2
+  later_research: wilberwiki-at6.4.3
+  audit: wilberwiki-at6.4.4
+  next_actions:
+    - Inspect early primary texts and compare revised formulations; do not project IP retrospective vocabulary backward without labeling it.
+    - Resolve Kosmos II excerpt versions and dates before adding source-unit appearances.
+    - Add terminology records and evidenced work relationships; empty arrays mean not researched.
+    - Add source registry entries for every inspected edition; retain locator and confidence reasons per claim.
+  coverage: >-
+    Eighteen research families, thirteen catalog works, two provisional excerpt
+    targets, and three inspected IP appearances. Supports testing the contract,
+    not drawing a phase-spanning genealogy or identifying first appearances.

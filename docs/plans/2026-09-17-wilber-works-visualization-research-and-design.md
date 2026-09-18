@@ -227,6 +227,26 @@ work_relationships:
 
 ### Controlled concept-to-work roles
 
+**Task 1 contract (2026-09-18):** The initial
+[pilot ledger](2026-09-17-works-concept-lineage-data.yaml) now defines 18 concept
+families and the 13 catalog works above. Kosmos II excerpts A and C are provisional
+uncatalogued source units, with dates and primary-text access explicitly unresolved;
+they are not invented book pages. An appearance targets either an existing `work`
+slug or a `source_unit`, never both. Sampling groups are research allocations, not
+hard phase assignments.
+
+The compact schema example above is illustrative. The ledger's `contract` is the
+operational specification: records have stable IDs, rationale and confidence reasons;
+`evidence` is a nonempty list with source-registry references, citations, and locators.
+Separate `terminology` records distinguish observed wording from conceptual
+formulation. `introduces` and `revises` require explicit comparison evidence;
+`develops` can describe substantial exposition without claiming novelty over an
+earlier book. Coverage distinguishes unexamined targets from inspected passages.
+Edition/reuse relationships have their own vocabulary and an explicit revision-extent
+field. Three IP seed appearances exercise this contract; they establish neither
+historical priority nor phase-spanning coverage. Job stories in section 3 remain
+unchanged. Tasks 2–4 will populate and audit the research before prototype work.
+
 - `introduces`: earliest confirmed substantive formulation in the examined corpus.
 - `develops`: adds substantial distinctions, argument, or structure.
 - `revises`: explicitly changes or rejects part of an earlier formulation.
