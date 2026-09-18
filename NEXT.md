@@ -20,7 +20,10 @@ you're done).
   Uncertain publication details remain explicit. Visual lineage research and design
   is now active under `wilberwiki-at6.4`, with a source-grounded
   [research/design plan](docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md)
-  and seven dependency-ordered child Beads; start with `wilberwiki-at6.4.1` and do not
+  and a [critical review and execution handoff](docs/plans/2026-09-18-works-visualization-review-and-execution.md)
+  with model/effort recommendations and delegation guidance. Initial ontology
+  (`wilberwiki-at6.4.1`) is complete; next is contract hardening
+  (`wilberwiki-at6.4.8`), then the early/later research passes. Do not
   implement a polished visualization before the `wilberwiki-at6.4.6` human decision
   gate. Collaborative/pseudonymous additions are a separate follow-up
   (`wilberwiki-at6.6`). Working conventions: [catalog documentation](docs/works-catalog.md).

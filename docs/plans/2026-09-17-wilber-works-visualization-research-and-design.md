@@ -3,6 +3,13 @@
 Date: 2026-09-17. Status: shaping; job stories accepted, visual form not selected.
 Parent Bead: `wilberwiki-at6.4`.
 
+**Execution update, 2026-09-18:** Read the
+[critical review and execution handoff](2026-09-18-works-visualization-review-and-execution.md)
+before continuing. It supersedes conflicting task details below, records model and
+reasoning recommendations, and inserts contract hardening (`wilberwiki-at6.4.8`)
+between the completed Task 1 and Tasks 2–3. Review fixes are scheduled, not yet
+implemented. Beads records the current dependencies and status.
+
 > **For implementers:** Use `superpowers:executing-plans` to execute the Beads in
 > dependency order. Do not start production visualization code until the research
 > dataset and structural-prototype decision are complete.
