@@ -7,8 +7,8 @@ Parent Bead: `wilberwiki-at6.4`.
 [critical review and execution handoff](2026-09-18-works-visualization-review-and-execution.md)
 before continuing. It supersedes conflicting task details below, records model and
 reasoning recommendations, and inserts contract hardening (`wilberwiki-at6.4.8`)
-between the completed Task 1 and Tasks 2–3. Review fixes are scheduled, not yet
-implemented. Beads records the current dependencies and status.
+between Task 1 and Tasks 2–3. The ledger now uses the hardened version-2 contract;
+Beads records current dependencies and status.
 
 > **For implementers:** Use `superpowers:executing-plans` to execute the Beads in
 > dependency order. Do not start production visualization code until the research
@@ -246,21 +246,25 @@ The compact schema example above is illustrative. The ledger's `contract` is the
 operational specification: records have stable IDs, rationale and confidence reasons;
 `evidence` is a nonempty list with source-registry references, citations, and locators.
 Separate `terminology` records distinguish observed wording from conceptual
-formulation. `introduces` and `revises` require explicit comparison evidence;
-`develops` can describe substantial exposition without claiming novelty over an
-earlier book. Coverage distinguishes unexamined targets from inspected passages.
+formulation. `introduces` requires a structured search basis; `develops`, `revises`,
+`restates`, and `applies` require comparisons linking earlier/later appearances and
+evidence for each endpoint. `expounds` describes substantial exposition whose
+historical contribution is unestablished. Required date records prevent silently
+dating revised-edition passages to first publication. Coverage distinguishes
+unexamined targets from inspected passages.
 Edition/reuse relationships have their own vocabulary and an explicit revision-extent
 field. Three IP seed appearances exercise this contract; they establish neither
 historical priority nor phase-spanning coverage. Job stories in section 3 remain
 unchanged. Tasks 2–4 will populate and audit the research before prototype work.
 
 - `introduces`: earliest confirmed substantive formulation in the examined corpus.
-- `develops`: adds substantial distinctions, argument, or structure.
+- `expounds`: substantial treatment without established historical novelty.
+- `develops`: adds distinctions, argument, or structure relative to a cited earlier formulation.
 - `revises`: explicitly changes or rejects part of an earlier formulation.
 - `integrates`: combines previously separate concepts into a larger architecture.
 - `applies`: carries an existing framework into a new subject or practice.
-- `restates`: makes an existing formulation more accessible without a demonstrated
-  major theoretical change.
+- `restates`: positively evidenced re-presentation of an identified earlier formulation;
+  lack of comparative research is not evidence of restatement.
 - `mentions`: present but not substantively developed; normally hidden from the
   overview.
 

@@ -1,9 +1,11 @@
 # Next
 
-What to do next in this repo, written so a fresh session (human or AI) can pick this up
-cold. Detailed history lives in `changelog.md` (reader-facing) and in each GitHub issue
-below (which now carry their own checklists/backlogs) — this file stays short and
-points there rather than duplicating it.
+Orientation for a fresh session: this file maps the work streams and their plans.
+Beads owns current task status, priorities, dependencies, and execution order. Run
+`bd ready`, then inspect the relevant parent with `bd show <id>` and
+`bd children <id>` before claiming work. Do not treat the historical summaries below
+as a current task queue. `changelog.md` is reader-facing history; linked GitHub issues
+are historical/project-level references.
 
 Live site: **https://wilber.wiki**. Before touching `concepts/` or `people/`, read
 [`skills/add-excerpt-page/SKILL.md`](skills/add-excerpt-page/SKILL.md) — it's mandatory
@@ -21,9 +23,8 @@ you're done).
   is now active under `wilberwiki-at6.4`, with a source-grounded
   [research/design plan](docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md)
   and a [critical review and execution handoff](docs/plans/2026-09-18-works-visualization-review-and-execution.md)
-  with model/effort recommendations and delegation guidance. Initial ontology
-  (`wilberwiki-at6.4.1`) is complete; next is contract hardening
-  (`wilberwiki-at6.4.8`), then the early/later research passes. Do not
+  with model/effort recommendations and delegation guidance. Inspect the children
+  of `wilberwiki-at6.4` for current readiness and execution order. Do not
   implement a polished visualization before the `wilberwiki-at6.4.6` human decision
   gate. Collaborative/pseudonymous additions are a separate follow-up
   (`wilberwiki-at6.6`). Working conventions: [catalog documentation](docs/works-catalog.md).

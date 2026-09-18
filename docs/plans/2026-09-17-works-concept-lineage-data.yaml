@@ -1,8 +1,8 @@
 # Research contract and seed data only; not a completed historical genealogy.
-schema_version: 1
+schema_version: 2
 status: pilot-schema
 updated: '2026-09-18'
-bead: wilberwiki-at6.4.1
+bead: wilberwiki-at6.4.8
 plan: docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md
 
 scope:
@@ -31,34 +31,62 @@ contract:
     aids, not evidence of historical equivalence. Split a family if the research
     finds differences that cannot be expressed as a qualified formulation.
   appearances:
-    required: [id, concept, work, role, claim, rationale, evidence, confidence, confidence_reason, scope]
+    required: [id, concept, role, claim, rationale, evidence, confidence, confidence_reason, scope, date]
+    target_fields: [work, source_unit]
     evidence_required: [source, kind, citation, locator]
     target: >-
       Use work for catalog works. For uncatalogued excerpts use source_unit instead
       of work, exactly one target per appearance. No invented catalog slug.
     multiplicity: Multiple roles per concept/work require separate claims and records.
     priority: >-
-      introduces requires an explicit comparison_basis listing inspected earlier
-      corpus units and remaining gaps. Say earliest confirmed in the examined
+      introduces requires priority_basis with examined_targets (work/source_unit
+      objects), search_method and remaining_gaps (a list, possibly empty).
+      Say earliest confirmed in the examined
       corpus; never first ever. None of the seed examples establishes priority.
     comparison: >-
-      develops can identify substantial distinctions or argument in a work without
-      claiming historical novelty. Any claim of an addition, rejection, or change
-      relative to an earlier work must identify that work and cite both formulations.
-      revises requires comparison_basis and evidence for the earlier and later claims.
+      develops, revises, restates and applies require comparison_ids referencing
+      comparisons of the same type whose later endpoint is this appearance.
+      Use expounds when historical contribution has not been established.
+      integrates requires integrates_concepts; integration within one formulation
+      does not itself establish historical novelty. Historical integration needs
+      an explicit comparison. Do not infer restatement from lack of comparison.
     evidence_shape: Nonempty list; source registry supplies edition/access details.
   terminology:
-    required: [id, concept, term, claim, evidence, confidence, confidence_reason, scope]
+    required: [id, concept, term, claim, evidence, confidence, confidence_reason, scope, date]
     target: Same work or source_unit rule as appearances.
     rule: >-
       Record observed wording separately from conceptual formulation. A later name
       cannot date the underlying idea. Absence from this list means not researched.
   work_relationships:
-    required: [id, from, to, type, claim, rationale, evidence, confidence, confidence_reason, scope, revision_extent]
+    required: [id, from, to, type, claim, rationale, evidence, confidence, confidence_reason, scope, revision_extent, date]
     direction: Earlier/source catalog entry to later/derived catalog entry.
     rule: Edition identity and reuse are bibliographic relationships, not conceptual roles.
     revision_extent_values: [unknown, compared]
-    comparison: compared requires a citation to the actual textual comparison; do not invent percentages.
+    comparison: compared requires comparison_citation pointing to the actual textual comparison; do not invent percentages.
+  comparisons:
+    required: [id, earlier, later, type, claim, rationale, evidence, confidence, confidence_reason, scope, date]
+    endpoints: earlier is a nonempty list of distinct appearance IDs; later is a different appearance ID.
+    evidence: >-
+      Every evidence item has supports naming an endpoint appearance ID. Every
+      endpoint needs evidence from a source also cited in that appearance.
+      Comparison confidence is assessed separately from each passage's confidence.
+    chronology: >-
+      Earlier/later express a proposed direction requiring human verification,
+      not chronology inferred from work slugs. Known reversed dates are invalid.
+      Unknown edition chronology must be explicit in the date reason and rationale.
+    comparison_basis: The endpoint records plus per-endpoint evidence are the structured comparison basis.
+  date:
+    required: [basis, year, reason]
+    rule: >-
+      Required for all appearances, terms, comparisons and work relationships.
+      year is the year justified for this assertion, not copied from the work.
+      unresolved requires null; original-edition-verified requires an integer.
+      later-edition-only dates the inspected version, if known; retrospective-attribution
+      dates the attributed event, if known, without certifying it. Evidence for
+      dating belongs in the record's evidence. Never auto-fill a missing year.
+  unresolved_findings:
+    required: [id, question, works, evidence, gap, next_action, scope]
+    rule: Findings are research gaps, not appearance or lineage edges.
   visibility: >-
     No automatic overview eligibility. Audit in wilberwiki-at6.4.4 precedes visual
     use; low-confidence and mentions records normally remain detail-only. Do not
@@ -67,11 +95,12 @@ contract:
 vocabularies:
   roles:
     introduces: Earliest confirmed substantive formulation in the explicitly examined corpus.
-    develops: Substantial distinctions, argument, or structure; historical novelty needs comparative evidence.
+    expounds: Substantial exposition without an established addition relative to an earlier formulation.
+    develops: Supported addition relative to an identified earlier formulation.
     revises: Explicit change or rejection of an earlier formulation, with both sides identified.
     integrates: Combines identified concepts within a larger architecture.
     applies: Uses an existing framework in a specified domain or practice.
-    restates: Accessible presentation without a demonstrated major theoretical change.
+    restates: Positively evidenced re-presentation of an identified earlier formulation.
     mentions: Present without substantive treatment.
   work_relationship_types:
     retitled-edition: Later edition of the same work under a different title; revision extent separate.
@@ -92,6 +121,19 @@ vocabularies:
     high: Direct unambiguous evidence supports the narrowly worded claim; edition and locator specified.
     medium: Indirect or retrospective support, interpretive mapping, or a material edition/coverage limitation.
     low: Tentative interpretation with identified weak support; retain as a research lead.
+  comparison_types:
+    develops: Adds distinctions or argument relative to the cited earlier formulation.
+    revises: Changes or rejects an identified earlier claim.
+    retains: Preserves a specified feature; recurrence does not imply influence.
+    differentiates: Separates previously combined features with evidence for the earlier combination.
+    integrates: Combines the identified earlier formulations in a later architecture.
+    applies: Carries an identified framework into a specified domain or practice.
+    restates: Re-presents a specified earlier formulation with positive supporting evidence.
+  date_bases:
+    original-edition-verified: Relevant claim verified in the original edition, with dating evidence.
+    later-edition-only: Verified only in a later version; not automatically attributable to first publication.
+    retrospective-attribution: Later source attributes a claim or change to an earlier date.
+    unresolved: Insufficient evidence to assign a year; keep year null.
   coverage_statuses:
     unexamined: No substantive passage inspected for this ledger.
     seed-only: Selected passages inspected; book-wide coverage incomplete.
@@ -333,10 +375,14 @@ appearances:
     confidence: high
     confidence_reason: Direct explicit combination in the inspected text; no claim that IP originated the combination or that it is empirically validated.
     scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: null
+      reason: Inspected local EPUB has 2011 metadata but was not collated against the 2000 print edition; no verified passage date assigned.
   - id: ip-self-distinctions
     concept: self-system
     work: 2000-integral-psychology
-    role: develops
+    role: expounds
     claim: IP distinguishes proximate, distal, and overall self and explains development through the subject becoming an object of awareness.
     rationale: Chapter 3 gives a substantive account of the distinctions and their developmental mechanism, beyond a passing mention.
     evidence:
@@ -346,12 +392,16 @@ appearances:
         locator: 'library/2000-integral-psychology-full-text.md, lines 637–645; paragraphs defining I and me and their developmental relationship.'
         verification_excerpt: the subject of one stage becomes an object of the next
     confidence: high
-    confidence_reason: Distinctions and mechanism explicit; develops describes substantial exposition, not demonstrated novelty over earlier books.
+    confidence_reason: Distinctions and mechanism explicit; expounds makes no claim of novelty over earlier books.
     scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: null
+      reason: Inspected local EPUB has 2011 metadata but no original-print collation; copyright date alone does not verify passage priority.
   - id: ip-state-structure-relations
     concept: state-stage-relations
     work: 2000-integral-psychology
-    role: develops
+    role: expounds
     claim: IP explicitly discusses states interpreted through different structures and distinguishes structures, states, and realms.
     rationale: The extended discussion of Combs supplies substantive distinctions; it is not evidence of the later lattice name.
     evidence:
@@ -368,9 +418,32 @@ appearances:
     confidence: high
     confidence_reason: High for the discussion present in IP only; retrospective dating to 1983 is not independently established by this seed.
     scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: null
+      reason: Discussion verified in the local EPUB; its retrospective reference to 1983 is not this passage's independently verified date.
 
 terminology: []
 work_relationships: []
+comparisons: []
+
+unresolved_findings:
+  - id: sociable-god-ip-state-structure-comparison
+    question: Does IP retain, develop or revise the state/structure account in the original A Sociable God?
+    works: [1983-a-sociable-god, 2000-integral-psychology]
+    evidence:
+      - source: ip-local
+        kind: author-retrospective
+        citation: Integral Psychology, chapter 12, note 12.
+        locator: 'library/2000-integral-psychology-full-text.md, line 2957; paragraph beginning Combs says he needs to do this.'
+        verification_excerpt: overlooking the extensive discussion I gave of just that phenomenon in A Sociable God (1983)
+    gap: >-
+      Checked the IP retrospective and local library inventory. The original
+      A Sociable God text is not in the local corpus. IP asserts an earlier grid,
+      but cannot by itself establish what the 1983 passage says, its edition,
+      or whether IP retains or revises it. No comparative edge is entered.
+    next_action: Task 2 obtains the original passage and edition information; compare directly with IP and assess the comparison separately.
+    scope: examined-corpus
 
 handoff:
   early_research: wilberwiki-at6.4.2

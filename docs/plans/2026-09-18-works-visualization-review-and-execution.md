@@ -16,8 +16,14 @@ Beads is authoritative for status and dependencies; this document explains the w
 - That commit was first made on `research/pilot-ontology` in a secondary checkout.
   It has now been fast-forwarded into local `main`; the files are in this project's
   normal `docs/plans/` directory. No site publication was performed.
-- The review below has been captured and scheduled. Its schema fixes are **not yet
-  implemented**. They are the next task, `wilberwiki-at6.4.8`.
+- Contract-hardening deliverables for `wilberwiki-at6.4.8` are now implemented:
+  ledger version 2, explicit comparative records, `expounds`, required date basis,
+  and a reusable validator with positive/negative fixtures. See
+  [maintenance and validation](../works-concept-lineage.md). Beads records task status.
+- The attempted A Sociable God/IP comparison remains explicitly unresolved: the
+  inspected IP retrospective points to a 1983 grid, but the original earlier passage
+  is not locally available. The finding records evidence and the next research action;
+  it is not entered as a lineage edge. No new historical priority claim is established.
 - Corpus research, prototypes, visual styling, and production implementation remain
   unfinished. The initial ledger is not an approved historical genealogy.
 
@@ -153,8 +159,8 @@ describes that option; it does not itself start agents or authorize production w
 ## New-session handoff
 
 1. Read `AGENTS.md`, `NEXT.md`, the original plan, this addendum, and the ledger.
-2. Run `bd show wilberwiki-at6.4` and `bd children wilberwiki-at6.4`; inspect the next
-   ready dependency. Start with `.4.8` while it remains open.
+2. Run `bd ready`, `bd show wilberwiki-at6.4`, and `bd children wilberwiki-at6.4`;
+   use current dependencies and status to select a ready task.
 3. Check Git status and where the latest commits exist. Keep changes in the project's
    `docs/plans/` regardless of which checkout is used. A worktree is temporary execution
    infrastructure; its external pathname must not be the only handoff reference.
