@@ -792,10 +792,11 @@ handoff:
   later_research: wilberwiki-at6.4.3
   audit: wilberwiki-at6.4.4
   next_actions:
-    - Inspect early primary texts and compare revised formulations; do not project IP retrospective vocabulary backward without labeling it.
-    - Resolve Kosmos II excerpt versions and dates before adding source-unit appearances.
-    - Add terminology records and evidenced work relationships; empty arrays mean not researched.
-    - Add source registry entries for every inspected edition; retain locator and confidence reasons per claim.
+    - Compare explicit earlier ontology claims in available SES/IP passages with IS Appendix II; assess retention, qualification or revision and leave unproved comparisons unresolved.
+    - Compare quadrant/perspective formulations more fully and coordinate earlier developmental endpoints with wilberwiki-at6.4.2; keep editions distinct and label author retrospection.
+    - Resolve source-dependent follow-ups wilberwiki-at6.4.3.1 through wilberwiki-at6.4.3.3 when evidence becomes available, or exclude unsupported claims from the audit corpus; accessible research can continue meanwhile.
+    - Keep the inspected Excerpt A appearance undated until version evidence is established; inspect Excerpt C before adding appearances and resolve chronology before proposing dated Kosmos II lineage edges.
+    - Review every proposed historical comparison before completing wilberwiki-at6.4.3 and passing the combined dataset to wilberwiki-at6.4.4; no publication or visual styling is authorized.
   coverage: >-
     First later-research pass: twelve appearances, one terminology record, one
     provisional continuity comparison and six unresolved findings. SES, IP, IS,
