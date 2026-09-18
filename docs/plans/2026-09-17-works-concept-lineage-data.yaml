@@ -1,17 +1,17 @@
-# Research contract and seed data only; not a completed historical genealogy.
+# Research contract and provisional evidence; not an audited historical genealogy.
 schema_version: 2
-status: pilot-schema
+status: research-in-progress
 updated: '2026-09-18'
-bead: wilberwiki-at6.4.8
+bead: wilberwiki-at6.4.3
 plan: docs/plans/2026-09-17-wilber-works-visualization-research-and-design.md
 
 scope:
   id: examined-corpus
   meaning: Only the specified passages and editions actually inspected, not all Wilber publications.
   target_corpus: Thirteen catalog works plus selected Kosmos II excerpts.
-  examined_so_far: [ip-local]
+  examined_so_far: [ip-local, ses-local, is-selections, kosmos-a-online, rot-introduction]
   limitations:
-    - Three seed appearances in one book do not establish historical priority or corpus coverage.
+    - Selected passages and later editions do not establish historical priority or complete corpus coverage.
     - A target work is not an examined work; missing appearances mean unexamined, not absent.
     - Publication year, composition date, and date of an inspected edition are distinct.
     - No influence edge may be inferred from semantic similarity.
@@ -160,7 +160,42 @@ sources:
     path: library/1995-sex-ecology-spirituality-full-text.md
     citation: Ken Wilber, Sex, Ecology, Spirituality, local EPUB transcription including revised-edition material.
     edition: Revised text; individual passages must be checked before attribution to the 1995 edition.
-    limitation: Available but not mined for seed claims in this task.
+    limitation: Original 1995 edition not collated; selected chapter 4 passages inspected in the later research pass.
+  - id: is-selections
+    kind: primary-text
+    path: docs/plans/2026-09-18-integral-spirituality-source-selections.md
+    citation: Ken Wilber, Integral Spirituality, Shambhala ebook title page 2011, copyright 2006, eISBN 978-0-8348-2244-3.
+    edition: 2011 ebook; selected exact passages retained with source hash and private-library provenance.
+    limitation: No original-print collation; selections support narrow claims, not exhaustive coverage or first use.
+    inspected: Introduction; chapters 1, 3 and 4; Appendix II opening.
+  - id: kosmos-a-online
+    kind: primary-text
+    url: https://integral-life-home.s3.amazonaws.com/Wilber-AnIntegralAgeAtTheLeadingEdge.pdf
+    citation: Ken Wilber, An Integral Age at the Leading Edge (Excerpt A), Integral Life hosted PDF, 203 pages, accessed 2026-09-18.
+    edition: Undated hosted version; chapter 5 inspected at printed pages 177–178.
+    limitation: Version history unresolved; references to Integral Life Practice at page 143 preclude simply assuming an unchanged 2002 text.
+  - id: rot-introduction
+    kind: primary-text
+    url: https://www.shambhala.com/future-religion-excerpt-ken-wilber/
+    citation: Ken Wilber, The Future of Religion, publisher-hosted excerpt from The Religion of Tomorrow, accessed 2026-09-18.
+    edition: Online excerpt; book-edition correspondence not independently collated.
+    limitation: Introduction only; no support for book-wide novelty or exact reuse.
+  - id: frw-publisher
+    kind: publisher-description
+    url: https://www.shambhala.com/finding-radical-wholeness.html
+    citation: Shambhala, Finding Radical Wholeness, ISBN 9781645471851, publisher description retrieved through search 2026-09-18.
+    edition: Publication listing, not primary book text.
+    limitation: Direct page retrieval failed; indexed publisher description supports only broad positioning.
+  - id: brief-history-record
+    kind: bibliographic-record
+    url: https://books.google.com/books/about/A_Brief_History_of_Everything.html?id=c9shMX7HLY0C
+    citation: Google Books record of Shambhala 2007 reprint, A Brief History of Everything, ISBN 9781590304501, accessed 2026-09-18.
+    limitation: Contents and metadata inspected; chapter text not inspected.
+  - id: kosmos-c-lead
+    kind: bibliographic-record
+    url: https://www.integralesforum.org/attachments/KKC_Excerpt_C.pdf
+    citation: Search-indexed PDF titled Excerpt C, The Ways We Are in This Together, located 2026-09-18.
+    limitation: Direct retrieval failed; title is an access lead only, not inspected argument or verified edition.
 
 # sampling_group expresses the plan's research allocation, not a hard phase assignment.
 # Bibliographic evidence is inherited from metadata_source plus each row's locator.
@@ -225,7 +260,7 @@ works:
     publication_year: 1995
     sampling_group: IV
     metadata_locator: Entry-by-entry ledger, Sex, Ecology, Spirituality row.
-    coverage: unexamined
+    coverage: seed-only
     available_sources: [ses-local]
     source_gap: Revised local text is not proof that a passage appeared in 1995.
   - id: 1996-a-brief-history-of-everything
@@ -234,7 +269,8 @@ works:
     sampling_group: IV
     metadata_locator: Entry-by-entry ledger, A Brief History of Everything row.
     coverage: unexamined
-    source_gap: Obtain primary text; popularization does not establish exact textual overlap with SES.
+    available_sources: [brief-history-record]
+    source_gap: Contents accessible for 2007 reprint; relevant primary chapters and original-edition comparison still missing.
   - id: 2000-integral-psychology
     title: Integral Psychology
     publication_year: 2000
@@ -248,21 +284,24 @@ works:
     publication_year: 2006
     sampling_group: V
     metadata_locator: Entry-by-entry ledger, Integral Spirituality row.
-    coverage: unexamined
-    source_gap: Local reader notes are leads; primary passages and edition details still required.
+    coverage: seed-only
+    available_sources: [is-selections]
+    source_gap: Selected 2011 ebook passages now inspected and retained; 2006 edition and full comparison remain unverified.
   - id: 2017-the-religion-of-tomorrow
     title: The Religion of Tomorrow
     publication_year: 2017
     sampling_group: V
     metadata_locator: Entry-by-entry ledger, The Religion of Tomorrow row.
-    coverage: unexamined
-    source_gap: Obtain primary passages; introduction/publisher excerpts can support only their own limited claims.
+    coverage: seed-only
+    available_sources: [rot-introduction]
+    source_gap: Publisher-hosted introduction inspected; detailed chapters and comparison with Integral Spirituality still needed.
   - id: 2024-finding-radical-wholeness
     title: Finding Radical Wholeness
     publication_year: 2024
     sampling_group: late-practical-synthesis
     metadata_locator: Entry-by-entry ledger, Finding Radical Wholeness row.
     coverage: unexamined
+    available_sources: [frw-publisher]
     source_gap: Not an assumed sixth phase; conceptual additions versus practical synthesis remain to be researched.
 
 # Source units are research targets, not invented finished books or public routes.
@@ -272,9 +311,10 @@ source_units:
     sampling_group: V
     work_slug: null
     publication_year: null
-    coverage: unexamined
+    coverage: seed-only
     selection_basis: Provisional methods/perspectives sample for Task 3; verify author-hosted text and version.
-    source_gap: No local primary copy or verified edition/date; attach source record before making claims.
+    available_sources: [kosmos-a-online]
+    source_gap: Primary hosted PDF inspected in part; original release and revision chronology unresolved.
   - id: kosmos-ii-excerpt-c
     label: Kosmos II, Excerpt C
     sampling_group: V
@@ -282,7 +322,8 @@ source_units:
     publication_year: null
     coverage: unexamined
     selection_basis: Provisional perspectives sample identified in works/phases.md; verify primary text and version.
-    source_gap: No local primary copy or verified edition/date; do not equate excerpt release with completed volume II.
+    available_sources: [kosmos-c-lead]
+    source_gap: Mirror PDF located but direct retrieval failed; contents and edition not verified. Not a completed volume II.
 
 concepts:
   - id: spectrum-levels
@@ -423,11 +464,312 @@ appearances:
       year: null
       reason: Discussion verified in the local EPUB; its retrospective reference to 1983 is not this passage's independently verified date.
 
-terminology: []
+  - id: ses-quadrant-architecture
+    concept: four-quadrants
+    work: 1995-sex-ecology-spirituality
+    role: expounds
+    claim: "SES describes four correlated aspects of holons by crossing individual and social with interior and exterior dimensions."
+    rationale: "Chapter 4 defines each quadrant and explains their correlation; this establishes exposition, not the date of invention."
+    evidence:
+      - source: ses-local
+        kind: primary-text
+        citation: "Sex, Ecology, Spirituality, chapter 4, The Four Quadrants."
+        locator: "library/1995-sex-ecology-spirituality-full-text.md, lines 1765–1791."
+        verification_excerpt: "Thus we have four major quadrants or four major aspects to each and every holon."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: null
+      reason: "Local text identifies a second edition and copyright 1995, 2000; no collation establishes which wording was present in 1995."
+  - id: is-eight-perspectives
+    concept: perspectives-zones
+    work: 2006-integral-spirituality
+    role: expounds
+    claim: "Integral Spirituality distinguishes inside and outside views within each quadrant, yielding eight perspectives."
+    rationale: "The passage explicitly derives eight views from four quadrants; a claim of historical addition over SES still requires comparative research."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, chapter 1."
+        locator: "S1, original transcription line 622."
+        verification_excerpt: "the inside and the outside view of a holon in any of the 4 quadrants."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: is-methodological-pluralism
+    concept: methodological-pluralism
+    work: 2006-integral-spirituality
+    role: expounds
+    claim: "Integral Spirituality connects eight perspectives with eight methodologies and names their collection Integral Methodological Pluralism."
+    rationale: "S2 explicitly links perspectives to methods; no claim that the term or program began with this book."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, chapter 1."
+        locator: "S2, original transcription line 632."
+        verification_excerpt: "these 8 fundamental perspectives also involve 8 fundamental methodologies."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: is-state-structure-lattice
+    concept: state-stage-relations
+    work: 2006-integral-spirituality
+    role: expounds
+    claim: "Integral Spirituality presents states as accessible at different structure-stages and interpreted according to the experiencer's stage."
+    rationale: "Chapter 4 explains the lattice in prose; this is a substantive account, not a first-appearance claim."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, chapter 4, States and Stages."
+        locator: "S3, original transcription lines 1212–1214."
+        verification_excerpt: "But a person will interpret that state according to the stage they are at"
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: is-trained-state-stages
+    concept: states
+    work: 2006-integral-spirituality
+    role: expounds
+    claim: "Integral Spirituality calls sequentially unfolding states, largely through training, state-stages and distinguishes them from structure-stages."
+    rationale: "The definition prevents conflating temporary states, trained sequences and developmental structures."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, chapter 3, States of Consciousness."
+        locator: "S4, original transcription line 1066."
+        verification_excerpt: "we call them **state-stages** (contrasted to **structure-stages**)."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: is-post-metaphysical-program
+    concept: integral-post-metaphysics
+    work: 2006-integral-spirituality
+    role: expounds
+    claim: "Integral Spirituality proposes explaining levels without metaphysical thinking, specifying a holon's address, and rephrasing spiritual realities."
+    rationale: "Appendix II states these three aims; it does not establish by itself which earlier Wilber propositions were revised."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, Appendix II, What Is Post-Metaphysics?"
+        locator: "S5, original transcription line 2819."
+        verification_excerpt: "give an explanation for the existence of levels or structures of consciousness that does not rely on metaphysical thinking."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: is-five-element-integration
+    concept: aqal
+    work: 2006-integral-spirituality
+    role: integrates
+    integrates_concepts: [four-quadrants, spectrum-levels, developmental-lines, states, types]
+    claim: "Integral Spirituality explicitly brings quadrants, levels, lines, states and types together in its introductory integral account."
+    rationale: "An integration within this formulation; no claim that five-element integration originated here."
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: "Integral Spirituality, Introduction."
+        locator: "S6, original transcription line 481."
+        verification_excerpt: "put all the integral pieces together: quadrants, levels, lines, states, and types."
+    confidence: high
+    confidence_reason: "Explicit in the inspected passage; confidence concerns exposition only, not novelty, original-edition dating or empirical truth."
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: "2011 ebook title page and selected passage inspected; not collated with the original 2006 edition."
+  - id: kosmos-a-enactive-methods
+    concept: methodological-pluralism
+    source_unit: kosmos-ii-excerpt-a
+    role: expounds
+    claim: "The inspected Excerpt A relates AQAL dimensions to methods that help enact what they disclose."
+    rationale: "Chapter 5 treats methods as participating in disclosure rather than merely describing a pregiven world."
+    evidence:
+      - source: kosmos-a-online
+        kind: primary-text
+        citation: "An Integral Age at the Leading Edge (Excerpt A), chapter 5, Introduction."
+        locator: "Printed pages 177–178, PDF pages 177–178 (one-based); paragraph beginning The AQAL Framework suggests."
+    confidence: medium
+    confidence_reason: "Primary argument inspected, but hosted version has unresolved dating; no historical priority or pre-2006 placement."
+    scope: examined-corpus
+    date:
+      basis: unresolved
+      year: null
+      reason: "Hosted version undated; its revision history and relationship to the early release have not been established."
+  - id: rot-growth-and-awakening
+    concept: state-stage-relations
+    work: 2017-the-religion-of-tomorrow
+    role: expounds
+    claim: "The publisher-hosted introduction distinguishes developmental Growing Up from spiritual Waking Up and proposes bringing developmental discoveries into religious practice."
+    rationale: "The excerpt supports this program, not a book-wide novelty judgment or validation of its empirical claims."
+    evidence:
+      - source: rot-introduction
+        kind: primary-text
+        citation: "The Future of Religion, publisher excerpt from The Religion of Tomorrow."
+        locator: "Paragraphs beginning The discovery of these stages of Growing Up and In the areas we will examine."
+    confidence: medium
+    confidence_reason: "Direct author excerpt supports its stated program; coverage and edition correspondence are limited."
+    scope: examined-corpus
+    date:
+      basis: unresolved
+      year: null
+      reason: "Online excerpt inspected; correspondence to the original 2017 print edition is uncollated."
+
+terminology:
+  - id: is-lattice-name
+    concept: state-stage-relations
+    work: 2006-integral-spirituality
+    term: Wilber-Combs Lattice
+    claim: The inspected Integral Spirituality ebook uses this name for figure 4.1.
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: Integral Spirituality, chapter 4, figure 4.1 caption.
+        locator: S3, original transcription line 1212.
+        verification_excerpt: The Wilber-Combs Lattice.
+    confidence: high
+    confidence_reason: Caption directly inspected; does not establish earliest naming or date the underlying distinction.
+    scope: examined-corpus
+    date:
+      basis: later-edition-only
+      year: 2011
+      reason: Name verified in the 2011 ebook; original 2006 edition uncollated.
 work_relationships: []
-comparisons: []
+comparisons:
+  - id: ip-is-state-interpretation-continuity
+    earlier: [ip-state-structure-relations]
+    later: is-state-structure-lattice
+    type: retains
+    claim: The two inspected accounts share the proposition that a state is interpreted through the experiencer's developmental structure or stage.
+    rationale: >-
+      IP explicitly enumerates states interpreted through different structures;
+      Integral Spirituality states the same relation while explaining its named lattice.
+      This narrow textual continuity does not establish influence, first formulation,
+      or equivalence of the complete models. Direction follows the works' publication
+      order provisionally; original editions are uncollated and IP's passage date is
+      unknown. No dated historical edge should be drawn before audit.
+    evidence:
+      - source: ip-local
+        kind: primary-text
+        supports: ip-state-structure-relations
+        citation: Integral Psychology, chapter 12, note 12.
+        locator: Local transcription line 2957.
+        verification_excerpt: psychic, subtle, causal, or nondual states interpreted by archaic, magic, mythic, or mental structures
+      - source: is-selections
+        kind: primary-text
+        supports: is-state-structure-lattice
+        citation: Integral Spirituality, chapter 4.
+        locator: S3, original transcription line 1214.
+        verification_excerpt: But a person will interpret that state according to the stage they are at
+    confidence: medium
+    confidence_reason: Strong textual overlap in the specified proposition; historical direction remains provisional because original editions were not compared.
+    scope: examined-corpus
+    date:
+      basis: unresolved
+      year: null
+      reason: IP passage date unverified; 2011 Integral Spirituality ebook alone does not verify when the continuity arose.
 
 unresolved_findings:
+  - id: later-quadrant-bridge-dating
+    question: What did quadrants add to the earlier levels-and-lines architecture, and when did within-quadrant perspectives enter it?
+    works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
+    evidence:
+      - source: ip-local
+        kind: author-retrospective
+        citation: Integral Psychology, chapter 9, note 15.
+        locator: Local transcription line 2811; paragraph beginning I have, for convenience.
+        verification_excerpt: Phase-4 added the idea of the four quadrants
+      - source: ses-local
+        kind: primary-text
+        citation: Sex, Ecology, Spirituality, chapter 4, The Four Quadrants.
+        locator: Local transcription lines 1765–1791.
+      - source: is-selections
+        kind: primary-text
+        citation: Integral Spirituality, chapter 1.
+        locator: S1–S2.
+    gap: IP supplies the author's transition account, while SES and IS supply different formulations. Earlier phase-III passages and original-edition collation are missing; the inspected passages alone do not prove that eight perspectives were absent earlier or establish a date of revision.
+    next_action: Coordinate earlier endpoints with Task 2; compare edition-specific quadrant and perspective passages before assigning develops or revises.
+    scope: examined-corpus
+  - id: ses-brief-history-overlap-gap
+    question: What specifically does A Brief History of Everything retain or change from SES?
+    works: [1995-sex-ecology-spirituality, 1996-a-brief-history-of-everything]
+    evidence:
+      - source: brief-history-record
+        kind: bibliographic-record
+        citation: Google Books, Shambhala 2007 reprint record.
+        locator: Contents, The Four Corners of the Kosmos and The Two Hands of God.
+      - source: ses-local
+        kind: primary-text
+        citation: Sex, Ecology, Spirituality, chapter 4.
+        locator: The Four Quadrants.
+    gap: Contents identify candidate chapters but do not reveal their argument. No primary Brief History chapter was inspected; popularization metadata cannot establish exact conceptual or textual reuse.
+    next_action: Obtain chapters 5–6 with edition information, then compare the quadrant account directly.
+    scope: examined-corpus
+  - id: kosmos-is-version-sequence-gap
+    question: Which perspectives and post-metaphysical formulations in Kosmos II preceded Integral Spirituality?
+    works: [2006-integral-spirituality]
+    evidence:
+      - source: kosmos-a-online
+        kind: primary-text
+        citation: An Integral Age at the Leading Edge (Excerpt A).
+        locator: Printed pages 143 and 177–178; Integral Life Practice reference and chapter 5 opening.
+      - source: kosmos-c-lead
+        kind: bibliographic-record
+        citation: Search-indexed Excerpt C PDF.
+        locator: Title only; direct retrieval failed.
+      - source: is-selections
+        kind: primary-text
+        citation: Integral Spirituality, chapter 1 and Appendix II.
+        locator: S1–S2 and S5.
+    gap: Excerpt A is accessible but its version chronology is unresolved. Excerpt C has not been inspected. Neither filename nor an early release date dates a passage in a potentially revised PDF.
+    next_action: Identify dated archived or author-publisher versions of A and C and compare relevant passages; do not create an A-to-IS edge meanwhile.
+    scope: examined-corpus
+  - id: post-metaphysics-revision-endpoints-gap
+    question: Which earlier Wilber claims does Integral Spirituality's post-metaphysical program revise?
+    works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
+    evidence:
+      - source: is-selections
+        kind: primary-text
+        citation: Integral Spirituality, Appendix II, opening.
+        locator: S5; original transcription context lines 2795–2819.
+    gap: A program for explaining levels without metaphysical assumptions is explicit; paired earlier propositions have not been established. Critique of traditional metaphysics is not automatically a retraction of an earlier Wilber claim.
+    next_action: Extract specific earlier ontology statements from available SES/IP and compare them with Appendix II; reserve revises for demonstrated changes.
+    scope: examined-corpus
+  - id: late-synthesis-novelty-gap
+    question: What do The Religion of Tomorrow and Finding Radical Wholeness add beyond earlier integral spirituality and practice?
+    works: [2006-integral-spirituality, 2017-the-religion-of-tomorrow, 2024-finding-radical-wholeness]
+    evidence:
+      - source: rot-introduction
+        kind: primary-text
+        citation: The Future of Religion, publisher-hosted introduction.
+        locator: Paragraphs on Growing Up, Waking Up, Cleaning Up and Showing Up.
+      - source: frw-publisher
+        kind: publisher-description
+        citation: Finding Radical Wholeness, Shambhala publication listing.
+        locator: Description listing five aspects of wholeness.
+    gap: The introduction supports a religious integration program and the publisher positions the 2024 book around five aspects of wholeness. Neither establishes substantive novelty, exact overlap, or a new phase; detailed primary chapters are missing.
+    next_action: Obtain relevant edition-identified chapters from both later books and compare their formulations with IS chapter 10 and earlier practice accounts.
+    scope: examined-corpus
   - id: sociable-god-ip-state-structure-comparison
     question: Does IP retain, develop or revise the state/structure account in the original A Sociable God?
     works: [1983-a-sociable-god, 2000-integral-psychology]
@@ -455,6 +797,9 @@ handoff:
     - Add terminology records and evidenced work relationships; empty arrays mean not researched.
     - Add source registry entries for every inspected edition; retain locator and confidence reasons per claim.
   coverage: >-
-    Eighteen research families, thirteen catalog works, two provisional excerpt
-    targets, and three inspected IP appearances. Supports testing the contract,
-    not drawing a phase-spanning genealogy or identifying first appearances.
+    First later-research pass: twelve appearances, one terminology record, one
+    provisional continuity comparison and six unresolved findings. SES, IP, IS,
+    Excerpt A and the Religion of Tomorrow introduction have selected passages
+    inspected. Brief History, Excerpt C and Finding Radical Wholeness lack inspected
+    substantive primary passages. See 2026-09-18-later-lineage-research.md for access,
+    edition limits and remaining work. Not an audited phase-spanning genealogy.
