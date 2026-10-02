@@ -42,6 +42,7 @@ on broader questions and topics.
 | ★ [Micro/Macro Coevolution](micro-macro-coevolution.md) | individual and collective holons evolve together, never separately |
 | ★ [The Reconstruction of the Contemplative Path](reconstruction-of-the-contemplative-path.md) | contemplation as a repeatable, falsifiable injunction, not a private feeling |
 | ★ [Validity Claims of Mysticism](validity-claims-of-mysticism.md) | how a contemplative claim can actually be checked |
+| [Paradigm as Injunction](paradigm-as-injunction.md) | why a new paradigm needs a new technique, not just a new theory |
 
 ## Wilber on broader topics
 
