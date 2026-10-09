@@ -108,8 +108,8 @@ Collaborative entries already in the catalog were rechecked against the [Ken Wil
 
 | Work | Finding | Outcome |
 |---|---|---|
-| *First Principles and First Values* (2024; 2nd ed. 2025) | Byline "David J. Temple". The Center for World Philosophy and Religion's [profile](https://substack.com/@davidjtemple) calls this "a pseudonym created for enabling ongoing collaborative authorship" between Gafni, Stein and Wilber. Retail listings credit all three. ISBNs 9798989588909 (2024) and 9798991743907 (2025) per [Open Library](https://openlibrary.org/books/OL51618674M). Open Library's publisher names (Dandy Lion, Chakaruna) conflict with the World Philosophy & Religion Press credit. Not in the Wilber Fund catalog. Title page not seen. | Added as `format: pseudonymous`, `draft`. The page states the byline and says Wilber's share is unknown. |
+| *First Principles and First Values* (2024; 2nd ed. 2025) | Published under the "David J. Temple" pen name, a collective byline that Wilber shares with others. | **Not added.** Rufus decided 2026-10-09 that pen-name collaborations are out of scope for the catalog. |
 | *Remembrances of the Future: … First Notes on CosmoErotic Humanism. Notes and Reflections 2015–2018* (2025) | Also under the Temple byline. Amazon lists Wilber among the authors, but the [Open Library record](https://openlibrary.org/books/OL60930167M) lists only Temple, Gafni and Stein. | **Not added.** Wilber's credit is inconsistent across records. Revisit if a title page or publisher statement names him. |
 | *Homo Amor Manifesto* (2025, Pelckmans) | Appeared in a retail search under Wilber's name. Authorship not verified. | Not added. Unverified. |
 
-Open editorial question for Rufus: Gafni has faced serious, widely reported misconduct allegations (see [Wikipedia](https://en.wikipedia.org/wiki/Marc_Gafni)). The new page is strictly bibliographic. Whether the wiki should mention that context, or whether pen-name collaborations belong in the public catalog at all, is a judgement call left open.
+Pen-name collaborations are out of scope for the catalog (Rufus, 2026-10-09).
