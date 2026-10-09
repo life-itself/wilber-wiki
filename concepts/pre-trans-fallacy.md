@@ -35,6 +35,8 @@ backward — toward the *pre*-differentiated — for a move forward, toward the 
 *trans*-differentiated. See [[flatland]] for the broader worldview he thinks makes this
 confusion so easy to fall into.
 
+The idea long predates this book. Wilber set it out in an essay titled "The Pre/Trans Fallacy" in the journal *ReVision* (vol. 3, no. 2, 1980), published it again in the *Journal of Humanistic Psychology* (vol. 22, no. 2, 1982), and collected it in [Eye to Eye](../works/1984-eye-to-eye.md) (1983). The excerpts below come from *SES*, because the essay itself isn't yet in this wiki's source library.
+
 ## In *Sex, Ecology, Spirituality*
 
 > Ever since I began writing on the distinctions between prerational (or prepersonal)
