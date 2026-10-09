@@ -29,20 +29,20 @@ who established that point.
 > Robert Kegan...seems to be everybody's favorite developmentalist (count me in). He
 > discusses a broad range of developmental issues with insight, exactitude,
 > sensitivity, and care.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Kegan's approach is especially important, in my view, because he so clearly
 > elucidates the nature of embedding (identifying) and de-embedding (transcending),
 > which marks each major wave of self development.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > His books The Evolving Self and In Over Our Heads show why a developmental approach
 > is so important (and why Kegan is everybody's favorite son).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...from Sri Ramana Maharshi to Robert Kegan—during psychological development, the
 > "I" of one stage becomes a "me" at the next.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 ## See Also
 

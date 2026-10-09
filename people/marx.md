@@ -36,7 +36,7 @@ solutions" don't.
 > particular solutions), and it will have to deal with sustainable ecological
 > distribution in the biosphere (the enduring contribution of the Greens).
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > In a nutshell, that movement did not just ground the noosphere in the physiosphere
 > (which *is* vitally important because of compound individuality); it reduced the
@@ -46,7 +46,7 @@ solutions" don't.
 > converted into a religious mythology, and thus had to press its vision in an
 > imperialistic fashion.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > For the Greens are in essentially the same predicament as the Marxists—both of them
 > are reducing higher levels to lower levels simply because of the undisputed fact that
@@ -54,18 +54,18 @@ solutions" don't.
 > concerns to the material exchanges of the physiosphere, the Greens tend to reduce all
 > concerns to the ecological exchanges of the biosphere.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > We see it in Marx: rationality, as a worldcentric mode of cognition, will, with its
 > economic developments, overcome egocentric and ethnocentric class divisions and usher
 > in a true communion of equally free subjects.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8
 
 > For Marx, a classless society in which alienation of labor and produce would be healed
 > in shared mutual care.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3
 
 ## See Also
 

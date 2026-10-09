@@ -45,20 +45,20 @@ is a stand-in for genuine contemplative or mystical attainment.
 > mythological thought is the primary carrier of spiritual and mystical awareness. I
 > and countless researchers have drawn on his works time and again.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > And yet his position, I believe, is finally untenable, and can be demonstrated to be
 > so using his own assumptions and his own conclusions. For his position is, in the
 > last analysis, a form of elevationism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > To begin with, **Campbell openly accepts the essentials of the Piagetian system**. That
 > is, he accepts the fact that the basic motifs of mythological thought are produced by
 > the infantile and childhood structures of preop and early conop, and he explicitly
 > says so using Piagetian terms.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > And here Campbell commits the classic pre/trans fallacy. Since the prerational realms
 > are definitely mythological, then Campbell wants to call the transrational realms
@@ -66,12 +66,12 @@ is a stand-in for genuine contemplative or mystical attainment.
 > together *all* nonrational endeavors (from primitive mythology to highly developed
 > contemplative encounters), and on the other side—the "bad" side—he dumps poor reason.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > Campbell's dual definitions actually undo each other, and point instead to the
 > inexorable conclusion: beyond mythology is reason, and beyond both is Spirit.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > But even for those who have developed beyond a concrete mythological approach to the
 > world, the mythological structures themselves... are now junior holons in the
@@ -79,14 +79,14 @@ is a stand-in for genuine contemplative or mystical attainment.
 > own being and one's own roots. And therein... lies the real value of the
 > Jungian/Campbell/mythopoetic approach (divested of its elevationism).
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > In the cosmologies of archaic man, as in those of infancy, the main concern of the
 > creator was in the weal and woe of man. Light was made so that we should see; night
 > so that we might sleep; stars to foretell the weather; clouds to warn of rain. The
 > child's view of the world is not only *geocentric*, but *egocentric*.
 >
-> — Campbell, quoted in *Sex, Ecology, Spirituality*, ch. 6
+> — Campbell, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 ## See Also
 

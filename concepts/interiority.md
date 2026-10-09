@@ -45,27 +45,27 @@ projecting human interiority onto radically different kinds of holons.
 > not one of them represents how evolution looks from the *inside*, how the individual
 > holons feel and perceive and cognize the world at various stages.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social" (section "Interiority")
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social" (section "Interiority")
 
 > The brain is the outside, the mind is the inside—and, as we will see, *a similar type
 > of exterior*/*interior holds for every holon* in evolution. And the empirical systems
 > sciences or ecological sciences, even though they claim to be holistic, in fact cover
 > exactly and only one half of the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social" (section "Interiority")
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social" (section "Interiority")
 
 > ...it is through an interior feeling of the shades of myself that I might reasonably
 > know the shades of other holons—which is how they know me, too; for we are all
 > ultimately in each other, in various degrees, and right now.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > Which brings us to the subject of gross reductionism versus subtle reductionism. Gross
 > reductionists, first of all, do not believe any interiors exist anywhere, so the issues
 > of meaning, value, consciousness, depth, culture, and intentionality—these never come
 > up for them.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within" (section "Subtle
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within" (section "Subtle
 > Reductionism")
 
 > What these systems and "holistic" theorists don't seem to understand is that while
@@ -74,7 +74,7 @@ projecting human interiority onto radically different kinds of holons.
 > reductionism*. They don't reduce everything to atoms; they reduce everything in the
 > Left-Hand to a Right-Hand description in the "system."
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within" (section "Subtle
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within" (section "Subtle
 > Reductionism")
 
 > In short, the Left was reduced to the Right, and thus *interiors* tended to get lost
@@ -82,7 +82,7 @@ projecting human interiority onto radically different kinds of holons.
 > depth were converted (reduced) to exterior, objective, systems interaction—"I" and
 > "we" were reduced to holistic "its"—the precise essence of subtle reductionism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within" (section "Subtle
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within" (section "Subtle
 > Reductionism")
 
 ## See Also

@@ -31,16 +31,16 @@ rather than merely applying it.
 > perspectives (sociocentric); and formal operational goes further and adds
 > third-person perspectives (which allow not only scientific precision but also
 > impartial, postconventional, worldcentric judgments of fairness and care).
-— *Integral Psychology*, ch. 1
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 > ...these researchers all acknowledge the existence of yet higher, postformal stages
 > of cognition—or a higher reason—which takes even more perspectives into account
 > (fourth-and fifth-person perspectives, according to Cook-Greuter).
-— *Integral Psychology*, ch. 1
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 > Susanne Cook-Greuter has refined and extended Loevinger's research, and is forging
 > her own original and important model of self development.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

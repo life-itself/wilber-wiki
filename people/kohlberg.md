@@ -36,7 +36,7 @@ developmental logic playing out across many domains of the person.
 > in the space of universal pluralism and global grasp (these stages have been elaborated
 > by Piaget, Baldwin, Kohlberg, Gilligan, Habermas, Loevinger, Broughton, Selman, etc.).
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > It is sometimes said that Carol Gilligan denied, not just the specific nature of the
 > stages of Kohlberg's scheme, but his entire hierarchical approach. This is simply not
@@ -44,20 +44,20 @@ developmental logic playing out across many domains of the person.
 > hierarchical scheme, from preconventional to conventional to postconventional... she
 > simply denies that the logic of justice alone accounts for the sequence.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2
 
 > We see it in Marx... We see it in Piaget... Kohlberg and Gilligan: egocentric to
 > sociocentric to worldcentric reason. Hegel: Self-positing Spirit returns to itself in
 > the form of global Reason.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8
 
 > Thus Kohlberg, Gilligan, and Habermas (to name a few) all refer to this general stage
 > as *postconventional* (which doesn't mean postcultural or postsocial, but simply
 > postconformist in some significant ways). Socrates versus Athens. Martin Luther King,
 > Jr., versus segregation. Gandhi versus cultural imperialism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 ## In *Integral Psychology*
 
@@ -69,26 +69,26 @@ explicitly transpersonal stage — absent from the *SES* treatment.
 > Baldwin, Dewey, and Piaget, demonstrated that moral development goes through six or
 > seven stages (spanning preconventional to conventional to postconventional to
 > post-postconventional).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Kohlberg's highest stage—what he called stage seven—is "universal-spiritual"
 > (post-postconventional).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > "At this point there is little support for the claim that Kohlberg's theory is
 > biased against females," reports the widely respected textbook Social and
 > Personality Development.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Theories such as Kohlberg's have demonstrated their nonrelativistic stance precisely
 > because, I would claim, those stages are surfing the waves of the nonrelativistic
 > Great Holarchy, preconventional to conventional to postconventional to
 > post-postconventional.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Three of the most important of the self-related lines of development are those of
 > self-identity (e.g., Loevinger), morals (e.g., Kohlberg), and needs (e.g., Maslow).
-— *Integral Psychology*, ch. 4 (footnote)
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4 (footnote)
 
 ## See Also
 

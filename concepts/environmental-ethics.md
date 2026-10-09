@@ -49,7 +49,7 @@ say) is asserted rather than worked out here.
 > principle of "bioequality," a reworking of the tenets of the Descending path of
 > Plenitude (divorced and dissociated from any true Ascent).
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 > All things and events, of whatever nature, are perfect manifestations of Spirit. No
@@ -57,7 +57,7 @@ say) is asserted rather than worked out here.
 > complex, primitive or advanced, is closer or farther from Ground, and thus all holons
 > have equal ultimate value or equal *Ground*-*value*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 > *As a wholeness*, any holon has "whole-value." It has a value *in itself*, and not
@@ -65,7 +65,7 @@ say) is asserted rather than worked out here.
 > greater the intrinsic value. Wholeness-value, in other words, is the same as
 > depth-value. The greater the depth, the greater the value.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 > All holons are also *parts*, and as a part, all holons have *instrumental value*
@@ -73,14 +73,14 @@ say) is asserted rather than worked out here.
 > which it follows, as we put it earlier, the more fundamental, the less significant,
 > and vice versa.)
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 > It is *much better* to kill a carrot than a cow, *even though* they are *both*
 > perfect manifestations of Spirit. They both have equal Ground-value, but one has more
 > intrinsic value because one has more depth (and therefore more consciousness).
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 > This attempt to introduce "wholeness" actually *instrumentalizes* all of us,
@@ -88,7 +88,7 @@ say) is asserted rather than worked out here.
 > only have part value, extrinsic value, instrumental value. Holism instrumentalizes
 > everything!
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (section
 > "Environmental Ethics: Holonic Ecology")
 
 ## See Also

@@ -43,7 +43,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 > of the Lower Left. And for simplicity's sake I will refer to these as the Big Three
 > (I, we, it).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > ...in the broadest sense this is Plato's the True (or propositional truth referring to an
 > objective state of affairs, it), the Good (or cultural justice and appropriateness,
@@ -52,7 +52,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 > of Practical Reason or intersubjective morality (we), and of personal Aesthetic
 > Judgment (I).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > The differentiation of the Big Three thus degenerated, by the end of the eighteenth
 > century, into the dissociation of the Big Three (a point made by Habermas)—which in
@@ -61,7 +61,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 > production paradigms, nightmares through and through, with all interior depth...
 > reduced to being merely a strand in the endlessly flat and faded system.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 > What rationality had put asunder, vision-logic would unite. That, at any rate, is the
 > potential and the promise and the struggle of postmodernity. What modernity
@@ -69,7 +69,7 @@ already-differentiated Big Three at a higher level — a task he assigns to
 > differentiation, then postrationality must do the healing (and postrationality, I have
 > been maintaining, is preeminently vision-logic).
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 ## In *Integral Psychology*
 
@@ -84,7 +84,7 @@ stages.
 > backgrounds ("we"), and third-person physical systems ("it")—what we will call "the
 > 1-2-3 of consciousness studies."
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 > ...one is hard-pressed to find in many of those authors a full appreciation of the
 > stage conceptions of consciousness development, such as the works of Baldwin,
@@ -94,12 +94,12 @@ stages.
 > determine third-person mechanisms, and that both circulate through second-person
 > intermediaries.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 > ...a truly integral approach, in my opinion, will move from being merely
 > all-quadrant to being all-level, all-quadrant. Or 1-2-3 across all levels.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 ## See Also
 

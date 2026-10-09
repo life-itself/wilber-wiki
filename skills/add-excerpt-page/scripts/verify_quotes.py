@@ -61,6 +61,15 @@ WORK_SOURCES = {
     "2000-integral-psychology": "library/2000-integral-psychology-full-text.md",
 }
 
+# work title (as italicized in an attribution line) -> work slug. Every
+# attribution naming one of these must link it to its public works/ page,
+# e.g. `— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 2`
+# — never to the raw library/ full text, which production excludes.
+WORK_TITLES = {
+    "Sex, Ecology, Spirituality": "1995-sex-ecology-spirituality",
+    "Integral Psychology": "2000-integral-psychology",
+}
+
 MIN_SEGMENT_LEN = 12  # shorter fragments are skipped, not false-failed
 
 
@@ -141,6 +150,29 @@ def extract_quote_blocks(text: str) -> list[str]:
     return blocks
 
 
+def check_attribution_links(path: Path, text: str) -> list[str]:
+    """Flag attribution lines that name a known work without linking it.
+
+    An attribution line is "> — ..." inside a blockquote, or "— ..."
+    directly after a blockquote line (lazy continuation — renders inside
+    the quote)."""
+    failures = []
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        is_attr = bool(re.match(r"^> ?— ", line)) or (
+            line.startswith("— ") and i > 0 and lines[i - 1].startswith(">")
+        )
+        if not is_attr:
+            continue
+        for title, slug in WORK_TITLES.items():
+            linked = f"[*{title}*](../works/{slug}.md)"
+            if f"*{title}*" in line.replace(linked, "") and linked not in line:
+                failures.append(
+                    f"{path}:{i + 1}: UNLINKED ATTRIBUTION: use {linked}"
+                )
+    return failures
+
+
 def check_file(path: Path) -> list[str]:
     text = path.read_text()
     works = parse_frontmatter_works(text)
@@ -171,7 +203,7 @@ def check_file(path: Path) -> list[str]:
             return True
         return False
 
-    failures = []
+    failures = check_attribution_links(path, text)
     for block in extract_quote_blocks(text):
         norm_block = normalize(block)
         segments = [s.strip() for s in re.split(r"\.\.\.|…", norm_block)]
@@ -199,7 +231,7 @@ def main(argv: list[str]) -> int:
         all_failures.extend(check_file(f))
 
     if all_failures:
-        print(f"FAIL: {len(all_failures)} quote(s) could not be verified against source:\n")
+        print(f"FAIL: {len(all_failures)} problem(s) found (unverifiable quotes or unlinked attributions):\n")
         for f in all_failures:
             print(" -", f)
         return 1

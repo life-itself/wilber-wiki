@@ -51,14 +51,14 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 > distorting "this world" as horribly as do the Ascenders, precisely because they want
 > from "this world" something that it could never deliver: salvation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > The Ascenders accuse the Descenders of being lost in the Cave of Shadows, of being
 > materialists, hedonists, pantheists, reductionists, and "nothing-morists"... To the
 > Ascenders, "this world" is, in form and function, illusory at best, evil at worst—and
 > the Descenders are the primary representatives of that evil.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > This battle—it is still with us today—I will call the battle between the Ego and the
 > Eco. Both were flatland to the core, which prevented their ever being synthesized in a
@@ -67,7 +67,7 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 > must be of the other, and so the Ego camps and the Eco camps lined up as mortal
 > enemies, each accusing the other, once again, of being the essence of Evil.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > The Eco camp watched all of this with absolute alarm. The Ego wasn't just establishing
 > its agency, this camp maintained; it was severing and repressing its connections and
@@ -75,7 +75,7 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 > (sensual, desirous, sexual, vital)... And the solution seemed equally obvious: the more
 > Eco, and the less Ego, the better for all.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > The Ascenders have recourse to various forms of Gnosticism, Theravadin Buddhism, a type
 > of Advaita Vedanta, a "higher Inner Voice," the inner Holy Spirit, archetypal
@@ -85,7 +85,7 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 > the fear-laden hand of earth-denying, community-denying, body-denying, sensory-denying
 > escape.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God"
 
 > The Ascenders and the Descenders, *after two thousand years*, still at each other's
 > throat—each still claiming to be the Whole, each still accusing the other of Evil, each
@@ -93,7 +93,7 @@ either side) gets pressed into this binary for the sake of the narrative arc.
 >
 > The Ascenders and the Descenders. Still crazy after all these years.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God"
 
 ## See Also
 

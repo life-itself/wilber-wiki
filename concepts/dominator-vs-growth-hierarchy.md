@@ -43,7 +43,7 @@ to do it without sliding into domination.
 > means a higher (or deeper) commonality that joins isolated strands into an actual web,
 > that joins molecules into a cell, or cells into an organism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > Thus Riane Eisler, herself a rather staunch champion of heterarchy, nonetheless
 > emphatically notes that "an important distinction should be made between domination
@@ -55,13 +55,13 @@ to do it without sliding into domination.
 > result in social systems in which the lowest (basest) human qualities are reinforced
 > and humanity's higher aspirations... are systematically suppressed."
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > Whereas pathological hierarchy is a type of ontological fascism (with the one
 > dominating the many), pathological heterarchy is a type of ontological totalitarianism
 > (with the many dominating the one).
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > Virtually all deep ecologists and ecofeminists reject the notion of holarchy, for
 > rather confused reasons, it seems to me. From what I can tell, they seem to think that
@@ -73,7 +73,7 @@ to do it without sliding into domination.
 > often the defenders of flatland "wholism" and extreme heterarchy, which indeed is the
 > opposite of atomism: two sides of the same problem.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > **Why is the finding of value in the world inherent in the human situation?** And since,
 > even if we decide to value everything equally, that involves rejecting value systems
@@ -83,7 +83,7 @@ to do it without sliding into domination.
 > consciously choose our unavoidable hierarchies, and not merely fall into the ethics of
 > unacknowledgment and suppression and inarticulacy?
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 ## See Also
 

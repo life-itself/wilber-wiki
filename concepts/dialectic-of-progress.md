@@ -49,7 +49,7 @@ and the "dialectic of progress" framing itself doesn't settle which reading is c
 > from a different angle, arrives at the same conclusion, and he refers to it as the
 > "dialectic of progress".
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > Evolutionarily important innovations mean not only a new level of learning but a new
 > problem situation as well, that is, a new category of burdens that accompany the new
@@ -57,32 +57,32 @@ and the "dialectic of progress" framing itself doesn't settle which reading is c
 > acquisition of problem-solving abilities new problem situations come to
 > consciousness.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5 (Wilber quoting Habermas)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5 (Wilber quoting Habermas)
 
 > Habermas's critique of Romantic regression is along the same lines as mine: of course
 > there are new problems and new pathologies at each stage of development, but to take
 > only the pathologies of the higher stage and compare them with only the achievements
 > of the previous stage is perverse in the extreme.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > With the transition to the sociocultural form of life... there arose *the problem of
 > demarcating* [*beginning* to differentiate] *society from external nature*... Power
 > over nature came into consciousness as a scarce resource...
 >
-> — *Sex, Ecology, Spirituality*, ch. 5 (Wilber quoting Habermas)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5 (Wilber quoting Habermas)
 
 > The emergence of a new level solves or "defuses" some of the central problems and
 > limitations of the previous stage (or else it wouldn't emerge), but it also introduces
 > its own new problems and new *scarce resources*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > But any way we slice the evolutionary pie, there is where we stand today: on the verge
 > of a planetary transformation, struggling to be secured by rationality and completed
 > by vision-logic, and embedded in global-planetary social institutions.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 ## See Also
 

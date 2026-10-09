@@ -44,7 +44,7 @@ without reduction.
 > extensions. In short, the path of "it"-language (objectivist, monological, observable,
 > empirical, behavioral variables).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > For example, I have a thought; a thought occurs to me. That's the given holon, which we
 > will use as an example. For this holon, in the Upper-Right quadrant, there is a change in
@@ -55,7 +55,7 @@ without reduction.
 > every single atom of my brain is doing, you will never know the actual details of my
 > thought *unless I tell you*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > ...in the Upper-Left quadrant, the validity criterion is not so much truth as
 > truthfulness, or sincerity. The question here is not "Is it raining outside?" The
@@ -63,14 +63,14 @@ without reduction.
 > am I lying?... It is not so much whether the map matches the territory, but whether
 > the mapmaker can be trusted.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > ...the criterion for validity in the Lower-Left quadrant is not just the truth of my
 > statement, nor the truthfulness with which I put it, but whether you and I can come to
 > mutual understanding with each other. Not objective, not subjective, but
 > intersubjective.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## See Also
 

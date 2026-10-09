@@ -42,27 +42,27 @@ postmodern lineage.
 > not this or that part of me (body or persona or ego or mind), but rather the totality
 > of my being-in-the-world.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > ...linguistic structures aren't really *that* autonomous, because they exist only in the
 > context of pre-articulate worldviews that use language without language ever
 > registering that fact (the critique by Heidegger, Gebser).
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > He particularly focuses on Bergson, Husserl, and Heidegger, although he had some sharp
 > criticisms of them as well (the last-named is also a "pioneer" of poststructuralism,
 > and his notion of the *Destruktion* of rationalist ontology appears in Derrida as
 > deconstruction).
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > This is the postmodern *integrative vision* we have mentioned often before, in
 > connection with Gebser ("integral-aperspectival"), Habermas (whose theory of
 > communicative action is specifically designed to integrate the Big Three), and
 > **Heidegger's centauric being-in-the-world (also an attempt to reweave the fragments)**.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 ## See Also
 

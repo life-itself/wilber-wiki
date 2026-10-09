@@ -49,38 +49,38 @@ relativism and less devastating against multiculturalism's more careful defender
 > a national level. They are literally transnational crises demanding transnational,
 > worldcentric responses.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > ...none of those physical and material and economic components *can be secured* in
 > the long run without a *corresponding change in consciousness* among the citizens of
 > the nations *surrendering* some of their sovereignty for the transnational good.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > The "multicultural movement," which claims a universal tolerance of all cultures
 > freed from the "logocentric, rational-centric, Eurocentric" dominance and hegemony, is
 > a step in the right direction, with all good intentions, but ends up being
 > self-contradictory and finally hypocritical.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > In other words, multiculturalism is a noble, logocentric, and rational endeavor that
 > simply *misidentifies its own stance* and claims to be not rational because some of
 > the things *it tolerates* are not rational. But its own tolerance is rational through
 > and through, and rightly so.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > In other words, the "multicults" regress from "no stance is ultimate" to "every stance
 > is equally acceptable," thus burying (and denying) their own otherwise accurate
 > judgment that lesser stances and smaller perspectives are *unacceptable*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > Thus, that everything is relative does not mean nothing is better; it means some
 > things are, indeed, relatively better than others, all the time.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 ## See Also
 

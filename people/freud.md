@@ -44,14 +44,14 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 > primal phantasies are a phylogenetic possession. In them the individual stretches
 > out to the experiences of past ages.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > The question then centers—and here **Freud and Jung bitterly parted ways**—on the nature
 > and function of these mythic motifs, these archetypes. Are they *merely* infantile
 > and regressive (Freud), or do they also contain a rich source of spiritual wisdom
 > (Jung)? Piaget, needless to say, sided with Freud on this particular issue.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > *Ego* is simply Latin for "I." Freud, for example, never used the term *ego*; he
 > used the German pronoun *das Ich*, or "the I," which Strachey unfortunately
@@ -59,7 +59,7 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 > which is German for "it,"... Thus Freud's great book *The Ego and the Id* was really
 > called "The I and the It."
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > Freud's basic aim in therapy was therefore to reunite the I and the it and thus heal
 > the split between them. His most famous statement of the goal of therapy—"Where id
@@ -67,7 +67,7 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 > one is a Freudian or not, this is still the most accurate and succinct summary of all
 > forms of uncovering psychotherapy.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > **Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos**; and
 > perhaps more clearly than anybody in history, he saw that so much human misery is and
@@ -75,13 +75,13 @@ non-dual resolution Wilber thinks the contemplative traditions supply.
 > is a union of Eros and Thanatos—and yet there is precisely nothing Freud could do
 > about it. There he was stranded, and there he left us stranded.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > Lacking the unifying Heart, the unspoken One, that joins Ascent and Descent in the
 > everlasting Circle of Redemption and Embrace, Freud simply remained as one of the
 > many, and certainly one of the greatest, of the fractured footnotes to Plato.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 ## See Also
 

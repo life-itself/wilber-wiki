@@ -37,35 +37,35 @@ Wilber's own transpersonal stages above it.
 > endeavors, from business to government to education. Graves proposed a profound and
 > elegant system of human development, a system that subsequent research has refined
 > and validated, not refuted.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > "Briefly, what I am proposing is that the psychology of the mature human being is an
 > unfolding, emergent, oscillating spiraling process marked by progressive
 > subordination of older, lower-order behavior systems to newer, higher-order systems
 > as man's existential problems change.
-— Graves, quoted in *Integral Psychology*, ch. 7
+— Graves, quoted in [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Graves outlined around seven major "levels or waves of human existence," ranging
 > from autistic, magical, and animistic, through sociocentric/conventional, to
 > individualistic and integrated...As is usually the case with Western researchers, he
 > recognized no higher (transpersonal) levels, but the contributions he made to the
 > prepersonal and personal realms were profound.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > The same is true with Graves's model; to date, it has been tested in over fifty
 > thousand people from around the world, and there have been no major exceptions found
 > to his scheme.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Far from being mere armchair analysts, Beck and Cowan participated in the
 > discussions that led to the end of apartheid in South Africa (and then went on,
 > using the same developmental principles, to design the "hearts and minds" strategy
 > for the South African rugby union team, which won the 1995 World Cup).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Clare Graves referred to this as a "momentous leap," where "a chasm of unbelievable
 > depth of meaning is crossed."
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

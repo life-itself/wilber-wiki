@@ -34,30 +34,30 @@ an emergent add-on but a dimension present at every level of the Kosmos.
 > category"—the category necessary to understand *any* other category), and what
 > Jantsch and Waddington call *self-transcendence*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2
 
 > This is Whitehead's famous dictum: "The many become one and are increased by one."
 >
-> — *Sex, Ecology, Spirituality*, ch. 2
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2
 
 > Whitehead uses "prehension" to describe the contact and thus "feeling" of an object by
 > any subject, no matter how "primitive," including atoms (thus his famous statement,
 > "Biology is the study of big organisms, physics the study of little organisms").
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > As Whitehead's famous summary has it, the cosmos is now "a dull affair, soundless,
 > scentless, colourless; merely the hurrying of material, endlessly, meaninglessly."
 > (To which he added, "Thereby, modern philosophy has been ruined.")
 >
-> — Whitehead, quoted in *Sex, Ecology, Spirituality*, ch. 12
+> — Whitehead, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 > Hegel was one of the first great philosophers of vision-logic, as were Schelling,
 > Whitehead, and a few others we will explore later; and not just because of their
 > systematic wholeness—that had been attempted before—but because of their explicit
 > grasp of identity-in-difference or "nonbifurcated Reason" or vision-logic.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 ## See Also
 

@@ -33,7 +33,7 @@ across levels — this page stays with what a holon *is*.
 > some ways true, but misses the essential point that processes themselves exist only
 > within other processes. There are no things or processes, only holons.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 1)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Book 1: The Pattern That Connects (tenet 1)
 
 > a. Self-preservation. All holons display some capacity to preserve their
 > individuality, to preserve their own particular wholeness or autonomy. A hydrogen
@@ -48,7 +48,7 @@ across levels — this page stays with what a holon *is*.
 > a part of a larger whole, and in its capacity as a part it must adapt or accommodate
 > itself to other holons.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 2)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Book 1: The Pattern That Connects (tenet 2)
 
 > c. Self-transcendence (or self-transformation). When an oxygen atom and two hydrogen
 > atoms are brought together under suitable circumstances, a new and in some ways
@@ -66,14 +66,14 @@ across levels — this page stays with what a holon *is*.
 > self-transformation one becomes a new whole, which has its own new forms of agency
 > and communion.
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 2c)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Book 1: The Pattern That Connects (tenet 2c)
 
 > d. Self-dissolution—Holons that are built up (through vertical self-transformation)
 > can also break down. Not surprisingly, when holons "dissolve" or "come unglued," they
 > tend to do so along the same vertical sequence in which they were built up (only, of
 > course, in the reverse direction).
 >
-> — *Sex, Ecology, Spirituality*, Book 1: The Pattern That Connects (tenet 2d)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Book 1: The Pattern That Connects (tenet 2d)
 
 ## See Also
 

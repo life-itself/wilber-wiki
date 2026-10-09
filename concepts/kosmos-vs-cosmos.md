@@ -39,28 +39,28 @@ folding the [[four-quadrants|Left-Hand quadrants]] into their Right-Hand correla
 > of existence, from matter to math to theos, and not merely the physical universe,
 > which is usually what both "cosmos" and "universe" mean today.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > So I would like to reintroduce this term, Kosmos. The Kosmos contains the cosmos (or
 > the physiosphere), the bios (or biosphere), nous (the noosphere), and theos (the
 > theosphere or divine domain)—none of them being foundational (even spirit shades into
 > Emptiness).
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > ...the bios is a part of the Kosmos, but not a part of the cosmos, and in that simple
 > move we have forever disavowed reductionism: physics is the most fundamental, and
 > least significant, of the sciences (the reason physics can't explain biology is
 > precisely because the bios is not in the cosmos).
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > ...the downside of the Enlightenment was that it took a Kosmos of both Left and Right
 > dimensions and reduced it to a cosmos that could be empirically (or monologically)
 > described: it collapsed the Left half to its correlates on the Right half. Its great
 > crime was not gross reductionism but subtle reductionism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## See Also
 

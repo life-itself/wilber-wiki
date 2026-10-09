@@ -39,33 +39,33 @@ usually goes to Aurobindo for — without in any way diminishing what he calls A
 > India... That the greatest synthesizers of the West and the East are in such
 > fundamental agreement is, I think, no real surprise.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > **Aurobindo gave the classic description of vision-logic**, which "can freely express
 > itself in single ideas, but its most characteristic movement is a mass ideation, a
 > system or totality of truth-seeing at a single view; the relations of idea with idea,
 > of truth with truth, self-seen in the integral whole."
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > As only one example, Aurobindo: "The spiritual transformation culminates in a
 > permanent ascension from the lower consciousness to the higher consciousness, followed
 > by an effective permanent descent of the higher nature into the lower."
 >
-> — Aurobindo, quoted in *Sex, Ecology, Spirituality*, ch. 10
+> — Aurobindo, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10
 
 > And not just in the West is Agape stressed. Many tantric and yogic schools—Aurobindo's
 > for example—put prime emphasis on "the descent of the supermind," the agape of the
 > supermind that "comes down" in order to pull us up to an identity with it, so that we
 > then express that agape or compassion for all beings now "in" us.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > Credit for this type of developmental synthesis often goes to Aurobindo; without in
 > any way detracting from Aurobindo's magnificent contributions, the pioneering credit
 > belongs to Schelling, and by a century.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 ## In *Integral Psychology*
 
@@ -74,12 +74,12 @@ pioneers," including a rare direct critique alongside the praise.
 
 > Aurobindo (1872–1950) was India's greatest modern philosopher-sage, and the
 > magnitude of his achievements is hard to convey convincingly.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > His "integral yoga" is a concerted effort to unite and integrate the ascending
 > (evolutionary) and descending (involutionary) currents in human beings, thus uniting
 > otherworldly and this-worldly, transcendent and immanent, spirit and matter.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Aurobindo's overall model of consciousness consists basically of three systems: (1)
 > the surface/outer/frontal consciousness (typically gross state), consisting of
@@ -90,7 +90,7 @@ pioneers," including a rare direct critique alongside the praise.
 > illumined mind, intuitive mind, overmind, supermind; including causal/nondual) and
 > below the mind (the subconscient and inconscient)—all nested in Sat-Chit-Ananda, or
 > pure nondual Spirit.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...greatest shortcoming is a shortcoming faced by all theorists, namely, the
 > unavailability of the important discoveries made since his time. Aurobindo was most
@@ -101,7 +101,7 @@ pioneers," including a rare direct critique alongside the praise.
 > analysis at any point proceed on the level of intersubjectivity (Lower Left) and
 > interobjectivity (Lower Right). He did not, that is, fully assimilate the
 > differentiations of modernity.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

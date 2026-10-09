@@ -44,39 +44,39 @@ outflowing into the Many) are the same territory traversed in opposite direction
 > compelling, most powerful statements to be found anywhere, at any time, in any form,
 > ancient or modern, East or West.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > It is with Plotinus that the Great Holarchy of Being receives its first comprehensive
 > presentation, although the notion itself, of course, goes back directly to Plato and
 > Aristotle.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > "The One in Plotinus," says Inge, "is not unconscious, but superconscious; not
 > infra-rational but supra-rational."
 >
-> — Inge, quoted in *Sex, Ecology, Spirituality*, ch. 9
+> — Inge, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > For Plotinus (and Aurobindo), we find that *on the Path of Ascent*—or what Plotinus
 > calls Reflux (return)—each successive level goes beyond and yet subsumes or
 > "envelops," as Plotinus says, its predecessors—the familiar concept of development as
 > successive holons... **For Plotinus, all development is envelopment**.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > And thus Plotinus can easily make the nondual leap: "Spirit not only engenders all
 > things; *it is all things*" (the all-important third line of the Nondual
 > realization: the Many are illusory; the One alone is Real; the One is the
 > Many—Brahman is the World).
 >
-> — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
+> — Plotinus, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > Thus, a typical Plotinian statement is (to use Inge's phrasing), "The World-Soul is
 > not in the world; rather, the World is in it, embraced by it and moulded by it." Or
 > again, "The Soul is not in the Body, but the Body is [in the Soul,] enveloped and
 > penetrated by the Soul which created it."
 >
-> — Plotinus, quoted in *Sex, Ecology, Spirituality*, ch. 9
+> — Plotinus, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 > But in fact these systems are, through and through, from top to bottom, the results
 > of actual contemplative apprehensions and direct developmental phenomenology. The
@@ -85,7 +85,7 @@ outflowing into the Many) are the same territory traversed in opposite direction
 > empirical-phenomenological developmental psychology at its most rigorous and most
 > comprehensive.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9
 
 ## In *Integral Psychology*
 
@@ -95,16 +95,16 @@ rather than a subject in his own right, cited for a compact formula about evolut
 and as a source for the vision-logic-equivalent stage in his own scheme.
 
 > Plotinus temporalized = evolution.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 > ...almost every sophisticated Great Chain theorist had something that corresponded
 > with vision-logic or higher reason (Plotinus's creative reason, Aurobindo's higher
 > or integrative mind, Gebser's integral-aperspectival, and so on).
-— *Integral Psychology*, ch. 8 (footnote)
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 8 (footnote)
 
 > The great Nondual traditions began around 200 CE, especially with such figures as
 > Nagarjuna and Plotinus.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 ## See Also
 

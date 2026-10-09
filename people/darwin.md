@@ -35,7 +35,7 @@ selection could replace a directional, spiritual reading of evolution.
 > nature" view—was at least as old as Plato and Aristotle, and... there was precisely
 > nothing new or unusual in Darwin's presentation of the continuous tree of life.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > The lasting contribution of Darwin's theory, then, was not that it discovered a
 > mechanism for macroevolution, for it did not; rather, it obscured for over a century
@@ -47,7 +47,7 @@ selection could replace a directional, spiritual reading of evolution.
 > evolution was itself, he thought, "the mode and manner of Spirit's creation," and
 > Darwin himself notoriously wavered).
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > But it wasn't the Darwinian "revolution" that would play most decisively into the
 > hands of the Descenders. After all, the Darwinists could always be seen... as simply
@@ -55,14 +55,14 @@ selection could replace a directional, spiritual reading of evolution.
 > as God-in-the-making... Darwin was *never* the problem. It was Carnot, Clausius, and
 > Kelvin.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God"
 
 > When Darwin came along and dutifully supplied some of the empirical evidence for
 > biological evolution, it shocked nobody except the remnants of the mythic believers in
 > the literal Genesis myth; but they were already shocked by what Schelling and other
 > developmentalists were doing anyway.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 ## See Also
 

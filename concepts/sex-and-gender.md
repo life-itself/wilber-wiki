@@ -48,7 +48,7 @@ the scaffolding for an argument about gender, not the argument's payoff.
 > valued than the other. It appears to have been mostly a simple differentiation of
 > *function*, not a massive differentiation of *status*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > Advantage and Female Advantage")
 
 > My claim is that the structures of human consciousness that I will be presenting in
@@ -58,20 +58,20 @@ the scaffolding for an argument about gender, not the argument's payoff.
 > that biased some of these structures in an often specifically subjugating and
 > certainly polarizing (or dissociating) fashion.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > Advantage and Female Advantage")
 
 > ...one of the conclusions of volume 2 is that where women work the fields with a hoe,
 > God is a Woman; where men work the fields with a plow, God is a Man.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > Advantage and Female Advantage")
 
 > That initial differentiation of *function*, however, could be (and in many cases was)
 > parlayed into a difference in *status*, with males dominating the public/productive
 > sphere and women relegated to the private/reproductive sphere.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > Advantage and Female Advantage")
 
 > But what if the radical feminists are right when it comes to the biospheric component
@@ -80,7 +80,7 @@ the scaffolding for an argument about gender, not the argument's payoff.
 > simultaneously honor some of the important differences in sexual being—so emphasized
 > by the radical feminists—and yet also insist on, and maintain, equality before the law.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > and Female Liberation")
 
 > The point now is that, with the differentiation of the noosphere and the biosphere,
@@ -89,7 +89,7 @@ the scaffolding for an argument about gender, not the argument's payoff.
 > birthing/nursing), factors that, one way or another, had largely *dominated* not only
 > the relation of men to women but also of men to men, up to that point in history.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature" (section "Male
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature" (section "Male
 > and Female Liberation")
 
 ## See Also

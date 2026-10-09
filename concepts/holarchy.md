@@ -41,7 +41,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > spotted). This is Whitehead's famous dictum: "The many become one and are increased by
 > one."
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 4)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (tenet 4)
 
 > "The number of levels which a hierarchy comprises determines whether it is 'shallow'
 > or 'deep'; and the number of holons on any given level we shall call its 'span.'" For
@@ -51,7 +51,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > enormous span... When molecules first emerged, they had a greater depth, a depth of
 > four, but initially a very small span.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 7)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (tenet 7)
 
 > **Each successive level of evolution produces GREATER depth and LESS span.** The
 > greater the depth of a holon, the more precarious is its existence, since its
@@ -61,7 +61,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > example, the number of molecules in the universe will always be less than the number
 > of atoms in the universe.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 8)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (tenet 8)
 
 > And so we can say: translation is a change in surface structures ("horizontal"),
 > whereas transformation is a change in deep structures ("vertical")... We can use our
@@ -70,7 +70,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > floor are the surface structures. Rearranging the furniture on any given floor is
 > translation; changing floors is transformation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (following tenet 8)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (following tenet 8)
 
 > Holons do not evolve alone, because there are no alone holons (there are only fields
 > within fields within fields). This principle is often referred to as coevolution,
@@ -78,7 +78,7 @@ moving to a new floor entirely), and treats holarchies as fundamentally
 > molecule or plant or animal) but a holon plus its inseparable environment. Evolution,
 > that is, is ecological in the broadest sense.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (tenet 10)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (tenet 10)
 
 ## See Also
 

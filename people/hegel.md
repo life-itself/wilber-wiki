@@ -43,7 +43,7 @@ same forces it criticized.
 > absolutely Good, is eternally accomplishing itself in the world; and the result is
 > that it need not wait upon us, but is *already in full actuality accomplished*."
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > And those were precisely the requirements met by Schelling and hammered out by
 > Hegel. Nature and Mind are both taken up and integrated in Spirit, an integration
@@ -51,7 +51,7 @@ same forces it criticized.
 > is the *same* Spirit that was *present throughout* the entire process of unfolding
 > and enfolding itself.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > **Would that Hegel had remained in poverty** (with Plato: "No treatise by me concerning
 > it exists or ever will exist"). But Hegel decided... that Reason could and should
@@ -59,7 +59,7 @@ same forces it criticized.
 > dependable paradigms, more reproducible injunctions, for the developmental unfolding
 > of the higher and transpersonal stages.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > ...these intuitions and insights were expressed almost totally in and through
 > *vision-logic*, and this burdened Reason with a task it could never carry.
@@ -67,21 +67,21 @@ same forces it criticized.
 > *identified* with vision-logic or mature Reason, which condemns Reason to collapsing
 > under a weight it could never carry.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > This completely undercut any sort of idealist or spiritual view of evolution or
 > manifestation in general. The first floor of the magnificent Idealist edifice
 > crumbled, and the higher floors almost immediately followed suit (Idealism would
 > survive in any viable form no more than a few decades after Hegel's death).
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > From the very beginning of modernity... there have been its many vocal critics (none
 > more perceptive and brutal than Hegel, for whom the Enlightenment in general, and
 > Kant in particular, was a "vanity of the understanding" and a "monster of arrested
 > development").
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 ## See Also
 

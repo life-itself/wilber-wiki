@@ -34,31 +34,31 @@ beyond," treating them instead as different in kind, not just degree.
 > of a dog," for example, the word *bark* is a whole with reference to its individual
 > letters, but a part with reference to the phrase itself.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1
 
 > It is for all these reasons that Koestler, after noting that all such hierarchies are
 > composed of holons, or increasing orders of wholeness, pointed out that the correct
 > word for "hierarchy" is actually *holarchy*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1
 
 > Koestler: "On different levels of the inorganic and organic hierarchies, the
 > polarisation of 'particularistic' [agency] and 'holistic' [communion] forces takes
 > different forms, but it is *observable on every level*."
 >
-> — Koestler, quoted in *Sex, Ecology, Spirituality*, ch. 2
+> — Koestler, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2
 
 > Koestler refers to this difference as "fixed codes and flexible strategies"—that is,
 > relatively stable deep structures and changing surface structures within the basic
 > guidelines (or basic limiting principles) of the deep structure.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3
 
 > Some writers, such as Koestler, lump together self-adaptation and self-transcendence
 > and refer to them interchangeably, because both embody a type of "going beyond." But
 > apart from that similarity, the two are different in degree and in kind.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2
 
 ## See Also
 

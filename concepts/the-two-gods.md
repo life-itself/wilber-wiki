@@ -52,7 +52,7 @@ beyond anything Lovejoy himself argued.
 > Descending, became logically incompatible and utterly irreconcilable... It produced,
 > in fact, two utterly irreconcilable Gods.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > Plato's "Spectator" and Plotinus's "ever-present Wakefulness" are developed by
 > Augustine into a full-fledged conception of the interior Witness (Augustine would say
@@ -60,7 +60,7 @@ beyond anything Lovejoy himself argued.
 > *immediate awareness* there is *certainty*, even if it is only a certainty that you
 > are doubting—and you can never shake that certainty.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > This Western Vedanta, as I have called it, passed, in its various forms, from
 > Augustine to Descartes, Spinoza, Berkeley, Kant, Fichte, Schelling, Hegel, Husserl,
@@ -68,7 +68,7 @@ beyond anything Lovejoy himself argued.
 > be proven, but something that even the existence of doubt *always presupposes* as its
 > own ground.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > The dogmatic belief in the future resurrection of the body put an effective end to
 > that vision. The future resurrection of the body, and the radically unique...
@@ -76,7 +76,7 @@ beyond anything Lovejoy himself argued.
 > this life, on this earth. No longer can the Ascending and Descending Paths be held
 > together in the immediacy of this moment.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > The one God was the goal of the "way up," of that ascending process by which the
 > finite soul, turning from all created things, took its way back to the immutable
@@ -84,13 +84,13 @@ beyond anything Lovejoy himself argued.
 > informing energy of that descending process by which Being flows through all levels of
 > possibility down to the very lowest.
 >
-> — Lovejoy, quoted in *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — Lovejoy, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 > The pessimistic Ascenders dourly pursued an otherworldly Goal they were assured of
 > never reaching, and the optimistic Descenders giddily embraced a this-worldly creation
 > whose Source they celebrated but never experienced.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10, "This-Worldly, Otherworldly"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10, "This-Worldly, Otherworldly"
 
 ## See Also
 

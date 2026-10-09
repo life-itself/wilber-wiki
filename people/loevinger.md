@@ -30,19 +30,19 @@ that, before the second half of the twentieth century, had been mostly speculati
 > others') present-day ontogenetic needs hierarchy—from safety/power to conventional
 > security/belonging to personal/egoic value to existential meaning.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > "Who am I?" becomes, for the first time, a burning question, and the self-esteem needs
 > emerge from the belongingness needs (Maslow), or a "conscientious" self emerges from a
 > "conformist" mode (Loevinger).
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > ...it was only in the last half of this century that the stages of consciousness
 > development were outlined in any sort of rigorous fashion backed by research—Baldwin,
 > Werner, Graves, Maslow, Piaget, Loevinger, and so on.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 ## In *Integral Psychology*
 
@@ -53,22 +53,22 @@ identical to what Wilber calls proximate-self development — see
 > What Loevinger calls "ego development" is quite similar to what I refer to as
 > proximate-self development. And proximate-self development is, in my view, at the
 > very heart of the evolution of consciousness.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 > Jane Loevinger's impressive research focused specifically on ego
 > development...it brought a great deal of precision to the field and sparked an
 > explosion of further developmental studies.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > She found that ego (proximate-self) development moves through about ten discernible
 > stages, the names of which tend to tell the story: autistic, symbiotic, impulsive,
 > self-protective, conformist, conscientious-conformist, conscientious,
 > individualistic, autonomous, and integrated.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Her research has been repeated in several different cultures now, and continues to
 > garner wide support.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

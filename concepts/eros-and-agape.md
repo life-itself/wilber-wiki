@@ -43,7 +43,7 @@ to a nondual ground, had no way to reconcile them.
 > transcends but includes—it is negation and preservation, ascent and descent, Eros and
 > Agape.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > ...unintegrated Eros does not just reach up to the higher levels and transcend the lower;
 > it alienates the lower, represses the lower... and does so out of fear (Phobos), fear
@@ -52,7 +52,7 @@ to a nondual ground, had no way to reconcile them.
 > thing, Phobos is Eros without Agape (transcendence without embrace, negation without
 > preservation).
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > Thanatos, on the other hand, is Descent divorced from Ascent. It is the lower in
 > flight from the higher, compassion gone mad: not just embracing the lower but
@@ -61,7 +61,7 @@ to a nondual ground, had no way to reconcile them.
 > instead of expressing the higher. It preserves the lower but refuses to negate it...
 > In other words, **Thanatos is Agape without Eros.**
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > Freud clearly and accurately saw Eros; he clearly and accurately saw Thanatos; and
 > perhaps more clearly than anybody in history, he saw that so much human misery is and
@@ -69,7 +69,7 @@ to a nondual ground, had no way to reconcile them.
 > a union of Eros and Thanatos—and yet there is precisely nothing Freud could do about it.
 > There he was stranded, and there he left us stranded.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 ## See Also
 

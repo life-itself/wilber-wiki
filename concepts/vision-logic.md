@@ -42,7 +42,7 @@ capacity he assigns the job of healing what rationality's differentiation of the
 > I also refer to postformal cognition as network-logic or vision-logic—Gebser called it
 > integral-aperspectival—and it is vision-logic that drives the best of postmodernism.
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > As rationality continues its quest for a truly universal or global or planetary
 > outlook, noncoercive in nature, it eventually gives way to a type of cognition I call
@@ -50,7 +50,7 @@ capacity he assigns the job of healing what rationality's differentiation of the
 > vision-logic adds them up into a totality, which is simply the new and higher interior
 > holon.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > What I am trying to do in this book, and what you are trying to do as you read it...
 > is use vision-logic: not just reasonably decide the individual issues, but hold them
@@ -59,7 +59,7 @@ capacity he assigns the job of healing what rationality's differentiation of the
 > and nonlinear, and it weaves together what otherwise appear to be incompatible
 > notions... negated in their partiality but preserved in their positive contributions.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > When vision-logic matures into its middle and late phases, pluralistic relativism
 > increasingly gives way to more holistic modes of awareness, which begin to weave the
@@ -68,7 +68,7 @@ capacity he assigns the job of healing what rationality's differentiation of the
 > different voices and multiple contexts, universal integralism begins to bring them
 > together into a harmonized chorus.
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 ## See Also
 

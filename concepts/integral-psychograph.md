@@ -45,20 +45,20 @@ happening within one.
 > All of this can be represented as in...what I call an "integral psychograph." The
 > levels in the Great Nest are shown on the vertical axis, and through those levels
 > run the various lines.
-— *Integral Psychology*, ch. 2
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 2
 
 > Of the two dozen or so lines, I give five as examples: cognitive, moral,
 > interpersonal, spiritual, and affective.
-— *Integral Psychology*, ch. 2
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 2
 
 > The full Upper-Left quadrant includes the entire spectrum of consciousness as it
 > appears in any individual, from bodily sensations to mental ideas to soul and
 > spirit. The integral psychograph is a graph of this quadrant.
-— *Integral Psychology*, ch. 5
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 5
 
 > In other words, an integral psychograph of the individual is the best guide in
 > this—or any other—therapeutic endeavor.
-— *Integral Psychology*, ch. 8
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 8
 
 ## See Also
 

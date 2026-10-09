@@ -37,13 +37,13 @@ the map is tracking something real rather than a private theoretical artifact.
 > was produced by) a particular *social worldview*. These general stages Gebser called
 > the archaic, the magic, the mythic, and the mental.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > I also refer to postformal cognition as *network-logic* or *vision-logic*—Gebser
 > called it *integral-aperspectival*—and it is vision-logic that drives the best of
 > postmodernism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1
 
 > Jean Gebser refers to the emerging vision-logic as the "*integral-aperspectival*"
 > mind, which is a particularly apt phrase. The previous structure (the egoic-rational),
@@ -52,7 +52,7 @@ the map is tracking something real rather than a private theoretical artifact.
 > up all the perspectives *tout ensemble*, and therefore *privileges no perspective as
 > final*: it is aperspectival.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > Gebser's masterpiece, *The Ever-Present Origin*, was completed in 1953, the
 > culmination of several decades of thought and research. He died in 1973 and thus he
@@ -62,13 +62,13 @@ the map is tracking something real rather than a private theoretical artifact.
 > any advantage over any other, at which point they careen uncontrollably in their own
 > labyrinth of ever-receding holons, lost in aperspectival space.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > As Gebser says, "**The part is to a certain degree always a betrayal of the whole**, for
 > which reason the sum of the parts also only yields a fictitious but not an efficacious
 > whole."
 >
-> — Gebser, quoted in *Sex, Ecology, Spirituality*, ch. 5
+> — Gebser, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > Gebser refers to such transformations as "mutations in consciousness," emphasizing
 > their radically emergent nature. Nonetheless, each structure unfolds holarchically,
@@ -76,7 +76,7 @@ the map is tracking something real rather than a private theoretical artifact.
 > consciousness is responsible for the loss of previous possibilities and properties,
 > but suddenly incorporates them into a new structure..."
 >
-> — Gebser, quoted in *Sex, Ecology, Spirituality*, ch. 5
+> — Gebser, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 ## In *Integral Psychology*
 
@@ -86,27 +86,27 @@ Gebser's own leading American interpreter agreeing with him about.
 
 > The pioneering work of Jean Gebser is paradigmatic: he sees cultural worldviews
 > evolving—to use his words—from archaic to magic to mythic to mental to integral.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 > Gebser's masterpiece, Ursprung und Gegenwart (The Ever-Present Origin), is certainly
 > one of the most brilliant surveys of cultural evolution ever written, and no
 > integral theory, in my opinion, can hope to succeed without taking its meticulous
 > formulations into account.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 > It should be noted, however, that Gebser's "integral structure" refers basically to
 > the overall vision-logic wave, and does not adequately cover the higher, truly
 > transpersonal stages (psychic, subtle, causal, and nondual).
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 > Nonetheless, in the domain of average collective development—archaic to magic to
 > mythic to rational to integral—Gebser is unsurpassed.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 > Jean Gebser, whom we have seen in connection with worldviews, coined the term
 > integral-aperspectival to refer to this pluralistic or multiple-perspectives view,
 > which I also refer to as vision-logic or network-logic.
-— *Integral Psychology*, ch. 13
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 13
 
 ## See Also
 

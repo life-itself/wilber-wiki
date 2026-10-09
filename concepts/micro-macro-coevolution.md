@@ -49,14 +49,14 @@ where Wilber most wants the pattern to hold.
 > assumed to be of the same type and same nature as the compound individual holon, so
 > that they can be arranged "above" or "below" each other.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > ...the individual and social are not two different coins, one being of a higher
 > currency than the other, but rather the heads and tails of the *same* coin at *every*
 > currency. They are two aspects of the same thing, not two fundamentally different
 > things (or levels).
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > The lower portion of each diagram represents microevolution—the evolution of
 > individual holons. The upper portion represents macroevolution—the *correlative*
@@ -65,7 +65,7 @@ where Wilber most wants the pattern to hold.
 > (i.e., they coemerge, coevolve). When eukaryotes emerge, ecosystems emerge; when
 > complex animals emerge, families emerge.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > ...since evolution produces greater depth, less span, then the individual holons tend
 > to get *bigger* (i.e., molecules are bigger than atoms, because they embrace and
@@ -73,20 +73,20 @@ where Wilber most wants the pattern to hold.
 > holons at the greater depth... the collectives are smaller. Thus families are smaller
 > than ecosystems, which are smaller than planets, which are smaller than stars.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > Notice in particular that both the micro and macro holarchies given by Jantsch (in
 > both the physiosphere and the biosphere) constitute a genuine higher/lower
 > relationship: destroy any lower (whether individual or social), and the levels above
 > it are also destroyed, but not vice versa.
 >
-> — *Sex, Ecology, Spirituality*, ch. 3, "Individual and Social"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 3, "Individual and Social"
 
 > Habermas begins with the observation that the *same structures of consciousness* (his
 > phrase) can be found in the individual self (UL) and its cultural setting (LL), that
 > is, in the micro and macro branch of the evolution of human consciousness.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## See Also
 

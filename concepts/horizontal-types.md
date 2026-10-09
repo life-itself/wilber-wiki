@@ -42,26 +42,26 @@ developmental spine would misrepresent his own view of it.
 > Myers-Briggs, and so forth. For the most part, these are not vertical levels,
 > stages, or waves of development, but rather different types of orientations possible
 > at each of the various levels.
-— *Integral Psychology*, ch. 4
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4
 
 > ...should be understood that these "horizontal" typologies are of a fundamentally
 > different nature than the "vertical" levels—namely, the latter are universal stages
 > through which individuals pass in a normal course of development, whereas the former
 > are types of personalities that may—or may not—be found at any of the stages.
-— *Integral Psychology*, ch. 4
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4
 
 > ...we have no such confidence with the horizontal typologies. They simply outline
 > some of the possible orientations that may, or may not, be found at any of the
 > stages, and thus their inclusion is based more on personal taste and usefulness than
 > on universal evidence: all individuals do not necessarily fit a particular typology,
 > whereas all individuals do go through the basic waves of consciousness.
-— *Integral Psychology*, ch. 4
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4
 
 > The Enneagram, for example, is a sophisticated system that classifies people into
 > nine basic personality types (the reformer, the helper, the motivator, the
 > individualist, the investigator, the loyalist, the enthusiast, the leader, the
 > peacemaker, the reformer).
-— *Integral Psychology*, ch. 4
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4
 
 > Thus, to use the example of Spiral Dynamics for the vertical levels and the
 > Enneagram for the horizontal, you can have Enneagram type 3 (the motivator) at the
@@ -69,7 +69,7 @@ developmental spine would misrepresent his own view of it.
 > so on. In this example, nine types at eight levels gives us a typology of
 > seventy-two different personality types—and you can start to see what a truly
 > multidimensional psychology might look like!
-— *Integral Psychology*, ch. 4
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 4
 
 ## See Also
 

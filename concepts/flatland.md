@@ -38,7 +38,7 @@ regressive, undifferentiated state rather than genuine integration.
 > The second part of the book therefore looks at that which prevents us from seeing the
 > holistic Kosmos. It looks at what I call flatland.
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > What these systems and "holistic" theorists don't seem to understand is that while
 > they have indeed avoided gross reductionism—and for that are to be highly praised—they
@@ -48,7 +48,7 @@ regressive, undifferentiated state rather than genuine integration.
 > holism) to merely a Right-Hand holism, a flatland holism. And they are so
 > understandably proud that they are holists, they overlook the flatland part.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > All of that can still be heartily embraced by the subtle reductionist; it's just that
 > all holarchies of quality have been lost entirely in holarchies of quantity, and all
@@ -57,7 +57,7 @@ regressive, undifferentiated state rather than genuine integration.
 > and thus to explain the entire Kosmos in terms of exterior surfaces and empirical
 > forms is to find only a cosmos with no value whatsoever: guaranteed).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > Similarly, personal integrity and intentions (UL) are reduced to healthy brain
 > functioning (UR), to the now rampant model of biological psychiatry (one is depressed,
@@ -66,12 +66,12 @@ regressive, undifferentiated state rather than genuine integration.
 > better in the cosmos?" Not "What does my existence mean?" but "How can I get it to
 > work better?"
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > It is from this flat and faded landscape, armed with good intentions and a
 > weakest–noodle science, that they cry out to us as our saviors.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## In *Integral Psychology*
 
@@ -85,13 +85,13 @@ seem impossible to relate once their interior/exterior meanings get flattened to
 > lesion in the modern and postmodern consciousness, concomitant with the collapse of
 > the Kosmos into flatland.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 > Here is the world-knot, the inherent paradox of flatland: the body is in the mind,
 > but the brain is in the Body. Both of those statements are true, but in flatland they
 > appear contradictory, and those contradictions drive much of the world-knot.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 ## See Also
 

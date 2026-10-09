@@ -48,7 +48,7 @@ one he asserts more than demonstrates.
 > throughout the water. But you will *never* see the reverse process happen—you will
 > never see the dispersed ink gather itself together into a small drop.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > And the infamous Second Law of Thermodynamics added a dismal conclusion: the
 > direction of time's arrow is downward. Physical processes, like the inkdrop, always go
@@ -56,7 +56,7 @@ one he asserts more than demonstrates.
 > The universe may be a giant clockwork, but the clock is winding down . . . and will
 > eventually run out.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > And in the biosphere Darwin (and many others) noticed that there is also a crucial
 > time's arrow. Evolution is irreversible. We may see amoebas eventually evolve into
@@ -64,7 +64,7 @@ one he asserts more than demonstrates.
 > *this* time's arrow was diametrically opposed to time's arrow in the (known)
 > physiosphere: the former is winding up, the latter is winding down.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > ...both physics and biology were *supposed* to be part of the new natural sciences,
 > relying on empirical observation, measurement, theory formation, and rigorous testing
@@ -73,20 +73,20 @@ one he asserts more than demonstrates.
 > contradiction between a mechanistic world slated to run down and an organic world
 > seeming to wind up."
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > As several researchers have noted, "not until the puzzle of the two and opposing
 > arrows of time was resolved in the late twentieth century was there a sound basis for
 > bridging the gap between matter and mind, the natural world and the human world, and
 > thus between the 'two cultures' of modern Western civilization."
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > ...under certain circumstances matter will "wind itself up" into states of higher
 > order, as when the water running down a drain suddenly ceases to be chaotic and forms
 > a perfect funnel or whirlpool... The two arrows have joined forces.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 ## See Also
 

@@ -35,21 +35,21 @@ of.
 > "No more myths!" was the philosophical battle cry of an entire age, and it soon came
 > to be summarized in Nietzsche's famous dictum, "God is dead."
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 > ...the more one examines the motives—what Nietzsche would call the 'genealogy'—of these
 > theories, the stranger they appear. It seems that they are motivated by the strongest
 > moral ideals, such as freedom, altruism, and universalism... And yet what these ideals
 > drive the theorists toward is a denial of all such goods.
 >
-> — Charles Taylor, quoted in *Sex, Ecology, Spirituality*, ch. 1, "The Web of Life"
+> — Charles Taylor, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1, "The Web of Life"
 
 > From Nietzsche to Bataille to Foucault, from Heidegger to Derrida to Lyotard, the
 > critics have continued their assault, with the postmodern poststructuralists being
 > merely the most recent, although possibly the loudest, of the long line of
 > antimodernists.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 > In his idea of Eros as unlimited activity, he set off a whole line of "will"
 > theorists, from Schopenhauer to Bergson to Nietzsche. Paul Tillich traces this line of
@@ -57,7 +57,7 @@ of.
 > from Nietzsche to Bergson, the French voluntarist, Heidegger and Sartre, and to
 > Whitehead, the great metaphysician of our century—all of this came from Schelling."
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders" (on Schelling, quoting Paul Tillich)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders" (on Schelling, quoting Paul Tillich)
 
 ## See Also
 

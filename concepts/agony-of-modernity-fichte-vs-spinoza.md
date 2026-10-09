@@ -52,26 +52,26 @@ two-camp standoff.
 > Subject... the pragmatic and ethical point was clear enough: the more of the Ego, and
 > the less of the Eco, the better for all.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > The Eco camps, on the other hand, all had recourse to Spinoza... Spirit was here
 > viewed as the absolute and total *Objective System*, into which the ego was to insert
 > itself seamlessly, and so the ethical imperative was just as clear: the more of the
 > Eco, and the less of the Ego, the better for all.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > To the same age, Spinoza stood for Spirit as eternal and total objective *Substance*
 > (or infinite and Absolute Object, as Fichte stood for infinite and Absolute Subject).
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > ...an entire intellectual age was devoted to, or at least obsessed with, the
 > integration of Absolute Subject and Absolute Object, of Fichte and Spinoza (or Kant
 > and Spinoza, or Fichte and Goethe)—it came to the same thing: how can you possibly
 > unite Subjective Freedom with Objective Union?
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > We can't simply add them together with glib platitudes about subject and object being
 > one, because subjective autonomy and objective heteronomy are absolutely
@@ -79,12 +79,12 @@ two-camp standoff.
 > to Fichte *or* Spinoza. Since the gain of one is the loss of the other, it's a
 > win-lose situation, never a win-win.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > "And the ambition becomes general in the 1790's: autonomy must be reconciled with
 > unity with nature, Kant and Spinoza must be united; these were the watchwords."
 >
-> — Charles Taylor, quoted in *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the
+> — Charles Taylor, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the
 > Descenders"
 
 > In order to honor the positive and true contributions of both the Ego and the Eco
@@ -93,7 +93,7 @@ two-camp standoff.
 > slightest clue as to how to actually proceed with that necessary but seemingly
 > contradictory project.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 ## See Also
 

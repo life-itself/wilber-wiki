@@ -30,13 +30,13 @@ own right, not an alternative to hierarchy.
 > the degree it was widely misinterpreted (as implying that only males go through
 > hierarchical stages; the idea that women do not go through hierarchical development
 > became one of the most influential cultural myths of the last two decades).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...researchers from Gebser to Neumann to Gilligan to Loevinger also call specific
 > stages by the actual name "integrated"—usually, their very highest level is given
 > that name, not because the lower levels lack all integration, but because this
 > highest level has the greatest amount of it.
-— *Integral Psychology*, ch. 8 (footnote)
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 8 (footnote)
 
 ## See Also
 

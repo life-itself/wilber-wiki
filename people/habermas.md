@@ -31,25 +31,25 @@ treated as opposed, are shown agreeing.
 > sources are in strong agreement, even though they were arrived at independently and
 > from very different angles.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > Likewise, Habermas's three validity claims, for truth (objects), truthfulness or
 > sincerity (subjects), and rightness or justice (intersubjectivity), refer respectively
 > to the Right half, the Upper Left, and the Lower Left...
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > "With any speech act," he says, "the speaker takes up a relation to something in the
 > objective world [it], something in a common social world [we], and something in his own
 > subjective world [I]."
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > This is likewise what Habermas refers to as "the totalitarian characteristics of an
 > instrumental reason that *objectifies* everything around it, *itself included*." In
 > this respect, Habermas is in complete agreement with Foucault.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 ## In *Integral Psychology*
 
@@ -61,38 +61,38 @@ treatment.
 > Jürgen Habermas (born 1929) has, in the course of his distinguished career, applied
 > his integral vision across a wide variety of domains—philosophy, psychology,
 > anthropology, evolutionary theory, linguistics, politics.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Habermas's overall model has three tiers. First is a theory of communication
 > ("universal pragmatics"), which serves as the starting point for an account of the
 > development of subjective (aesthetic), intersubjective (moral), and objective
 > (scientific) consciousness (i.e., the Big Three; this developmental account of the
 > individual is the second tier).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Habermas is the most comprehensive developmental philosopher now working. However,
 > lamentably, he leaves out and totally ignores any of the stages of I, we, and it
 > consciousness beyond vision-logic. As I would put it, Habermas is all-quadrant, but
 > not quite all-level.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...in placing his reliance on linguistically generated structures of understanding,
 > Habermas places an unfortunate wedge between human and nonhuman nature, so that his
 > approach to nature is essentially instrumental. In short, we might say that his
 > integral view is inadequate to both the prerational and the transrational
 > domains—inadequate to both nature and spirit (a major flaw, some would say).
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...for the ground it covers, his work has already assured him a place in history as
 > being at least one of the half-dozen most important thinkers of this century, and it
 > appears that no integral view can hope to succeed that ignores his profound
 > contributions.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Habermas's attempt to reconstruct historical materialism on the basis of universal
 > pragmatics and communicative action remains the most sophisticated of modern attempts
 > to trace sociocultural evolution.
-— *Integral Psychology*, ch. 12
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 12
 
 ## See Also
 

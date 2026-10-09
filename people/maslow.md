@@ -32,19 +32,19 @@ rigorous empirical basis it had previously lacked.
 > others') present-day ontogenetic needs hierarchy—from safety/power to conventional
 > security/belonging to personal/egoic value to existential meaning.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > The deeper or higher motivations are not simply *given* from the start; one has to
 > grow, develop, and unfold to effect these changes (just as in Maslow's needs
 > hierarchy, which is precisely the same Great Holarchy in modern form).
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > "Who am I?" becomes, for the first time, a burning question, and the self-esteem needs
 > emerge from the belongingness needs (Maslow), or a "conscientious" self emerges from a
 > "conformist" mode (Loevinger).
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 ## In *Integral Psychology*
 
@@ -55,7 +55,7 @@ across the postmodern turn.
 > Abraham Maslow (1908–1970) is well known enough that I will only make a few passing
 > comments. Like all truly great integral thinkers—from Aurobindo to Gebser to
 > Whitehead to Baldwin to Habermas—he was a developmentalist.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > He was one of the first to gather substantial empirical and phenomenological
 > evidence suggesting that each level in the Great Nest has a different need, that
@@ -64,14 +64,14 @@ across the postmodern turn.
 > Force (Humanistic-Existential Psychology) and the Fourth Force (Transpersonal),
 > Maslow's ideas had an extraordinary impact on education, business, and values
 > research.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Maslow's work fell into temporary disrepute during the eighties, when an extreme
 > postmodernism, dominating both academia and the counterculture, made all forms of
 > holarchy subservient to what certainly seemed to be a form of flatland dogmatism.
 > But as the world awakens from that reductionism, Maslow's pioneering works are there
 > to greet all who would genuinely embrace a more integral and holarchical view.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

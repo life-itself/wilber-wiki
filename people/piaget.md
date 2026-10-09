@@ -39,7 +39,7 @@ Wilber later turns against Campbell's conclusions.
 > [magic-mythic] is both artificialist and animistic. Clouds move because God or
 > [other] men make them move. The average age of this stage is 6."
 >
-> — Piaget, quoted in *Sex, Ecology, Spirituality*, ch. 6
+> — Piaget, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > In the broadest sense, *ego* means "self" or "subject," and thus when Piaget speaks
 > of the earliest stages being "egocentric," he does *not* mean that there is a clearly
@@ -48,35 +48,35 @@ Wilber later turns against Campbell's conclusions.
 > strong and differentiated ego... does egocentrism die down! The "pre-egoic" stages
 > are the most egocentric!
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > The *maximum* of egocentrism, as Piaget demonstrated, occurs in the primary or
 > physical indissociation (the first fulcrum, where self-identity is physiocentric),
 > because the entire material world is absorbed in the self-sense and cannot even be
 > considered apart from the self-sense.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > Formal operational awareness transcends but includes concrete operational thought...
 > Where concrete operational uses rules of thought to transcend and operate on the
 > concrete world, formal operational uses a new interiority to transcend and operate on
 > the rules of thought themselves.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > In a set of experiments, a snail moves along a board, which itself is moving along a
 > table. Only children at the formal operations stage can understand the distance
 > which the snail travels relative to the board *and* to the table. Here we find the
 > intellectual equipment necessary for conceptions of relativity.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > The question then centers... on the nature and function of these mythic motifs,
 > these archetypes. Are they *merely* infantile and regressive (Freud), or do they also
 > contain a rich source of spiritual wisdom (Jung)? Piaget, needless to say, sided with
 > Freud on this particular issue.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 ## In *Integral Psychology*
 
@@ -88,30 +88,30 @@ James Mark Baldwin's earlier work — Wilber quotes Kohlberg making this point.
 > Piaget's studies are pivotal, of course. Even with all of their shortcomings,
 > Piaget's contributions remain a stunning accomplishment; certainly one of the most
 > significant psychological investigations of this century.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > The major inadequacy of Piaget's system, most scholars now agree, is that Piaget
 > generally maintained that cognitive development (conceived as logico-mathematical
 > competence) is the only major line of development, whereas there is now abundant
 > evidence that numerous different developmental lines (such as ego, moral, affective,
 > interpersonal, artistic, etc.) can unfold in a relatively independent manner.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > ...after almost three decades of intense cross-cultural research, the evidence is
 > virtually unanimous: Piaget's stages up to formal operational are universal and
 > cross-cultural.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > As I read more deeply into Baldwin, I realized that Piaget had derived all the basic
 > ideas with which he started in the twenties from Baldwin: assimilation,
 > accommodation, schema, and adualism, 'egocentricity,' or undifferentiated character
 > of the child's mind.
-— Kohlberg, quoted in *Integral Psychology*, ch. 8
+— Kohlberg, quoted in [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 8
 
 > At the beginning of F-1, on the shallowest surface of Spirit, the self is still
 > largely undifferentiated from the material world (as Piaget put it, "The self is here
 > material, so to speak").
-— *Integral Psychology*, ch. 8
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 8
 
 ## See Also
 

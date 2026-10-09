@@ -45,20 +45,20 @@ present in the book but less concentrated than the sympathetic material excerpte
 > nor to elaborate the foundations of such an analysis. It is not power, but the
 > subject, which is the general theme of my research.")
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 > These objectifying and systematic "sciences of man" are in fact pseudo-sciences,
 > according to both Foucault and Habermas, and pseudo-sciences driven by
 > self-aggrandizing *power*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 > And thus was born what Foucault called "the Age of Man"—the merely "objective" study
 > of humans. And in a beautiful phrase that would summarize the net effect of the
 > entire Enlightenment paradigm... Foucault points out that with the "Age of Man,"
 > humans became "the object of information, never the subject in communication."
 >
-> — *Sex, Ecology, Spirituality*, ch. 12
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12
 
 > As Foucault ably demonstrates, the rise of modernity was marked, not so much by a
 > repression of sexuality... as by an *obsession* with sexuality... Never, says
@@ -67,7 +67,7 @@ present in the book but less concentrated than the sympathetic material excerpte
 > every dimension of its sexuality. Sex became the object of a major investment of
 > signification, of power, and of knowledge."
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > (Foucault, in his reductionistic archaeology phase, actually proceeded in just this
 > manner, bracketing *both* the truth *and* the meaning of linguistic statements, and
@@ -75,14 +75,14 @@ present in the book but less concentrated than the sympathetic material excerpte
 > recanted and labeled the *exclusive* use of that approach "arrogant." But it is an
 > arrogance that all such "happy positivism" is prone to.)
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > Foucault, like all relativists, had exempted himself from the very criteria he
 > aggressively applied to others. He was making an extensive series of truth claims that
 > denied all truth claims (except his own privileged stance), and thus his position, as
 > critics from Habermas to Taylor pointed out, was profoundly incoherent.
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1
 
 ## See Also
 

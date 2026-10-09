@@ -37,7 +37,7 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 > scientific-technological knowledge), formal rationality (such as mathematics), and
 > intersubjective or practical rationality (as displayed in morality and communication).
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > We have seen that one of the great defining marks of modernity—what has been called
 > its genuine *dignity*—was the clear differentiation of the Big Three, the
@@ -50,7 +50,7 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 > "hyper-autonomous" realms, with nothing to say to each other, bound only by a
 > thoroughgoing and often mutual disdain.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > To understand and articulate this in a sociological fashion... I must look into the
 > whole network of shared social practices and the "background unconscious" of
@@ -58,7 +58,7 @@ Schiller, Freud, Heidegger) who tried to heal the fragmentation modernity produc
 > program from Wilhelm Dilthey and Weber and Heidegger down to today with Paul Ricoeur
 > and Hans Gadamer and Geertz and Taylor.)
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## See Also
 

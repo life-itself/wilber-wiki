@@ -41,7 +41,7 @@ directly, not just asserted.
 > well find him to be America's greatest psychologist. A contemporary of James and
 > Peirce, Baldwin forged an integral psychology and philosophy that is only now being
 > recognized for its scope and profundity.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > He was the first great developmental psychologist in modern history; he was the
 > first to clearly define a stage of development; he sought to integrate introspective
@@ -50,12 +50,12 @@ directly, not just asserted.
 > he proposed detailed developmental stages in each of those domains (in other words,
 > he was one of the first to trace development in all quadrants); he was also one of
 > the first to outline stages of religious development.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > The only reason his name is a not a household word is that, shortly after his death,
 > the positivist and behaviorist schools would raise flatland to a dogmatic belief, and
 > integral studies of any sort were scrubbed from the curriculum.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > Baldwin came to see consciousness as developing through a half-dozen qualitatively
 > distinct stages or levels of consciousness...the prelogical (similar to
@@ -63,18 +63,18 @@ directly, not just asserted.
 > extralogical (vision-logic), and finally, the hyperlogical, which we might call
 > supralogical or translogical, for it represents a satori-like nondual awareness that
 > transcends the subject and object dualism.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > But unlike Piaget, Baldwin's genius was his integral vision: he refused to reduce all
 > development to cognitive development, which is why, as an overall system, Baldwin's
 > is much more credible and enduring, as John Broughton and others have pointed out.
-— *Integral Psychology*, ch. 7
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 > As I read more deeply into Baldwin, I realized that Piaget had derived all the basic
 > ideas with which he started in the twenties from Baldwin: assimilation,
 > accommodation, schema, and adualism, 'egocentricity,' or undifferentiated character
 > of the child's mind.
-— Kohlberg, quoted in *Integral Psychology*, ch. 7
+— Kohlberg, quoted in [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 7
 
 ## See Also
 

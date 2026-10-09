@@ -45,7 +45,7 @@ just from the opposite ideological direction.
 > truths can be derived from the beginning stages of postformal vision-logic, and
 > postmodernism at its best is an elucidation of their profound importance.
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > Having heroically developed beyond a rigid universal formalism, it became suspicious of
 > any universals at all, and thus it tended to fight the emergence of universal
@@ -54,7 +54,7 @@ just from the opposite ideological direction.
 > but also on post-pluralistic stages (which was disastrous)... Postmodernism often
 > degenerated into the nihilism and narcissism for which it is now so well known.
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > What is required, of course, is not a retreat to a predifferentiated state (that's not
 > even possible, although retro-Romantics often make the recommendation); what is
@@ -62,7 +62,7 @@ just from the opposite ideological direction.
 > called the central problem of postmodernity: now that science, art, and morality have
 > been irreversibly differentiated, how does one integrate them?
 >
-> — *Sex, Ecology, Spirituality*, ch. 11, "Brave New World"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11, "Brave New World"
 
 > Pluralistic relativism was the only acceptable worldview. It claimed that all truth is
 > culturally situated (except its own truth, which is true for all cultures); it claimed
@@ -72,7 +72,7 @@ just from the opposite ideological direction.
 > claimed that there are no universal truths (except its own pluralism, which is
 > universally true for all peoples).
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > The study of holarchy, in short, is the study of nested truths. Deconstruction in its
 > American form simply takes the photographic negative of that and declares any
@@ -80,7 +80,7 @@ just from the opposite ideological direction.
 > that attitude lands it squarely in nihilism, whereas the study of nested truths leads
 > not to nihilism but to Emptiness, the creative plenum of the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects" (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (footnote)
 
 ## See Also
 

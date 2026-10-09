@@ -34,27 +34,27 @@ takes the underlying complexity/consciousness correlation seriously.
 > As for Teilhard de Chardin, he put it very simply: "The within, consciousness,
 > spontaneity—three expressions for the same thing."
 >
-> — Teilhard de Chardin, quoted in *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — Teilhard de Chardin, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > Teilhard expressed this in his "law of complexity and consciousness"—namely, the more
 > of the former, the more of the latter. Since... evolution tends in the direction of
 > greater complexity, it amounts to the same thing to say that it tends in the direction
 > of greater consciousness (again, depth = consciousness).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > Many mystically inclined writers have made this assumption; it does make a certain
 > amount of first-blush sense. From the "Aquarian Conspiracy" to Teilhard's "final
 > Omega-point," from the dawn of a "New Age" to "Timewave Zero"—the millenarian End of
 > History has been exuberantly announced.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Untenable Ranking"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Untenable Ranking"
 
 > And most people are familiar with Teilhard de Chardin's ultimate omega point, the
 > resurrection of Christ consciousness in each and all, which, like all omega points, is
 > maintained to be the purpose of history and evolution itself.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 ## See Also
 

@@ -51,13 +51,13 @@ just as easily run that ranking the other way.
 > "No more myths!" was the philosophical battle cry of an entire age, and it soon came
 > to be summarized in Nietzsche's famous dictum, "God is dead."
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > And my conclusion will be that in throwing out a prerational, anthropomorphic, mythic
 > God figure, the "modern West" also tossed out any transrational, nonanthropomorphic,
 > superconscient Godhead. Gone was a mass of bathwater; gone too a precious baby.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > The brilliance of this scheme is that it takes a prerational myth (literal) and
 > reworks it at both a rational (ethical) and a transrational (mystical) level, so that
@@ -65,12 +65,12 @@ just as easily run that ranking the other way.
 > regardless of how its originators actually meant it... The myth is thoroughly
 > preserved—and utterly negated.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > Are we, quipped Thomas Paine, "to suppose that every world in the boundless creation
 > had an Eve, an apple, a serpent, and a Redeemer?"
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > But with the rejection by modernity of the Ascendent God in virtually *any* form,
 > there was only the Descended God left, the God of a marvelous and creative nature, a
@@ -79,12 +79,12 @@ just as easily run that ranking the other way.
 > that of the Good and the One: God in any form was pronounced dead, and nature alone
 > alive.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > Reason, in reaction to myth, thus chose to look almost exclusively downward, and in
 > that withering glance, the modern Western world was born.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 ## See Also
 

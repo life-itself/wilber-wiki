@@ -49,7 +49,7 @@ chapter's case for the within of holons]], not by this one.
 > same analysis as they apply to the surfaces, because they are trying to be empirical,
 > and this produces some very unpleasant results.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > But none of the twenty tenets—as crucially important as they are—describes
 > specifically what is happening in B and C... The B and C qualities and functions and
@@ -59,7 +59,7 @@ chapter's case for the within of holons]], not by this one.
 > Oedipus complex, or why pride can be wounded, or what honor means, or whether life is
 > worth living.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > ...the twenty tenets—by which I mean dynamic systems theory in general—are the *most
 > fundamental* tenets of *all* of development, and therefore the *least* interesting,
@@ -67,24 +67,24 @@ chapter's case for the within of holons]], not by this one.
 > gets into systems theory that, to borrow a line from Swift, does not also cover the
 > weakest noodle.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > And the weakest noodles, the lowest holons, have the *least* depth, the *least*
 > interiority, the *least* consciousness—so that a science of *that* is correspondingly
 > a weakest noodle science. It is a science of surfaces.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > ...one finds a very rich and impressive setting forth of something like the twenty
 > tenets, and a rich application of them to the physiosphere and somewhat to the
 > biosphere, but then the presentation, as it really explores the biosphere and then
 > gets into the noosphere, becomes pale and anemic and thins out very quickly.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > It takes more than imagination; it takes hallucination.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## See Also
 

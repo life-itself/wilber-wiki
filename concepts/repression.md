@@ -44,7 +44,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > transcendence, but images are tied to their sensory referents. With "no" I can for the
 > first time decline to act on my bodily impulses or on your desires.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 > But "no!" can go too far, and therein lies all the horrors of the noosphere. For if it
@@ -54,7 +54,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > represses the body, represses its sensuality, represses its sexuality, represses its
 > rich roots in the biosphere.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 > Every neurosis, in other words, is a miniature ecological crisis. It is a refusal to
@@ -62,7 +62,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > reproductive life, sensuous life, libidinal life, biospheric life. It is a denial of
 > our roots and our foundation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 > Rather, the repressed holons return in disguised forms known as "neurotic
@@ -70,7 +70,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > ignored, a biosphere now forcing itself into consciousness in hidden forms, attempts to
 > throw the noosphere off its back.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 > Thus, if remaining *stuck* in the biosphere results in the borderline/narcissistic
@@ -78,7 +78,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > in the psychoneuroses. It follows that our present-day worldwide ecological crisis is,
 > in the very strictest sense of the term, a worldwide collective neurosis.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 > This crisis, I repeat, is in no way going to "destroy the biosphere"—the biosphere
@@ -86,7 +86,7 @@ diagnosis-by-analogy than as an argument with independent evidence of its own.
 > what we do to it... It is not a destruction of the biosphere but a *denial* of the
 > biosphere, and *that* is the precise definition of psychoneurosis.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond" (section
 > "Repression")
 
 ## See Also

@@ -51,7 +51,7 @@ throughout the book.
 > of shared interior meanings that constitute the worldview (or common worldspace) of
 > collective or communal holons.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > There are important truths in both the Left- and Right-Hand approaches, and both are
 > required for a balanced or "all-quadrant" view. My position is that every holon has
@@ -60,7 +60,7 @@ throughout the book.
 > cultural, and social settings. No holon simply exists in one of the four quadrants;
 > each holon has four quadrants.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > What these systems and "holistic" theorists don't seem to understand is that while
 > they have indeed avoided gross reductionism—and for that are to be highly praised—they
@@ -69,7 +69,7 @@ throughout the book.
 > Right-Hand description in the "system." They reduce a four-quadrant holism (or Kosmic
 > holism) to merely a Right-Hand holism, a flatland holism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 > For example, I have a thought; a thought occurs to me. That's the given holon, which we
 > will use as an example. ... the point of this overall example is simply that my
@@ -78,7 +78,7 @@ throughout the book.
 > social), each with its own validity claims (subjective truthfulness, objective truth,
 > intersubjective justness, and interobjective functional fit).
 >
-> — *Sex, Ecology, Spirituality*, ch. 4, "A View from Within"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4, "A View from Within"
 
 ## In *Integral Psychology*
 
@@ -90,7 +90,7 @@ sitting side by side.
 > say that culture and consciousness coevolve. All four of those "tetra-evolve"
 > together.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 > ...the objective organism (the Upper-Right quadrant), with its DNA, its neuronal
 > pathways, its brain systems, and its behavioral patterns, mutually interacts with the
@@ -100,7 +100,7 @@ sitting side by side.
 > the intersubjective culture (Lower Left) in which it finds itself, and which it in
 > turn helps to create, so that these, too, coevolve.
 >
-> — *Integral Psychology*, ch. 14
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
 
 ## See Also
 

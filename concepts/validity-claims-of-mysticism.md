@@ -53,14 +53,14 @@ structure/surface structure move made in the very next section (see
 > sure enough, rain. But perhaps I am mistaken, or perhaps my eyesight is poor. Would
 > you check? You go to the window and yes, rain.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The first is *injunction*, which is always of the form, "If you want to know this, do
 > this."... The various *injunctions*... lead to or disclose or open up the possibility
 > of an illumination, an apprehension, an intuition, or a direct experiencing of the
 > domain addressed by the injunction.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > But you could be mistaken, and thus you check your results, your data, with others
 > who have completed the first two strands, with others who have performed the
@@ -68,33 +68,33 @@ structure/surface structure move made in the very next section (see
 > confirm—or reject—your original data. And this is the third strand, *communal
 > confirmation* (or refutation).
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > All of this ignored Kuhn's repeated insistence that "later scientific theories are
 > better than earlier ones for solving puzzles in the quite often different
 > environments to which they are applied. This is not a relativist's position, and it
 > displays the sense in which I am a convinced believer in scientific progress."
 >
-> — Kuhn, quoted in *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human
+> — Kuhn, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human
 > Nature"
 
 > These injunctions (*zazen*, *shikan*-*taza*, *vipassana*, contemplative
 > introspection, *satsang*, *darshan*—all of which we will discuss)—these are not
 > things to think, they are things to do.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > These data are rigorously checked (strand three) in the community of those who have
 > also completed the first two strands (injunction and illumination). Bad data are
 > *rebuffed* by the community (the sangha) of those whose cognitive eyes are adequate to
 > the addressed domain.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Accordingly, contemplative knowledge is, or can be, genuine knowledge, because it
 > follows all three strands of valid knowledge accumulation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 ## See Also
 

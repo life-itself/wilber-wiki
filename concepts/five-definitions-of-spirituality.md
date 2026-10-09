@@ -51,24 +51,24 @@ his own stage model.
 > (4) Spirituality is an attitude (such as openness or love) that you can have at
 > whatever stage you are at. (5) Spirituality basically involves peak experiences, not
 > stages.
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 > In this usage, spirituality (or this particular aspect of spirituality) definitely
 > follows a sequential or stage-like course, because it is, by definition, the
 > post-postconventional stages in any of the developmental streams.
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 > Spirituality is itself a separate developmental line. Obviously in this case
 > spiritual development would show some sort of stage-like unfolding, since a
 > developmental line, by definition, shows development.
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 > We can't easily say that the requisite attitude is love, because love, according to
 > most research, tends (like other affects) to unfold from egocentric to sociocentric
 > to worldcentric modes; and therefore this attitude is not fully present at all of the
 > levels, but rather itself develops (do we really want to call egocentric love
 > "spiritual"?).
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 > Moreover, states, unlike structures, are mostly incompatible. You cannot be drunk and
 > sober at the same time. (This is quite unlike structures, which, because they
@@ -76,13 +76,13 @@ his own stage model.
 > one embracing the other—which is why growth and development occur by way of
 > structures, not states, although the latter are significant in themselves and can
 > have a direct impact on development.)
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 > Those are five of the more common definitions of spirituality. The conclusion: not
 > everything that we can legitimately call "spirituality" shows stage-like development.
 > Nonetheless, many aspects of spirituality turn out, upon closer inspection, to
 > involve one or more aspects that are developmental.
-— *Integral Psychology*, ch. 10
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
 
 ## See Also
 

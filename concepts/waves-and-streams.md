@@ -48,7 +48,7 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > of these levels of consciousness, the fact that they interpenetrate and overlap (like
 > colors in a rainbow) and are not rigid rungs in a ladder.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond"
 
 > *Streams* are the various developmental lines (such as cognitive, moral, psychosexual,
 > affective, interpersonal, spiritual, and so on) that develop relatively independently
@@ -56,7 +56,7 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > high level of development cognitively, a medium level emotionally, and a low level
 > morally; development, in other words, is anything but a linear, step-by-step affair).
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond"
 
 > *States* refers to altered states of consciousness (such as peak experiences), which
 > are brief, temporary, but often powerful experiences, especially of the transpersonal
@@ -66,7 +66,7 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > self-system that navigates the waves, streams, and states as it makes its way through
 > the great River of Life.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond"
 
 > Waves and streams—or levels and lines—are operative in all four quadrants. They are
 > simply the grades and clades of evolution—the levels of holons and the lines of
@@ -74,7 +74,7 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > independent fashion, but the point is that any holon in any line has correlates at the
 > same level in all the other quadrants ("same-level relationship").
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond"
 
 > The major inadequacy of Piaget's system, most scholars now agree, is that Piaget
 > suggested that cognitive development (conceived as logico-mathematical competence) is
@@ -82,7 +82,7 @@ rest of the chapter rather than settled at the point this vocabulary is introduc
 > cognitive... In my model, for example, the cognitive line is merely one of some
 > two-dozen developmental lines, none of which, as lines, can claim preeminence.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Myth, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Myth, and Beyond"
 
 ## In *Integral Psychology*
 
@@ -101,13 +101,13 @@ phenomenon rather than picking one.
 > emphasizes the fact that these levels are not rigidly separate and isolated, but, like
 > the colors of a rainbow, infinitely shade and grade into each other.
 >
-> — *Integral Psychology*, ch. 1
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 > ...these basic levels are holons of consciousness. A holon is a whole that is part of
 > other wholes. For example, a whole atom is part of a whole molecule, a whole molecule
 > is part of a whole cell, a whole cell is part of a whole organism, and so on.
 >
-> — *Integral Psychology*, ch. 1
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 > There is nothing linear or rigid about these various waves. As we will abundantly see,
 > individual development through the various waves of consciousness is a very fluid and
@@ -116,7 +116,7 @@ phenomenon rather than picking one.
 > individual's own being can be at different waves. Overall development is a very messy
 > affair!
 >
-> — *Integral Psychology*, ch. 1
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 > Each senior dimension in the Great Nest—from matter to body to mind to soul to
 > spirit—transcends and includes its juniors, so that living bodies transcend but
@@ -124,7 +124,7 @@ phenomenon rather than picking one.
 > but include conceptual minds, and radiant spirit transcends and includes absolutely
 > everything.
 >
-> — *Integral Psychology*, ch. 1
+> — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
 
 ## See Also
 

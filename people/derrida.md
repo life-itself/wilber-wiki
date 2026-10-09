@@ -41,7 +41,7 @@ real insight about context into outright nihilism.
 > in the first place, and in one sense these entities do not exist prior to the
 > differentiating process per se.
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > This is why Jonathan Culler, perhaps the foremost interpreter of Jacques Derrida's
 > deconstruction, can point out that Derrida does *not* deny truth per se, but only
@@ -50,7 +50,7 @@ real insight about context into outright nihilism.
 > says Culler, "identify deconstruction with the twin principles of the *contextual
 > determination of meaning* and the *infinite extendability of context*."
 >
-> — *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > The play of differences involves syntheses and referrals which prevent there from
 > being at any moment or in any way a simple element which is *present* in and of itself
@@ -58,7 +58,7 @@ real insight about context into outright nihilism.
 > with reference to the trace in it of the other elements of the system. Nothing, in
 > either the elements or the system, is anywhere ever simply present or absent.
 >
-> — Derrida, quoted in *Sex, Ecology, Spirituality*, ch. 2, "The Pattern That Connects"
+> — Derrida, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects"
 
 > The deconstructionists have picked up certain of these lines of thought (mostly from
 > Hegel, whom Derrida uncharacteristically treats with much respect), but after Bradley
@@ -66,7 +66,7 @@ real insight about context into outright nihilism.
 > they almost always miss the punch line: if you don't want to be a complete
 > self-contradiction, then you must rest in infinity.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God"
 
 > The study of holarchy, in short, is the study of nested truths. Deconstruction in its
 > American form simply takes the photographic negative of that and declares any approach
@@ -74,7 +74,7 @@ real insight about context into outright nihilism.
 > attitude lands it squarely in nihilism, whereas the study of nested truths leads not to
 > nihilism but to Emptiness, the creative plenum of the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, footnote to ch. 2
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), footnote to ch. 2
 
 ## See Also
 

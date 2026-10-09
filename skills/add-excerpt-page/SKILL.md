@@ -64,9 +64,14 @@ Reference implementations: `concepts/holons.md`, `people/habermas.md`.
   attribution line, done.
 - **No per-excerpt heading.** The surrounding synthesis prose already gives context.
 - **3-8 quotes per page** is the normal range. More is fine if the material supports it.
+- **Link the work title in the attribution** to its public `works/` page:
+  `— [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4`.
+  Never link to the `library/` full text — production excludes it. The verification
+  script fails any attribution that names a known work without this link (add new
+  works to its `WORK_TITLES` map).
 - **Cite the actual chapter**, not the Book/Part title ("Book 1" spans chapters 1-8 —
   don't use it as a chapter citation). If a quote is from an endnote rather than the main
-  text, say so: `— *Sex, Ecology, Spirituality*, ch. 9 (footnote)`.
+  text, say so: `— [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9 (footnote)`.
 - **Ellipsis marks any elision.** If you're skipping text mid-quote or joining two
   non-adjacent passages, mark it with `...` — silently smoothing a join, or silently
   swapping the source's actual trailing punctuation for a period to make an excerpt read

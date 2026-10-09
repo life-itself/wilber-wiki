@@ -52,7 +52,7 @@ Psychic, Subtle, Causal, and Nondual]] for that payoff.
 > into the theosphere, into the transpersonal domains, the domains not just of the
 > self-conscious but of the superconscious.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Their teachings, and their contemplative endeavors, were (and are) transrational
 > through and through. That is, although all of the contemplative traditions aim at
@@ -61,7 +61,7 @@ Psychic, Subtle, Causal, and Nondual]] for that payoff.
 > *experimental* methods, that truth is to be *tested* in the laboratory of personal
 > *experience*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The most typical objection is that these mystical states are private and interior and
 > cannot be publicly validated; they are "merely subjective." This is simply not true;
@@ -69,7 +69,7 @@ Psychic, Subtle, Causal, and Nondual]] for that payoff.
 > mathematics to literature to linguistics to psychoanalysis to historical
 > interpretation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature" (section
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature" (section
 > "Objections to the Transpersonal")
 
 > The various *injunctions*, in other words, lead to or disclose or open up the
@@ -78,20 +78,20 @@ Psychic, Subtle, Causal, and Nondual]] for that payoff.
 > check your results, your data, with others who have completed the first two
 > strands... And this is the third strand, *communal confirmation* (or refutation).
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The contemplative traditions, on the other hand, have always come first and foremost
 > with a set of injunctions in hand. They are, above all else, a set of *practices*,
 > practices that require years to master.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > ...the deep structures of worldspaces (archaic, magic, mythic, rational, and
 > transpersonal) show cross-cultural and largely invariant features at a deep level of
 > abstraction, whereas the surface structures... are naturally and appropriately quite
 > different from culture to culture.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 ## See Also
 

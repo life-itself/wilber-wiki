@@ -56,14 +56,14 @@ does not really engage.
 > lovely as it might appear to us jaded moderns, was not an integration of the biosphere
 > and the noosphere, because these had not yet been differentiated in the first place.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > *Lack of capacity* to devastate the environment on a large scale does not
 > automatically mean *presence of wisdom*, let alone reverence for the environment. And,
 > in fact, many tribes, as Lenski points out, simply remained at one location until they
 > had ecologically depleted the area, and then were forced to move on.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 Wilber's key witnesses are writers otherwise committed to "primal/tribal wisdom." Roszak
 concedes that
@@ -74,20 +74,20 @@ concedes that
 > sense of nature did not offset their ignorance of the long-range damage they were doing
 > to their habitat.
 >
-> — Theodore Roszak, *The Voice of the Earth*, quoted in *Sex, Ecology, Spirituality*,
+> — Theodore Roszak, *The Voice of the Earth*, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md),
 > ch. 5, "The Emergence of Human Nature"
 
 > The correct conclusion, in other words, is that the primal/tribal structure *in itself*
 > did *not* necessarily possess ecological wisdom, it simply *lacked the means* to inflict
 > its ignorance on larger portions of the global commons.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 > The main difference between tribal and modern eco-devastation is not presence or lack of
 > wisdom, but presence of more dangerous means, where the *same* ignorance can now be
 > played out on a devastating scale.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5, "The Emergence of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5, "The Emergence of Human Nature"
 
 Returning to Roszak at length in Book Two, Wilber reads the whole Eco-Romantic project as
 caught in a self-contradiction — it needs the primal state to be both parochial and
@@ -98,14 +98,14 @@ universally wise at once:
 > of universal ecological wisdom, so he must figure out a way to eulogize the primal
 > undifferentiated state and distance himself from it at the same time.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > But since the primal structure (phylo and onto) contained neither *inherent* ecological
 > wisdom (as he clearly demonstrates) *nor* a worldcentric/global orientation (as he also
 > demonstrates), what exactly is it that we are supposed to recapture? The special form of
 > primal ignorance?
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 ## See Also
 

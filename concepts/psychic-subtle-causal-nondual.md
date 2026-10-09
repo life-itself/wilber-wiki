@@ -48,7 +48,7 @@ tradition would likely push back on.
 > substages... These four stages I call the *psychic*, the *subtle*, the *causal*, and
 > the *nondual*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The word *transpersonal* is somewhat awkward and confuses many people. But the point
 > is simply, as Emerson put it, "*The soul knows no persons*."... "Impersonal," however,
@@ -56,7 +56,7 @@ tradition would likely push back on.
 > whereas in higher development the personal is negated and preserved, or transcended
 > and included: hence, "transpersonal."
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Depths of the Divine"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
 
 > At the subtle level, this process of "interiorization" or "within-and-beyond"
 > intensifies—a new transcendence with a new depth, a new embrace, a higher
@@ -65,14 +65,14 @@ tradition would likely push back on.
 > *prior* to any of its manifestations as matter or life or mind... Nature-nation
 > mysticism gives way to Deity mysticism.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Depths of the Divine"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
 
 > In the subtle level, the Soul and God unite; in the causal level, the Soul and God are
 > both transcended in the prior identity of Godhead, or pure formless awareness, pure
 > consciousness as such, the pure Self as pure Spirit (Atman = Brahman). No longer the
 > "Supreme Union" of God and Soul, but the "Supreme Identity" of Godhead.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Depths of the Divine"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
 
 > Going *within* and *beyond* even this pure Source and pure Spirit—which is totally
 > formless, boundless, unmanifest—the Self/Spirit awakens to an identity with, and as,
@@ -80,13 +80,13 @@ tradition would likely push back on.
 > their Source, not their Summit—but rather the Ground or Suchness or Isness of *all*
 > stages, at all times, in all dimensions... And that is the *Nondual*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Depths of the Divine"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
 
 > The Godhead *completely transcends* all worlds and thus *completely includes* all
 > worlds. It is the final within, leading to a final beyond—a beyond that, confined to
 > absolutely *nothing*, embraces absolutely *everything*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, "The Depths of the Divine"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
 
 ## See Also
 

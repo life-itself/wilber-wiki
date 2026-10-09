@@ -44,13 +44,13 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 > *consciousness*... Spinoza uses "cognition" for knowing an event "from the inside" and
 > "extension" (or matter) for knowing the same event "from the outside."
 >
-> — *Sex, Ecology, Spirituality*, ch. 4
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 4
 
 > ...**the pantheism of Spinoza (who regarded himself as a good Cartesian)**, seeing mind and
 > matter as two parallel attributes of God that *never* interacted (which he assumed
 > took care of *that* problem).
 >
-> — *Sex, Ecology, Spirituality*, ch. 1
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 1
 
 > And by the end of the eighteenth century, this tension—between the Ego and the Eco,
 > and in its extreme forms, between pure Ascent and pure Descent—this tension had become
@@ -59,7 +59,7 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 > two-thousand-year-old schizoid God that had dominated Western culture virtually from
 > its inception.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > The Eco camps, on the other hand, all had recourse to Spinoza, suitably interpreted
 > for their purposes (this recourse to Spinoza is still quite common in ecomasculinist
@@ -67,7 +67,7 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 > *Substance* (or infinite and Absolute Object, as Fichte stood for infinite and
 > Absolute Subject).
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > Spinoza maintained that Spirit is radically other to this world, and yet totally and
 > completely embraces this world as a logical premise embraces all its consequents...
@@ -77,7 +77,7 @@ transcendence-*and*-immanence position than the simple "pantheist" label usually
 > which is infinitely transcendental, and nature (as this world, *natura naturata*),
 > which is merely immanent.
 >
-> — *Sex, Ecology, Spirituality*, ch. 8, endnote
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, endnote
 
 ## See Also
 

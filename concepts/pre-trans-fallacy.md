@@ -45,7 +45,7 @@ confusion so easy to fall into.
 > since both prerational states and transrational states are, in their own ways,
 > nonrational, they appear similar or even identical to the untutored eye.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Mythic, and Beyond"
 
 > **Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.**
 > And the point is that they are both half right and half wrong. A good deal of neurosis
@@ -53,7 +53,7 @@ confusion so easy to fall into.
 > glorified. On the other hand, mystical states do indeed exist, beyond (not beneath)
 > rationality, and those states are not to be reduced.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Mythic, and Beyond"
 
 > And here Campbell commits the classic pre/trans fallacy. Since the prerational realms
 > are definitely mythological, then Campbell wants to call the transrational realms
@@ -62,7 +62,7 @@ confusion so easy to fall into.
 > contemplative encounters), and on the other side—the "bad" side—he dumps poor reason,
 > even as he himself is in fact... using the space of reason to salvage his myths.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6, "Magic, Mythic, and Beyond"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6, "Magic, Mythic, and Beyond"
 
 > ...in order to embrace Nature, the great Web of Life, they often recommended a simple
 > return to nature (or preconventional sensory awareness). Not a transcendence from
@@ -70,7 +70,7 @@ confusion so easy to fall into.
 > direction. Under a pre/trans fallacy and the pull of flatland, they confused
 > postconventional spirit with preconventional nature.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > This is why the work of such theorists as Jack Engler is so important... "You have to
 > be somebody before you can be nobody." That is, it is necessary to form a stable,
@@ -78,7 +78,7 @@ confusion so easy to fall into.
 > Condemning the ego for not being Emptiness is like condemning an acorn for not being an
 > oak.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14, "The Unpacking of God" (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14, "The Unpacking of God" (footnote)
 
 ## See Also
 

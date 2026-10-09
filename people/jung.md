@@ -44,13 +44,13 @@ it.
 > are not to be glorified. On the other hand, mystical states do indeed exist, beyond
 > (not beneath) rationality, and those states are not to be reduced.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > Jung and his followers, of course, often take this route, and are forced to read a
 > deeply transpersonal and spiritual status into states that are merely indissociated
 > and undifferentiated and actually lacking any sort of integration at all.
 >
-> — *Sex, Ecology, Spirituality*, ch. 5
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 5
 
 > This directly brings us... to the work of Carl Jung and his conclusion that the
 > essential forms and motifs of the world's great mythologies—the "archaic forms" or
@@ -58,7 +58,7 @@ it.
 > not often realized that Freud was in complete agreement with Jung about the existence
 > of this archaic heritage.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > But as for the images and symbols and early concepts themselves, as for these
 > "archetypes," they lie in the direction of downward, not upward (shallower, not
@@ -67,20 +67,20 @@ it.
 > themselves." ... And proceeding in the *direction* of the archetypes we therefore
 > eventually run into, not Spirit, but atoms.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > Jung: "The deeper layers of the psyche lose their individual uniqueness as they
 > retreat farther and farther into darkness. 'Lower down' they become increasingly
 > extinguished in the body's materiality, i.e., in chemical substances."
 >
-> — Jung, quoted in *Sex, Ecology, Spirituality*, ch. 6
+> — Jung, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 > And this, I believe, is behind Jung's dual stance toward the archetypes: it is
 > altogether necessary to contact and befriend them, but it is finally necessary to
 > *differentiate* and *individuate* from them, break them of their power over us. In
 > other words, befriend the images, rob them of their worldview.
 >
-> — *Sex, Ecology, Spirituality*, ch. 6
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 6
 
 ## See Also
 

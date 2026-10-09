@@ -48,7 +48,7 @@ reasoning as the case for that premise rather than independent argument of his o
 > Summit—and *present* throughout the entire ascending or developmental process as telos
 > (Eros), as the self-organizing and self-transcending drive of the *whole process*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > Whatever else we might say, the world does hang together, and evolution does have a
 > direction: Eros as Spirit-in-action. Thus, both Schelling and Hegel would maintain that
@@ -56,7 +56,7 @@ reasoning as the case for that premise rather than independent argument of his o
 > Spirit, manifested in a series of increasing wholes and integrations (holons) that
 > express increasing degrees of Spirit's own *self*-*realization* or *self*-*actualization*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > Thus the whole of nature Schelling refers to as "slumbering Spirit." Moreover, nature
 > is not a mere inert and instrumental backdrop for mind. Rather, nature is a
@@ -64,27 +64,27 @@ reasoning as the case for that premise rather than independent argument of his o
 > But it is, says Schelling, Spirit *slumbering* because Spirit has not yet become
 > self-conscious.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > ...it is here, he says, that mind and nature can seem to drift apart, to be totally
 > unrelated, to stare blankly and uncomprehendingly across the subject/object dualism at
 > the alien beings on each side of the divide. The Ego and the Eco.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > Thus, for both Schelling and Hegel, Spirit goes out of itself to produce objective
 > nature, awakens to itself in subjective mind, and then recovers itself in pure Nondual
 > perception, where subject and object are one pure act of nondual awareness that
 > unifies both nature and mind in realized Spirit.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > This is a truly stunning vision, a profound integration of Ego-mind and Eco-nature, of
 > Spirit descending into even the lowest state and ascending back to itself, with Spirit
 > nonetheless *fully present at each and every stage* as the *process* of its own
 > self-realization and self-actualization.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 ## See Also
 

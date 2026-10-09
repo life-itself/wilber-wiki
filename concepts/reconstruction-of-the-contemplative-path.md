@@ -49,7 +49,7 @@ research program.
 > surface structures) would be expected to show cross-cultural similarities at the
 > various levels of depth created/disclosed by the meditative injunctions and paradigms.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Just as the human mind universally grows images and symbols and concepts (even
 > though the actual contents of those structures vary considerably), so the human
@@ -57,14 +57,14 @@ research program.
 > signifieds* unfold in an evolutionary and reconstructible fashion, just like any
 > other holon in the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > In the past few decades there has been a concerted effort on the part of many
 > researchers... to rationally reconstruct the higher stages of transpersonal or
 > contemplative development—stages that continue naturally or normally beyond the ego
 > and centaur if arrest or fixation does not occur.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The major [contemplative] traditions we have studied in their original languages
 > present an unfolding of meditation experience in terms of a *stage model*: for
@@ -74,14 +74,14 @@ research program.
 > sequence of stages*, despite vast cultural and linguistic differences as well as
 > styles of practice.
 >
-> — Brown and Engler, quoted in *Sex, Ecology, Spirituality*, ch. 7, "The Farther
+> — Brown and Engler, quoted in [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther
 > Reaches of Human Nature"
 
 > ...each possesses a deep structure (basic defining pattern) that is culturally
 > invariant but with surface structures (manifestations) that are culturally
 > conditioned and molded; and each has a new and higher form of possible pathology.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 ## See Also
 

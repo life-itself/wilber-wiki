@@ -49,14 +49,14 @@ synthesis rather than uncontested fact.
 > first is experienced as an "I," the second as a "me" (or even "mine"). I call the
 > first the proximate self (since it is closer to "you"), and the second the distal
 > self (since it is objective and "farther away").
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 > ...the "I" of one stage becomes a "me" at the next. That is, what you are identified
 > with (or embedded in) at one stage of development (and what you therefore experience
 > very intimately as an "I") tends to become transcended, or disidentified with, or
 > de-embedded at the next, so you can see it more objectively, with some distance and
 > detachment. In other words, the subject of one stage becomes an object of the next.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 > ...a young infant is identified almost solely with its body—the body is the
 > infant's self or subject (the proximate I), and thus the infant cannot really stand
@@ -67,18 +67,18 @@ synthesis rather than uncontested fact.
 > see its body objectively (as a distal object or "me")—the body is now an object of
 > the new subject, the mental self. Thus, the subject of one stage becomes an object of
 > the next.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 > These major milestones of self development have been investigated by researchers
 > such as James Mark Baldwin, Clare Graves, Jane Loevinger, John Broughton, Erik
 > Erikson, Susanne Cook-Greuter, Don Beck, and Robert Kegan, to name a prominent few,
 > all of whom are represented on the charts.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 > ...the self as navigator is a juggling act of all of the elements that it will
 > encounter on its extraordinary journey from subconscious to self-conscious to
 > superconscious—a journey we will soon follow in detail.
-— *Integral Psychology*, ch. 3
+— [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 3
 
 ## See Also
 

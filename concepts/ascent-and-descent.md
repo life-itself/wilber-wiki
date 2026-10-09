@@ -37,19 +37,19 @@ reading in detail).
 > unspoken Word, that integrates both Ascent and Descent and finds Spirit both transcending
 > the Many and embracing the Many.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > All Truth, all Goodness, all Beauty was to be found, finally and fully, only in the
 > contemplative absorption in the eternal and unspoken One.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > We can therefore summarize Plato's overall position in words that would apply to any
 > Nondual stance wherever it appears (as we have already seen it apply to Eckhart and
 > Ramana): flee the Many, find the One; having found the One, embrace the Many as the
 > One.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > The Platonic and Neoplatonic traditions (and similar Nondual traditions in the East)
 > therefore maintained that the "Good" or Perfect One is expressed in and as the
@@ -57,12 +57,12 @@ reading in detail).
 > important... The path of Ascent is the path of the Good; the path of Descent is the
 > path of Goodness.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > ...the Many returning to and embracing the One is Good, and is known as wisdom; the One
 > returning to and embracing the Many is Goodness, and is known as compassion.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > Wisdom knows that behind the Many is the One. Wisdom sees through the confusion of
 > shifting shapes and passing forms to the groundless Ground of all being... But if
@@ -71,7 +71,7 @@ reading in detail).
 > compassion and care, not in any condescending fashion, but rather because each being,
 > exactly as it is, is a perfect manifestation of Spirit.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 ## See Also
 

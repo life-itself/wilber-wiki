@@ -49,7 +49,7 @@ narrative allows.
 > Efflux or Plenitude, which was only *half* of the equation, but which may be
 > summarized in the modern phrase "Biodiversity is good."
 >
-> — *Sex, Ecology, Spirituality*, ch. 10
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10
 
 > Lovejoy demonstrates that wherever the Descending current was acknowledged—under the
 > general name of the principle of Plenitude—it was always of the form: the Goodness of
@@ -57,12 +57,12 @@ narrative allows.
 > greater the Goodness*. Maximization of diversity is, so to speak, what Plenitude
 > seeks.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10
 
 > And the central point of this Great Holarchy or Great Chain of (Apparent) Being was
 > summarized in the phrase: *there are no gaps in nature*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 10
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 10
 
 > Lovejoy demonstrates, quite convincingly I think, that many of the "scientific
 > discoveries" from the Renaissance to the Enlightenment were not originally empirical
@@ -71,24 +71,24 @@ narrative allows.
 > Plenitude: nature is graded in a holarchy of being, and there are no missing links
 > *anywhere*.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 > "The change from a geocentric to a heliocentric system was far less momentous than
 > the change from a heliocentric to an acentric one."
 >
-> — *Sex, Ecology, Spirituality*, ch. 11 (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11 (footnote)
 
 > "Every discovery of a new form could be regarded, not as the disclosure of an
 > additional unrelated fact in nature, but as a step toward the completion of a
 > systematic structure of which the general plan was known in advance."
 >
-> — *Sex, Ecology, Spirituality*, ch. 11 (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11 (footnote)
 
 > The doctrine of Plenitude as a research agenda: there was the Descending God of
 > Infinite Efflux released from its confinement in the Middle Ages and set loose with
 > all its delight in glorious diversity.
 >
-> — *Sex, Ecology, Spirituality*, ch. 11
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11
 
 ## See Also
 

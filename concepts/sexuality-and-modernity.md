@@ -46,42 +46,42 @@ collapsing into one.
 > repression of sexuality (although he does not deny that happened) as by an
 > *obsession* with sexuality.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > "Never, it seems, had so much attention been focused on every aspect of the body and
 > every dimension of its sexuality. Sex became the object of a major investment of
 > signification, of power, and of knowledge."
 >
-> — *Sex, Ecology, Spirituality*, ch. 13 (Wilber quoting Foucault)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13 (Wilber quoting Foucault)
 
 > If nature is the fundamental and in many respects the final reality (according to the
 > reflective Ego) and nature is the source of deep, ultimate, and often hidden truths
 > (according to the Eco), then how better to unite them than in the belief that
 > *sexuality holds the secret to human personality*?
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > The Tao reduced to the id: there is only the most notorious example of the collapse
 > of the Kosmos into a flatland mononature, with sexuality the new and virtually sole
 > (or certainly "most important") drive of the flatland world.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > Approaches such as the Freudian were called "depth psychology" precisely as a
 > *misnomer*: it was actually "shallow psychology."
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > ...the obsession with sexuality was not an escape from modernity but a mark of
 > modernity.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 > In short, when monological thought became God, sex became God's obsession. And when
 > monological thought likewise converted nature into God, sex became the key to human
 > liberation and salvation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13
 
 ## See Also
 

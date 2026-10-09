@@ -45,7 +45,7 @@ there as potential all along, not a private fabrication of the individual mind.
 > top—both arcs traversing the *same dimensions*—which is why, as we will see, "The way up
 > is the way down."
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down"
 
 > Some readers felt that this made the universe completely deterministic and fated. But
 > involution, in my opinion, simply creates a vast field of potentials, which are not
@@ -53,14 +53,14 @@ there as potential all along, not a private fabrication of the individual mind.
 > depending on an almost infinite number of variables, from individual initiative to
 > random chance... evolution is playfully creative at every point!
 >
-> — *Sex, Ecology, Spirituality*, Preface to the Second Edition
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), Preface to the Second Edition
 
 > Moving upward from the center (matter, the most fundamental) is the process of
 > evolution (Reflux or Ascent, driven by Eros), and moving downward from spirit (the
 > most significant) is involution (Efflux or Descent, driven by Agape). Each senior
 > level is an emergent, marked by properties not found in its juniors.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > ...in Plotinus's view, in evolution or Reflux, if we represent the lowest level as A, the
 > next level up is A + B, the next is A + B + C, and so on. But in involution or efflux,
@@ -69,7 +69,7 @@ there as potential all along, not a private fabrication of the individual mind.
 > stepping-down from the ground of its predecessor. This is why Plotinus says that
 > efflux (involution) is to be "understood in minuses."
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down" (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down" (footnote)
 
 > Mystical experiences... share at least a broad similarity wherever they occur... and
 > when they do occur, virtually all of them carry the overwhelming conviction that one
@@ -79,7 +79,7 @@ there as potential all along, not a private fabrication of the individual mind.
 > extremely fundamental sense existed prior to its recognition: it was there all along,
 > just not seen.
 >
-> — *Sex, Ecology, Spirituality*, ch. 9, "The Way Up Is the Way Down" (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 9, "The Way Up Is the Way Down" (footnote)
 
 ## See Also
 

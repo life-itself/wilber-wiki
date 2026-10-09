@@ -50,40 +50,40 @@ cause.
 > the Eco both taken up, preserved and negated, honored and released, in
 > all-encompassing Spirit. The true heirs of Plotinus.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > And although the great Idealist movement finally failed, its enduring contributions
 > will, I believe, be part of any graceful unpacking of spiritual intuition for the
 > modern and postmodern world.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > For the moment, I think we could fairly summarize the thrust of the Idealist movement
 > as: *an intuition of the transpersonal domain expressed in vision*-*logic*. And there
 > was both its great strength and its fatal weakness.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > The first was a failure to develop any truly *injunctive practices*—that is, any true
 > paradigms, any reproducible exemplars. Put differently: no yoga, no contemplative
 > practices, no meditative paradigms, no experimental methodology to reproduce in
 > consciousness the transpersonal insights of its founders.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > This completely undercut any sort of idealist or spiritual view of evolution or
 > manifestation in general. The first floor of the magnificent Idealist edifice
 > crumbled, and the higher floors almost immediately followed suit (Idealism would
 > survive in any viable form no more than a few decades after Hegel's death).
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 > The net effect of the utter collapse of this noble attempt to escape the Cave was
 > that, once again, Ascent was looked upon very suspiciously... The collapse of
 > Idealism left the Descenders virtually unchallenged as the holders and molders of
 > modernity.
 >
-> — *Sex, Ecology, Spirituality*, ch. 14
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 14
 
 ## See Also
 

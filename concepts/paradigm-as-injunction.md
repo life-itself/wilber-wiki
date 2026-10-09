@@ -56,35 +56,35 @@ three-strand argument set out in [[validity-claims-of-mysticism]].
 
 > Put simply, the first strand of knowledge accumulation is never simply "Look"; it is "Do this, then look."
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Kuhn called such an agreed-upon injunction an "exemplar" or a "paradigm"—an exemplary practice or technique or methodology that all agreed was central to furthering the knowledge quest. And it was the paradigm, the exemplary injunction, that disclosed a type of data, so that the paradigm itself was a matter of consensus, not merely correspondence.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > In all of these, "paradigm" was mistaken as some sort of overall theory or concept or notion, the idea being that if you came up with a new and better theory, the factual evidence could be ignored because that was just "old paradigm."
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > But paradigms are first and foremost *injunctions*, actual *practices* (all of which have nondiscursive components that never are entered in the theories they support)—they are methods for disclosing new data in an addressed domain, and the paradigms *work* because they are true in any meaningful sense of the word. Science makes real *progress*, as Kuhn said, because successive paradigms cumulatively disclose more and more interesting data.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Neither the New Agers nor the "new paradigmers" had anything resembling a new paradigm, because all they offered was more talk-talk. They had no new techniques, no new methodologies, no new exemplars, no new injunctions—and therefore no new data. All they possessed, through a misreading of Kuhn, was a pseudo-attempt to trump normal science and replace it with their ideologically favorite reading of the Kosmos.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > The contemplative traditions, on the other hand, have always come first and foremost with a set of injunctions in hand. They are, above all else, a set of *practices*, practices that require years to master (much longer than the training of the average scientist).
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Bad data are *rebuffed* by the community (the sangha) of those whose cognitive eyes are adequate to the addressed domain.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 > Accordingly, contemplative knowledge is, or can be, genuine knowledge, because it follows all three strands of valid knowledge accumulation.
 >
-> — *Sex, Ecology, Spirituality*, ch. 7, "The Farther Reaches of Human Nature"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 7, "The Farther Reaches of Human Nature"
 
 ## See Also
 

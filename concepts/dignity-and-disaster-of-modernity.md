@@ -45,12 +45,12 @@ disaster" was ever actually achievable given the premises modernity started from
 > differentiation of science (it), morals (we), and art (I), so that each could pursue
 > its own course and establish its own truths without domination by the others.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > "Cultural modernity's specific dignity is constituted by what Max Weber called the
 > differentiation of the value spheres in accord with their own logics."
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > But if the *dignity* of modernity was the differentiation of the Big Three, the
 > *disaster* of modernity would be that it had *not yet* found a way to *integrate*
@@ -58,14 +58,14 @@ disaster" was ever actually achievable given the premises modernity started from
 > *dissociation*—to exist as radically separate, "hyper-autonomous" realms, with nothing
 > to say to each other, bound only by a thoroughgoing and often mutual disdain.
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > This was indeed part of the *dignity* of modernity, part of the liberating and
 > enlightening move that strove, ideally, to free itself from ethnocentric prejudice and
 > mythic imperialism, and the violence inherent in those shallower engagements. No more
 > myths!
 >
-> — *Sex, Ecology, Spirituality*, ch. 12, "The Collapse of the Kosmos"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 12, "The Collapse of the Kosmos"
 
 > These values—in particular, universal pluralism, altruism, and freedom—are what Taylor
 > calls the three "hypergoods"... that no doubt constitute much of the true dignity of
@@ -73,14 +73,14 @@ disaster" was ever actually achievable given the premises modernity started from
 > than it began not just to differentiate from other goods, but to alienate them,
 > dissociate them, repress them, seal them off.
 >
-> — *Sex, Ecology, Spirituality*, ch. 13, "The Dominance of the Descenders"
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 13, "The Dominance of the Descenders"
 
 > ...most of the aspects of modernity that many theorists have seen as positive and
 > beneficial can in fact be resolved into variations on "No more myths"... and likewise,
 > most of the aspects of modernity that have been harshly criticized by theorists can be
 > resolved into variations on "No more Ascent!"
 >
-> — *Sex, Ecology, Spirituality*, ch. 11 (footnote)
+> — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 11 (footnote)
 
 ## See Also
 
