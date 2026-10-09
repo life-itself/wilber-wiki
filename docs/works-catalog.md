@@ -10,7 +10,10 @@ the working conventions.
 
 Frontmatter carries `title`, `subtitle`, `year`, `year_note`, `format`,
 `contributors`, `cover`, `core`, and `status`. Existing formats include `book`,
-`co-authored`, `editor`, `anthology`, `audio`, `ebook`, and `multimedia`.
+`co-authored`, `editor`, `anthology`, `audio`, `ebook`, `multimedia`, and `pseudonymous`.
+Use `pseudonymous` for a collaborative work published under a shared pen name. Add one only
+when a publisher or author-affiliated source names Wilber as a collaborator, and say so
+in the page's authorship section. Never present such a work as solo Wilber writing.
 Use `editor` where Wilber edits a collection, and `anthology` for a selection of
 his writings; name compilers/editors separately in `contributors` and the body.
 `core` is an editorial selection across genres, not a prerequisite reading list.

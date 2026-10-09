@@ -83,6 +83,7 @@ description still need verification.
 |  | [Trump and a Post-Truth World](2017-trump-and-a-post-truth-world.md) — later titled *A Post-Truth World* | 2017 | Book |
 |  | [Integral Buddhism](2018-integral-buddhism.md) — previously *The Fourth Turning* | 2018 | Book (retitled edition) |
 |  | [Integral Politics](2018-integral-politics.md) | 2018 | Digital publication (Integral Life) |
+|  | [First Principles and First Values](2024-first-principles-and-first-values.md) — by "David J. Temple", a pen name shared with Marc Gafni and Zak Stein | 2024 | Collaborative book (pen name) `draft` |
 |  | [A Post-Truth World](2024-a-post-truth-world.md) — retitled second edition of the 2017 Trump book | 2024 | Book (second edition) |
 |  | ★ [Finding Radical Wholeness](2024-finding-radical-wholeness.md) | 2024 | Book |
 
@@ -106,5 +107,7 @@ edition-specific evidence. Wikipedia is a secondary source, not a primary source
 
 The catalog remains selective: standalone articles, forewords, many recordings,
 and collaborative or pseudonymous publications are not comprehensively inventoried.
+Titles under a shared pen name, such as *First Principles and First Values*, appear only
+where a publisher or author-affiliated source names Wilber as one of the collaborators.
 `Draft` entries retain explicit uncertainty rather than implying full verification.
 Cover images are credited in the [cover sources](../assets/covers/SOURCES.md).
