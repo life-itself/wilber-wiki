@@ -13,6 +13,13 @@ and includes a required quote-verification step
 (`python3 skills/add-excerpt-page/scripts/verify_quotes.py`, should always pass before
 you're done).
 
+## Checkpoint 2026-10-09 (autonomous queue session)
+
+- Shipped: `wilberwiki-e9q` (c76becd) excerpt attributions link to works pages, enforced by `verify_quotes.py`; `wilberwiki-qxv` (2c9446a) pre/trans-fallacy essay identified (ReVision 3(2) 1980; JHP 1982; Eye to Eye); `wilberwiki-at6.6` (764ea09) pseudonymous-works audit, *First Principles and First Values* added as draft.
+- Dropped: `wilberwiki-at6.7` (minor-entry research). Rufus wants trivial entries stripped instead.
+- Next, P1, in order: `wilberwiki-2ie` strip trivial catalog entries; `wilberwiki-s7g` import the *Integral Spirituality* full text (approved); `wilberwiki-pmf` concept entry on the evolution of Wilber's thought from SES to IS (blocked by s7g).
+- For Rufus: Gafni context / pen-name works in the catalog (note on at6.6); a copy of *Eye to Eye* for the pre/trans essay (follow-up bead from qxv); at6.4 visualization stays with you.
+
 ## Work streams
 
 - **Works validation and reading guides** — epic `wilberwiki-at6`.
