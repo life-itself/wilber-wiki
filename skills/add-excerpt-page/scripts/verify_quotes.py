@@ -59,6 +59,7 @@ REPO_ROOT = Path(__file__).resolve().parents[3]
 WORK_SOURCES = {
     "1995-sex-ecology-spirituality": "library/1995-sex-ecology-spirituality-full-text.md",
     "2000-integral-psychology": "library/2000-integral-psychology-full-text.md",
+    "2006-integral-spirituality": "library/2006-integral-spirituality-full-text.md",
 }
 
 # work title (as italicized in an attribution line) -> work slug. Every
@@ -68,6 +69,7 @@ WORK_SOURCES = {
 WORK_TITLES = {
     "Sex, Ecology, Spirituality": "1995-sex-ecology-spirituality",
     "Integral Psychology": "2000-integral-psychology",
+    "Integral Spirituality": "2006-integral-spirituality",
 }
 
 MIN_SEGMENT_LEN = 12  # shorter fragments are skipped, not false-failed

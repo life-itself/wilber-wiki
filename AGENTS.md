@@ -63,6 +63,7 @@ Flowershow can read it with no build step.
   source to build concept/people pages from**, not the notes file (an earlier session
   mistakenly used the notes file before the full text was available here). See the
   Publishing section below for why "private" is currently aspirational, not enforced.
+  Full texts now available: SES (1995), *Integral Psychology* (2000), and *Integral Spirituality* (2006) as `library/<work-slug>-full-text.md` (IS provenance: `library/2006-integral-spirituality-notes.md`). Each is registered in `verify_quotes.py`'s `WORK_SOURCES`.
 - `people/<slug>.md` — same shape as `concepts/`, but for people Wilber engages with
   (Habermas, Joseph Campbell, etc.). `people/index.md` lists them. See NEXT.md/issue #3.
 - `docs/` — documentation of how this wiki works, not wiki content.
