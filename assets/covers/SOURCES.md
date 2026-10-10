@@ -33,31 +33,24 @@ page about the books themselves), not redistributed as standalone artwork.
 | A Theory of Everything | `2000-a-theory-of-everything.jpg` | 817530 | /works/OL114259W |
 | Integral Psychology | `2000-integral-psychology.jpg` | 817381 | /works/OL114248W |
 | Boomeritis | `2002-boomeritis.jpg` | 817560 | /works/OL114252W |
-| Kosmic Consciousness | `2003-kosmic-consciousness.jpg` | 1977012 | /works/OL114249W |
 | The Simple Feeling of Being | `2004-the-simple-feeling-of-being.jpg` | 859556 | /works/OL19159112W |
-| The Integral Operating System | `2005-the-integral-operating-system.jpg` | 865062 | /works/OL8857174M (edition) |
 | Integral Spirituality | `2006-integral-spirituality.jpg` | 859697 | /works/OL114254W |
-| The One Two Three of God | `2006-the-one-two-three-of-god.jpg` | 865147 | /works/OL8857290M (edition) |
 | The Integral Vision | `2007-the-integral-vision.jpg` | 859774 | /works/OL17736430W |
 | Integral Life Practice | `2008-integral-life-practice.jpg` | 12946704 | /works/OL18561116W |
 | The Religion of Tomorrow | `2017-the-religion-of-tomorrow.jpg` | 13320184 | /works/OL20055730W |
 
 ## Not found on Open Library (as of 2026-08-22)
 
-No cover art indexed under Ken Wilber's name for these — mostly audio programs, ebook-only
-titles, and small-press/recent releases that Open Library hasn't catalogued yet. `cover:`
+No cover art indexed under Ken Wilber's name for these — ebook-only titles and
+small-press/recent releases that Open Library hasn't catalogued yet. `cover:`
 stays `null` in their frontmatter until sourced another way (publisher site, Amazon,
 manual scan):
 
-- Speaking of Everything (2001, audio) — no Open Library entry at all.
-- Integral Life Practice Starter Kit (2006) — no distinct entry (only the 2008 book).
 - The Pocket Ken Wilber (2008) — entry exists, no cover image indexed.
-- The Integral Approach (2013, ebook)
 - The Fourth Turning (2014, ebook) — no Open Library entry at all.
 - Wicked and Wise (2015) — entry exists, no cover image indexed.
 - Integral Meditation (2016) — entry exists, no cover image indexed.
 - Trump and a Post-Truth World (2017) — only a third-party "book summary" product turns
   up, not the real book; not used.
-- Integral Politics (2018, ebook)
 - A Post-Truth World (2024) — same "summary" problem as above.
 - Finding Radical Wholeness (2024) — too recent, not yet catalogued.

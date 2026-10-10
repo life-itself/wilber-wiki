@@ -27,8 +27,7 @@ easier entrance if you are new to the framework.
 
 ### [Browse all works →](catalog.md)
 
-The complete chronological catalog: books, edited collections, audio, digital
-publications, editions, and known gaps.
+The complete chronological catalog: books, edited collections, editions, and known gaps.
 
 </div>
 

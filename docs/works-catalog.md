@@ -10,9 +10,10 @@ the working conventions.
 
 Frontmatter carries `title`, `subtitle`, `year`, `year_note`, `format`,
 `contributors`, `cover`, `core`, and `status`. Existing formats include `book`,
-`co-authored`, `editor`, `anthology`, `audio`, `ebook`, and `multimedia`.
-Collaborations published under a shared pen name (e.g. the "David J. Temple" byline) are
-out of scope for the catalog.
+`co-authored`, `editor`, `anthology`, and `ebook`.
+Out of scope (Rufus, 2026-10-09): audio/video recordings, multimedia kits and courses,
+member-only digital downloads, untraceable listings, and collaborations published under
+a shared pen name (e.g. the "David J. Temple" byline). The catalog is for books.
 Use `editor` where Wilber edits a collection, and `anthology` for a selection of
 his writings; name compilers/editors separately in `contributors` and the body.
 `core` is an editorial selection across genres, not a prerequisite reading list.

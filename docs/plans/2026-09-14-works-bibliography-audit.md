@@ -113,3 +113,7 @@ Collaborative entries already in the catalog were rechecked against the [Ken Wil
 | *Homo Amor Manifesto* (2025, Pelckmans) | Appeared in a retail search under Wilber's name. Authorship not verified. | Not added. Unverified. |
 
 Pen-name collaborations are out of scope for the catalog (Rufus, 2026-10-09).
+
+## Catalog scope trimmed (`wilberwiki-2ie`, 2026-10-10)
+
+At Rufus's direction, the catalog now covers books only. Removed pages: *Speaking of Everything* (2001 audio), *Kosmic Consciousness* (2003 audio), *The Integral Operating System* (2005 multimedia), *Integral Life Practice Starter Kit* (2006 multimedia), *The One Two Three of God* (2006 audio), *The Integral Approach* (2013 ebook, untraceable), and *Integral Politics* (2018 member download). The rows above stay as an audit trail. Last findings before removal: the Starter Kit is 2006 (Open Library, ISBN 0977227502), and *The Integral Operating System* is Sounds True, November 2005.
