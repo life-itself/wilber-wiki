@@ -4,8 +4,8 @@ Explore Wilber's ideas through short explanations and passages from his books.
 Start with the core terms for his main vocabulary, or browse his views on subjects
 such as spirituality, science, politics, and culture.
 
-The current selection draws on [Sex, Ecology, Spirituality](../works/1995-sex-ecology-spirituality.md)
-and [Integral Psychology](../works/2000-integral-psychology.md).
+The current selection draws on [Sex, Ecology, Spirituality](../works/1995-sex-ecology-spirituality.md),
+[Integral Psychology](../works/2000-integral-psychology.md), and [Integral Spirituality](../works/2006-integral-spirituality.md).
 For a guided route, follow the [roadmap](../roadmap.md); for comparisons between
 developmental models, visit the [Chart Index](../charts/index.md).
 
@@ -48,6 +48,7 @@ on broader questions and topics.
 
 | Concept | Notes |
 |---|---|
+| [From SES to Integral Spirituality: How Wilber's Map Changed](from-ses-to-integral-spirituality.md) | the Great Chain narrowed to one quadrant, levels as evolved habits, states taken off the ladder |
 | [Is Spirituality Developmental? The Five Definitions](five-definitions-of-spirituality.md) | five different meanings of "spirituality," only some of them stage-like |
 | [Systems Theory and the Sciences of Complexity](systems-theory.md) | Wilber's case for, and (elsewhere) against, complexity science as holism |
 | [Dominator vs. Growth Hierarchy](dominator-vs-growth-hierarchy.md) | separating hierarchy from domination |

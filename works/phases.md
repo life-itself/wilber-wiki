@@ -66,6 +66,8 @@ note 12, Wilber already discusses states interpreted through different structure
 and points back to *A Sociable God*. It would be misleading to suggest he first
 noticed states and stages in 2006. For a reader's account of the later formulation,
 see [Rufus's notes on Integral Spirituality](../notes/2019-integral-spirituality-notes.md).
+For these shifts traced through passages from *SES*, *Integral Psychology* and
+*Integral Spirituality*, see [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md).
 
 ## Why the boundaries are approximate
 

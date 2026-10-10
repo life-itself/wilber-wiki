@@ -99,6 +99,7 @@ tradition would likely push back on.
 - [[ascent-and-descent]] — this sequence is largely told through the Ascending path;
   the nondual stage is where Ascent and Descent finally reunite
 - [[waves-and-streams]] — the highest waves in Wilber's overall developmental model
+- [[from-ses-to-integral-spirituality]] — how *Integral Spirituality* (2006) recasts these four as states that can occur at any stage, not rungs above mind
 - [[interiority|Interiority (the "Within" of holons)]] — the same logic of within/beyond
   that produces the four quadrants, carried to its transpersonal limit
 - [[aurobindo|Sri Aurobindo]] — Wilber's Eastern parallel figure for this same territory,

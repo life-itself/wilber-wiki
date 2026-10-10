@@ -76,6 +76,7 @@ without needing to invoke it as tradition or dogma.
   Great Chain describes
 - [[involution-and-evolution]] — how the Great Chain gets unfolded (evolution) and enfolded (involution)
 - [[kosmos-vs-cosmos]] — the terminology Wilber uses for the Great Chain's full, undivided scope
+- [[from-ses-to-integral-spirituality]] — Wilber's later, post-metaphysical revision: the Chain as a map of the Upper-Left quadrant, its levels evolved, not given
 - [[plotinus|Plotinus]] — the historical figure Wilber credits with giving the Great
   Chain its first comprehensive presentation
 - [[aurobindo|Sri Aurobindo]] — Wilber's Eastern counterpart to Plotinus, whose own
