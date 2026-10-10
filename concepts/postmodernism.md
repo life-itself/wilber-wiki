@@ -4,7 +4,7 @@ slug: postmodernism
 aliases: [postmodernity, pluralistic relativism, deconstructive postmodernism]
 category: wilber-on-x
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2006-integral-spirituality]
 ---
 
 # Wilber on Postmodernism
@@ -34,6 +34,8 @@ none is worth building) and **narcissism** (with no shared truth left to orient 
 isolated self becomes the only remaining reference point) — the same dissociation he
 elsewhere calls collapsing the [[big-three|Big Three]] into the "Big One" of it-language,
 just from the opposite ideological direction.
+
+**Later, postmodernism moves into the foundations.** In *Integral Spirituality* (2006) the two-handed verdict stands, but the achievement now carries more weight. Postmodernity's central insight, that "all perceptions are actually perspectives" embedded in bodies and cultures, becomes the starting point of his own post-metaphysics, and it is the critique he says the contemplative traditions cannot answer from the meditation cushion alone (see [[from-ses-to-integral-spirituality]]). The derailment gets a new name: **boomeritis**, pluralistic "green" openness that lets egocentric "red" impulses pass themselves off as advanced. He describes it as a version of the [[pre-trans-fallacy|pre/post confusion]].
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -81,6 +83,20 @@ just from the opposite ideological direction.
 > not to nihilism but to Emptiness, the creative plenum of the Kosmos.
 >
 > — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 2, "The Pattern That Connects" (footnote)
+
+## In *Integral Spirituality*
+
+> The important truth advanced by the postmodernist epistemologies is that all perceptions are actually perspectives, and *all perspectives are embedded in bodies and in cultures*, and not just in economic and social systems...
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 1
+
+> Postmodernity spotted this immediately (although it threw out the baby with the bathwater, as we will see), and proceeded to devastate the monological knowledge of both modernity and premodernity.
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 1
+
+> “Boomeritis” is a general term for post-conventional/worldcentric levels infected with pre-conventional/egocentric levels, or simply and most often, green infected with red...
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 5
 
 ## See Also
 

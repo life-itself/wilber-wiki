@@ -4,7 +4,7 @@ slug: psychic-subtle-causal-nondual
 aliases: [psychic subtle causal nondual, four transpersonal stages, nature mysticism deity mysticism formless mysticism nondual mysticism]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality]
+works: [1995-sex-ecology-spirituality, 2006-integral-spirituality]
 ---
 
 # The Psychic, Subtle, Causal, and Nondual
@@ -40,6 +40,8 @@ acknowledges each stage has multiple substages, and reducing whole traditions to
 single spokesperson (Eckhart *and* Ramana are made to illustrate two different stages
 each) is a simplification in service of narrative clarity that a specialist in any one
 tradition would likely push back on.
+
+**The later revision: states, not rungs.** By *Integral Spirituality* (2006) Wilber has moved this sequence off the vertical ladder. Gross, subtle, causal and nondual become *states*, and when they unfold in a trained order they are **state-stages**. These are "horizontal" development, because they can happen at any of the vertical *structure*-stages, and each person interprets them through the structure-stage they are at. A key difference he draws is that you can peak-experience a higher state but cannot skip or peak-experience a higher structure-stage. The cross-tradition convergence argument survives, but it is now an argument about the sequence of meditative states, not about stages stacked above vision-logic. See [[from-ses-to-integral-spirituality]] for the wider shift.
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -87,6 +89,20 @@ tradition would likely push back on.
 > absolutely *nothing*, embraces absolutely *everything*.
 >
 > — [*Sex, Ecology, Spirituality*](../works/1995-sex-ecology-spirituality.md), ch. 8, "The Depths of the Divine"
+
+## In *Integral Spirituality*
+
+> When states unfold in some sort of sequence (largely because they are trained), we call them **state-stages** (contrasted to **structure-stages**).
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 3
+
+> ...research repeatedly shows that *structure*-stages, unlike state-stages, are fairly discrete levels or rungs in development; moreover, as research shows time and time again, *you cannot skip structure-stages, nor can you peak-experience higher structure-stages*. For example, if you are at preoperational in the cognitive line, you simply cannot have a formal operational experience—but you *can* have a subtle-state peak experience!
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 3
+
+> ...the movement of one’s identity from gross ego to subtle soul to causal Self to nondual Spirit—what we are thinking of as “horizontal” state-stages or **horizontal development**—“horizontal” because it can be done at any of the vertical stages...
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 6
 
 ## See Also
 

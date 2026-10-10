@@ -19,7 +19,8 @@ you're done).
 - Shipped 2026-10-10: `wilberwiki-2ie` (821c69a) catalog is now books only, with 7 audio/multimedia/minor entries removed; `wilberwiki-s7g` (aeace92) *Integral Spirituality* full text imported to `library/2006-integral-spirituality-full-text.md` and registered in `verify_quotes.py`; `wilberwiki-pmf` (1300a44) new concept page [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
 - Dropped: `wilberwiki-at6.7`.
 - For Rufus: a copy of *Eye to Eye* for the pre/trans essay (follow-up bead from qxv). The at6.4 visualization stays with you, and the IS import may now feed at6.4.3.1 (comment left there). Critical-layer epic `dxr` and network map `uze` still need your scope decisions.
-- Next ready: `wilberwiki-53r` (P2, changelog in navbar). With IS now available, more IS excerpts could be added to existing pages (e.g. four-quadrants, psychic-subtle-causal-nondual, postmodernism). That isn't tracked as a bead yet.
+- Also shipped 2026-10-10: `wilberwiki-53r` changelog in navbar; `wilberwiki-evl` IS excerpts and revision notes on five concept pages (four-quadrants, waves-and-streams, psychic-subtle-causal-nondual, postmodernism, five-definitions-of-spirituality). Not extended because IS adds nothing new there: horizontal-types.
+- Next ready: run `bd ready`. The remaining items are P2/P3 and mostly need scope decisions (dxr, uze, 4qc, 6cg).
 
 ## Work streams
 

@@ -4,7 +4,7 @@ slug: four-quadrants
 aliases: [four quadrants, AQAL, quadrants]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
 ---
 
 # The Four Quadrants
@@ -39,6 +39,8 @@ The exterior quadrants together are what Wilber calls the [[right-hand-and-left-
 path]]; the interior ones, the Left-Hand path. Collapsing the [[big-three|Big Three]]
 (art/I, morals/we, science/it) onto quadrant terms is one of his recurring moves
 throughout the book.
+
+**From four quadrants to eight zones.** In *Integral Spirituality* (2006) Wilber splits each quadrant again. Any holon in any quadrant can be looked at from its own inside or from the outside, which gives "8 primordial perspectives", and each perspective comes with its own methods. The interior of an "I" seen from the inside is phenomenology, including meditation; the same "I" seen from the outside is structuralism, the kind of research behind developmental stage models such as Spiral Dynamics. That split is his explanation for why meditators and developmental psychologists can both study consciousness and still not see each other's findings. He calls the whole scheme **integral methodological pluralism** and presents it as the way to keep the traditions' insights without their metaphysics (see [[from-ses-to-integral-spirituality]]).
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -101,6 +103,20 @@ sitting side by side.
 > turn helps to create, so that these, too, coevolve.
 >
 > — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 14
+
+## In *Integral Spirituality*
+
+> If you imagine any of the phenomena (or holons) in the various quadrants, you can look at them from their own inside or outside. This gives you **8 primordial perspectives**—the inside and the outside view of a holon in any of the 4 quadrants.
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 1
+
+> Here’s the point: you can sit on your meditation mat for decades, and you will NEVER see anything resembling the stages of Spiral Dynamics. And you can study Spiral Dynamics till the cows come home, and you will NEVER have a *satori*.
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 1
+
+> Meditative understanding involves preeminently a methodology of looking at the “I” from the inside (using phenomenology); Spiral Dynamics involves studying it from the outside (using structuralism). Both of them are studying a person’s consciousness, but they see very different things because they are inhabiting a different stance or perspective, using different methodologies.
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 1
 
 ## See Also
 

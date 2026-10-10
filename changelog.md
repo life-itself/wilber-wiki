@@ -9,6 +9,8 @@ New concept page, [From SES to Integral Spirituality](concepts/from-ses-to-integ
 
 Every excerpt's source line now links to the book's page. The pre/trans-fallacy page notes where the idea first appeared as an essay (*ReVision*, 1980). The works catalog is now books only, without audio sets, course kits and other minor items.
 
+Five existing concept pages (four quadrants, waves and streams, the psychic/subtle/causal/nondual, postmodernism, and the five definitions of spirituality) now include passages from *Integral Spirituality* showing how Wilber later revised them. The changelog is now in the site menu.
+
 ## 2026-09-14 — Choosing what to read
 
 Added a [selective reading guide](works/reading-guide.md) and a guide to

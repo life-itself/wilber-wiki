@@ -4,7 +4,7 @@ slug: five-definitions-of-spirituality
 aliases: [five definitions of spirituality, does spirituality develop in stages, states vs structures]
 category: wilber-on-x
 status: draft
-works: [2000-integral-psychology]
+works: [2000-integral-psychology, 2006-integral-spirituality]
 ---
 
 # Is Spirituality Developmental? The Five Definitions
@@ -42,6 +42,8 @@ addresses a version of this objection (critics accusing him of over-reading Budd
 Vedantic parallels) in the surrounding text, but doesn't fully resolve whether the
 five-definitions framework is a neutral typology or already tilted toward validating
 his own stage model.
+
+**Six years later, four meanings.** In *Integral Spirituality* (2006) the list shrinks to four: the highest levels in any line, a separate line, a peak or state experience, and a special attitude. The "sum total of the highest levels" no longer appears as a separate meaning. The more important change is where states now sit. State experience is "the horizontal axis in the W-C Lattice", a second dimension running across every stage rather than a definition that simply fails the stage test (see [[from-ses-to-integral-spirituality]]). He also tightens the point about attitudes: in fine detail the "attitude" usage "usually reverts to one of the first 3 usages", because love, compassion and wisdom have stages of their own. The practical moral is the same in both books: say which meaning you intend, or the discussion turns to "more mush".
 
 ## In *Integral Psychology*
 
@@ -83,6 +85,17 @@ his own stage model.
 > Nonetheless, many aspects of spirituality turn out, upon closer inspection, to
 > involve one or more aspects that are developmental.
 — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 10
+
+## In *Integral Spirituality*
+
+> ...it is apparent that “spiritual” is being used to mean: (1) the highest levels in any of the lines; (2) a separate line itself; (3) an extraordinary peak experience or state; (4) a particular attitude. My point is all of those are legitimate uses (and I think all of them point to actual realities), but we absolutely MUST identify which of those we mean, or the conversation goes nowhere fast...
+— [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 4
+
+> State experience is another important usage and is, of course, the horizontal axis in the W-C Lattice.
+— [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 4
+
+> This is a very common usage, but in fine detail, it usually reverts to one of the first 3 usages, because there are actually stages of love, compassion, and wisdom (a fact missed by almost all green-wave writers on the need for love and compassion).
+— [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 4
 
 ## See Also
 

@@ -4,7 +4,7 @@ slug: waves-and-streams
 aliases: [levels and lines, waves streams states self]
 category: core-term
 status: draft
-works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
+works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
 ---
 
 # Waves and Streams
@@ -39,6 +39,8 @@ less examined here is exactly how independent the streams really are from each o
 and how the four-quadrant machinery (each quadrant getting its own streams) is meant
 to interact with this waves/streams frame — that gets built out gradually across the
 rest of the chapter rather than settled at the point this vocabulary is introduced.
+
+**Later: what makes a wave "higher" across different streams?** *Integral Spirituality* (2006) takes on the question this page leaves open, of how relatively independent streams can share one set of waves. Wilber offers two answers and says AQAL uses both. In the first, the cognitive line is the yardstick, because growth in cognition is "necessary but not sufficient" for growth in the other lines. In the second, which he says was introduced in *Integral Psychology*, the shared vertical axis is "consciousness per se": each line has its own stages, but all of them climb the same gradient of awareness, like different paths up one mountain measured in the same feet of altitude. This is why *Integral Spirituality* labels levels by rainbow colour as "altitude" rather than by the stages of any one line.
 
 ## In *Sex, Ecology, Spirituality*
 
@@ -125,6 +127,20 @@ phenomenon rather than picking one.
 > everything.
 >
 > — [*Integral Psychology*](../works/2000-integral-psychology.md), ch. 1
+
+## In *Integral Spirituality*
+
+> Namely, research has continued to demonstrate that growth in the cognitive line is necessary but not sufficient for the growth in the other lines. Thus, you can be highly developed in the cognitive line and poorly developed in the moral line (very smart but not very moral: Nazi doctors), but we don’t find the reverse (low IQ, highly moral).
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 2
+
+> The other theory, which was introduced in *Integral Psychology* (and spelled out at length in the posted Excerpts), is that the y-axis is **consciousness per se**. Thus, “degree of consciousness” is itself the altitude...
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 2
+
+> The analogy I use here is a dozen paths up a mountain: the different paths (representing developmental lines) all have very different views from the mountain, and these simply cannot be equated (the view up the north path and the south path are quite different), but there is a real sense in saying that both of the paths are now at 5000 feet...
+>
+> — [*Integral Spirituality*](../works/2006-integral-spirituality.md), ch. 2
 
 ## See Also
 
