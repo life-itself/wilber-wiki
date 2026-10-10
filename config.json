@@ -12,6 +12,7 @@
       { "name": "Charts", "href": "/charts" },
       { "name": "Works", "href": "/works" },
       { "name": "Biography", "href": "/bio" },
+      { "name": "Changelog", "href": "/changelog" },
       { "name": "About", "href": "/#about-this-project" }
     ]
   },
