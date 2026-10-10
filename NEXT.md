@@ -13,12 +13,13 @@ and includes a required quote-verification step
 (`python3 skills/add-excerpt-page/scripts/verify_quotes.py`, should always pass before
 you're done).
 
-## Checkpoint 2026-10-09 (autonomous queue session)
+## Checkpoint 2026-10-10 (autonomous queue sessions, 2026-10-09 to 10)
 
-- Shipped: `wilberwiki-e9q` (c76becd) excerpt attributions link to works pages, enforced by `verify_quotes.py`; `wilberwiki-qxv` (2c9446a) pre/trans-fallacy essay identified (ReVision 3(2) 1980; JHP 1982; Eye to Eye); `wilberwiki-at6.6` (764ea09) co-authored/pseudonymous-works audit; pen-name collaborations then ruled out of scope.
-- Dropped: `wilberwiki-at6.7` (minor-entry research). Rufus wants trivial entries stripped instead.
-- Next, P1, in order: `wilberwiki-2ie` strip trivial catalog entries; `wilberwiki-s7g` import the *Integral Spirituality* full text (approved); `wilberwiki-pmf` concept entry on the evolution of Wilber's thought from SES to IS (blocked by s7g).
-- For Rufus: a copy of *Eye to Eye* for the pre/trans essay (follow-up bead from qxv); at6.4 visualization stays with you.
+- Shipped 2026-10-09: `wilberwiki-e9q` (c76becd) excerpt attributions link to works pages, enforced by `verify_quotes.py`; `wilberwiki-qxv` (2c9446a) pre/trans-fallacy essay identified; `wilberwiki-at6.6` (764ea09, b6ef521) collaborative-works audit; pen-name collaborations are out of scope.
+- Shipped 2026-10-10: `wilberwiki-2ie` (821c69a) catalog is now books only, with 7 audio/multimedia/minor entries removed; `wilberwiki-s7g` (aeace92) *Integral Spirituality* full text imported to `library/2006-integral-spirituality-full-text.md` and registered in `verify_quotes.py`; `wilberwiki-pmf` (1300a44) new concept page [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
+- Dropped: `wilberwiki-at6.7`.
+- For Rufus: a copy of *Eye to Eye* for the pre/trans essay (follow-up bead from qxv). The at6.4 visualization stays with you, and the IS import may now feed at6.4.3.1 (comment left there). Critical-layer epic `dxr` and network map `uze` still need your scope decisions.
+- Next ready: `wilberwiki-53r` (P2, changelog in navbar). With IS now available, more IS excerpts could be added to existing pages (e.g. four-quadrants, psychic-subtle-causal-nondual, postmodernism). That isn't tracked as a bead yet.
 
 ## Work streams
 

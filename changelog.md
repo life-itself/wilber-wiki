@@ -1,3 +1,9 @@
+## 2026-10-10 — How Wilber's map changed, from SES to Integral Spirituality
+
+New concept page, [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md), traces three shifts across *Sex, Ecology, Spirituality*, *Integral Psychology* and *Integral Spirituality*: the Great Chain narrowed to a map of one quadrant, its levels recast from given to evolved, and higher states taken off the developmental ladder. Each shift is shown in Wilber's own words from all three books, and the page notes where the change is more continuous than his later accounts suggest.
+
+Every excerpt's source line now links to the book's page. The pre/trans-fallacy page notes where the idea first appeared as an essay (*ReVision*, 1980). The works catalog is now books only, without audio sets, course kits and other minor items.
+
 ## 2026-09-14 — Choosing what to read
 
 Added a [selective reading guide](works/reading-guide.md) and a guide to
