@@ -1,6 +1,6 @@
 # Book summary pages: structure and process
 
-Design for epic `wilberwiki-o1s` (bead `wilberwiki-o1s.1`), 2026-10-10. Covers summary pages for the three books held in full text: *Sex, Ecology, Spirituality* (SES), *Integral Psychology* (IP) and *Integral Spirituality* (IS). Writing waits for Rufus's decision on the open questions at the end (`wilberwiki-o1s.2`).
+Design for epic `wilberwiki-o1s` (bead `wilberwiki-o1s.1`), 2026-10-10. Covers summary pages for the three books held in full text: *Sex, Ecology, Spirituality* (SES), *Integral Psychology* (IP) and *Integral Spirituality* (IS). Approved by Rufus 2026-10-10. See Decisions at the end.
 
 ## Starting point
 
@@ -51,10 +51,10 @@ Total: roughly 2,500–4,500 words per page.
 3. **IP and IS in parallel** (`o1s.5`, `o1s.6`). Separate agents apply the revised template, then a lighter review pass on each.
 4. Changelog entry when the set ships.
 
-## Open questions for Rufus
+## Decisions (Rufus, 2026-10-10)
 
-1. **Location.** Extend the existing works pages (recommended) or create separate summary pages?
-2. **Excerpts.** A separate Key passages section (recommended; it keeps the overview readable), or passages interleaved through the overview?
-3. **Overview depth.** One subsection per part, with chapter subsections where needed (recommended), or strictly chapter-by-chapter (15 chapters for IP)?
-4. **What's contested.** Include it now with Wilber-internal and clearly sourced points (recommended), or leave it out until the critical-layer epic is scoped?
-5. **Length.** Is 2,500–4,500 words per page about right?
+Rufus accepted all five recommendations: extend the existing works pages; a separate Key passages section; Overview subsections by part, with chapter subsections where needed; include What's contested now (Wilber-internal and clearly sourced points only); 2,500–4,500 words per page. The working pattern is [`skills/write-book-summary/SKILL.md`](../../skills/write-book-summary/SKILL.md).
+
+## Lessons from the pilot
+
+_(Filled in by `wilberwiki-o1s.4` after the SES review.)_

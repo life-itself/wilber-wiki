@@ -43,6 +43,8 @@ directly when the task below applies, from whatever runtime you're in):
   real text from the source book, not a paraphrase or reconstruction. Built after a page
   shipped once with a fabricated quote formatted as verbatim.
 
+- **Before writing or revising a book summary page** (the expanded `works/<slug>.md` for a book whose full text is in `library/`), read [`skills/write-book-summary/SKILL.md`](skills/write-book-summary/SKILL.md) in full, as well as the excerpt skill above.
+
 ## Content structure
 
 Content lives at the repo root, not under a `content/` wrapper — deliberate, so
