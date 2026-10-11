@@ -13,14 +13,12 @@ and includes a required quote-verification step
 (`python3 skills/add-excerpt-page/scripts/verify_quotes.py`, should always pass before
 you're done).
 
-## Checkpoint 2026-10-10 (autonomous queue sessions, 2026-10-09 to 10)
+## Checkpoint 2026-10-11
 
-- Shipped 2026-10-09: `wilberwiki-e9q` (c76becd) excerpt attributions link to works pages, enforced by `verify_quotes.py`; `wilberwiki-qxv` (2c9446a) pre/trans-fallacy essay identified; `wilberwiki-at6.6` (764ea09, b6ef521) collaborative-works audit; pen-name collaborations are out of scope.
-- Shipped 2026-10-10: `wilberwiki-2ie` (821c69a) catalog is now books only, with 7 audio/multimedia/minor entries removed; `wilberwiki-s7g` (aeace92) *Integral Spirituality* full text imported to `library/2006-integral-spirituality-full-text.md` and registered in `verify_quotes.py`; `wilberwiki-pmf` (1300a44) new concept page [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
-- Dropped: `wilberwiki-at6.7`.
-- For Rufus: a copy of *Eye to Eye* for the pre/trans essay (follow-up bead from qxv). The at6.4 visualization stays with you, and the IS import may now feed at6.4.3.1 (comment left there). Critical-layer epic `dxr` and network map `uze` still need your scope decisions.
-- Also shipped 2026-10-10: `wilberwiki-53r` changelog in navbar; `wilberwiki-evl` IS excerpts and revision notes on five concept pages (four-quadrants, waves-and-streams, psychic-subtle-causal-nondual, postmodernism, five-definitions-of-spirituality). Not extended because IS adds nothing new there: horizontal-types.
-- Next ready: run `bd ready`. The remaining items are P2/P3 and mostly need scope decisions (dxr, uze, 4qc, 6cg).
+- Shipped: epic `wilberwiki-o1s` (book summary pages). SES pilot (644b726, independent review fixes in a later commit), *Integral Spirituality* (ae8542f), *Integral Psychology* (57ba74f), each reviewed against the full text. Pattern: [`skills/write-book-summary/SKILL.md`](skills/write-book-summary/SKILL.md); design and lessons: `docs/plans/2026-10-10-book-summary-pages-design.md`. `verify_quotes.py` now also checks works pages that declare `works:`.
+- Earlier (2026-10-09/10): attribution links (e9q), pre/trans essay identified (qxv), catalog trimmed to books only (2ie), IS full text imported (s7g), SES→IS concept page (pmf), IS excerpts on five concept pages (evl), changelog in navbar (53r).
+- For Rufus: (1) the SES header says "rev. 2001", while the edition's copyright page reads © 1995, 2000. Kept 2001 per the earlier audit (2000 revision first appeared in Collected Works VI); change it if you prefer. (2) IP and IS pages run about 4,800–5,000 words, over the 4,500 target because of Key passages and the concept/people lists; trim if wanted. (3) IS's What's contested includes the page's own judgements without an external critic. (4) Several concept pages that IS discusses (great-chain-of-being, pre-trans-fallacy, repression…) could gain IS excerpts. Not yet a bead. (5) A copy of *Eye to Eye* for the pre/trans essay; at6.4 visualization; dxr/uze scope.
+- Next ready: `bd ready`. The remaining items are P2/P3 and mostly need scope decisions.
 
 ## Work streams
 

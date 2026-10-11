@@ -35,7 +35,7 @@ modernity, and the relation between spiritual and worldly life. Read it for the
 argument and its supporting discussions, rather than just the model's outline.
 If you already know *Brief History*, much will be familiar; the reason to continue
 is depth and argumentative context. It is volume I of the
-[unfinished Kosmos trilogy](phases.md#what-happened-to-the-kosmos-trilogy).
+[unfinished Kosmos trilogy](phases.md#what-happened-to-the-kosmos-trilogy). Its page has a chapter-cited summary of the whole book and key passages.
 
 ### The psychological detail: Integral Psychology (2000)
 
@@ -45,7 +45,7 @@ of psychological and contemplative maps. It revisits the broad framework of SES,
 but makes a useful companion for understanding development precisely. The
 [correlation charts](../charts/index.md) make it useful as a reference as well as a
 book to read through. It is still a phase-IV work—Wilber says so in chapter 9,
-note 15—not a new phase simply because it was published later.
+note 15—not a new phase simply because it was published later. Its page has a chapter-cited summary of the whole book and key passages.
 
 ### The next theoretical turn: Integral Spirituality (2006)
 
@@ -55,7 +55,7 @@ relationship between contemplative states and developmental stages. It therefore
 adds more than another introduction to quadrants. It also has a practical concern:
 what does spiritual realization leave unresolved? [Rufus's reading notes](../notes/2019-integral-spirituality-notes.md)
 offer a companion account of its distinctions and their usefulness. Read after the
-earlier framework is familiar; return to specific arguments as needed.
+earlier framework is familiar; return to specific arguments as needed. Its page has a chapter-cited summary of the whole book and key passages.
 
 ## If you want the intellectual history
 

@@ -129,6 +129,8 @@ framework is familiar.
 
 </div>
 
+Each of these three books has a full summary page: an overview of the whole book, with chapter citations and key passages.
+
 <div class="rounded-2xl border border-slate-200 p-6 my-10 sm:flex sm:items-center sm:justify-between sm:gap-8 dark:border-slate-700">
 
 <div class="min-w-0">

@@ -66,3 +66,12 @@ From the independent review of the SES page (`wilberwiki-o1s.4`). The pilot was 
 - **Find notes by their markers.** In SES each chapter's notes start at a `CHAPTER N. TITLE` line in the Notes section, and each note begins `[^cNN-cMMrK].`, where K is the note number. A small script that maps a line number to "ch. X" or "ch. X, note K", and greps phrases, made checking about 60 claims quick. IP and IS headings carry chapter numbers, so they're simpler.
 - **Gloss technical terms at first use, even in the Overview** (e.g. depth/span, formal-operational, monological reason). The Concepts list doesn't do this job for a newcomer reading straight through.
 - **`verify_quotes.py` now prints `SKIPPED` for an explicit works/ argument without `works:`.** If you see that for your own page, the frontmatter is missing `works: [<slug>]`, and nothing was checked.
+
+## Lessons from the IP and IS pages (2026-10-11)
+
+- **Parallel writers share the scratchpad.** Two agents' helper scripts with the same name overwrote each other mid-task. Give each writer its own subfolder or file prefix.
+- **Check inline quotes line by line.** A per-line extractor of quoted phrases, normalised and grepped against the full text, caught every near-quote (e.g. "orienting" for the source's "orientating"). A whole-file regex gets out of step on mixed straight and curly quotes. Worth turning into a script next to `verify_quotes.py` if more summary pages are written.
+- **Note markers.** IP and IS use `[^cNN-fnK]`, with chapters numbered by order (IS: c9–c18 = ch. 1–10, c19–c21 = Appendixes I–III). Indented continuation lines belong to the note above them. IP's notes start at line ~2343, and one heading is mixed case ("CHAPTER 11. Is THERE…").
+- **Watch characterising words.** "Unfinished", "fullest", "main", "polemical" and the like each needed a source or rewording. When describing another book (e.g. "builds on SES"), use the book's own wording: IS says SES introduced "the AQAL framework".
+- **Context needs fairness too.** A sharp quotation used to illustrate tone must carry the author's own framing from the same passage (e.g. IS's "Nazis" line, which Wilber calls "an extreme way to state" a developmental statistic).
+- **At a glance runs to ~110–120 words in practice.** That's acceptable.

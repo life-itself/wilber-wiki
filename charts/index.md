@@ -1,6 +1,6 @@
 # Chart Index
 
-*Integral Psychology*'s appendix is, by page count, most of the book: roughly twenty
+*Integral Psychology* ends with roughly twenty
 correlation charts cross-indexing over a hundred developmental models against Wilber's
 own scale. In the source they're scanned page images — legible, but locked in a
 two-column print layout that splits every wide table across a page break. The pages
