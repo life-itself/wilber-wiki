@@ -75,3 +75,16 @@ From the independent review of the SES page (`wilberwiki-o1s.4`). The pilot was 
 - **Watch characterising words.** "Unfinished", "fullest", "main", "polemical" and the like each needed a source or rewording. When describing another book (e.g. "builds on SES"), use the book's own wording: IS says SES introduced "the AQAL framework".
 - **Context needs fairness too.** A sharp quotation used to illustrate tone must carry the author's own framing from the same passage (e.g. IS's "Nazis" line, which Wilber calls "an extreme way to state" a developmental statistic).
 - **At a glance runs to ~110–120 words in practice.** That's acceptable.
+
+## Lessons from the reader-quality review (2026-10-11)
+
+The first reviews checked sourcing only. Rufus asked whether anyone had judged the pages as reading; nobody had. Three fresh editors, reading as newcomers, found the same faults on all three pages, so they are faults of the template and process, not of one writer:
+
+- **Sourcing discipline produced citation clutter.** 100–150 `(ch. N)` tags per page, mostly repeating the chapter already in the subsection heading. Inside a chapter section, cite only other locations (notes, other chapters, appendixes); say so once at the top of the Overview. No citations in At a glance or Summary.
+- **"The book in its own order" became a contents list.** Open each chapter paragraph with what the chapter does for the argument, keep the two or three points that serve it, and add transitions between chapters and parts.
+- **Layers repeated each other.** Ideas appeared 3–4 times across Summary, Overview, Key passages and Concepts. If a passage is quoted in full in Key passages, paraphrase it in the Overview.
+- **Vocabulary must be set up before it's used.** For example, IS's numbered zones and colour levels needed a table or key.
+- **Answer "should I read it?"** This means saying what to read instead (e.g. *A Brief History of Everything* for SES) and why the book mattered.
+- **The editors recommended 3,300–3,900 words**, not 4,500–5,000.
+
+The reader-quality checklist (items 8–13) is now part of the skill. Run it as a separate pass from the accuracy review.
