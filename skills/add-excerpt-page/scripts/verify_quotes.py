@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-Verify every blockquote excerpt in concepts/*.md and people/*.md is real
-text from its cited source, not a paraphrase or fabrication.
+Verify every blockquote excerpt in concepts/*.md and people/*.md (and in
+book summary pages, works/*.md pages that set `works:`) is real text from
+its cited source, not a paraphrase or fabrication.
 
 Why this exists: a page was found (2026-08-23) with a fabricated quote —
 a paraphrase formatted as a verbatim blockquote, attribution line and all.
@@ -12,7 +13,10 @@ something a reader (or a future editing pass) has to trust.
 Usage:
     python3 skills/add-excerpt-page/scripts/verify_quotes.py [file-or-glob ...]
 
-    No arguments: checks every file in concepts/*.md and people/*.md.
+    No arguments: checks every file in concepts/*.md and people/*.md, plus
+    every works/*.md page whose frontmatter sets `works:` (the book summary
+    pages). Works pages without `works:` are short bibliographic entries
+    with no excerpts, so they're skipped rather than reported as failures.
     Exit code 0 if every quote passes, 1 if any quote fails.
 
 How matching works: each quote is checked against the full text of every
@@ -218,14 +222,31 @@ def check_file(path: Path) -> list[str]:
     return failures
 
 
+def is_summary_page(path: Path) -> bool:
+    """A works/ page is checked only if it sets `works:` (book summary
+    pages do; plain bibliographic works pages don't and have no quotes)."""
+    return bool(parse_frontmatter_works(path.read_text()))
+
+
 def main(argv: list[str]) -> int:
     if argv:
         files = [Path(p) for pattern in argv for p in glob.glob(pattern)]
+        # an explicit works/ argument without `works:` is skipped, not
+        # failed (e.g. `works/*.md` as a glob)
+        files = [
+            f for f in files
+            if f.parent.name != "works" or is_summary_page(f)
+        ]
     else:
         files = [
             Path(p)
             for p in glob.glob("concepts/*.md") + glob.glob("people/*.md")
             if not p.endswith("index.md")
+        ]
+        files += [
+            Path(p)
+            for p in glob.glob("works/*.md")
+            if not p.endswith("index.md") and is_summary_page(Path(p))
         ]
 
     all_failures = []
