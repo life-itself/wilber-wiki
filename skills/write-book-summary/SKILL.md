@@ -31,7 +31,7 @@ Keep the frontmatter. Add `works: [<own-slug>]` so `verify_quotes.py` checks the
 8. `## Concepts in this book`. A grouped list of the concept pages that draw on this book, each with a one-line note on its role here. Check `works:` frontmatter in `concepts/` to find them. `## People`: the main interlocutors, linked to people pages, a short curated list.
 9. `## Publication history` (existing facts, kept) and `## Notes` (kept as is, including any link to Rufus's notes).
 
-Target total: 2,500–4,500 words. Write in plain prose that a newcomer can follow: define Wilber's terms the first time they appear, or link the concept page.
+Target total: 2,500–4,500 words. The Concepts and People lists are long by necessity (SES's runs to ~500 words), so a page slightly over the total because of them is fine; the prose sections should stay inside their own ranges. Write in plain prose that a newcomer can follow: define Wilber's terms the first time they appear, or link the concept page.
 
 ## Mechanics
 

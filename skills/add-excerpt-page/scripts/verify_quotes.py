@@ -232,11 +232,15 @@ def main(argv: list[str]) -> int:
     if argv:
         files = [Path(p) for pattern in argv for p in glob.glob(pattern)]
         # an explicit works/ argument without `works:` is skipped, not
-        # failed (e.g. `works/*.md` as a glob)
-        files = [
+        # failed (e.g. `works/*.md` as a glob). Say so, so a summary page
+        # that has lost its `works:` line isn't silently reported as PASS.
+        skipped = [
             f for f in files
-            if f.parent.name != "works" or is_summary_page(f)
+            if f.parent.name == "works" and not is_summary_page(f)
         ]
+        for f in skipped:
+            print(f"SKIPPED (no `works:` frontmatter): {f}", file=sys.stderr)
+        files = [f for f in files if f not in skipped]
     else:
         files = [
             Path(p)

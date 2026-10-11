@@ -57,4 +57,12 @@ Rufus accepted all five recommendations: extend the existing works pages; a sepa
 
 ## Lessons from the pilot
 
-_(Filled in by `wilberwiki-o1s.4` after the SES review.)_
+From the independent review of the SES page (`wilberwiki-o1s.4`). The pilot was sound: all 8 key passages verified, and about 50 of the ~55 cited claims checked were at the right location. The fixes were small, but they show what to watch for:
+
+- **Short quoted phrases in prose drift.** The verifier only checks blockquotes, so inline quotes aren't covered. Grep each one against the full text before finishing. Typical slips: capitalising a quote's first word to start a sentence ("Where the Ego camps…" for "where…"), and paraphrases set in quotation marks or near-quotes ("the deepest Western dualism" for "the great dualism of all dualisms").
+- **Don't let a paraphrase sharpen the claim.** "Derrida's deconstruction, read as discovering the IOU principle" became "another approach to the IOU principle", which is what the note says. "Two more tenets" became "two more additions", which is Wilber's own term. Prefer the source's word for things.
+- **Context and Publication history attract outside facts.** The pilot added publication years (*Transformations of Consciousness* 1986, an ebook dated 2011) that aren't in the text. The Preface only says "completed in 1984". Either cite a source for such facts or leave them out.
+- **"Most disputed" and similar claims need a source.** In What's contested, either link an external critic or point to the place where Wilber himself answers the objection (e.g. "a few critics have objected", ch. 4; the reply to feminist critics, ch. 5, note 12). When linking a critique, describe its actual thesis (fetch it); don't characterise it from its table of contents.
+- **Find notes by their markers.** In SES each chapter's notes start at a `CHAPTER N. TITLE` line in the Notes section, and each note begins `[^cNN-cMMrK].`, where K is the note number. A small script that maps a line number to "ch. X" or "ch. X, note K", and greps phrases, made checking about 60 claims quick. IP and IS headings carry chapter numbers, so they're simpler.
+- **Gloss technical terms at first use, even in the Overview** (e.g. depth/span, formal-operational, monological reason). The Concepts list doesn't do this job for a newcomer reading straight through.
+- **`verify_quotes.py` now prints `SKIPPED` for an explicit works/ argument without `works:`.** If you see that for your own page, the frontmatter is missing `works: [<slug>]`, and nothing was checked.
