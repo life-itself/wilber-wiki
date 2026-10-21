@@ -3,6 +3,10 @@
   "description": "A concept-first index into Ken Wilber and Integral Theory.",
   "logo": "/assets/wilber-headshot.jpg",
   "favicon": "/assets/wilber-headshot.jpg",
+  "umami": {
+    "websiteId": "9a02e092-6c98-4a37-bab6-9caf5e3fdb9c",
+    "src": "https://umami.lifeitself.org/script.js"
+  },
   "nav": {
     "title": "Wilber Wiki",
     "links": [
