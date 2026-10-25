@@ -1,44 +1,37 @@
 # The Pre/Trans Fallacy, in one picture
 
-Option 05 from the [visual brainstorm gallery](../gallery.html#o5), taken to a polished state. Bead `wilberwiki-clq`. Review candidate only: nothing here is on the site.
+Option 05 from the [visual brainstorm gallery](../gallery.html#o5), rebuilt on 2026-10-25 in the shared [design language](../design-language/README.md). Bead `wilberwiki-clq`. Review candidate only: nothing here is on the site.
 
 ## What it is
 
-A poster-format explainer (portrait, 960 × 1270 drawing units) of Wilber's pre/trans fallacy. Left: the three bands of development (prerational, rational, transrational) with his "pre-ego → ego → trans-ego" axis. Right: what "the untutored eye" sees, only two bins, rational and nonrational, with both the prerational and the transrational landing in the second. Inside the spectrum, two arrows mark the two errors: reductionism (Freud) reads trans down as pre; elevationism (Jung) reads pre up as trans. Three verbatim passages sit beneath the diagram.
+One SVG source, two outputs. The static image is a 1200 × 800 landscape canvas: title block, then the three bands of development on the left (prerational, rational, transrational, with Wilber's "pre-ego → ego → trans-ego" axis), the untutored eye's two bins on the right (rational, nonrational) with dashed feeds showing the outer two bands landing in one bin, the two errors drawn as arrows along the spectrum's edges (reductionism down, elevationism up), and two verbatim passages with locators at the bottom. The animated version plays in four steps and settles on exactly that frame: (1) the bands; (2) the eye's bins appear and ghost copies of the transrational and prerational bands fly into the nonrational bin while the feeds fade in; (3) reductionism draws in; (4) elevationism draws in; (5) the passages and footer.
 
-Files: `index.html` (the page: poster, text alternative, faithfulness notes, sources), `pre-trans-fallacy.svg` (static export of the same drawing, self-contained, light palette with a dark `prefers-color-scheme` override).
+Files: `source.svg` (the drawing, authored in its settled state), `page.html` (the page template), and the generated outputs `index.html`, `pre-trans-fallacy.svg`, `pre-trans-fallacy.png` (2400 × 1600), `pre-trans-fallacy-og.png` (1200 × 630, the top of the canvas), `pre-trans-fallacy-square.png` (1080 × 1080, letterboxed). Regenerate with `python3 ../design-language/export.py pre-trans-fallacy`.
 
 ## Sources
 
 All quoted text is verbatim from `library/1995-sex-ecology-spirituality-full-text.md` (revised second edition text). Line numbers are for that file.
 
-- "The essence of the pre/trans fallacy is itself fairly simple: since both prerational states and transrational states are, in their own ways, nonrational, they appear similar or even identical to the untutored eye." — SES ch. 6, line 2551.
-- "Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy. And the point is that they are *both* half right and half wrong." — SES ch. 6, line 2561.
-- "You have to be somebody before you can be nobody." — Jack Engler, quoted by Wilber in SES ch. 14 note, line 8925. The same note contains Wilber's own gloss "pre-ego to ego to trans-ego", used on the axis.
-- Band descriptions (infantile, egocentric, magical, mythic / mystical, contemplative, postformal) follow `concepts/pre-trans-fallacy.md`, which summarises SES ch. 6. They are labels in the wiki's words, not quotations.
+- "The essence of the pre/trans fallacy is itself fairly simple: since both prerational states and transrational states are, in their own ways, nonrational, they appear similar or even identical to the untutored eye." — SES ch. 6, line 2551. On the canvas and the page; the fragment "they appear similar or even identical" is also set inside the nonrational bin.
+- "Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy. And the point is that they are *both* half right and half wrong." — SES ch. 6, line 2561. On the canvas and the page.
+- "pre-ego to ego to trans-ego" — SES ch. 14 note, line 8925 (Wilber's gloss beside the Engler quotation). The axis label.
+- Band descriptions (infantile, egocentric, magical, mythic / mystical, contemplative, postformal) follow `concepts/pre-trans-fallacy.md`, which summarises SES ch. 6. They are labels in the wiki's words, set in sans.
 - Essay history (ReVision 1980, Eye to Eye 1983): `docs/plans/2026-10-09-pre-trans-fallacy-essay-source.md`. The essay is not in `library/`, so nothing is quoted from it.
 
 ## Faithfulness
 
-Wilber's: the three bands and their names; the pre-ego/ego/trans-ego sequence; the resemblance claim and the phrase "untutored eye"; the two fallacies, their names and direction; Freud and Jung as the paradigm pair; "both half right and half wrong"; the Engler line.
+Wilber's: the three bands and their names; pre-ego/ego/trans-ego; the resemblance claim and "untutored eye"; the two fallacies, their names and directions; Freud and Jung as the pair; "both half right and half wrong".
 
-Ours: the two-bin "eye" as a picture of his resemblance sentence; the fallacy arrows drawn along the spectrum's edges; the one-line band descriptions; type and colour. The poster says so in its footer. It does not reproduce any published figure; the pre/trans essay's own diagrams (if any) were not consulted.
+Ours, marked ◇ on the canvas: the two-bin "eye" as a picture of his resemblance sentence; the collapse animation (the outer bands flying into the bin); the fallacy arrows along the spectrum's edges; the one-line band descriptions. The footer says "◇ marks this wiki's own device". No published figure was reproduced.
 
-Left out on purpose: Campbell and Eco-Romanticism (SES's extended cases), the "oceanic" Freud detail, and any attribution of either error to people or movements beyond the two Wilber names in the quoted sentence.
+Changes from the first build: landscape instead of portrait (so the OG crop keeps title and figure); both fallacies in the fallacy colour rather than amber/rose (they are the same kind of error); the Engler line ("You have to be somebody before you can be nobody") moved from the canvas to the page, because it is Engler's sentence from a footnote and the canvas should carry only Wilber's; band descriptions in sans, quotations in serif, per the language.
 
 ## How it would integrate into the site
 
-Flowershow renders raw HTML inside markdown and loads site-wide CSS/JS via `config.json` `head` (precedent: `assets/roadmap/roadmap.css`, `assets/annotator/`). Three options, cheapest first:
-
-1. **Static image.** Copy `pre-trans-fallacy.svg` to `assets/visuals/pre-trans-fallacy.svg` and embed it at the top of `concepts/pre-trans-fallacy.md` with a plain `<img>` (or `![]()`), `alt` set to the text alternative. Dark mode: the SVG carries a `prefers-color-scheme` media query, which works when the file is referenced via `<img>` in current browsers, but it tracks the OS setting rather than Flowershow's `data-theme` toggle. Acceptable for a first ship; see open question 2.
-2. **Inline SVG + scoped stylesheet.** Paste the `<svg>` into the concept page inside a `<div class="wv-root">`, add `assets/visuals/visuals.css` defining the `.wv-root svg .f-*`/`.s-*`/`.t-*` classes with `html[data-theme="dark"]` overrides (the pattern `roadmap.css` already uses), and register it in `head`. Follows the site theme toggle exactly. The CSS in `index.html` under `.poster svg` is the stylesheet to lift.
-3. **Open Graph card.** A 1200 × 630 crop (title + the two columns, no quotes) exported to PNG for `og:image`, if Flowershow allows a per-page image (`wilberwiki-4qc`).
-
-The text alternative in `index.html` should travel with it, either as `alt` or as a `<details>` under the figure.
+See the design-language README, "Embedding in Flowershow". Static first: `pre-trans-fallacy.svg` or `.png` as an `<img>` at the top of `concepts/pre-trans-fallacy.md`, `alt` from the text alternative on the page. Animated: the figure block from `page.html` pasted as raw HTML, with `visuals.css` and `wv-motion.js` registered in `config.json` `head`. The OG crop is the candidate `og:image` for that page (`wilberwiki-4qc`, pending a check that Flowershow allows a per-page image).
 
 ## Open questions for Rufus
 
-1. Is the two-bin "eye" device acceptable as a labelled interpretation, or should the right-hand column be dropped so the poster shows only Wilber's own elements (three bands and two arrows)?
-2. Ship as a static `<img>` first (OS-level dark mode only) or go straight to inline SVG with a scoped stylesheet (site toggle respected, more plumbing)?
-3. Should the Engler quotation stay? It's the most quotable line, but it comes from a footnote and is Engler's sentence, not Wilber's.
-4. Whether to pull the 1980 essay into `library/` eventually so the poster can cite the original rather than SES.
+1. Is the collapse animation (ghost bands flying into the bin) a help or a gimmick? The static frame does not depend on it.
+2. Keep the Engler line off the canvas?
+3. Same-colour fallacies: readable enough, or bring back a second hue?

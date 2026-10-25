@@ -1,0 +1,295 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wilber Visual Language</title>
+<meta name="description" content="The shared design language for the Wilber Wiki visual series, shown on real pieces: palette, type, stroke vocabulary, quotation and interpretation marks, motion, share-card crops, and the two rebuilt pieces with their static and animated outputs.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="visuals.css">
+<script defer src="wv-motion.js"></script>
+<style>
+:root { --page-bg: #f8f6f1; --page-ink: #1c1917; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --page-bg: #121110; --page-ink: #f0ebe3; } }
+:root[data-theme="dark"] { --page-bg: #121110; --page-ink: #f0ebe3; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page-bg); color: var(--page-ink); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 72rem; margin: 0 auto; padding: 0 16px; }
+header.hero { padding: 3rem 0 1.6rem; border-bottom: 1px solid var(--wv-line); }
+.eyebrow { font-size: 0.74rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--wv-muted); font-weight: 600; }
+h1 { font-family: var(--wv-serif); font-weight: 600; font-size: clamp(2rem, 5vw, 3.1rem); line-height: 1.05; margin: 0.4rem 0 0.8rem; letter-spacing: -0.01em; }
+.lede { font-size: 1.08rem; color: var(--wv-ink-soft); max-width: 48rem; margin: 0 0 0.8rem; }
+a { color: var(--wv-accent); }
+nav.toc { font-size: 0.9rem; padding: 1rem 0; border-bottom: 1px solid var(--wv-line); display: flex; flex-wrap: wrap; gap: 0.4rem 1.2rem; }
+nav.toc a { color: var(--wv-ink); text-decoration: none; border-bottom: 1px solid var(--wv-line-strong); }
+section { padding: 2.4rem 0 1rem; border-bottom: 1px solid var(--wv-line); }
+section h2 { font-family: var(--wv-serif); font-weight: 600; font-size: 1.8rem; margin: 0 0 0.3rem; }
+section > p { color: var(--wv-ink-soft); max-width: 48rem; }
+h3 { font-family: var(--wv-serif); font-weight: 600; font-size: 1.15rem; margin: 1.4rem 0 0.4rem; }
+code { font-family: var(--wv-mono); font-size: 0.85em; background: var(--wv-neutral-fill); padding: 0.05em 0.35em; border-radius: 4px; }
+.card { background: var(--wv-surface); border: 1px solid var(--wv-line); border-radius: 12px; padding: 1rem 1.1rem; }
+.card svg { display: block; width: 100%; height: auto; }
+
+/* swatches */
+.sw { display: grid; grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr)); gap: 0.8rem; margin: 1rem 0; }
+.sw > div { border: 1px solid var(--wv-line); border-radius: 10px; overflow: hidden; background: var(--wv-surface); font-size: 0.8rem; }
+.sw .chip { height: 4.2rem; display: flex; align-items: flex-end; padding: 0.5rem 0.7rem; font-weight: 600; font-size: 0.95rem; }
+.sw .meta { padding: 0.5rem 0.7rem 0.6rem; color: var(--wv-ink-soft); line-height: 1.45; }
+.sw .meta b { color: var(--wv-ink); display: block; }
+.sw .fill { height: 1.2rem; }
+.sw .ink-ink .chip { background: var(--wv-ink); color: var(--wv-paper); }
+.sw .ink-soft .chip { background: var(--wv-ink-soft); color: var(--wv-paper); }
+.sw .ink-muted .chip { background: var(--wv-muted); color: var(--wv-paper); }
+.sw .ink-paper .chip { background: var(--wv-paper); color: var(--wv-ink); }
+.sw .ink-surface .chip { background: var(--wv-surface); color: var(--wv-ink); border-bottom: 1px solid var(--wv-line); }
+.sw .ink-line .chip { background: var(--wv-line-strong); color: var(--wv-ink); }
+.sw .r-level .chip { background: var(--wv-level); color: var(--wv-paper); } .sw .r-level .fill { background: var(--wv-level-fill); }
+.sw .r-state .chip { background: var(--wv-state); color: var(--wv-paper); } .sw .r-state .fill { background: var(--wv-state-fill); }
+.sw .r-fallacy .chip { background: var(--wv-fallacy); color: var(--wv-paper); } .sw .r-fallacy .fill { background: var(--wv-fallacy-fill); }
+.sw .r-ground .chip { background: var(--wv-ground); color: var(--wv-paper); } .sw .r-ground .fill { background: var(--wv-ground-fill); }
+.sw .r-neutral .chip { background: var(--wv-neutral-fill); color: var(--wv-ink); }
+table { border-collapse: collapse; font-size: 0.86rem; margin: 0.8rem 0; width: 100%; max-width: 48rem; }
+th, td { border: 1px solid var(--wv-line); padding: 0.35rem 0.55rem; text-align: left; vertical-align: top; }
+th { background: var(--wv-neutral-fill); font-weight: 600; }
+
+/* type specimen */
+.spec { display: grid; grid-template-columns: 1fr; gap: 0.6rem; }
+.spec .row { display: grid; grid-template-columns: 9rem minmax(0, 1fr); gap: 1rem; align-items: baseline; padding: 0.45rem 0; border-bottom: 1px dashed var(--wv-line); }
+.spec .row small { color: var(--wv-muted); font-size: 0.78rem; }
+@media (max-width: 560px) { .spec .row { grid-template-columns: minmax(0, 1fr); gap: 0.2rem; } }
+.x-eyebrow { font-size: 0.75rem; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; color: var(--wv-muted); }
+.x-title { font-family: var(--wv-serif); font-weight: 600; font-size: 2.6rem; letter-spacing: -0.02em; line-height: 1.05; }
+.x-sub { font-family: var(--wv-serif); font-style: italic; font-size: 1.2rem; color: var(--wv-ink-soft); }
+.x-name { font-family: var(--wv-serif); font-weight: 600; font-size: 1.7rem; }
+.x-label { font-size: 0.85rem; } .x-label b { font-weight: 600; }
+.x-quote { font-family: var(--wv-serif); font-size: 1rem; }
+.x-loc { font-size: 0.74rem; color: var(--wv-muted); }
+.x-foot { font-size: 0.7rem; color: var(--wv-muted); }
+
+/* pieces */
+.piece { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 1.2rem; align-items: start; margin: 1rem 0 0.6rem; }
+@media (max-width: 860px) { .piece { grid-template-columns: minmax(0, 1fr); } }
+.piece .lab { font-size: 0.74rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--wv-muted); font-weight: 600; margin: 0 0 0.4rem; }
+.piece img { display: block; width: 100%; height: auto; border: 1px solid var(--wv-line); border-radius: 8px; background: #f8f6f1; }
+.piece iframe { width: 100%; height: 640px; border: 1px solid var(--wv-line); border-radius: 8px; background: var(--wv-surface); }
+@media (max-width: 860px) { .piece iframe { height: 520px; } }
+.crops { display: grid; grid-template-columns: 2fr 1.05fr; gap: 1rem; margin: 0.6rem 0; }
+@media (max-width: 700px) { .crops { grid-template-columns: minmax(0, 1fr); } }
+.crops img { display: block; width: 100%; height: auto; border: 1px solid var(--wv-line); border-radius: 8px; background: #f8f6f1; }
+.crops figcaption { font-size: 0.78rem; color: var(--wv-muted); margin-top: 0.3rem; }
+.crops figure { margin: 0; }
+ol.q li, ul li { color: var(--wv-ink-soft); margin: 0.3rem 0; }
+footer { padding: 1.5rem 0 3rem; font-size: 0.8rem; color: var(--wv-muted); }
+</style>
+</head>
+<body class="wv-root">
+<div class="wrap">
+
+<header class="hero">
+  <div class="eyebrow">wilber.wiki · visual series · design language · 2026-10-25</div>
+  <h1>One language for drawing Wilber</h1>
+  <p class="lede">A shared visual language for the series of Wilber visuals, shown on two real pieces rather than described. Serif is the book's voice, sans is the wiki's; four colour roles carry the meaning; every piece is one SVG source with a static image and an animation that settles on it. The written spec is <a href="README.md">README.md</a>; the twelve directions it will apply to are in the <a href="../gallery.html">options gallery</a>.</p>
+</header>
+
+<nav class="toc" aria-label="Sections">
+  <a href="#palette">Palette</a><a href="#type">Type</a><a href="#strokes">Strokes and arrows</a><a href="#voices">Label · quotation · ours</a><a href="#motion">Motion</a><a href="#crops">Share crops</a><a href="#piece-ptf">Piece: pre/trans</a><a href="#piece-sas">Piece: states off the ladder</a><a href="#embed">Embedding</a><a href="#questions">Open questions</a>
+</nav>
+
+<!-- ============================================================ palette -->
+<section id="palette">
+  <h2>Palette: four roles and a neutral</h2>
+  <p>Colour carries meaning, not decoration. A hue appears in a figure only when the thing it marks is in the figure. Tokens follow the site's theme toggle (<code>html[data-theme="dark"]</code>) and fall back to the OS setting; this page is showing the <span id="theme-name">current</span> theme. Every text role passes 4.5:1 on paper and surface in both themes (<code>contrast.py</code>).</p>
+  <div class="sw">
+    <div class="r-level"><div class="chip">level</div><div class="fill"></div><div class="meta"><b>structures, stages, levels, the "higher"</b>indigo · 7.3:1 light, 9.5:1 dark</div></div>
+    <div class="r-state"><div class="chip">state</div><div class="fill"></div><div class="meta"><b>states of consciousness · site accent</b>amber · 4.7:1 light, 10:1 dark</div></div>
+    <div class="r-fallacy"><div class="chip">fallacy</div><div class="fill"></div><div class="meta"><b>errors, pathologies, collapse</b>madder · 5.8:1 light, 7:1 dark</div></div>
+    <div class="r-ground"><div class="chip">ground</div><div class="fill"></div><div class="meta"><b>the prerational, body, nature, the "lower"</b>teal · 5.1:1 light, 10.4:1 dark</div></div>
+    <div class="r-neutral"><div class="chip">neutral fill</div><div class="meta"><b>anything carrying no role</b>5.5% / 7.5% ink</div></div>
+    <div class="ink-ink"><div class="chip">ink</div><div class="meta"><b>text, structure</b>16:1</div></div>
+    <div class="ink-soft"><div class="chip">ink-soft</div><div class="meta"><b>secondary text</b>7.1:1 / 8.8:1</div></div>
+    <div class="ink-muted"><div class="chip">muted</div><div class="meta"><b>locators, footers, our notes</b>5.1:1 / 5.9:1</div></div>
+    <div class="ink-line"><div class="chip">line-strong</div><div class="meta"><b>rules, hairlines</b>with <code>line</code> for faint grid</div></div>
+    <div class="ink-surface"><div class="chip">surface</div><div class="meta"><b>figure ground</b></div></div>
+    <div class="ink-paper"><div class="chip">paper</div><div class="meta"><b>page ground</b></div></div>
+  </div>
+  <p>Decisions: the two fallacies in the pre/trans piece share one colour, because they are the same kind of thing; the first build coloured them differently and it read as a ranking. "State" shares the site's amber so the series feels native to wilber.wiki, so a figure never uses amber for both a state and a highlight. Rejected: Wilber's own altitude rainbow for levels (imports a late-Wilber convention into every figure, unreadable in dark mode) and monochrome (loses the state/structure distinction the states piece exists to make).</p>
+</section>
+
+<!-- ============================================================ type -->
+<section id="type">
+  <h2>Type: the book's voice and the wiki's voice</h2>
+  <p><strong>Fraunces</strong> (serif) for titles, the names of Wilber's terms, and every verbatim quotation. <strong>Inter</strong> (sans) for labels, headers, locators, footers, controls and our notes. The reader learns without being told: serif is Wilber's words or his named things, sans is our apparatus.</p>
+  <div class="card">
+    <div class="spec">
+      <div class="row"><small>t-eyebrow · 12 tracked caps</small><div class="x-eyebrow">Wilber wiki · a concept in one picture</div></div>
+      <div class="row"><small>t-title · serif 46</small><div class="x-title">The Pre/Trans Fallacy</div></div>
+      <div class="row"><small>t-sub · serif italic 19</small><div class="x-sub">Why what comes before reason gets mistaken for what comes after it.</div></div>
+      <div class="row"><small>t-name · serif 28</small><div class="x-name">transrational</div></div>
+      <div class="row"><small>t-label · sans 13</small><div class="x-label">mystical · contemplative · postformal &nbsp; <b>a state · waking</b></div></div>
+      <div class="row"><small>t-quote-s · serif 14 + t-loc</small><div><div class="x-quote">“Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.”</div><div class="x-loc">Ken Wilber, <em>Sex, Ecology, Spirituality</em> (1995), ch. 6</div></div></div>
+      <div class="row"><small>t-ours · sans italic 11</small><div><span class="wv-ours">the two-bin picture is this wiki's device for Wilber's sentence</span></div></div>
+      <div class="row"><small>t-foot · sans 10.5</small><div class="x-foot">Redrawn from Wilber's description for wilber.wiki; not a reproduction of a published figure.</div></div>
+    </div>
+  </div>
+</section>
+
+<!-- ============================================================ strokes -->
+<section id="strokes">
+  <h2>Strokes and arrows</h2>
+  <p>Four weights, three patterns, and a rule about arrows: a marker goes on a line only when the source gives the direction.</p>
+  <div class="card">
+    <svg viewBox="0 0 900 370" role="img" aria-label="Stroke specimen: four weights (hairline 1, structure 1.5, path 2.5, arc 3.5); three patterns (solid for Wilber's own structure, dashed for a relation we draw, dotted for absence or uncertainty); and an arrow example with the rule that arrows appear only when the source gives a direction.">
+      <defs><marker id="dl-m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="c-fallacy"/></marker></defs>
+      <text x="20" y="30" class="t-head">WEIGHTS</text>
+      <line x1="20" y1="60" x2="300" y2="60" class="s-ink w-hair"/><text x="320" y="64" class="t-small t-soft">w-hair 1 · outlines, grid, rules</text>
+      <line x1="20" y1="100" x2="300" y2="100" class="s-ink w-struct"/><text x="320" y="104" class="t-small t-soft">w-struct 1.5 · axes, connectors</text>
+      <line x1="20" y1="140" x2="300" y2="140" class="s-fallacy w-path"/><text x="320" y="144" class="t-small t-soft">w-path 2.5 · a movement or a reading</text>
+      <line x1="20" y1="180" x2="300" y2="180" class="s-level w-arc"/><text x="320" y="184" class="t-small t-soft">w-arc 3.5 · the big arcs</text>
+      <text x="560" y="30" class="t-head">PATTERNS</text>
+      <line x1="560" y1="60" x2="760" y2="60" class="s-ink w-struct k-solid"/><text x="560" y="80" class="t-small t-soft">solid · Wilber's own structure</text>
+      <line x1="560" y1="110" x2="760" y2="110" class="s-ink w-struct k-dash"/><text x="560" y="130" class="t-small t-soft">dashed · a relation we draw to explain him</text>
+      <line x1="560" y1="160" x2="760" y2="160" class="s-ink w-struct k-dot"/><text x="560" y="180" class="t-small t-soft">dotted · absence, unpublished, unverified</text>
+      <text x="20" y="236" class="t-head">ARROWS</text>
+      <path d="M20 270 C 120 240, 180 300, 300 268" class="nf s-fallacy w-path" marker-end="url(#dl-m)"/>
+      <text x="320" y="272" class="t-small t-soft">only when the text gives a direction: "reads down", Ascent, "transcends and includes"</text>
+      <text x="20" y="318" class="t-head">NEVER</text>
+      <line x1="20" y1="348" x2="300" y2="348" class="s-line w-struct k-dot"/>
+      <text x="320" y="352" class="t-small t-soft">a line between two books or two concepts to suggest influence or derivation</text>
+    </svg>
+  </div>
+</section>
+
+<!-- ============================================================ voices -->
+<section id="voices">
+  <h2>Label, verbatim quotation, marked interpretation</h2>
+  <p>Three kinds of text, three looks, on the canvas and on the page. A quotation is always serif in curly quotes with a sans locator under it; the line number of the <code>library/</code> text lives on the page, not the canvas. Anything that is our device or our judgement is sans italic muted with a ◇ in front, and the footer explains the mark once.</p>
+  <div class="card">
+    <svg viewBox="0 0 900 230" role="img" aria-label="Specimen of the three text roles as they appear on a canvas: a sans label, a serif quotation with its locator, and a marked interpretation prefixed with a diamond.">
+      <rect x="20" y="20" width="260" height="90" class="f-ground s-ground w-hair"/>
+      <text x="150" y="60" text-anchor="middle" class="t-name-s">prerational</text>
+      <text x="150" y="84" text-anchor="middle" class="t-label t-soft">infantile · egocentric · magical · mythic</text>
+      <text x="20" y="140" class="t-mark">LABEL · sans · our description</text>
+      <text x="320" y="48" class="t-quote-s">“Freud was a reductionist, Jung an elevationist—the two sides</text>
+      <text x="320" y="68" class="t-quote-s">of the pre/trans fallacy.”</text>
+      <text x="320" y="90" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
+      <text x="320" y="140" class="t-mark">QUOTATION · serif · verbatim, with locator</text>
+      <text x="20" y="186" class="t-ours">◇ the two-bin picture is this wiki's device for Wilber's sentence</text>
+      <text x="20" y="214" class="t-mark">INTERPRETATION · sans italic · marked ◇</text>
+      <text x="480" y="186" class="t-foot">Sources: SES ch. 6 · redrawn for wilber.wiki; not a reproduction · ◇ marks our device</text>
+      <text x="480" y="214" class="t-mark">FOOTER · sources and the ◇ key</text>
+    </svg>
+  </div>
+</section>
+
+<!-- ============================================================ motion -->
+<section id="motion">
+  <h2>Motion: an animation always settles on the static frame</h2>
+  <p>The source SVG is authored in its settled state; earlier steps only subtract. Four appearance verbs (<code>wv-fade</code>, <code>wv-draw</code>, <code>wv-move</code>, <code>wv-ghost</code>) on elements with <code>data-at="k"</code>. Fade 420 ms, move 900 ms, draw 700 ms, ease <code>cubic-bezier(.4,0,.2,1)</code>. With <code>prefers-reduced-motion</code> the steps become cuts and Play jumps to the end; without JS the markup is already the settled frame. Try it:</p>
+  <div data-wv-steps="3" data-step="3" data-wv-dur="1300" aria-label="Motion demo">
+    <div class="wv-controls" data-wv-controls></div>
+    <figure class="wv-figure">
+      <div class="wv-frame">
+        <svg viewBox="0 0 900 220" role="img" aria-label="Motion demo: a box fades in, a path draws in with an arrow, a ghost copy of the box flies to a second position where the real second box fades in.">
+          <defs><marker id="md-m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="c-fallacy"/></marker></defs>
+          <text x="20" y="30" class="t-head">STEP 1 · FADE</text>
+          <rect x="20" y="50" width="200" height="60" rx="6" class="f-level s-level w-hair wv-fade" data-at="1"/>
+          <text x="120" y="86" text-anchor="middle" class="t-label-b wv-fade" data-at="1">a structure</text>
+          <text x="320" y="30" class="t-head">STEP 2 · DRAW</text>
+          <path d="M320 80 C 400 40, 460 120, 540 80" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="2" marker-end="url(#md-m)"/>
+          <text x="320" y="130" class="t-small c-fallacy wv-fade" data-at="2">a reading, drawn in</text>
+          <text x="620" y="30" class="t-head">STEP 3 · GHOST + FADE</text>
+          <rect x="20" y="50" width="200" height="60" rx="6" class="wv-ghost f-state s-state w-hair" data-at="3" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(600px, 100px) scale(0.6, 1);"/>
+          <rect x="620" y="150" width="120" height="60" rx="6" class="f-state s-state w-hair wv-fade" data-at="3" style="transition-delay: 600ms"/>
+          <text x="680" y="186" text-anchor="middle" class="t-label-b wv-fade" data-at="3" style="transition-delay: 600ms">a state</text>
+          <text x="620" y="60" class="t-small t-soft wv-fade" data-at="3" style="transition-delay: 600ms">a copy flies, then the real thing appears</text>
+        </svg>
+      </div>
+      <figcaption data-wv-caption>
+        <span data-cap="0">Empty canvas.</span>
+        <span data-cap="1">Fade: opacity over 420 ms.</span>
+        <span data-cap="2">Draw: the stroke draws in over 700 ms (solid paths only; dashed lines fade instead).</span>
+        <span data-cap="3">Ghost: a copy flies for 900 ms and vanishes; the real element fades in behind it. This is the settled frame.</span>
+      </figcaption>
+    </figure>
+  </div>
+  <table>
+    <tr><th>token</th><th>value</th><th>used for</th></tr>
+    <tr><td><code>--wv-t-fade</code></td><td>420 ms</td><td>opacity</td></tr>
+    <tr><td><code>--wv-t-move</code></td><td>900 ms</td><td>transforms, ghost flights</td></tr>
+    <tr><td><code>--wv-t-draw</code></td><td>700 ms</td><td>stroke-dashoffset</td></tr>
+    <tr><td><code>--wv-stagger</code></td><td>90 ms</td><td>row-by-row delays (set inline)</td></tr>
+    <tr><td><code>data-wv-dur</code></td><td>1300–1700 ms</td><td>interval between steps on Play; a piece plays in under 8 s</td></tr>
+  </table>
+</section>
+
+<!-- ============================================================ crops -->
+<section id="crops">
+  <h2>Share crops</h2>
+  <p>The series canvas is 1200 × 800. The Open Graph crop is its top 1200 × 630 (title and figure, no passages); the square is the full canvas letterboxed. Both are viewBox crops declared on the SVG root and rendered by <code>export.py</code>, so they never drift from the source.</p>
+  <div class="crops">
+    <figure><img src="../pre-trans-fallacy/pre-trans-fallacy-og.png" alt="Open Graph crop of the pre/trans fallacy piece" loading="lazy"><figcaption>pre-trans-fallacy-og.png · 1200 × 630</figcaption></figure>
+    <figure><img src="../pre-trans-fallacy/pre-trans-fallacy-square.png" alt="Square crop of the pre/trans fallacy piece" loading="lazy"><figcaption>pre-trans-fallacy-square.png · 1080 × 1080</figcaption></figure>
+    <figure><img src="../states-and-stages/states-and-stages-og.png" alt="Open Graph crop of the states off the ladder piece" loading="lazy"><figcaption>states-and-stages-og.png · 1200 × 630</figcaption></figure>
+    <figure><img src="../states-and-stages/states-and-stages-square.png" alt="Square crop of the states off the ladder piece" loading="lazy"><figcaption>states-and-stages-square.png · 1080 × 1080</figcaption></figure>
+  </div>
+</section>
+
+<!-- ============================================================ piece 1 -->
+<section id="piece-ptf">
+  <h2>Piece: the pre/trans fallacy</h2>
+  <p>Rebuilt in the language, now with an animation: the bands, then the untutored eye's two bins with the outer bands collapsing into one, then reductionism, then elevationism, then the passages. Left, the static export; right, the live page (<a href="../pre-trans-fallacy/index.html">open it</a>, <a href="../pre-trans-fallacy/README.md">README</a>).</p>
+  <div class="piece">
+    <div><p class="lab">Static · pre-trans-fallacy.png</p><a href="../pre-trans-fallacy/pre-trans-fallacy.png"><img src="../pre-trans-fallacy/pre-trans-fallacy.png" alt="The pre/trans fallacy, static poster: three bands of development on the left, the untutored eye's two bins on the right, with the two errors drawn as arrows and two quotations below." loading="lazy"></a></div>
+    <div><p class="lab">Animated · the same source on its page</p><iframe src="../pre-trans-fallacy/index.html" title="The pre/trans fallacy, animated page" loading="lazy"></iframe></div>
+  </div>
+</section>
+
+<!-- ============================================================ piece 2 -->
+<section id="piece-sas">
+  <h2>Piece: states off the ladder</h2>
+  <p>Rebuilt as a before/after diptych that is also the settled frame of the animation: the 2000 ladder stays on the left while copies of its four top rungs fly off to become the state headers and its six lower rungs become the rows of the 2006 lattice. Left, the static export; right, the live page (<a href="../states-and-stages/index.html">open it</a>, <a href="../states-and-stages/README.md">README</a>).</p>
+  <div class="piece">
+    <div><p class="lab">Static · states-and-stages.png</p><a href="../states-and-stages/states-and-stages.png"><img src="../states-and-stages/states-and-stages.png" alt="States off the ladder, static diptych: the Integral Psychology ladder on the left, the Integral Spirituality lattice of stages by states on the right, a quotation and a note below." loading="lazy"></a></div>
+    <div><p class="lab">Animated · the same source on its page</p><iframe src="../states-and-stages/index.html" title="States off the ladder, animated page" loading="lazy"></iframe></div>
+  </div>
+</section>
+
+<!-- ============================================================ embed -->
+<section id="embed">
+  <h2>Embedding in Flowershow</h2>
+  <ul>
+    <li>Copy <code>visuals.css</code> and <code>wv-motion.js</code> to <code>assets/visuals/</code> and add them to <code>config.json</code> <code>head</code> exactly as the roadmap stylesheet and the annotator script are loaded today. Everything is scoped under <code>.wv-root</code>; the script returns at once when no <code>[data-wv-steps]</code> is on the page.</li>
+    <li>In a markdown page, paste the piece's figure block as raw HTML (the <code>&lt;div class="wv-root" data-wv-steps…&gt;</code> from its <code>page.html</code>, with <code>source.svg</code> inside). Dark mode follows <code>html[data-theme="dark"]</code>.</li>
+    <li>For a header image or a share card use the exported SVG or PNG with an <code>&lt;img&gt;</code>; the standalone SVG carries its own tokens.</li>
+    <li>Edit <code>source.svg</code> and <code>page.html</code>, run <code>python3 design-language/export.py</code>, never edit the outputs.</li>
+  </ul>
+</section>
+
+<!-- ============================================================ questions -->
+<section id="questions">
+  <h2>Open questions for Rufus</h2>
+  <ol class="q">
+    <li>Serif for Wilber's words, sans for ours: keep as a rule for the whole series?</li>
+    <li>Both fallacies in one colour (madder) rather than the earlier amber/rose pair: more principled, but is it less readable?</li>
+    <li>Light-only PNG exports, or also dark variants?</li>
+    <li>The square is letterboxed rather than recomposed; a true square layout would mean a second arrangement per piece. Acceptable?</li>
+    <li>The pre/trans canvas no longer carries the Engler line; it is on the page. Keep it off the image?</li>
+    <li>Is the ladder → lattice animation an honest picture given that <em>Integral Psychology</em> already states the caveat? Both passages and the ◇ note are on the canvas; an alternative is a static diptych with no motion.</li>
+  </ol>
+</section>
+
+<footer>Working document in <code>docs/plans/visual-brainstorm/design-language/</code>, excluded from production. Nothing here is on the site.</footer>
+
+</div>
+<script>
+(function () {
+  var el = document.getElementById('theme-name'); if (!el) return;
+  var t = document.documentElement.getAttribute('data-theme');
+  var dark = t ? t === 'dark' : (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches);
+  el.textContent = dark ? 'dark' : 'light';
+})();
+</script>
+</body>
+</html>
