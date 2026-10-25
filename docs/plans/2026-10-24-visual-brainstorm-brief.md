@@ -106,3 +106,9 @@ Scope for the Fable sub-agent:
 - Final settled position: follow SoR's typography and drawing rules (Apfel Grotezk, no bold, its type scale, line weights, panels, layout and signature position, exports, and the 400px and black-and-white checks). Colour and accent may differ for wilber.wiki. The signature reads wilber.wiki, and SoR is credited.
 - Refined by Rufus: figures are signed with the SoR logo mark plus "WILBER WIKI · SEEDS OF RENAISSANCE" (or similar), bottom right. The type scale may vary from SoR's where it helps.
 - Review artifact for this pass (private): https://claude.ai/artifact/STTg5kwma33B9hXionsBoE. The durable spec is now [`docs/figure-design.md`](../figure-design.md), and `CLAUDE.md` points to it.
+
+### 2026-10-26: back to the earlier design language
+
+- Rufus, after seeing the SoR-based redesign: "personally i think the old diagrams were often diagrammatically much better ... Now i see it i think old approach was better. so just go with it". He also said that curved arrows are fine (SoR only happened to use straight ones), that dark-mode versions are not needed, and that fonts and colours are easy to change at the end.
+- Lesson: "more beauty" was a request to polish, not to restyle. The restrained redesign was clean but cut the diagrammatic content (the "untutored eye" bins, the flying states, the on-canvas quotation), and that content is what made the earlier pieces engaging. Next time, polish the existing pieces before replacing their structure.
+- Action: `visual-brainstorm/` was restored to commit `a64fe8e`. The SoR-based attempt stays in git history at `822a1d3`. Next: fix the earlier nits, drop the dark-mode requirement, add the SoR mark and "WILBER WIKI · SEEDS OF RENAISSANCE" signature, and rewrite `docs/figure-design.md` to describe this language.

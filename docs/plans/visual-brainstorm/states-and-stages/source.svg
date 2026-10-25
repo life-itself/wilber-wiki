@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" data-og="0 0 1200 630" data-square="0 -200 1200 1200" role="img" aria-labelledby="sas-title sas-desc">
+  <title id="sas-title">States off the ladder: Integral Psychology (2000) beside Integral Spirituality (2006)</title>
+  <desc id="sas-desc">Left: a single ladder of ten rungs from Integral Psychology, archaic, magic, mythic, rational, pluralistic, integral, and then psychic, subtle, causal, nondual on top, the top four marked as states. Right: the Wilber-Combs lattice from Integral Spirituality, the six structure-stages up the side and the four states, gross or psychic, subtle, causal, nondual, across the top, twenty-four cells. The four top rungs of the ladder have become the column headers; the six lower rungs have become the row labels. Below, a verbatim passage from Integral Spirituality chapter 4 and a note that Integral Psychology already said states are available at any stage.</desc>
+  <defs>
+    <marker id="sas-m-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="c-ink"/></marker>
+  </defs>
+
+  <!-- title block -->
+  <text x="60" y="48" class="t-eyebrow">WILBER WIKI · WHAT CHANGED BETWEEN TWO BOOKS</text>
+  <text x="60" y="104" class="t-title">States off the ladder</text>
+  <text x="60" y="140" class="t-sub">In 2000 the mystical states sit on top of one developmental ladder. In 2006 the same words name a second axis.</text>
+
+  <!-- step 0: the ladder (Integral Psychology) -->
+  <text x="250" y="178" text-anchor="middle" class="t-head">INTEGRAL PSYCHOLOGY · 2000</text>
+  <line x1="126" y1="624" x2="126" y2="212" class="s-ink w-struct" marker-end="url(#sas-m-ink)"/>
+  <text transform="translate(110 416) rotate(-90)" text-anchor="middle" class="t-small t-mute" letter-spacing="1">higher structures</text>
+
+  <g id="ladder">
+    <g class="rung-state"><rect x="150" y="206" width="200" height="38" rx="6" class="f-state s-state w-hair"/><text x="250" y="222" text-anchor="middle" class="t-label-b">nondual</text><text x="250" y="236" text-anchor="middle" class="t-foot">a structure, on the ladder</text></g>
+    <g class="rung-state"><rect x="150" y="248" width="200" height="38" rx="6" class="f-state s-state w-hair"/><text x="250" y="264" text-anchor="middle" class="t-label-b">causal</text><text x="250" y="278" text-anchor="middle" class="t-foot">a structure, on the ladder</text></g>
+    <g class="rung-state"><rect x="150" y="290" width="200" height="38" rx="6" class="f-state s-state w-hair"/><text x="250" y="306" text-anchor="middle" class="t-label-b">subtle</text><text x="250" y="320" text-anchor="middle" class="t-foot">a structure, on the ladder</text></g>
+    <g class="rung-state"><rect x="150" y="332" width="200" height="38" rx="6" class="f-state s-state w-hair"/><text x="250" y="348" text-anchor="middle" class="t-label-b">psychic</text><text x="250" y="362" text-anchor="middle" class="t-foot">a structure, on the ladder</text></g>
+    <g><rect x="150" y="374" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="390" text-anchor="middle" class="t-label-b">integral</text><text x="250" y="404" text-anchor="middle" class="t-foot">chart 1 worldview: Holistic-integralism</text></g>
+    <g><rect x="150" y="416" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="432" text-anchor="middle" class="t-label-b">pluralistic</text><text x="250" y="446" text-anchor="middle" class="t-foot">chart 1 worldview: Pluralistic-relativism</text></g>
+    <g><rect x="150" y="458" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="474" text-anchor="middle" class="t-label-b">rational</text><text x="250" y="488" text-anchor="middle" class="t-foot">chart 1 worldview: Formalism</text></g>
+    <g><rect x="150" y="500" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="516" text-anchor="middle" class="t-label-b">mythic</text><text x="250" y="530" text-anchor="middle" class="t-foot">chart 1: Magic-mythic / Mythic-rational</text></g>
+    <g><rect x="150" y="542" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="558" text-anchor="middle" class="t-label-b">magic</text><text x="250" y="572" text-anchor="middle" class="t-foot">chart 1 worldview: Magical</text></g>
+    <g><rect x="150" y="584" width="200" height="38" rx="6" class="f-level s-level w-hair"/><text x="250" y="600" text-anchor="middle" class="t-label-b">archaic</text><text x="250" y="614" text-anchor="middle" class="t-foot">chart 1 worldview: Archaic</text></g>
+  </g>
+  <line x1="362" y1="208" x2="362" y2="370" class="s-state w-struct"/>
+  <text x="370" y="282" class="t-small t-soft">drawn as</text>
+  <text x="370" y="296" class="t-small t-soft">structures</text>
+
+  <!-- step 1: the four state rungs become column headers -->
+  <text x="840" y="178" text-anchor="middle" class="t-head wv-fade" data-at="1">INTEGRAL SPIRITUALITY · 2006</text>
+  <text x="660" y="198" class="t-mark wv-fade" data-at="1">STATES</text>
+  <rect x="150" y="332" width="200" height="38" rx="6" class="wv-ghost f-state s-state w-hair" data-at="1" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(510px, -126px) scale(0.58, 1);"/>
+  <rect x="150" y="290" width="200" height="38" rx="6" class="wv-ghost f-state s-state w-hair" data-at="1" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(634px, -84px) scale(0.58, 1);"/>
+  <rect x="150" y="248" width="200" height="38" rx="6" class="wv-ghost f-state s-state w-hair" data-at="1" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(758px, -42px) scale(0.58, 1);"/>
+  <rect x="150" y="206" width="200" height="38" rx="6" class="wv-ghost f-state s-state w-hair" data-at="1" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(882px, 0px) scale(0.58, 1);"/>
+  <g class="wv-fade" data-at="1" style="transition-delay: 600ms">
+    <g><rect x="660" y="206" width="116" height="38" rx="6" class="f-state s-state w-hair"/><text x="718" y="222" text-anchor="middle" class="t-label-b">gross / psychic</text><text x="718" y="236" text-anchor="middle" class="t-foot">a state · waking</text></g>
+    <g><rect x="784" y="206" width="116" height="38" rx="6" class="f-state s-state w-hair"/><text x="842" y="222" text-anchor="middle" class="t-label-b">subtle</text><text x="842" y="236" text-anchor="middle" class="t-foot">a state · dreaming</text></g>
+    <g><rect x="908" y="206" width="116" height="38" rx="6" class="f-state s-state w-hair"/><text x="966" y="222" text-anchor="middle" class="t-label-b">causal</text><text x="966" y="236" text-anchor="middle" class="t-foot">a state · formless sleep</text></g>
+    <g><rect x="1032" y="206" width="116" height="38" rx="6" class="f-state s-state w-hair"/><text x="1090" y="222" text-anchor="middle" class="t-label-b">nondual</text><text x="1090" y="236" text-anchor="middle" class="t-foot">a state</text></g>
+  </g>
+
+  <!-- step 2: the six structure rungs become row labels -->
+  <text x="470" y="254" class="t-mark wv-fade" data-at="2">STRUCTURE-STAGES</text>
+  <rect x="150" y="374" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -112px) scale(0.85, 1);"/>
+  <rect x="150" y="416" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -94px) scale(0.85, 1);"/>
+  <rect x="150" y="458" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -76px) scale(0.85, 1);"/>
+  <rect x="150" y="500" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -58px) scale(0.85, 1);"/>
+  <rect x="150" y="542" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -22px) scale(0.85, 1);"/>
+  <rect x="150" y="584" width="200" height="38" rx="6" class="wv-ghost f-level s-level w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(320px, -22px) scale(0.85, 1);"/>
+  <g class="wv-fade" data-at="2" style="transition-delay: 600ms">
+    <g><rect x="470" y="262" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="286" text-anchor="middle" class="t-label-b">integral</text></g>
+    <g><rect x="470" y="322" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="346" text-anchor="middle" class="t-label-b">pluralistic</text></g>
+    <g><rect x="470" y="382" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="406" text-anchor="middle" class="t-label-b">rational</text></g>
+    <g><rect x="470" y="442" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="466" text-anchor="middle" class="t-label-b">mythic</text></g>
+    <g><rect x="470" y="502" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="526" text-anchor="middle" class="t-label-b">magic</text></g>
+    <g><rect x="470" y="562" width="170" height="38" rx="6" class="f-level s-level w-hair"/><text x="555" y="586" text-anchor="middle" class="t-label-b">archaic</text></g>
+  </g>
+
+  <!-- step 3: the cells, each a state experience interpreted through a stage -->
+  <g class="wv-fade" data-at="3" style="transition-delay: 0ms">
+    <g><rect x="660" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × gross/psychic: a gross-state experience, interpreted through the integral stage</title></rect><text x="718" y="285" text-anchor="middle" class="t-foot">integral × gross</text></g>
+    <g><rect x="784" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × subtle: a subtle-state experience, interpreted through the integral stage</title></rect><text x="842" y="285" text-anchor="middle" class="t-foot">integral × subtle</text></g>
+    <g><rect x="908" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × causal: a causal-state experience, interpreted through the integral stage</title></rect><text x="966" y="285" text-anchor="middle" class="t-foot">integral × causal</text></g>
+    <g><rect x="1032" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × nondual: a nondual-state experience, interpreted through the integral stage</title></rect><text x="1090" y="285" text-anchor="middle" class="t-foot">integral × nondual</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 90ms">
+    <g><rect x="660" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × gross/psychic: a gross-state experience, interpreted through the pluralistic stage</title></rect><text x="718" y="345" text-anchor="middle" class="t-foot">pluralistic × gross</text></g>
+    <g><rect x="784" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × subtle: a subtle-state experience, interpreted through the pluralistic stage</title></rect><text x="842" y="345" text-anchor="middle" class="t-foot">pluralistic × subtle</text></g>
+    <g><rect x="908" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × causal: a causal-state experience, interpreted through the pluralistic stage</title></rect><text x="966" y="345" text-anchor="middle" class="t-foot">pluralistic × causal</text></g>
+    <g><rect x="1032" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × nondual: a nondual-state experience, interpreted through the pluralistic stage</title></rect><text x="1090" y="345" text-anchor="middle" class="t-foot">pluralistic × nondual</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 180ms">
+    <g><rect x="660" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × gross/psychic: a gross-state experience, interpreted through the rational stage</title></rect><text x="718" y="405" text-anchor="middle" class="t-foot">rational × gross</text></g>
+    <g><rect x="784" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × subtle: a subtle-state experience, interpreted through the rational stage</title></rect><text x="842" y="405" text-anchor="middle" class="t-foot">rational × subtle</text></g>
+    <g><rect x="908" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × causal: a causal-state experience, interpreted through the rational stage</title></rect><text x="966" y="405" text-anchor="middle" class="t-foot">rational × causal</text></g>
+    <g><rect x="1032" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × nondual: a nondual-state experience, interpreted through the rational stage</title></rect><text x="1090" y="405" text-anchor="middle" class="t-foot">rational × nondual</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 270ms">
+    <g><rect x="660" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × gross/psychic: a gross-state experience, interpreted through the mythic stage</title></rect><text x="718" y="465" text-anchor="middle" class="t-foot">mythic × gross</text></g>
+    <g><rect x="784" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × subtle: a subtle-state experience, interpreted through the mythic stage</title></rect><text x="842" y="465" text-anchor="middle" class="t-foot">mythic × subtle</text></g>
+    <g><rect x="908" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × causal: a causal-state experience, interpreted through the mythic stage</title></rect><text x="966" y="465" text-anchor="middle" class="t-foot">mythic × causal</text></g>
+    <g><rect x="1032" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × nondual: a nondual-state experience, interpreted through the mythic stage</title></rect><text x="1090" y="465" text-anchor="middle" class="t-foot">mythic × nondual</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 360ms">
+    <g><rect x="660" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × gross/psychic: a gross-state experience, interpreted through the magic stage</title></rect><text x="718" y="525" text-anchor="middle" class="t-foot">magic × gross</text></g>
+    <g><rect x="784" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × subtle: a subtle-state experience, interpreted through the magic stage</title></rect><text x="842" y="525" text-anchor="middle" class="t-foot">magic × subtle</text></g>
+    <g><rect x="908" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × causal: a causal-state experience, interpreted through the magic stage</title></rect><text x="966" y="525" text-anchor="middle" class="t-foot">magic × causal</text></g>
+    <g><rect x="1032" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × nondual: a nondual-state experience, interpreted through the magic stage</title></rect><text x="1090" y="525" text-anchor="middle" class="t-foot">magic × nondual</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 450ms">
+    <g><rect x="660" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × gross/psychic: a gross-state experience, interpreted through the archaic stage</title></rect><text x="718" y="585" text-anchor="middle" class="t-foot">archaic × gross</text></g>
+    <g><rect x="784" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × subtle: a subtle-state experience, interpreted through the archaic stage</title></rect><text x="842" y="585" text-anchor="middle" class="t-foot">archaic × subtle</text></g>
+    <g><rect x="908" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × causal: a causal-state experience, interpreted through the archaic stage</title></rect><text x="966" y="585" text-anchor="middle" class="t-foot">archaic × causal</text></g>
+    <g><rect x="1032" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × nondual: a nondual-state experience, interpreted through the archaic stage</title></rect><text x="1090" y="585" text-anchor="middle" class="t-foot">archaic × nondual</text></g>
+  </g>
+  <text x="904" y="622" text-anchor="middle" class="t-small t-soft wv-fade" data-at="3" style="transition-delay: 500ms">each cell: a state experience, interpreted through a stage · 6 × 4 here; Wilber counts 7 × 4 = 28</text>
+
+  <!-- step 4: the passage and the honest note (settled frame) -->
+  <g class="wv-fade" data-at="4">
+    <line x1="60" y1="664" x2="1140" y2="664" class="s-faint w-hair"/>
+    <text x="60" y="692" class="t-quote-s">“…gross/psychic, subtle, causal, and nondual were no longer stages <tspan font-style="italic">stacked on top</tspan> of the</text>
+    <text x="60" y="712" class="t-quote-s">Western conventional stages, but were states (including altered states and peak</text>
+    <text x="60" y="732" class="t-quote-s">experiences) that can and did occur <tspan font-style="italic">alongside</tspan> any of those stages.”</text>
+    <text x="60" y="754" class="t-loc">Ken Wilber, <tspan font-style="italic">Integral Spirituality</tspan> (2006), ch. 4</text>
+
+    <text x="700" y="692" class="t-ours">◇ What changed is the picture, and the weight put on it: Integral Psychology (2000)</text>
+    <text x="700" y="706" class="t-ours">already says these states are “available to human beings at virtually any stage of</text>
+    <text x="700" y="720" class="t-ours">growth” (ch. 1) and traces the grid idea to A Sociable God (1983). The row names</text>
+    <text x="700" y="734" class="t-ours">are IS's Gebser-like list; the small labels give the nearest IP chart-1 worldview.</text>
+
+    <text x="60" y="786" class="t-foot">Sources: Integral Psychology, chart 1 (structure spine, worldview column) · Integral Spirituality, ch. 4 · redrawn for wilber.wiki; not a reproduction of a published figure</text>
+    <text x="1140" y="786" text-anchor="end" class="t-mark">wilber.wiki</text>
+  </g>
+</svg>
