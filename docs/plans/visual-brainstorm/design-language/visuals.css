@@ -2,11 +2,11 @@
  *
  * Scoped under .wv-root so it can be loaded site-wide through config.json
  * "head" (the same way assets/roadmap/roadmap.css is) without touching the
- * rest of wilber.wiki. Flowershow stamps data-theme="light"|"dark" on <html>;
- * standalone review pages without that attribute fall back to the OS setting.
+ * rest of wilber.wiki. Light only: the figures are not themed for dark mode
+ * (decided 2026-10-26). Colours and type are tokens so they can be swapped.
  *
  * Structure of this file (the export script reads the marked blocks):
- *   @tokens-light / @tokens-dark   colour and type tokens
+ *   @tokens … @tokens-end          colour tokens
  *   @svg-start … @svg-end          classes used inside the SVG sources
  *   the rest                       page chrome: figure frame, controls, quotes
  */
@@ -14,7 +14,7 @@
 /* ------------------------------------------------------------ tokens */
 
 .wv-root {
-  /* @tokens-light */
+  /* @tokens */
   --wv-paper: #f8f6f1;
   --wv-surface: #fffdf9;
   --wv-ink: #1c1917;
@@ -50,53 +50,6 @@
   color: var(--wv-ink);
   font-family: var(--wv-sans);
   -webkit-font-smoothing: antialiased;
-}
-
-html[data-theme="dark"] .wv-root {
-  /* @tokens-dark */
-  --wv-paper: #121110;
-  --wv-surface: #1b1917;
-  --wv-ink: #f0ebe3;
-  --wv-ink-soft: #b8b0a6;
-  --wv-muted: #978e84;
-  --wv-line: #312d29;
-  --wv-line-strong: #534c45;
-  --wv-level: #a5b4fc;
-  --wv-level-fill: rgba(165, 180, 252, 0.16);
-  --wv-state: #f5b041;
-  --wv-state-fill: rgba(245, 176, 65, 0.18);
-  --wv-fallacy: #fb7185;
-  --wv-fallacy-fill: rgba(251, 113, 133, 0.17);
-  --wv-ground: #3dd6c0;
-  --wv-ground-fill: rgba(61, 214, 192, 0.16);
-  --wv-neutral-fill: rgba(240, 235, 227, 0.075);
-  --wv-accent: #f5b041;
-  --wv-accent-ring: rgba(245, 176, 65, 0.25);
-  /* @tokens-end */
-}
-
-/* OS fallback when the host page has no data-theme attribute (review pages). */
-@media (prefers-color-scheme: dark) {
-  html:not([data-theme="light"]):not([data-theme="dark"]) .wv-root {
-    --wv-paper: #121110;
-    --wv-surface: #1b1917;
-    --wv-ink: #f0ebe3;
-    --wv-ink-soft: #b8b0a6;
-    --wv-muted: #978e84;
-    --wv-line: #312d29;
-    --wv-line-strong: #534c45;
-    --wv-level: #a5b4fc;
-    --wv-level-fill: rgba(165, 180, 252, 0.16);
-    --wv-state: #f5b041;
-    --wv-state-fill: rgba(245, 176, 65, 0.18);
-    --wv-fallacy: #fb7185;
-    --wv-fallacy-fill: rgba(251, 113, 133, 0.17);
-    --wv-ground: #3dd6c0;
-    --wv-ground-fill: rgba(61, 214, 192, 0.16);
-    --wv-neutral-fill: rgba(240, 235, 227, 0.075);
-    --wv-accent: #f5b041;
-    --wv-accent-ring: rgba(245, 176, 65, 0.25);
-  }
 }
 
 /* ------------------------------------------------------------ svg vocabulary */

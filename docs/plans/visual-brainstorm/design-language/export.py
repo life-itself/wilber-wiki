@@ -6,7 +6,7 @@ For every piece listed in PIECES (a folder beside design-language/ holding
 
   <slug>.svg          standalone static image: the source in its settled state
                       with the design-language tokens and SVG classes inlined
-  <slug>.png          the same at 2x (viewBox width x 2), light theme
+  <slug>.png          the same at 2x (viewBox width x 2)
   <slug>-og.png       1200 x 630 Open Graph crop (data-og="x y w h" on the root)
   <slug>-square.png   1080 x 1080 crop (data-square="x y w h" on the root)
   index.html          page.html with the source SVG inlined at <!-- @svg -->
@@ -45,15 +45,12 @@ def block(name):
 
 def svg_style():
     """Standalone <style> for an exported SVG: tokens on :root, svg classes unscoped."""
-    light = block(("@tokens-light", "@tokens-end"))
-    dark = re.search(r"/\* @tokens-dark \*/(.*?)/\* @tokens-end \*/", CSS, re.S).group(1)
+    light = block(("@tokens", "@tokens-end"))
     svg = block(("@svg-start", "@svg-end"))
     svg = svg.replace(".wv-root svg ", "").replace(".wv-root svg", "svg")
     fonts = ('--wv-serif:"Fraunces","Iowan Old Style",Georgia,"Times New Roman",serif;'
              '--wv-sans:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;')
     return ("<style>\n:root{" + light + fonts + "}\n"
-            "@media (prefers-color-scheme: dark){:root:not([data-theme=\"light\"]){" + dark + "}}\n"
-            ":root[data-theme=\"dark\"]{" + dark + "}\n"
             "svg{font-family:var(--wv-sans);color:var(--wv-ink);background:var(--wv-paper)}\n"
             ".t-title,.t-sub,.t-name,.t-name-s,.t-quote,.t-quote-s{font-family:\"Fraunces\",\"Iowan Old Style\",Georgia,serif}\n"
             ".wv-ghost{opacity:0}\n"
@@ -76,7 +73,7 @@ def render_png(svg_markup, viewbox, width, height, out, chrome):
     x, y, w, h = viewbox
     svg_markup = re.sub(r'viewBox="[^"]*"', 'viewBox="%s %s %s %s"' % (x, y, w, h), svg_markup, count=1)
     svg_markup = re.sub(r"<svg ", '<svg width="%d" height="%d" preserveAspectRatio="xMidYMid slice" ' % (width, height), svg_markup, count=1)
-    html = ('<!doctype html><html data-theme="light"><head><meta charset="utf-8">' + FONTS +
+    html = ('<!doctype html><html><head><meta charset="utf-8">' + FONTS +
             '<style>html,body{margin:0;background:#f8f6f1}svg{display:block}</style></head><body>' +
             svg_markup + '</body></html>')
     with tempfile.TemporaryDirectory() as td:

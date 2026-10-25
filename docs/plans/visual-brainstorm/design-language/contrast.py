@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Contrast check for the Wilber visuals palette.
 
-Reads the token blocks in visuals.css (light and dark) and prints WCAG 2.x
-contrast ratios of every ink-like role against paper and surface. Run from
+Reads the token block in visuals.css and prints WCAG 2.x contrast ratios of
+every ink-like role against paper and surface. Run from
 anywhere: `python3 docs/plans/visual-brainstorm/design-language/contrast.py`.
 Exit code 1 if any role that carries small text drops below 4.5:1.
 """
@@ -19,7 +19,7 @@ GROUNDS = ["paper", "surface"]
 
 
 def block(name):
-    m = re.search(r"/\* @tokens-%s \*/(.*?)/\* @tokens-end \*/" % name, CSS, re.S)
+    m = re.search(r"/\* @%s \*/(.*?)/\* @tokens-end \*/" % name, CSS, re.S)
     if not m:
         sys.exit("token block %s not found" % name)
     return dict(re.findall(r"--wv-([a-z0-9-]+)\s*:\s*(#[0-9a-fA-F]{6})", m.group(1)))
@@ -40,9 +40,9 @@ def ratio(a, b):
 
 def main():
     bad = 0
-    for theme in ("light", "dark"):
+    for theme in ("tokens",):
         t = block(theme)
-        print("\n%s" % theme.upper())
+        print("\nLIGHT")
         print("%-10s" % "role" + "".join("%12s" % g for g in GROUNDS))
         for role in TEXT_ROLES:
             if role not in t:

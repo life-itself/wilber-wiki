@@ -1,81 +1,119 @@
 # Figure design for wilber.wiki
 
-The settled rules for the explanatory figures (diagrams, charts, posters) that go on wilber.wiki and get shared on their own. This is operational documentation: what a new figure must follow and how to build one. The exploration that produced it, with both pieces and the review page, is in [`plans/visual-brainstorm/`](plans/visual-brainstorm/) (bead `wilberwiki-clq`). Decisions date from 2026-10-26.
+The settled rules for the explanatory figures (diagrams, posters, animated explainers) that go on wilber.wiki and get shared on their own. This is operational documentation: what a new figure must follow and how to build one. The exploration that produced it, the options gallery, both pieces and the review page, is in [`plans/visual-brainstorm/`](plans/visual-brainstorm/) (bead `wilberwiki-clq`). Decisions date from 2026-10-25 and 2026-10-26.
 
-## Where the rules come from
+## Where the rules come from, and two lessons
 
-The figures follow the **Seeds of Renaissance diagram system**: https://design.seedsofrenaissance.org/diagrams (source: [`diagrams.md`](https://raw.githubusercontent.com/life-itself/design/refs/heads/main/projects/sor-design-system/diagrams.md) in `life-itself/design`). Its one-paragraph summary applies here unchanged: after the FT, the Economist and Tufte, restraint over decoration; one face, no bold; ink lines and solid arrowheads; no outlines on boxes; one accent for the one thing the figure is about; title and grey subtitle top left, signature bottom right; every figure must read at 400 px in a feed and printed in black and white. Rufus chose it on 2026-10-26 after an earlier design language (two typefaces, four colour roles, outlined rounded boxes, dashed and dotted lines) was judged "not at all beautiful yet". We also reuse its tooling: text set as outlines with `fontTools` and HarfBuzz (its `outline.py` approach), its `figure.py` helpers, its export shape (tight SVG for the page, padded PNG for sharing).
+This language was built on 2026-10-25 and proven on two pieces, [the pre/trans fallacy](plans/visual-brainstorm/pre-trans-fallacy/) and [states off the ladder](plans/visual-brainstorm/states-and-stages/). A second pass then rebuilt everything on the restrained grammar of the **Seeds of Renaissance diagram system** (https://design.seedsofrenaissance.org/diagrams; one face, no bold, no outlines, straight ink arrows, lots of white space). Rufus compared the two and chose the first: the earlier figures were "diagrammatically much better". The SoR attempt stays in git history (`822a1d3`) and SoR remains the reference for restraint: when a figure is getting busy, its rules (fewer things, labels on the things they name, one accent, read at 400 px) are the ones to apply. Seeds of Renaissance is also the signature partner: every figure is signed with the SoR mark and "WILBER WIKI · SEEDS OF RENAISSANCE".
 
-**What we follow exactly:** typography (Apfel Grotezk, Regular and Mittel, never Fett), the drawing rules (line weights, panels, arrowheads, padding, labelling on the thing named, no legends), the layout (1600 px canvas, 72 px margin, title and subtitle placement, source bottom left, signature bottom right), the exports, and the 400 px and black-and-white checks.
+Two lessons, recorded so they are not relearned:
 
-**Where we differ, deliberately:** colour and accent are wilber.wiki's own (below); the signature names both Wilber Wiki and Seeds of Renaissance; a Wilber figure also carries conventions about quotation, interpretation and sourcing that SoR's figures don't need. The type scale may be varied for a figure that needs it (none has so far).
+1. **Polish rather than restyle.** "More beauty" was a request to tidy the existing pieces (spacing, alignment, label placement), not to replace their structure. Fix nits and adjust rhythm before touching the grammar.
+2. **Diagrammatic content is what makes these engaging.** The "untutored eye" bins, the rungs flying off the ladder, the quotation on the canvas: those are the figure. A cleaner drawing that cuts them is a worse figure.
 
-## Colour
+## One principle: one SVG source, two outputs
 
-Light grounds are transparent on the page and white in a shared PNG; dark grounds are night. Ink becomes chalk on night; the tint takes its night value. Nothing relies on colour alone: the tint prints light grey and the accent prints darker than the tint.
+A piece is a folder with `source.svg` (the drawing) and `page.html` (the page around it, with a `<!-- @svg -->` placeholder). The source is authored in its **settled state**: what you see with no CSS and no JS is the static image. Animation only ever subtracts from that state for earlier steps (elements carry `data-at="k"`, "appears at step k"), so the settled frame and the exported image are the same drawing by construction. `export.py` inlines the source into the page, strips the step attributes for the standalone SVG, and renders the PNGs from viewBox crops declared on the SVG root. Edit `source.svg` or `page.html`, never `index.html` or the exports.
 
-| Role | Light | Night | Use |
-|---|---|---|---|
-| ink | `#1b1916` | `#ece7dc` (chalk) | text, lines, arrowheads |
-| muted | ink at 60% opacity | chalk at 60% | subtitle, secondary lines, source, signature text |
-| tint | `#f8e8d6` (cream) | `#5a2a14` | panels (groups) and the key area; never text |
-| accent | `#b5451b` (rust) | `#f09a52` | the marks the figure is about: a line, an arrow, a ring; the label of the key area at most |
-| ground for PNGs | `#ffffff` | `#171613` | sharing and review renders only |
+## Series format
 
-Why rust and cream rather than SoR's red and pink: the site already uses an amber family (`#d97706` for the roadmap star), and a warm red-brown ink with a cream tint reads as book paper and ink, which suits a wiki about a writer; it also prints well in greyscale (accent ≈ 90 grey, tint ≈ 233). Contrast: rust on white 5.5:1, the night accent on night 8.1:1. SoR red (`#e5201c`, tint `#fbdbdb`, night tint `#6b1a17`) stays available in `wv.py` as the `red` variant so a figure can be rendered in it for comparison; it is not used on the site.
-
-One accent per figure, and only on the mark that carries the claim. Two things that are the same kind of thing share the accent (the two fallacies in the pre/trans figure); never a second hue to rank them. The tint says "these belong together" (the two nonrational tiers; the four words that move from ladder to lattice).
+Master canvas **1200 × 800** (3:2), 60-unit margins. Title block at the top (eyebrow, title, one-line subtitle), the figure in the middle band (y ≈ 170–640), passages and footer in the bottom band (y ≥ 664). The 1200 × 630 Open Graph crop is the top of the canvas (`data-og="0 0 1200 630"`): title plus figure, no passages. The square is the full canvas letterboxed (`data-square="0 -200 1200 1200"`). Portrait was rejected because it could not yield an OG crop that kept both the title and the whole figure.
 
 ## Type
 
-Apfel Grotezk only, Regular and Mittel (SIL Open Font License; files and licence in `plans/visual-brainstorm/design-language/fonts/`). No Fett, no italic: hierarchy comes from size and from 60% ink. Sizes at a 1600 px canvas, as SoR's scale:
+Two families, each with a job, both held as tokens (`--wv-serif`, `--wv-sans`) so they can be swapped later. **Fraunces** (serif) is the book's voice: titles, subtitles, the names of Wilber's terms inside a figure, and every verbatim quotation. **Inter** (sans) is the wiki's voice: labels, headers, locators, footers, controls, our notes. The reader learns without being told: serif is Wilber's words or his named things, sans is our apparatus. Fallbacks: Iowan Old Style / Georgia and system-ui.
 
-| Role | Face | px | Use |
+Scale in canvas units (the 1200-wide SVG), with the class in `visuals.css`:
+
+| role | class | size | face |
 |---|---|---|---|
-| title | Regular | 46 | top left; ideally the claim, not the topic |
-| subtitle | Regular, 60% | 28 | one line under the title: what the figure shows |
-| heading | Mittel | 32 | panel and column headings |
-| group label | Mittel | 34 | bracket and group labels |
-| label | Regular | 29 | annotations, rung and axis names, on the thing they name |
-| secondary | Regular, 60% | 26 | second lines, glosses |
-| tag | Mittel, caps, tracked .1em | 21 | one-to-three-word tags only; use sparingly, a heading usually does the job |
-| source and signature | Regular / Mittel caps, 60% | 20 | bottom line |
+| eyebrow | `t-eyebrow` | 12, tracked 2.2, caps | sans 600, muted |
+| title | `t-title` | 46 | serif 600 |
+| subtitle | `t-sub` | 19 italic | serif, ink-soft |
+| column head | `t-head` | 12, tracked 2, caps | sans 600, muted |
+| term name | `t-name` / `t-name-s` | 28 / 20 | serif 600 |
+| label | `t-label` / `t-label-b` | 13 | sans / sans 600 |
+| small label | `t-small` | 11 | sans |
+| quotation | `t-quote` / `t-quote-s` | 16 / 14 | serif |
+| locator | `t-loc` | 11 | sans, muted |
+| our note | `t-ours` | 11 italic | sans, muted, prefixed ◇ |
+| footer | `t-foot` | 10.5 | sans, muted |
+| signature text | `t-mark` | 11, tracked 1 | sans 600, muted |
 
-Nothing below 26 px except tags and the bottom line, so the smallest text is still about 7 px at 400 px wide. The scale may be varied for a figure that needs it (a wide table, a long list) provided the hierarchy stays size-based and the 400 px check passes; say so in the piece's README. On HTML pages around a figure, Apfel is loaded from the repo copies with Hanken Grotesk (Google Fonts) as the fallback.
+Nothing below 10.5 on the canvas (21 px in the 2× PNG).
 
-## Signature
+## Colour and semantic roles
 
-Bottom right, its right edge on the content's right edge (the 72 px margin), its bottom 56 px above the canvas edge. The Seeds of Renaissance mark, 64 px, then one line at 20 px in 60% ink: `WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki` (the first two in Mittel capitals tracked .1em, the URL in Regular). Light grounds: the colour mark on its white disc. Dark grounds: the colour-dark mark, no disc. The mark files are SoR's (`system/logo/mark/sizes/seeds-mark-colour-128.png` and `-colour-dark-128.png`), embedded in the SVG as data URIs so it travels with the image. Scale the figure, never the signature. The source line sits bottom left on the signature's baseline: `Source: Ken Wilber, Sex, Ecology, Spirituality (1995), ch. 6`, or `Sources: … · …`.
+Light only; the figures are not themed for dark mode (Rufus, 2026-10-26). Tokens live on `.wv-root` in `visuals.css` and are the thing to change if the palette is swapped; the roles stay. `contrast.py` checks every text role against paper and surface (all ≥ 4.65:1).
 
-## Wilber-specific conventions
+| role | meaning in a Wilber figure | value |
+|---|---|---|
+| ink / ink-soft / muted | neutral structure and text | `#1c1917` / `#57534e` / `#6f6861` |
+| paper / surface | page ground / figure ground | `#f8f6f1` / `#fffdf9` |
+| line / line-strong | hairlines, rules, grid | `#ddd7cd` / `#aaa198` |
+| **level** | structures, stages, levels, bands of development, the "higher" | `#4338ca` (indigo) |
+| **state** | states of consciousness; also the site's accent amber | `#b45309` |
+| **fallacy** | errors, pathologies, dissociation, collapse | `#be123c` (madder) |
+| **ground** | the prerational, body, nature, the "lower" | `#0f766e` (teal) |
+| neutral fill | anything carrying no role | 5.5% ink |
 
-- **Labels** are ours and are set as labels: a tier name, a gloss ("mystical, contemplative, postformal"), a heading. They summarise the concept page or chart they come from. Sentence case; no quotation marks.
-- **Verbatim quotations** are rare on a canvas and never paraphrased when present: they are set in curly quotes exactly as the full text has them, with the book and chapter beside them. Every quotation, on the canvas or on the page, is grepped against `library/*-full-text.md` before it ships and its line number is recorded in the piece's README and on its page (the line number itself stays off the canvas). Elisions are marked "…"; italics in the source are kept on the page (the canvas has no italic, so a quotation with italics belongs on the page).
-- **Interpretation**: anything that is our device rather than Wilber's (a way of drawing, an arrow we placed, a pairing of names from two books) is listed under "What is Wilber's and what is ours" on the page and in the README. A figure doesn't carry a legend or a mark for this; the subtitle and the page carry it. If a device could be mistaken for Wilber's own diagram, don't draw it.
-- **Faithfulness rules** (from the brief): every figure rests on something in the repo (`concepts/`, `charts/`, `works/`, `library/`), named on the page. Redraw a concept; never trace a published figure, and say "redrawn" in the README. Lines between things never imply influence or derivation unless the text gives the direction; arrows are for a direction the source states (reads down, reads up, moves across). Honest uncertainty is written down, not drawn around: a known simplification goes in the README and on the page.
-- **Fewer things.** Ask what the one idea is and how little ink conveys it. Cells can be empty; a second diagram that restates the first is cut; glosses that don't change the reading are cut.
+Each role has a text/stroke value (`c-*`, `s-*`) and a tinted fill (`f-*`). A hue appears in a figure only when the thing it marks is in the figure. Two things of the same kind share a colour: the two fallacies in the pre/trans piece are both madder, distinguished by direction and label, never by a second hue that would rank them. "State" shares the site's amber so the series feels native to wilber.wiki; a figure therefore never uses amber for both a state and a highlight (interactive highlight is ink). Rejected: Wilber's own "altitude" rainbow for levels (imports a late-Wilber convention into every figure) and monochrome (loses the state/structure distinction the states piece exists to make).
+
+## Lines, strokes and arrows
+
+| weight | class | use |
+|---|---|---|
+| 1 | `w-hair` | band and box outlines, grid, rules |
+| 1.5 | `w-struct` | axes, connectors, anything structural |
+| 2.5 | `w-path` | a movement or a reading: the fallacy arrows |
+| 3.5 | `w-arc` | the big arcs (Great Circle, Ascent/Descent) |
+
+| pattern | class | meaning |
+|---|---|---|
+| solid | `k-solid` | Wilber's own structure: a boundary, rung, arc or sequence he describes |
+| dashed (7 6) | `k-dash` | a relation we draw to explain his claim (the feeds into the "untutored eye" bins) |
+| dotted (1.5 5) | `k-dot` | absence or uncertainty: an unpublished volume, an unverified early panel |
+
+Arrows are rare. A marker goes on a line only when the source gives the direction: "reads down", "reads up", Ascent, Descent, "transcends and includes", the axis of development. Never between two books or two concepts to suggest influence (the lesson of the works-lineage review). Curved arrows are welcome wherever they read better than straight ones. A label belongs beside the middle of its own arrow, on that arrow's side of the figure, never at one arrow's tail next to another arrow's head. Markers are defined inside each SVG so colours follow the tokens.
+
+## Label, quotation, interpretation
+
+- **Label** (ours, descriptive): sans, `t-label` / `t-small`. "mystical · contemplative · postformal".
+- **Verbatim quotation**: serif, in curly quotes, always followed on the next line by a locator in sans muted: author, *title* (year), chapter. The line number of `library/*-full-text.md` goes on the page and in the README, not on the canvas. Elisions are marked "…"; italics inside a quotation reproduce the source's. Every quotation is grepped against `library/` before it ships.
+- **Marked interpretation** (ours, a device or a judgement): sans italic muted, prefixed with ◇, class `t-ours` on the canvas and `.wv-ours` on the page. The footer explains the mark once: "◇ marks this wiki's own device".
+- **Faithfulness** (from the brief): every figure rests on something in the repo (`concepts/`, `charts/`, `works/`, `library/`), named on the page. Redraw a concept; never trace a published figure, and say "redrawn" in the footer and README. Honest uncertainty is written down (a ◇ note, the README) rather than drawn around.
+
+## Footer and signature
+
+Bottom band of every canvas, on one baseline at y = 786: left, a `t-foot` line with the sources (book, chapter, chart), "redrawn for wilber.wiki; not a reproduction of a published figure", and the ◇ key when the mark is used. Right, the **signature**: the Seeds of Renaissance colour mark on its white disc, 28 units tall, embedded as a base64 data URI so the SVG travels on its own, followed by `WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki` in `t-mark`. The mark file is SoR's `system/logo/mark/sizes/seeds-mark-colour-128.png`. Scale the figure, never the signature. The page repeats the sources with line numbers in a Sources section.
 
 ## Motion
 
-The static image comes first and must stand alone. Animation is a page-only enhancement that settles exactly on the static frame: every element is authored in its settled state and carries `data-at="k"`, the step it appears at, so the settled frame and the export are the same drawing by construction. Steps only add; nothing moves off, and nothing flies. Verbs: a fade (0.9 s) and, for an accent arrow, a draw (1.5 s, the head following). Step interval about 2.4 s; a piece plays in under ten seconds. Captions change with the step; the markup defaults to the last step, so with no JavaScript the page shows the static image and its caption. `prefers-reduced-motion`: transitions are off, Play jumps to the settled frame, the step buttons cut. Keyboard: arrows step, space plays; `#step-k` and `#play` deep links.
+- Durations: fade 420 ms, move/flight 900 ms, draw 700 ms, stagger 90 ms. Ease `cubic-bezier(.4,0,.2,1)` for fades and moves, `cubic-bezier(.2,.7,.2,1)` for draws. Step interval (`data-wv-dur`) 1400–1700 ms; a piece plays in under eight seconds.
+- Four appearance verbs, as classes on any element with `data-at`: `wv-fade` (opacity), `wv-draw` (a stroke draws in; needs `pathLength="1"`, so not for dashed lines), `wv-move` (from a `--wv-from` transform to rest), `wv-ghost` (a one-shot flight of a copy, visible only mid-animation; invisible in the settled frame and in exports).
+- **The settled frame is the static image.** Step N is the source as authored. Play always ends on N; the step buttons can go back.
+- `prefers-reduced-motion`: transitions and keyframes are off; Play jumps to the settled frame; the step buttons still work as cuts. No JS: the markup defaults to `data-step="N"`, so the figure is static and complete and only the settled caption shows.
+- Keyboard: the figure root is focusable; ← → step, space plays. Deep links `#step-k`, `#play`.
 
-## Exports and building a figure
+## Share crops and exports
 
-Everything lives in `plans/visual-brainstorm/design-language/` until a first figure goes on the site, when `wv.py`, `wv.css`, `wv-motion.js`, `fonts/` and `mark/` move to `assets/figures/`.
+`data-og="x y w h"` and `data-square="x y w h"` on the SVG root are viewBox crops; `export.py` renders them with `preserveAspectRatio="xMidYMid slice"`. From one source it writes `index.html` (page + inlined SVG), `<slug>.svg` (standalone, tokens inlined), `<slug>.png` (2400 × 1600), `<slug>-og.png` (1200 × 630) and `<slug>-square.png` (1080 × 1080). The page declares `<meta property="og:image">` pointing at the OG file; whether Flowershow honours a per-page `og:image` is still to check (`wilberwiki-4qc`). PNG rendering uses headless Chrome and needs network access for Google Fonts; the SVG does not.
 
-- `wv.py`: the house style as code (type, colour, `text`, `tag`, `wrap`, `line`, `arrow`, `curved_arrow`, `panel`, `bracket`, `signature`) and `build()`.
-- A piece is a folder with `figure.py` (its `draw()` returns a `Fig`), `page.html` (the page around it, with `<!-- @svg -->` and `<!-- @steps -->` placeholders) and `README.md`.
-- `build()` writes, from one drawing: `<slug>.svg` (tight, transparent, text as outlines, light and dark via CSS inside the SVG, so it renders without the font installed and follows the site's `data-theme` when inlined); `<slug>.png` and `<slug>@2x.png` (the full 1600 px canvas with its margin, on white, for sharing alone); `<slug>-og.png` (1200 × 630, the canvas fitted on white, for Open Graph); `<slug>-dark.png` (on night, for review); `<slug>-accent-<name>.png` for each accent variant (review only); `index.html` (the animated page).
-- Commands, from the repo root: `python3 -m venv .venv && .venv/bin/pip install fonttools uharfbuzz` once; then `.venv/bin/python docs/plans/visual-brainstorm/design-language/build.py` (all pieces) or `.venv/bin/python docs/plans/visual-brainstorm/<slug>/figure.py` (one), with `--no-png` to skip the Chrome renders (`$CHROME` overrides the Chrome path).
-- Embedding on the site: register `wv.css` and `wv-motion.js` in `config.json` `head`, paste the piece's figure block (the `.wv-fig` div from its `index.html`) as raw HTML in the markdown page, or use `<img src="…/<slug>.svg">` for a static placement. The HTML table or prose on the page is the text alternative and travels with the figure. Alt text says what the figure claims, not what it looks like.
+Commands, from the repo root: `python3 docs/plans/visual-brainstorm/design-language/export.py` (all pieces), `… export.py <slug>` (one), `--no-png` to skip the Chrome renders (`WV_CHROME` overrides the Chrome path). `python3 …/contrast.py` after changing a colour token.
+
+## Embedding in Flowershow
+
+1. Copy `visuals.css` and `wv-motion.js` to `assets/visuals/` and register them in `config.json` `head`, the same way `assets/roadmap/roadmap.css` and `assets/annotator/annotator.js` are. Everything is scoped under `.wv-root`, and the script returns immediately when no `[data-wv-steps]` is on the page.
+2. In a markdown page, paste the piece's figure block as raw HTML: `<div class="wv-root" data-wv-steps="4" data-step="4" data-wv-dur="1500"><div class="wv-controls" data-wv-controls></div><figure class="wv-figure"><div class="wv-frame">…source.svg…</div><figcaption data-wv-caption>…</figcaption></figure></div>`. Flowershow's Tailwind bundle is pre-purged, so nothing here relies on utility classes.
+3. For a static-only placement (a header image), use `<img src="/assets/visuals/<slug>.svg" alt="…">` or the PNG. The standalone SVG carries its own tokens.
+4. The text alternative on the page (prose or an HTML table) travels with the figure. Alt text says what the figure claims, not what it looks like.
 
 ## Check before publishing
 
-- [ ] Apfel only, Regular and Mittel; title, grey subtitle, labels on the things they name; no legend.
-- [ ] Solid ink lines with round caps, 4 px for what matters and 2 px for scaffolding; solid arrowheads, only where the source gives a direction; no dashes.
-- [ ] Panels without outlines, sized to their text, 40 px padding; the tint only for groups and the key area; the accent only on the mark the figure is about.
-- [ ] Reads at 400 px wide and in greyscale (the review page shows both); dark render checked.
-- [ ] Signed bottom right with the mark; source bottom left; content's right edge on the signature's.
-- [ ] Every quotation grepped against `library/`, line numbers in the README and on the page; "what is Wilber's and what is ours" written; no published figure traced.
+- [ ] Serif for Wilber's words and named terms, sans for ours; title, subtitle and eyebrow in place; nothing smaller than 10.5 on the canvas.
+- [ ] Colour roles used only for things present in the figure; same-kind things share a colour; contrast script passes.
+- [ ] Solid for Wilber's structure, dashed for our relations, dotted for absence; arrows only where the source gives a direction; each label beside its own arrow.
+- [ ] Every quotation grepped against `library/`, line numbers on the page and in the README; ◇ on every device of ours, explained in the footer; "what is Wilber's and what is ours" written; no published figure traced.
+- [ ] Footer with sources bottom left; signature (SoR mark + WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki) bottom right.
 - [ ] The animation settles on the static frame; reduced motion honoured; the page shows the static image without JavaScript.
-- [ ] Exported with `build()`: tight SVG, PNG and @2x, OG crop.
+- [ ] Exported with `export.py`; rendered at desktop and 390 px with no overflow or collisions.
