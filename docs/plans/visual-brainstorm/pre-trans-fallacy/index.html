@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pre/Trans Fallacy Poster</title>
+<meta name="description" content="A one-picture explainer of Ken Wilber's pre/trans fallacy: three bands of development, the eye that sees only two, and the two mistakes that follow. Redrawn from Wilber's description for wilber.wiki.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f6f3ed;
+  --surface: #fffdf9;
+  --ink: #1c1917;
+  --ink-soft: #57534e;
+  --muted: #8a827b;
+  --line: #ddd6cc;
+  --line-strong: #b8afa3;
+  --amber: #b45309;
+  --amber-soft: rgba(180, 83, 9, 0.13);
+  --teal: #0f766e;
+  --teal-soft: rgba(15, 118, 110, 0.13);
+  --rose: #be123c;
+  --rose-soft: rgba(190, 18, 60, 0.12);
+  --indigo: #4338ca;
+  --indigo-soft: rgba(67, 56, 202, 0.11);
+  --soft-fill: rgba(28, 25, 23, 0.05);
+  --serif: "Fraunces", Georgia, "Times New Roman", serif;
+  --sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #100f0e; --surface: #1a1816; --ink: #efeae2; --ink-soft: #b8b0a6; --muted: #807870;
+    --line: #322e2a; --line-strong: #4d4740;
+    --amber: #f59e0b; --amber-soft: rgba(245, 158, 11, 0.18);
+    --teal: #2dd4bf; --teal-soft: rgba(45, 212, 191, 0.16);
+    --rose: #fb7185; --rose-soft: rgba(251, 113, 133, 0.18);
+    --indigo: #a5b4fc; --indigo-soft: rgba(165, 180, 252, 0.16);
+    --soft-fill: rgba(239, 234, 226, 0.07);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #100f0e; --surface: #1a1816; --ink: #efeae2; --ink-soft: #b8b0a6; --muted: #807870;
+  --line: #322e2a; --line-strong: #4d4740;
+  --amber: #f59e0b; --amber-soft: rgba(245, 158, 11, 0.18);
+  --teal: #2dd4bf; --teal-soft: rgba(45, 212, 191, 0.16);
+  --rose: #fb7185; --rose-soft: rgba(251, 113, 133, 0.18);
+  --indigo: #a5b4fc; --indigo-soft: rgba(165, 180, 252, 0.16);
+  --soft-fill: rgba(239, 234, 226, 0.07);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--sans); font-size: 16px; line-height: 1.55; -webkit-font-smoothing: antialiased; }
+.wrap { max-width: 64rem; margin: 0 auto; padding: 0 16px; }
+header { padding: 2rem 0 1.2rem; display: flex; flex-wrap: wrap; gap: 0.6rem 1.5rem; align-items: baseline; justify-content: space-between; }
+.eyebrow { font-size: 0.74rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+header h1 { font-family: var(--serif); font-weight: 600; font-size: 1.35rem; margin: 0; }
+header a { color: var(--amber); font-size: 0.9rem; }
+.poster { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: clamp(8px, 2vw, 24px); }
+.poster svg { display: block; width: 100%; height: auto; color: var(--ink); }
+.poster svg text { font-family: var(--sans); fill: currentColor; }
+.poster svg .serif { font-family: var(--serif); }
+.poster svg .it { font-style: italic; }
+.poster svg .b { font-weight: 600; }
+.poster svg .mut { fill: var(--muted); }
+.poster svg .soft { fill: var(--ink-soft); }
+.poster svg .f-indigo-s { fill: var(--indigo-soft); } .poster svg .s-indigo { stroke: var(--indigo); } .poster svg .t-indigo { fill: var(--indigo); }
+.poster svg .f-teal-s { fill: var(--teal-soft); } .poster svg .s-teal { stroke: var(--teal); } .poster svg .t-teal { fill: var(--teal); }
+.poster svg .f-rose-s { fill: var(--rose-soft); } .poster svg .s-rose { stroke: var(--rose); } .poster svg .t-rose { fill: var(--rose); }
+.poster svg .f-amber-s { fill: var(--amber-soft); } .poster svg .s-amber { stroke: var(--amber); } .poster svg .t-amber { fill: var(--amber); }
+.poster svg .f-soft { fill: var(--soft-fill); } .poster svg .f-paper { fill: var(--surface); }
+.poster svg .s-ink { stroke: currentColor; } .poster svg .s-line { stroke: var(--line-strong); } .poster svg .s-faint { stroke: var(--line); }
+.poster svg .nf { fill: none; } .poster svg .dash { stroke-dasharray: 6 6; }
+.poster svg .m-ink { fill: currentColor; } .poster svg .m-rose { fill: var(--rose); } .poster svg .m-amber { fill: var(--amber); }
+section { padding: 1.8rem 0 0.4rem; max-width: 46rem; }
+section h2 { font-family: var(--serif); font-weight: 600; font-size: 1.35rem; margin: 0 0 0.5rem; }
+section p, section li { color: var(--ink-soft); }
+section a { color: var(--amber); }
+code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.85em; background: var(--soft-fill); padding: 0.05em 0.35em; border-radius: 4px; }
+blockquote { margin: 0.8rem 0; padding: 0 0 0 1rem; border-left: 3px solid var(--line-strong); font-family: var(--serif); font-size: 1.05rem; color: var(--ink); }
+blockquote small { display: block; font-family: var(--sans); font-size: 0.8rem; color: var(--muted); margin-top: 0.3rem; }
+.dl { display: inline-block; margin-top: 0.4rem; font-weight: 600; }
+footer { padding: 2rem 0 3rem; font-size: 0.8rem; color: var(--muted); border-top: 1px solid var(--line); margin-top: 2rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <div>
+    <div class="eyebrow">wilber.wiki · visual brainstorm · option 05</div>
+    <h1>The Pre/Trans Fallacy, in one picture</h1>
+  </div>
+  <a href="../gallery.html#o5">← back to the options gallery</a>
+</header>
+
+<div class="poster">
+<svg viewBox="0 0 960 1270" role="img" aria-labelledby="ptf-title ptf-desc" xmlns="http://www.w3.org/2000/svg">
+  <title id="ptf-title">The Pre/Trans Fallacy</title>
+  <desc id="ptf-desc">Left: a vertical spectrum in three bands, from bottom to top prerational, rational, transrational, with an axis reading pre-ego to ego to trans-ego. Right: what the untutored eye sees, only two bins, rational and nonrational; dashed lines carry both the prerational and the transrational band into the single nonrational bin. Inside the spectrum, two arrows mark the two errors: reductionism, Freud, reads the transrational down as prerational; elevationism, Jung, reads the prerational up as transrational. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 6 and Jack Engler's line, quoted by Wilber, that you have to be somebody before you can be nobody.</desc>
+  <defs>
+    <marker id="m-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="m-ink"/></marker>
+    <marker id="m-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="m-rose"/></marker>
+    <marker id="m-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="m-amber"/></marker>
+  </defs>
+
+  <!-- title block -->
+  <text x="60" y="64" class="b mut" font-size="12" letter-spacing="2.2">WILBER WIKI · A CONCEPT IN ONE PICTURE</text>
+  <text x="60" y="128" class="serif b" font-size="56" letter-spacing="-0.5">The Pre/Trans Fallacy</text>
+  <text x="60" y="162" class="serif it soft" font-size="20">Why what comes <tspan class="b">before</tspan> reason gets mistaken for what comes <tspan class="b">after</tspan> it,</text>
+  <text x="60" y="188" class="serif it soft" font-size="20">and the two mistakes that follow.</text>
+
+  <!-- column headers -->
+  <text x="260" y="226" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">WHAT DEVELOPMENT DOES</text>
+  <text x="740" y="226" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">WHAT THE UNTUTORED EYE SEES</text>
+
+  <!-- axis -->
+  <line x1="62" y1="850" x2="62" y2="262" class="s-ink" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <text transform="translate(44 550) rotate(-90)" text-anchor="middle" class="mut" font-size="12" letter-spacing="1">pre-ego → ego → trans-ego</text>
+
+  <!-- spectrum bands -->
+  <rect x="90" y="250" width="340" height="200" class="f-indigo-s s-indigo" stroke-width="1"/>
+  <rect x="90" y="450" width="340" height="200" class="f-soft s-ink" stroke-width="1"/>
+  <rect x="90" y="650" width="340" height="200" class="f-teal-s s-teal" stroke-width="1"/>
+
+  <text x="260" y="345" text-anchor="middle" class="serif b" font-size="32">transrational</text>
+  <text x="260" y="372" text-anchor="middle" class="soft" font-size="13">mystical · contemplative · postformal</text>
+  <text x="260" y="390" text-anchor="middle" class="mut" font-size="12">beyond reason, not beneath it</text>
+
+  <text x="260" y="545" text-anchor="middle" class="serif b" font-size="32">rational</text>
+  <text x="260" y="572" text-anchor="middle" class="soft" font-size="13">the ego · formal reason</text>
+
+  <text x="260" y="745" text-anchor="middle" class="serif b" font-size="32">prerational</text>
+  <text x="260" y="772" text-anchor="middle" class="soft" font-size="13">infantile · egocentric · magical · mythic</text>
+  <text x="260" y="790" text-anchor="middle" class="mut" font-size="12">before reason</text>
+
+  <!-- elevationism: up the left edge -->
+  <path d="M120 800 C 96 700, 96 400, 120 300" class="nf s-amber" stroke-width="3" marker-end="url(#m-amber)"/>
+  <text x="136" y="470" class="b t-amber" font-size="15">Elevationism</text>
+  <text x="136" y="489" class="t-amber" font-size="13">the prerational read up as transrational</text>
+  <text x="136" y="507" class="t-amber it" font-size="13">Wilber's example: Jung</text>
+
+  <!-- reductionism: down the right edge -->
+  <path d="M400 300 C 424 400, 424 700, 400 800" class="nf s-rose" stroke-width="3" marker-end="url(#m-rose)"/>
+  <text x="384" y="606" text-anchor="end" class="b t-rose" font-size="15">Reductionism</text>
+  <text x="384" y="625" text-anchor="end" class="t-rose" font-size="13">the transrational read down as prerational</text>
+  <text x="384" y="643" text-anchor="end" class="t-rose it" font-size="13">Wilber's example: Freud</text>
+
+  <!-- the eye's bins -->
+  <rect x="600" y="250" width="280" height="200" class="f-soft s-ink" stroke-width="1"/>
+  <text x="740" y="345" text-anchor="middle" class="serif b" font-size="32">rational</text>
+  <text x="740" y="372" text-anchor="middle" class="soft" font-size="13">seen as what it is</text>
+
+  <rect x="600" y="500" width="280" height="350" class="f-rose-s s-rose" stroke-width="1"/>
+  <text x="740" y="650" text-anchor="middle" class="serif b" font-size="32">nonrational</text>
+  <text x="740" y="684" text-anchor="middle" class="soft" font-size="13">prerational and transrational</text>
+  <text x="740" y="702" text-anchor="middle" class="soft" font-size="13">land in the same bin, where</text>
+  <text x="740" y="726" text-anchor="middle" class="serif it" font-size="15">“they appear similar or even identical”</text>
+
+  <!-- feeds from bands to bins -->
+  <path d="M430 350 C 510 350, 530 600, 596 620" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <path d="M430 550 C 510 550, 530 350, 596 350" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <path d="M430 750 C 510 750, 530 740, 596 740" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+
+  <!-- quotes -->
+  <line x1="60" y1="900" x2="900" y2="900" class="s-line" stroke-width="1"/>
+  <text x="60" y="938" class="serif" font-size="17">“The essence of the pre/trans fallacy is itself fairly simple: since both prerational</text>
+  <text x="60" y="962" class="serif" font-size="17">states and transrational states are, in their own ways, nonrational, they appear</text>
+  <text x="60" y="986" class="serif" font-size="17">similar or even identical to the untutored eye.”</text>
+  <text x="60" y="1010" class="mut" font-size="12">Ken Wilber, <tspan class="it">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
+
+  <text x="60" y="1054" class="serif" font-size="17">“Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.</text>
+  <text x="60" y="1078" class="serif" font-size="17">And the point is that they are <tspan class="it">both</tspan> half right and half wrong.”</text>
+  <text x="60" y="1102" class="mut" font-size="12">Ken Wilber, <tspan class="it">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
+
+  <text x="60" y="1148" class="serif b" font-size="20">“You have to be somebody before you can be nobody.”</text>
+  <text x="60" y="1170" class="mut" font-size="12">Jack Engler, quoted by Wilber in SES ch. 14 (note). The healthy order: form a stable self, then go beyond it.</text>
+
+  <line x1="60" y1="1198" x2="900" y2="1198" class="s-line" stroke-width="1"/>
+  <text x="60" y="1220" class="mut" font-size="11">Wilber first set this out in “The Pre/Trans Fallacy” (ReVision, 1980), later collected in Eye to Eye (1983).</text>
+  <text x="60" y="1236" class="mut" font-size="11">The band descriptions summarise his account in SES ch. 6. The two-bin “eye” is this wiki's device for his sentence about resemblance.</text>
+  <text x="60" y="1252" class="mut" font-size="11">Redrawn from Wilber's description for wilber.wiki; not a reproduction of a published figure.</text>
+  <text x="900" y="1252" text-anchor="end" class="b mut" font-size="12" letter-spacing="1">wilber.wiki</text>
+</svg>
+</div>
+
+<section id="alt">
+  <h2>Text alternative</h2>
+  <p>Wilber's account of development runs through three broad bands: <strong>prerational</strong> (infantile, egocentric, magical and mythic: before reason), <strong>rational</strong> (the ego and formal reason) and <strong>transrational</strong> (mystical, contemplative, postformal: beyond reason, not beneath it). He summarises the sequence as pre-ego, ego, trans-ego. Because the first and third bands are both <em>non</em>rational, an observer who hasn't sorted out the sequence sees only two categories, rational and nonrational, and the prerational and transrational collapse into one bin. Two errors follow. <strong>Reductionism</strong> reads the transrational down as prerational (his example: Freud, treating mystical union as regression). <strong>Elevationism</strong> reads the prerational up as transrational (his example: Jung). Wilber's point is not that one side is right: both are "half right and half wrong", since neurosis often is regression to prerational states, and mystical states do exist beyond, not beneath, reason. The healthy order, in Jack Engler's line that Wilber quotes, is that "you have to be somebody before you can be nobody".</p>
+</section>
+
+<section id="faith">
+  <h2>What is Wilber's and what is ours</h2>
+  <ul>
+    <li><strong>His:</strong> the three bands and their names; the phrase "pre-ego to ego to trans-ego"; the claim that pre and trans look alike "to the untutored eye"; the two fallacies and their names; Freud and Jung as the paradigm cases; "both half right and half wrong"; the Engler quotation.</li>
+    <li><strong>Ours:</strong> drawing the untutored eye's view as two bins fed by dashed lines; placing the two fallacies as arrows along the edges of the spectrum; the short band descriptions (summarised from <code>concepts/pre-trans-fallacy.md</code>, which summarises SES ch. 6); colour and type.</li>
+    <li><strong>Not shown on purpose:</strong> Joseph Campbell and Eco-Romanticism, Wilber's longer worked examples in SES; the "oceanic" Freud detail; any claim about which real people or movements commit which error beyond the two he names.</li>
+  </ul>
+</section>
+
+<section id="sources">
+  <h2>Sources</h2>
+  <p>All quotations are verbatim from <code>library/1995-sex-ecology-spirituality-full-text.md</code> (the revised second edition text).</p>
+  <blockquote>The essence of the pre/trans fallacy is itself fairly simple: since both prerational states and transrational states are, in their own ways, nonrational, they appear similar or even identical to the untutored eye.<small>SES ch. 6, "Magic, Mythic, and Beyond" (full text line 2551)</small></blockquote>
+  <blockquote>Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy. And the point is that they are <em>both</em> half right and half wrong.<small>SES ch. 6 (full text line 2561)</small></blockquote>
+  <blockquote>“You have to be somebody before you can be nobody.” … pre-ego to ego to trans-ego<small>SES ch. 14, note (full text line 8925). Engler's sentence is quoted by Wilber; "pre-ego to ego to trans-ego" is Wilber's own gloss in the same note.</small></blockquote>
+  <p>Concept page: <code>concepts/pre-trans-fallacy.md</code>. Essay history: <code>docs/plans/2026-10-09-pre-trans-fallacy-essay-source.md</code> (the 1980 ReVision essay itself is not in <code>library/</code>, so nothing here is quoted from it).</p>
+  <a class="dl" href="pre-trans-fallacy.svg">Static SVG export →</a>
+</section>
+
+<footer>Review candidate in <code>docs/plans/visual-brainstorm/</code>, not a site page. See <code>README.md</code> in this folder for integration notes and open questions.</footer>
+
+</div>
+</body>
+</html>

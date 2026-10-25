@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 960 1270" role="img" aria-labelledby="ptf-title ptf-desc" xmlns="http://www.w3.org/2000/svg">
+<style>
+:root{
+  --bg:#f6f3ed; --surface:#fffdf9; --ink:#1c1917; --ink-soft:#57534e; --muted:#8a827b;
+  --line:#ddd6cc; --line-strong:#b8afa3;
+  --amber:#b45309; --amber-soft:rgba(180,83,9,0.14);
+  --teal:#0f766e; --teal-soft:rgba(15,118,110,0.13);
+  --rose:#be123c; --rose-soft:rgba(190,18,60,0.12);
+  --indigo:#4338ca; --indigo-soft:rgba(67,56,202,0.11);
+  --soft-fill:rgba(28,25,23,0.05);
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#100f0e; --surface:#1a1816; --ink:#efeae2; --ink-soft:#b8b0a6; --muted:#807870;
+  --line:#322e2a; --line-strong:#4d4740;
+  --amber:#f59e0b; --amber-soft:rgba(245,158,11,0.18);
+  --teal:#2dd4bf; --teal-soft:rgba(45,212,191,0.16);
+  --rose:#fb7185; --rose-soft:rgba(251,113,133,0.18);
+  --indigo:#a5b4fc; --indigo-soft:rgba(165,180,252,0.16);
+  --soft-fill:rgba(239,234,226,0.07);
+}}
+
+  svg { background: var(--bg); color: var(--ink); font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  text { fill: currentColor; }
+  .serif { font-family: "Fraunces", Georgia, "Times New Roman", serif; }
+  .it { font-style: italic; } .b { font-weight: 600; }
+  .mut { fill: var(--muted); } .soft { fill: var(--ink-soft); }
+  .f-indigo-s { fill: var(--indigo-soft); } .s-indigo { stroke: var(--indigo); } .t-indigo { fill: var(--indigo); }
+  .f-teal-s { fill: var(--teal-soft); } .s-teal { stroke: var(--teal); } .t-teal { fill: var(--teal); }
+  .f-rose-s { fill: var(--rose-soft); } .s-rose { stroke: var(--rose); } .t-rose { fill: var(--rose); }
+  .f-amber-s { fill: var(--amber-soft); } .s-amber { stroke: var(--amber); } .t-amber { fill: var(--amber); }
+  .f-soft { fill: var(--soft-fill); } .f-paper { fill: var(--surface); }
+  .s-ink { stroke: currentColor; } .s-line { stroke: var(--line-strong); } .s-faint { stroke: var(--line); }
+  .nf { fill: none; } .dash { stroke-dasharray: 6 6; }
+  .m-ink { fill: currentColor; } .m-rose { fill: var(--rose); } .m-amber { fill: var(--amber); }
+  .stagerung rect { fill: var(--soft-fill); stroke: currentColor; stroke-width: 1; }
+  .staterung rect { fill: var(--amber-soft); stroke: var(--amber); stroke-width: 1; }
+  .cell { fill: var(--soft-fill); stroke: var(--line); stroke-width: 1; }
+</style>
+
+  <title id="ptf-title">The Pre/Trans Fallacy</title>
+  <desc id="ptf-desc">Left: a vertical spectrum in three bands, from bottom to top prerational, rational, transrational, with an axis reading pre-ego to ego to trans-ego. Right: what the untutored eye sees, only two bins, rational and nonrational; dashed lines carry both the prerational and the transrational band into the single nonrational bin. Inside the spectrum, two arrows mark the two errors: reductionism, Freud, reads the transrational down as prerational; elevationism, Jung, reads the prerational up as transrational. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 6 and Jack Engler's line, quoted by Wilber, that you have to be somebody before you can be nobody.</desc>
+  <defs>
+    <marker id="m-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="m-ink"/></marker>
+    <marker id="m-rose" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="m-rose"/></marker>
+    <marker id="m-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="m-amber"/></marker>
+  </defs>
+  <rect width="960" height="1270" fill="var(--bg)"/>
+
+  <!-- title block -->
+  <text x="60" y="64" class="b mut" font-size="12" letter-spacing="2.2">WILBER WIKI · A CONCEPT IN ONE PICTURE</text>
+  <text x="60" y="128" class="serif b" font-size="56" letter-spacing="-0.5">The Pre/Trans Fallacy</text>
+  <text x="60" y="162" class="serif it soft" font-size="20">Why what comes <tspan class="b">before</tspan> reason gets mistaken for what comes <tspan class="b">after</tspan> it,</text>
+  <text x="60" y="188" class="serif it soft" font-size="20">and the two mistakes that follow.</text>
+
+  <!-- column headers -->
+  <text x="260" y="226" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">WHAT DEVELOPMENT DOES</text>
+  <text x="740" y="226" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">WHAT THE UNTUTORED EYE SEES</text>
+
+  <!-- axis -->
+  <line x1="62" y1="850" x2="62" y2="262" class="s-ink" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <text transform="translate(44 550) rotate(-90)" text-anchor="middle" class="mut" font-size="12" letter-spacing="1">pre-ego → ego → trans-ego</text>
+
+  <!-- spectrum bands -->
+  <rect x="90" y="250" width="340" height="200" class="f-indigo-s s-indigo" stroke-width="1"/>
+  <rect x="90" y="450" width="340" height="200" class="f-soft s-ink" stroke-width="1"/>
+  <rect x="90" y="650" width="340" height="200" class="f-teal-s s-teal" stroke-width="1"/>
+
+  <text x="260" y="345" text-anchor="middle" class="serif b" font-size="32">transrational</text>
+  <text x="260" y="372" text-anchor="middle" class="soft" font-size="13">mystical · contemplative · postformal</text>
+  <text x="260" y="390" text-anchor="middle" class="mut" font-size="12">beyond reason, not beneath it</text>
+
+  <text x="260" y="545" text-anchor="middle" class="serif b" font-size="32">rational</text>
+  <text x="260" y="572" text-anchor="middle" class="soft" font-size="13">the ego · formal reason</text>
+
+  <text x="260" y="745" text-anchor="middle" class="serif b" font-size="32">prerational</text>
+  <text x="260" y="772" text-anchor="middle" class="soft" font-size="13">infantile · egocentric · magical · mythic</text>
+  <text x="260" y="790" text-anchor="middle" class="mut" font-size="12">before reason</text>
+
+  <!-- elevationism: up the left edge -->
+  <path d="M120 800 C 96 700, 96 400, 120 300" class="nf s-amber" stroke-width="3" marker-end="url(#m-amber)"/>
+  <text x="136" y="470" class="b t-amber" font-size="15">Elevationism</text>
+  <text x="136" y="489" class="t-amber" font-size="13">the prerational read up as transrational</text>
+  <text x="136" y="507" class="t-amber it" font-size="13">Wilber's example: Jung</text>
+
+  <!-- reductionism: down the right edge -->
+  <path d="M400 300 C 424 400, 424 700, 400 800" class="nf s-rose" stroke-width="3" marker-end="url(#m-rose)"/>
+  <text x="384" y="606" text-anchor="end" class="b t-rose" font-size="15">Reductionism</text>
+  <text x="384" y="625" text-anchor="end" class="t-rose" font-size="13">the transrational read down as prerational</text>
+  <text x="384" y="643" text-anchor="end" class="t-rose it" font-size="13">Wilber's example: Freud</text>
+
+  <!-- the eye's bins -->
+  <rect x="600" y="250" width="280" height="200" class="f-soft s-ink" stroke-width="1"/>
+  <text x="740" y="345" text-anchor="middle" class="serif b" font-size="32">rational</text>
+  <text x="740" y="372" text-anchor="middle" class="soft" font-size="13">seen as what it is</text>
+
+  <rect x="600" y="500" width="280" height="350" class="f-rose-s s-rose" stroke-width="1"/>
+  <text x="740" y="650" text-anchor="middle" class="serif b" font-size="32">nonrational</text>
+  <text x="740" y="684" text-anchor="middle" class="soft" font-size="13">prerational and transrational</text>
+  <text x="740" y="702" text-anchor="middle" class="soft" font-size="13">land in the same bin, where</text>
+  <text x="740" y="726" text-anchor="middle" class="serif it" font-size="15">“they appear similar or even identical”</text>
+
+  <!-- feeds from bands to bins -->
+  <path d="M430 350 C 510 350, 530 600, 596 620" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <path d="M430 550 C 510 550, 530 350, 596 350" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+  <path d="M430 750 C 510 750, 530 740, 596 740" class="nf s-ink dash" stroke-width="1.5" marker-end="url(#m-ink)"/>
+
+  <!-- quotes -->
+  <line x1="60" y1="900" x2="900" y2="900" class="s-line" stroke-width="1"/>
+  <text x="60" y="938" class="serif" font-size="17">“The essence of the pre/trans fallacy is itself fairly simple: since both prerational</text>
+  <text x="60" y="962" class="serif" font-size="17">states and transrational states are, in their own ways, nonrational, they appear</text>
+  <text x="60" y="986" class="serif" font-size="17">similar or even identical to the untutored eye.”</text>
+  <text x="60" y="1010" class="mut" font-size="12">Ken Wilber, <tspan class="it">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
+
+  <text x="60" y="1054" class="serif" font-size="17">“Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy.</text>
+  <text x="60" y="1078" class="serif" font-size="17">And the point is that they are <tspan class="it">both</tspan> half right and half wrong.”</text>
+  <text x="60" y="1102" class="mut" font-size="12">Ken Wilber, <tspan class="it">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
+
+  <text x="60" y="1148" class="serif b" font-size="20">“You have to be somebody before you can be nobody.”</text>
+  <text x="60" y="1170" class="mut" font-size="12">Jack Engler, quoted by Wilber in SES ch. 14 (note). The healthy order: form a stable self, then go beyond it.</text>
+
+  <line x1="60" y1="1198" x2="900" y2="1198" class="s-line" stroke-width="1"/>
+  <text x="60" y="1220" class="mut" font-size="11">Wilber first set this out in “The Pre/Trans Fallacy” (ReVision, 1980), later collected in Eye to Eye (1983).</text>
+  <text x="60" y="1236" class="mut" font-size="11">The band descriptions summarise his account in SES ch. 6. The two-bin “eye” is this wiki's device for his sentence about resemblance.</text>
+  <text x="60" y="1252" class="mut" font-size="11">Redrawn from Wilber's description for wilber.wiki; not a reproduction of a published figure.</text>
+  <text x="900" y="1252" text-anchor="end" class="b mut" font-size="12" letter-spacing="1">wilber.wiki</text>
+</svg>

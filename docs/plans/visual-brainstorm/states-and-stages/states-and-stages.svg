@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" role="img" aria-labelledby="t d">
+<title id="t">From one ladder (Integral Psychology, 2000) to a lattice of stages and states (Integral Spirituality, 2006)</title>
+<desc id="d">Left: a single ladder of ten rungs, archaic to integral and then psychic, subtle, causal, nondual on top. Right: a grid with the six structure-stages up the side and four states across the top, twenty-four cells. An arrow between the panels reads: the four top rungs become the column headers.</desc>
+<style>
+:root{
+  --bg:#f6f3ed; --surface:#fffdf9; --ink:#1c1917; --ink-soft:#57534e; --muted:#8a827b;
+  --line:#ddd6cc; --line-strong:#b8afa3;
+  --amber:#b45309; --amber-soft:rgba(180,83,9,0.14);
+  --teal:#0f766e; --teal-soft:rgba(15,118,110,0.13);
+  --rose:#be123c; --rose-soft:rgba(190,18,60,0.12);
+  --indigo:#4338ca; --indigo-soft:rgba(67,56,202,0.11);
+  --soft-fill:rgba(28,25,23,0.05);
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#100f0e; --surface:#1a1816; --ink:#efeae2; --ink-soft:#b8b0a6; --muted:#807870;
+  --line:#322e2a; --line-strong:#4d4740;
+  --amber:#f59e0b; --amber-soft:rgba(245,158,11,0.18);
+  --teal:#2dd4bf; --teal-soft:rgba(45,212,191,0.16);
+  --rose:#fb7185; --rose-soft:rgba(251,113,133,0.18);
+  --indigo:#a5b4fc; --indigo-soft:rgba(165,180,252,0.16);
+  --soft-fill:rgba(239,234,226,0.07);
+}}
+
+  svg { background: var(--bg); color: var(--ink); font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  text { fill: currentColor; }
+  .serif { font-family: "Fraunces", Georgia, "Times New Roman", serif; }
+  .it { font-style: italic; } .b { font-weight: 600; }
+  .mut { fill: var(--muted); } .soft { fill: var(--ink-soft); }
+  .f-indigo-s { fill: var(--indigo-soft); } .s-indigo { stroke: var(--indigo); } .t-indigo { fill: var(--indigo); }
+  .f-teal-s { fill: var(--teal-soft); } .s-teal { stroke: var(--teal); } .t-teal { fill: var(--teal); }
+  .f-rose-s { fill: var(--rose-soft); } .s-rose { stroke: var(--rose); } .t-rose { fill: var(--rose); }
+  .f-amber-s { fill: var(--amber-soft); } .s-amber { stroke: var(--amber); } .t-amber { fill: var(--amber); }
+  .f-soft { fill: var(--soft-fill); } .f-paper { fill: var(--surface); }
+  .s-ink { stroke: currentColor; } .s-line { stroke: var(--line-strong); } .s-faint { stroke: var(--line); }
+  .nf { fill: none; } .dash { stroke-dasharray: 6 6; }
+  .m-ink { fill: currentColor; } .m-rose { fill: var(--rose); } .m-amber { fill: var(--amber); }
+  .stagerung rect { fill: var(--soft-fill); stroke: currentColor; stroke-width: 1; }
+  .staterung rect { fill: var(--amber-soft); stroke: var(--amber); stroke-width: 1; }
+  .cell { fill: var(--soft-fill); stroke: var(--line); stroke-width: 1; }
+</style>
+
+<defs><marker id="m" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="m-amber"/></marker><marker id="mi" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="m-ink"/></marker></defs>
+<rect width="1000" height="600" fill="var(--bg)"/>
+<text x="190" y="44" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">INTEGRAL PSYCHOLOGY · 2000</text>
+<text x="190" y="66" text-anchor="middle" class="serif it soft" font-size="14">one spine; transpersonal levels on top</text>
+<g class="staterung"><rect x="100" y="90" width="180" height="36" rx="6"/><text x="190" y="106" text-anchor="middle" class="b" font-size="13">nondual</text><text x="190" y="119" text-anchor="middle" class="mut" font-size="9">a structure, on the ladder</text></g>
+<g class="staterung"><rect x="100" y="132" width="180" height="36" rx="6"/><text x="190" y="148" text-anchor="middle" class="b" font-size="13">causal</text><text x="190" y="161" text-anchor="middle" class="mut" font-size="9">a structure, on the ladder</text></g>
+<g class="staterung"><rect x="100" y="174" width="180" height="36" rx="6"/><text x="190" y="190" text-anchor="middle" class="b" font-size="13">subtle</text><text x="190" y="203" text-anchor="middle" class="mut" font-size="9">a structure, on the ladder</text></g>
+<g class="staterung"><rect x="100" y="216" width="180" height="36" rx="6"/><text x="190" y="232" text-anchor="middle" class="b" font-size="13">psychic</text><text x="190" y="245" text-anchor="middle" class="mut" font-size="9">a structure, on the ladder</text></g>
+<g class="stagerung"><rect x="100" y="258" width="180" height="36" rx="6"/><text x="190" y="274" text-anchor="middle" class="b" font-size="13">integral</text><text x="190" y="287" text-anchor="middle" class="mut" font-size="9">chart 1: Holistic-integralism</text></g>
+<g class="stagerung"><rect x="100" y="300" width="180" height="36" rx="6"/><text x="190" y="316" text-anchor="middle" class="b" font-size="13">pluralistic</text><text x="190" y="329" text-anchor="middle" class="mut" font-size="9">chart 1: Pluralistic-relativism</text></g>
+<g class="stagerung"><rect x="100" y="342" width="180" height="36" rx="6"/><text x="190" y="358" text-anchor="middle" class="b" font-size="13">rational</text><text x="190" y="371" text-anchor="middle" class="mut" font-size="9">chart 1: Formalism</text></g>
+<g class="stagerung"><rect x="100" y="384" width="180" height="36" rx="6"/><text x="190" y="400" text-anchor="middle" class="b" font-size="13">mythic</text><text x="190" y="413" text-anchor="middle" class="mut" font-size="9">chart 1: Magic-mythic/Mythic-rational</text></g>
+<g class="stagerung"><rect x="100" y="426" width="180" height="36" rx="6"/><text x="190" y="442" text-anchor="middle" class="b" font-size="13">magic</text><text x="190" y="455" text-anchor="middle" class="mut" font-size="9">chart 1: Magical</text></g>
+<g class="stagerung"><rect x="100" y="468" width="180" height="36" rx="6"/><text x="190" y="484" text-anchor="middle" class="b" font-size="13">archaic</text><text x="190" y="497" text-anchor="middle" class="mut" font-size="9">chart 1: Archaic</text></g>
+<line x1="84" y1="504" x2="84" y2="92" class="s-ink" stroke-width="1.5" marker-end="url(#mi)"/>
+<text transform="translate(72 300) rotate(-90)" text-anchor="middle" class="mut" font-size="11" letter-spacing="1">higher structures</text>
+<path d="M292 104 C 360 62, 480 62, 552 112" class="nf s-amber" stroke-width="2.5" marker-end="url(#m)"/>
+<text x="420" y="54" text-anchor="middle" class="b t-amber" font-size="11">the top four rungs</text>
+<text x="420" y="68" text-anchor="middle" class="b t-amber" font-size="11">become the column headers</text>
+<text x="720" y="44" text-anchor="middle" class="b mut" font-size="12" letter-spacing="2">INTEGRAL SPIRITUALITY · 2006</text>
+<text x="720" y="66" text-anchor="middle" class="serif it soft" font-size="14">the Wilber-Combs lattice: stages up the side, states across the top</text>
+<text x="430" y="156" class="b mut" font-size="10" letter-spacing="1.5">STRUCTURE-STAGES</text>
+<text x="560" y="100" class="b mut" font-size="10" letter-spacing="1.5">STATES</text>
+<g class="staterung"><rect x="560" y="110" width="102" height="36" rx="6"/><text x="611" y="126" text-anchor="middle" class="b" font-size="12">gross / psychic</text><text x="611" y="139" text-anchor="middle" class="mut" font-size="9">a state</text></g>
+<g class="staterung"><rect x="668" y="110" width="102" height="36" rx="6"/><text x="719" y="126" text-anchor="middle" class="b" font-size="12">subtle</text><text x="719" y="139" text-anchor="middle" class="mut" font-size="9">a state</text></g>
+<g class="staterung"><rect x="776" y="110" width="102" height="36" rx="6"/><text x="827" y="126" text-anchor="middle" class="b" font-size="12">causal</text><text x="827" y="139" text-anchor="middle" class="mut" font-size="9">a state</text></g>
+<g class="staterung"><rect x="884" y="110" width="102" height="36" rx="6"/><text x="935" y="126" text-anchor="middle" class="b" font-size="12">nondual</text><text x="935" y="139" text-anchor="middle" class="mut" font-size="9">a state</text></g>
+<g class="stagerung"><rect x="430" y="166" width="120" height="36" rx="6"/><text x="490" y="188" text-anchor="middle" class="b" font-size="12">integral</text></g>
+<rect class="cell" x="560" y="166" width="102" height="36" rx="3"/>
+<text x="611" y="188" text-anchor="middle" class="mut" font-size="9">integral × gross</text>
+<rect class="cell" x="668" y="166" width="102" height="36" rx="3"/>
+<text x="719" y="188" text-anchor="middle" class="mut" font-size="9">integral × subtle</text>
+<rect class="cell" x="776" y="166" width="102" height="36" rx="3"/>
+<text x="827" y="188" text-anchor="middle" class="mut" font-size="9">integral × causal</text>
+<rect class="cell" x="884" y="166" width="102" height="36" rx="3"/>
+<text x="935" y="188" text-anchor="middle" class="mut" font-size="9">integral × nondual</text>
+<g class="stagerung"><rect x="430" y="212" width="120" height="36" rx="6"/><text x="490" y="234" text-anchor="middle" class="b" font-size="12">pluralistic</text></g>
+<rect class="cell" x="560" y="212" width="102" height="36" rx="3"/>
+<text x="611" y="234" text-anchor="middle" class="mut" font-size="9">pluralistic × gross</text>
+<rect class="cell" x="668" y="212" width="102" height="36" rx="3"/>
+<text x="719" y="234" text-anchor="middle" class="mut" font-size="9">pluralistic × subtle</text>
+<rect class="cell" x="776" y="212" width="102" height="36" rx="3"/>
+<text x="827" y="234" text-anchor="middle" class="mut" font-size="9">pluralistic × causal</text>
+<rect class="cell" x="884" y="212" width="102" height="36" rx="3"/>
+<text x="935" y="234" text-anchor="middle" class="mut" font-size="9">pluralistic × nondual</text>
+<g class="stagerung"><rect x="430" y="258" width="120" height="36" rx="6"/><text x="490" y="280" text-anchor="middle" class="b" font-size="12">rational</text></g>
+<rect class="cell" x="560" y="258" width="102" height="36" rx="3"/>
+<text x="611" y="280" text-anchor="middle" class="mut" font-size="9">rational × gross</text>
+<rect class="cell" x="668" y="258" width="102" height="36" rx="3"/>
+<text x="719" y="280" text-anchor="middle" class="mut" font-size="9">rational × subtle</text>
+<rect class="cell" x="776" y="258" width="102" height="36" rx="3"/>
+<text x="827" y="280" text-anchor="middle" class="mut" font-size="9">rational × causal</text>
+<rect class="cell" x="884" y="258" width="102" height="36" rx="3"/>
+<text x="935" y="280" text-anchor="middle" class="mut" font-size="9">rational × nondual</text>
+<g class="stagerung"><rect x="430" y="304" width="120" height="36" rx="6"/><text x="490" y="326" text-anchor="middle" class="b" font-size="12">mythic</text></g>
+<rect class="cell" x="560" y="304" width="102" height="36" rx="3"/>
+<text x="611" y="326" text-anchor="middle" class="mut" font-size="9">mythic × gross</text>
+<rect class="cell" x="668" y="304" width="102" height="36" rx="3"/>
+<text x="719" y="326" text-anchor="middle" class="mut" font-size="9">mythic × subtle</text>
+<rect class="cell" x="776" y="304" width="102" height="36" rx="3"/>
+<text x="827" y="326" text-anchor="middle" class="mut" font-size="9">mythic × causal</text>
+<rect class="cell" x="884" y="304" width="102" height="36" rx="3"/>
+<text x="935" y="326" text-anchor="middle" class="mut" font-size="9">mythic × nondual</text>
+<g class="stagerung"><rect x="430" y="350" width="120" height="36" rx="6"/><text x="490" y="372" text-anchor="middle" class="b" font-size="12">magic</text></g>
+<rect class="cell" x="560" y="350" width="102" height="36" rx="3"/>
+<text x="611" y="372" text-anchor="middle" class="mut" font-size="9">magic × gross</text>
+<rect class="cell" x="668" y="350" width="102" height="36" rx="3"/>
+<text x="719" y="372" text-anchor="middle" class="mut" font-size="9">magic × subtle</text>
+<rect class="cell" x="776" y="350" width="102" height="36" rx="3"/>
+<text x="827" y="372" text-anchor="middle" class="mut" font-size="9">magic × causal</text>
+<rect class="cell" x="884" y="350" width="102" height="36" rx="3"/>
+<text x="935" y="372" text-anchor="middle" class="mut" font-size="9">magic × nondual</text>
+<g class="stagerung"><rect x="430" y="396" width="120" height="36" rx="6"/><text x="490" y="418" text-anchor="middle" class="b" font-size="12">archaic</text></g>
+<rect class="cell" x="560" y="396" width="102" height="36" rx="3"/>
+<text x="611" y="418" text-anchor="middle" class="mut" font-size="9">archaic × gross</text>
+<rect class="cell" x="668" y="396" width="102" height="36" rx="3"/>
+<text x="719" y="418" text-anchor="middle" class="mut" font-size="9">archaic × subtle</text>
+<rect class="cell" x="776" y="396" width="102" height="36" rx="3"/>
+<text x="827" y="418" text-anchor="middle" class="mut" font-size="9">archaic × causal</text>
+<rect class="cell" x="884" y="396" width="102" height="36" rx="3"/>
+<text x="935" y="418" text-anchor="middle" class="mut" font-size="9">archaic × nondual</text>
+<line x1="40" y1="500" x2="960" y2="500" class="s-faint"/>
+<text x="40" y="528" class="serif" font-size="14">“…gross/psychic, subtle, causal, and nondual were no longer stages stacked on top of the Western conventional stages,</text>
+<text x="40" y="548" class="serif" font-size="14">but were states (including altered states and peak experiences) that can and did occur alongside any of those stages.”</text>
+<text x="40" y="570" class="mut" font-size="11">Ken Wilber, Integral Spirituality (2006), ch. 4. Integral Psychology (2000) already says the states are available “at virtually any stage of growth”;</text>
+<text x="40" y="586" class="mut" font-size="11">what changed is the picture, and the weight put on it. Redrawn for wilber.wiki; not a reproduction of a published figure.</text>
+<text x="960" y="586" text-anchor="end" class="b mut" font-size="11" letter-spacing="1">wilber.wiki</text>
+</svg>
