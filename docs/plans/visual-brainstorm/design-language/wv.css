@@ -1,0 +1,63 @@
+/* Wilber Wiki figures: the page layer around an inlined figure SVG.
+ * Colour lives inside each SVG (ink, accent, tint, with their night values). This file only
+ * holds the figure frame, the step controls, and the step-reveal rules the controller drives.
+ * Contract: <div class="wv-fig" data-wv-steps="N" data-step="N"> holds [data-wv-controls],
+ * the <svg> (elements carry data-at="k": appear at step k) and [data-wv-caption] spans with
+ * data-cap="k". With no JS the markup sits at step N, which is the static image. */
+
+@font-face { font-family: "Apfel Grotezk"; font-weight: 400; font-display: swap; src: url(fonts/ApfelGrotezk-Regular.otf) format("opentype"); }
+@font-face { font-family: "Apfel Grotezk"; font-weight: 500; font-display: swap; src: url(fonts/ApfelGrotezk-Mittel.otf) format("opentype"); }
+
+.wv-fig { position: relative; }
+.wv-fig svg { display: block; width: 100%; height: auto; }
+.wv-fig:focus-visible { outline: 2px solid currentColor; outline-offset: 6px; }
+
+/* controls: ink buttons, chalk on night; nothing coloured */
+.wv-controls { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem 0.75rem; margin: 0 0 0.9rem; font-size: 0.85rem; }
+.wv-controls button { font: inherit; font-weight: 500; letter-spacing: 0.02em; cursor: pointer; border: 1.5px solid var(--wv-ink, #1b1916); color: var(--wv-ink, #1b1916); background: transparent; border-radius: 999px; padding: 0.3rem 0.9rem; line-height: 1.2; }
+.wv-controls button[data-act="play"] { background: var(--wv-ink, #1b1916); color: var(--wv-paper, #fbfaf6); }
+.wv-controls button[aria-pressed="true"][data-step] { background: var(--wv-ink, #1b1916); color: var(--wv-paper, #fbfaf6); }
+.wv-controls button:disabled { opacity: 0.35; cursor: default; }
+.wv-controls .wv-steps { display: inline-flex; gap: 0.3rem; }
+.wv-controls .wv-steps button { padding: 0.3rem 0.65rem; }
+.wv-controls .wv-hint { color: var(--wv-muted, #5d584f); margin-left: auto; }
+.wv-caption { min-height: 2.8em; margin: 0.8rem 0 0; color: var(--wv-muted, #5d584f); font-size: 0.95rem; line-height: 1.5; }
+html:not(.wv-js) .wv-caption [data-cap]:not([data-cap-settled]) { display: none; }
+
+/* step reveal: anything with data-at > current step is hidden; arrows marked to draw
+ * (class wv-draw on the line, wv-head on the head) draw in instead of fading */
+.wv-fig .wv-g-fade { transition: opacity 0.9s ease; }
+.wv-fig .wv-g-draw .wv-draw { stroke-dasharray: 1; stroke-dashoffset: 0; transition: stroke-dashoffset 1.5s cubic-bezier(0.3, 0, 0.2, 1); }
+.wv-fig .wv-g-draw .wv-head { transition: opacity 0.5s ease 1.2s; }
+
+[data-step="0"] [data-at="1"], [data-step="0"] [data-at="2"], [data-step="0"] [data-at="3"], [data-step="0"] [data-at="4"], [data-step="0"] [data-at="5"], [data-step="0"] [data-at="6"],
+[data-step="1"] [data-at="2"], [data-step="1"] [data-at="3"], [data-step="1"] [data-at="4"], [data-step="1"] [data-at="5"], [data-step="1"] [data-at="6"],
+[data-step="2"] [data-at="3"], [data-step="2"] [data-at="4"], [data-step="2"] [data-at="5"], [data-step="2"] [data-at="6"],
+[data-step="3"] [data-at="4"], [data-step="3"] [data-at="5"], [data-step="3"] [data-at="6"],
+[data-step="4"] [data-at="5"], [data-step="4"] [data-at="6"],
+[data-step="5"] [data-at="6"] { opacity: 0; }
+
+[data-step="0"] .wv-g-draw[data-at="1"], [data-step="0"] .wv-g-draw[data-at="2"], [data-step="0"] .wv-g-draw[data-at="3"], [data-step="0"] .wv-g-draw[data-at="4"], [data-step="0"] .wv-g-draw[data-at="5"], [data-step="0"] .wv-g-draw[data-at="6"],
+[data-step="1"] .wv-g-draw[data-at="2"], [data-step="1"] .wv-g-draw[data-at="3"], [data-step="1"] .wv-g-draw[data-at="4"], [data-step="1"] .wv-g-draw[data-at="5"], [data-step="1"] .wv-g-draw[data-at="6"],
+[data-step="2"] .wv-g-draw[data-at="3"], [data-step="2"] .wv-g-draw[data-at="4"], [data-step="2"] .wv-g-draw[data-at="5"], [data-step="2"] .wv-g-draw[data-at="6"],
+[data-step="3"] .wv-g-draw[data-at="4"], [data-step="3"] .wv-g-draw[data-at="5"], [data-step="3"] .wv-g-draw[data-at="6"],
+[data-step="4"] .wv-g-draw[data-at="5"], [data-step="4"] .wv-g-draw[data-at="6"],
+[data-step="5"] .wv-g-draw[data-at="6"] { opacity: 1; }
+
+[data-step="0"] .wv-g-draw[data-at="1"] .wv-draw, [data-step="0"] .wv-g-draw[data-at="2"] .wv-draw, [data-step="0"] .wv-g-draw[data-at="3"] .wv-draw, [data-step="0"] .wv-g-draw[data-at="4"] .wv-draw, [data-step="0"] .wv-g-draw[data-at="5"] .wv-draw, [data-step="0"] .wv-g-draw[data-at="6"] .wv-draw,
+[data-step="1"] .wv-g-draw[data-at="2"] .wv-draw, [data-step="1"] .wv-g-draw[data-at="3"] .wv-draw, [data-step="1"] .wv-g-draw[data-at="4"] .wv-draw, [data-step="1"] .wv-g-draw[data-at="5"] .wv-draw, [data-step="1"] .wv-g-draw[data-at="6"] .wv-draw,
+[data-step="2"] .wv-g-draw[data-at="3"] .wv-draw, [data-step="2"] .wv-g-draw[data-at="4"] .wv-draw, [data-step="2"] .wv-g-draw[data-at="5"] .wv-draw, [data-step="2"] .wv-g-draw[data-at="6"] .wv-draw,
+[data-step="3"] .wv-g-draw[data-at="4"] .wv-draw, [data-step="3"] .wv-g-draw[data-at="5"] .wv-draw, [data-step="3"] .wv-g-draw[data-at="6"] .wv-draw,
+[data-step="4"] .wv-g-draw[data-at="5"] .wv-draw, [data-step="4"] .wv-g-draw[data-at="6"] .wv-draw,
+[data-step="5"] .wv-g-draw[data-at="6"] .wv-draw { stroke-dashoffset: 1; }
+
+[data-step="0"] .wv-g-draw[data-at="1"] .wv-head, [data-step="0"] .wv-g-draw[data-at="2"] .wv-head, [data-step="0"] .wv-g-draw[data-at="3"] .wv-head, [data-step="0"] .wv-g-draw[data-at="4"] .wv-head, [data-step="0"] .wv-g-draw[data-at="5"] .wv-head, [data-step="0"] .wv-g-draw[data-at="6"] .wv-head,
+[data-step="1"] .wv-g-draw[data-at="2"] .wv-head, [data-step="1"] .wv-g-draw[data-at="3"] .wv-head, [data-step="1"] .wv-g-draw[data-at="4"] .wv-head, [data-step="1"] .wv-g-draw[data-at="5"] .wv-head, [data-step="1"] .wv-g-draw[data-at="6"] .wv-head,
+[data-step="2"] .wv-g-draw[data-at="3"] .wv-head, [data-step="2"] .wv-g-draw[data-at="4"] .wv-head, [data-step="2"] .wv-g-draw[data-at="5"] .wv-head, [data-step="2"] .wv-g-draw[data-at="6"] .wv-head,
+[data-step="3"] .wv-g-draw[data-at="4"] .wv-head, [data-step="3"] .wv-g-draw[data-at="5"] .wv-head, [data-step="3"] .wv-g-draw[data-at="6"] .wv-head,
+[data-step="4"] .wv-g-draw[data-at="5"] .wv-head, [data-step="4"] .wv-g-draw[data-at="6"] .wv-head,
+[data-step="5"] .wv-g-draw[data-at="6"] .wv-head { opacity: 0; transition-delay: 0s; }
+
+/* instant cuts (stepping back, or a direct jump) and reduced motion */
+.wv-fig.wv-no-motion * { transition: none !important; }
+@media (prefers-reduced-motion: reduce) { .wv-fig * { transition: none !important; } }
