@@ -43,6 +43,8 @@ directly when the task below applies, from whatever runtime you're in):
   real text from the source book, not a paraphrase or reconstruction. Built after a page
   shipped once with a fabricated quote formatted as verbatim.
 
+- **Before making or editing any figure, diagram or share image**, read [`docs/figure-design.md`](docs/figure-design.md) in full: the settled visual rules (after the Seeds of Renaissance diagram system), the build pipeline, and the faithfulness rules for Wilber figures.
+
 - **Before writing or revising a book summary page** (the expanded `works/<slug>.md` for a book whose full text is in `library/`), read [`skills/write-book-summary/SKILL.md`](skills/write-book-summary/SKILL.md) in full, as well as the excerpt skill above.
 
 ## Content structure
