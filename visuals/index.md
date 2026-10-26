@@ -811,3 +811,257 @@ He numbered the first four phases himself:
 > Ken Wilber, *Integral Psychology* (2000), ch. 9, note 15
 
 Phase V is not in his list; the name is this wiki's, following later commentators. The bands are approximate periods, and no line between books claims that one led to another. Filled spines are the twelve core books; outlined ones are others named for a phase. More: [The evolution of Wilber's thought](../works/phases.md).
+
+## Two ways to flatten the Kosmos
+
+<!-- figure:subtle-reductionism -->
+<div class="wv-root wv-share" data-wv-share="subtle-reductionism" data-wv-link="/visuals/subtle-reductionism">
+<img class="wv-still" src="/assets/visuals/subtle-reductionism.png" width="2400" height="1600" alt="Two ways to flatten the Kosmos: gross and subtle reductionism on the four quadrants. Three two-by-two quadrant grids side by side, interior on the left and exterior on the right of each. The first is the Kosmos: all four windows filled, I, It, We, Its, with a thought at the crossing. The second is gross reductionism: three windows are empty dotted outlines with arrows into the Upper Right, which now holds only scattered dots labelled atoms. The third is subtle reductionism: the two interior windows are empty dotted outlines, arrows carry I to It and We to Its, and the exterior half holds one web of connected nodes labelled the great interlocking web; the purple interior tint is gone. Under each grid, Wilber's verdict: gross reductionism has not been historically that influential; subtle reductionism is the truly devastating contributor to modern flatland ontology. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 4.">
+<div id="sr-fig" data-wv-steps="5" data-step="5" data-wv-dur="1500" aria-label="Animated figure: gross and subtle reductionism on the four quadrants">
+  <div class="wv-controls" data-wv-controls></div>
+  <figure class="wv-figure">
+    <div class="wv-frame">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" data-og="0 0 1200 630" data-square="0 -200 1200 1200" role="img" aria-labelledby="sr-title sr-desc">
+  <title id="sr-title">Two ways to flatten the Kosmos: gross and subtle reductionism on the four quadrants</title>
+  <desc id="sr-desc">Three two-by-two quadrant grids side by side, interior on the left and exterior on the right of each. The first is the Kosmos: all four windows filled, I, It, We, Its, with a thought at the crossing. The second is gross reductionism: three windows are empty dotted outlines with arrows into the Upper Right, which now holds only scattered dots labelled atoms. The third is subtle reductionism: the two interior windows are empty dotted outlines, arrows carry I to It and We to Its, and the exterior half holds one web of connected nodes labelled the great interlocking web; the purple interior tint is gone. Under each grid, Wilber's verdict: gross reductionism has not been historically that influential; subtle reductionism is the truly devastating contributor to modern flatland ontology. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 4.</desc>
+  <defs>
+    <marker id="sr-m-fallacy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="c-fallacy"/></marker>
+  </defs>
+  <!-- title block (always visible) -->
+  <text x="60" y="48" class="t-eyebrow">WILBER WIKI · A CONCEPT IN ONE PICTURE</text>
+  <text x="60" y="104" class="t-title">Two ways to flatten the Kosmos</text>
+  <text x="60" y="140" class="t-sub">The atomist keeps only atoms. The holist keeps the whole web and loses every within. Wilber says the second built flatland.</text>
+  <!-- step 0: the Kosmos, all four windows (the frame of "One thought, four windows") -->
+  <text x="100" y="186" class="t-head">THE KOSMOS · ALL FOUR QUADRANTS</text>
+  <text x="100" y="204" class="t-small t-mute">one thought, four windows: interiors and exteriors, all four real</text>
+  <text transform="translate(82 300) rotate(-90)" text-anchor="middle" class="t-head">INDIVIDUAL</text>
+  <text transform="translate(82 420) rotate(-90)" text-anchor="middle" class="t-head">COLLECTIVE</text>
+  <g>
+    <text x="180" y="228" text-anchor="middle" class="t-head">INTERIOR</text>
+    <text x="340" y="228" text-anchor="middle" class="t-head">EXTERIOR</text>
+  </g>  <g>
+    <rect x="100" y="240" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="112" y="266"><tspan class="t-name-s">I</tspan><tspan class="t-small t-mute" dx="8">intentional</tspan></text>
+    <text x="112" y="350" class="t-small t-soft">a meaning</text>
+    <g transform="translate(-205.7 100.3) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M498 305 C482 305, 482 279, 500 277 C498 259, 526 253, 532 267 C544 253, 570 263, 562 279 C580 281, 580 305, 562 305 Z"/><circle cx="566" cy="316" r="4"/><circle cx="576" cy="327" r="2.5"/></g><g class="c-ink"><circle cx="520" cy="288" r="2.4"/><circle cx="530" cy="288" r="2.4"/><circle cx="540" cy="288" r="2.4"/></g></g>
+  </g>  <g>
+    <rect x="260" y="240" width="160" height="120" class="f-neutral s-ink w-hair"/>
+    <text x="408" y="266" text-anchor="end"><tspan class="t-small t-mute">behavioral</tspan><tspan class="t-name-s" dx="8">It</tspan></text>
+    <text x="408" y="350" text-anchor="end" class="t-small t-soft">a brain state</text>
+    <g transform="translate(-115.0 99.6) scale(0.7)"><polyline class="nf s-ink" stroke-linejoin="round" stroke-linecap="round" style="stroke-width:2.1" points="628,292 632,281 636,304 640,278 644,306 648,282 652,301 656,284 660,299 664,280 668,307 672,276 676,309 680,282 684,301 688,286 692,296 696,283 700,303 704,286 708,296 712,292"/></g>
+  </g>  <g>
+    <rect x="100" y="360" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="112" y="386"><tspan class="t-name-s">We</tspan><tspan class="t-small t-mute" dx="8">cultural</tspan></text>
+    <text x="112" y="470" class="t-small t-soft">a shared language</text>
+    <g transform="translate(-207.1 50.2) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M494 502 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-30 l-10 10 v-10 h-4 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/><path d="M528 524 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-4 v10 l-10 -10 h-30 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/></g><g class="s-ink" style="stroke-width:1.4"><line x1="500" y1="516" x2="530" y2="516"/><line x1="500" y1="523" x2="520" y2="523"/><line x1="540" y1="538" x2="570" y2="538"/><line x1="550" y1="545" x2="570" y2="545"/></g></g>
+  </g>  <g>
+    <rect x="260" y="360" width="160" height="120" class="f-neutral s-ink w-hair"/>
+    <text x="408" y="386" text-anchor="end"><tspan class="t-small t-mute">social</tspan><tspan class="t-name-s" dx="8">Its</tspan></text>
+    <text x="408" y="470" text-anchor="end" class="t-small t-soft">a social system</text>
+    <g transform="translate(-111.5 50.2) scale(0.7)"><g class="s-ink" style="stroke-width:1.4"><line x1="640" y1="512" x2="658" y2="528"/><line x1="690" y1="512" x2="672" y2="528"/><line x1="640" y1="556" x2="658" y2="540"/><line x1="690" y1="556" x2="672" y2="540"/></g><g class="f-surface s-ink" style="stroke-width:2.1"><rect x="624" y="498" width="22" height="16"/><rect x="684" y="498" width="22" height="16"/><rect x="654" y="526" width="22" height="16"/><rect x="624" y="554" width="22" height="16"/><rect x="684" y="554" width="22" height="16"/></g></g>
+  </g>  <circle cx="260" cy="360" r="38" class="f-surface s-ink w-struct"/>
+  <text x="260" y="357" text-anchor="middle" class="t-name-s" style="font-size:16px">a thought</text>
+  <text x="260" y="374" text-anchor="middle" class="t-small t-mute">one holon</text>
+  <text x="100" y="506" class="t-label t-soft">every interior has an exterior correlate,</text>
+  <text x="100" y="524" class="t-label t-soft">which is what makes both reductions tempting</text>
+  <text x="100" y="550" class="t-quote-s">“…each quadrant is intimately correlated with,</text>
+  <text x="100" y="568" class="t-quote-s">dependent upon, but not reducible to, the others.”</text>
+  <!-- step 1: gross reductionism starts from the same four windows (the full copies exist only for step 1) -->
+  <g class="wv-fade" data-at="1">
+    <text x="460" y="186" class="t-head">GROSS REDUCTIONISM</text>
+    <text x="460" y="204" class="t-small t-mute">all quadrants to the Upper Right, then the Upper Right to atoms</text>
+  </g>
+  <g class="wv-fade" data-at="1">
+    <text x="540" y="228" text-anchor="middle" class="t-head">INTERIOR</text>
+    <text x="700" y="228" text-anchor="middle" class="t-head">EXTERIOR</text>
+  </g>  <g class="wv-fade" data-from="1" data-until="2" opacity="0">
+    <rect x="460" y="240" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="472" y="266"><tspan class="t-name-s">I</tspan><tspan class="t-small t-mute" dx="8">intentional</tspan></text>
+    <text x="472" y="350" class="t-small t-soft">a meaning</text>
+    <g transform="translate(154.3 100.3) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M498 305 C482 305, 482 279, 500 277 C498 259, 526 253, 532 267 C544 253, 570 263, 562 279 C580 281, 580 305, 562 305 Z"/><circle cx="566" cy="316" r="4"/><circle cx="576" cy="327" r="2.5"/></g><g class="c-ink"><circle cx="520" cy="288" r="2.4"/><circle cx="530" cy="288" r="2.4"/><circle cx="540" cy="288" r="2.4"/></g></g>
+  </g>  <g class="wv-fade" data-from="1" data-until="2" opacity="0">
+    <rect x="460" y="360" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="472" y="386"><tspan class="t-name-s">We</tspan><tspan class="t-small t-mute" dx="8">cultural</tspan></text>
+    <text x="472" y="470" class="t-small t-soft">a shared language</text>
+    <g transform="translate(152.9 50.2) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M494 502 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-30 l-10 10 v-10 h-4 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/><path d="M528 524 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-4 v10 l-10 -10 h-30 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/></g><g class="s-ink" style="stroke-width:1.4"><line x1="500" y1="516" x2="530" y2="516"/><line x1="500" y1="523" x2="520" y2="523"/><line x1="540" y1="538" x2="570" y2="538"/><line x1="550" y1="545" x2="570" y2="545"/></g></g>
+  </g>  <g class="wv-fade" data-from="1" data-until="2" opacity="0">
+    <rect x="620" y="360" width="160" height="120" class="f-neutral s-ink w-hair"/>
+    <text x="768" y="386" text-anchor="end"><tspan class="t-small t-mute">social</tspan><tspan class="t-name-s" dx="8">Its</tspan></text>
+    <text x="768" y="470" text-anchor="end" class="t-small t-soft">a social system</text>
+    <g transform="translate(248.5 50.2) scale(0.7)"><g class="s-ink" style="stroke-width:1.4"><line x1="640" y1="512" x2="658" y2="528"/><line x1="690" y1="512" x2="672" y2="528"/><line x1="640" y1="556" x2="658" y2="540"/><line x1="690" y1="556" x2="672" y2="540"/></g><g class="f-surface s-ink" style="stroke-width:2.1"><rect x="624" y="498" width="22" height="16"/><rect x="684" y="498" width="22" height="16"/><rect x="654" y="526" width="22" height="16"/><rect x="624" y="554" width="22" height="16"/><rect x="684" y="554" width="22" height="16"/></g></g>
+  </g>  <rect x="620" y="240" width="160" height="120" class="f-fallacy s-fallacy w-hair wv-fade" data-at="2" style="transition-delay: 600ms"/>  <g class="wv-fade" data-from="1" data-until="2" opacity="0">
+    <rect x="620" y="240" width="160" height="120" class="f-neutral s-ink w-hair"/>
+    <text x="768" y="266" text-anchor="end"><tspan class="t-small t-mute">behavioral</tspan><tspan class="t-name-s" dx="8">It</tspan></text>
+    <text x="768" y="350" text-anchor="end" class="t-small t-soft">a brain state</text>
+    <g transform="translate(245.0 99.6) scale(0.7)"><polyline class="nf s-ink" stroke-linejoin="round" stroke-linecap="round" style="stroke-width:2.1" points="628,292 632,281 636,304 640,278 644,306 648,282 652,301 656,284 660,299 664,280 668,307 672,276 676,309 680,282 684,301 688,286 692,296 696,283 700,303 704,286 708,296 712,292"/></g>
+  </g>
+  <!-- step 2: the collapse. Ghosts of the three windows fly into the Upper Right; what is left is dotted; then atoms. -->
+  <rect x="460" y="240" width="160" height="120" class="wv-ghost f-interior s-interior w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(160px, 0px) scale(0.92);"/>  <rect x="460" y="360" width="160" height="120" class="wv-ghost f-interior s-interior w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(160px, -120px) scale(0.92);"/>  <rect x="620" y="360" width="160" height="120" class="wv-ghost f-neutral s-ink w-hair" data-at="2" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(0px, -120px) scale(0.92);"/>  <g class="wv-fade" data-at="2">
+    <rect x="460" y="240" width="160" height="120" class="nf s-line w-struct k-dot"/>
+    <text x="472" y="266" class="t-name-s t-mute">I</text>
+  </g>  <g class="wv-fade" data-at="2">
+    <rect x="460" y="360" width="160" height="120" class="nf s-line w-struct k-dot"/>
+    <text x="472" y="386" class="t-name-s t-mute">We</text>
+  </g>  <g class="wv-fade" data-at="2">
+    <rect x="620" y="360" width="160" height="120" class="nf s-line w-struct k-dot"/>
+    <text x="768" y="386" text-anchor="end" class="t-name-s t-mute">Its</text>
+  </g>  <g class="wv-fade" data-at="2" style="transition-delay: 300ms">
+    <path d="M556 300 H634" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="2" marker-end="url(#sr-m-fallacy)" style="transition-delay: 300ms, 300ms"/>
+    <path d="M556 426 C 600 426, 628 412, 648 376" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="2" marker-end="url(#sr-m-fallacy)" style="transition-delay: 300ms, 300ms"/>
+    <path d="M722 434 V376" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="2" marker-end="url(#sr-m-fallacy)" style="transition-delay: 300ms, 300ms"/>
+  </g>
+  <g class="wv-fade" data-at="2" style="transition-delay: 900ms">
+    <text x="768" y="266" text-anchor="end" class="t-name-s">It</text>
+    <g class="c-ink">
+      <circle cx="646" cy="284" r="2.6"/>      <circle cx="668" cy="279" r="2.6"/>      <circle cx="693" cy="286" r="2.6"/>      <circle cx="717" cy="281" r="2.6"/>      <circle cx="742" cy="288" r="2.6"/>      <circle cx="760" cy="300" r="2.6"/>      <circle cx="652" cy="304" r="2.6"/>      <circle cx="676" cy="299" r="2.6"/>      <circle cx="702" cy="306" r="2.6"/>      <circle cx="727" cy="301" r="2.6"/>      <circle cx="751" cy="312" r="2.6"/>      <circle cx="641" cy="322" r="2.6"/>      <circle cx="662" cy="326" r="2.6"/>      <circle cx="686" cy="320" r="2.6"/>      <circle cx="710" cy="328" r="2.6"/>      <circle cx="735" cy="324" r="2.6"/>      <circle cx="757" cy="333" r="2.6"/>      <circle cx="671" cy="343" r="2.6"/>      <circle cx="697" cy="345" r="2.6"/>      <circle cx="722" cy="342" r="2.6"/>      <circle cx="747" cy="348" r="2.6"/>    </g>
+    <text x="768" y="350" text-anchor="end" class="t-name-s c-fallacy">atoms</text>
+    <text x="460" y="506" class="t-label t-soft">nothing but atoms: no interiors anywhere,</text>
+    <text x="460" y="524" class="t-label t-soft">yet not, in Wilber’s telling, the main story</text>
+    <text x="460" y="550" class="t-quote-s">“…by and large it has <tspan font-style="italic">not</tspan> been</text>
+    <text x="460" y="568" class="t-quote-s">historically that influential”</text>
+    <text x="460" y="590" class="t-small t-mute">the Epicureans · Holbach · La Mettrie</text>
+  </g>
+  <!-- step 3: subtle reductionism starts from the same four windows too (the interior copies exist only for step 3) -->
+  <g class="wv-fade" data-at="3">
+    <text x="820" y="186" class="t-head">SUBTLE REDUCTIONISM</text>
+    <text x="820" y="204" class="t-small t-mute">the Left half collapsed to its correlates on the Right half</text>
+  </g>
+  <g class="wv-fade" data-at="3">
+    <text x="900" y="228" text-anchor="middle" class="t-head">INTERIOR</text>
+    <text x="1060" y="228" text-anchor="middle" class="t-head">EXTERIOR</text>
+  </g>  <g class="wv-fade" data-from="3" data-until="4" opacity="0">
+    <rect x="820" y="240" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="832" y="266"><tspan class="t-name-s">I</tspan><tspan class="t-small t-mute" dx="8">intentional</tspan></text>
+    <text x="832" y="350" class="t-small t-soft">a meaning</text>
+    <g transform="translate(514.3 100.3) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M498 305 C482 305, 482 279, 500 277 C498 259, 526 253, 532 267 C544 253, 570 263, 562 279 C580 281, 580 305, 562 305 Z"/><circle cx="566" cy="316" r="4"/><circle cx="576" cy="327" r="2.5"/></g><g class="c-ink"><circle cx="520" cy="288" r="2.4"/><circle cx="530" cy="288" r="2.4"/><circle cx="540" cy="288" r="2.4"/></g></g>
+  </g>  <g class="wv-fade" data-from="3" data-until="4" opacity="0">
+    <rect x="820" y="360" width="160" height="120" class="f-interior s-interior w-hair"/>
+    <text x="832" y="386"><tspan class="t-name-s">We</tspan><tspan class="t-small t-mute" dx="8">cultural</tspan></text>
+    <text x="832" y="470" class="t-small t-soft">a shared language</text>
+    <g transform="translate(512.9 50.2) scale(0.7)"><g class="f-surface s-ink" stroke-linejoin="round" style="stroke-width:2.1"><path d="M494 502 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-30 l-10 10 v-10 h-4 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/><path d="M528 524 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-4 v10 l-10 -10 h-30 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/></g><g class="s-ink" style="stroke-width:1.4"><line x1="500" y1="516" x2="530" y2="516"/><line x1="500" y1="523" x2="520" y2="523"/><line x1="540" y1="538" x2="570" y2="538"/><line x1="550" y1="545" x2="570" y2="545"/></g></g>
+  </g>  <rect x="980" y="240" width="160" height="240" class="f-fallacy s-fallacy w-hair wv-fade" data-at="4" style="transition-delay: 600ms"/>  <rect x="980" y="240" width="160" height="120" class="f-neutral s-ink w-hair wv-fade" data-from="3" data-until="4" opacity="0"/>  <rect x="980" y="360" width="160" height="120" class="f-neutral s-ink w-hair wv-fade" data-from="3" data-until="4" opacity="0"/>  <line x1="980" y1="360" x2="1140" y2="360" class="s-faint w-hair wv-fade" data-at="3"/>
+  <g class="wv-fade" data-at="3">
+    <text x="1128" y="266" text-anchor="end" class="t-name-s">It</text>
+    <text x="1128" y="386" text-anchor="end" class="t-name-s">Its</text>
+  </g>
+  <g class="wv-fade" data-from="3" data-until="4" opacity="0">
+    <text x="1096" y="266" text-anchor="end" class="t-small t-mute">behavioral</text>
+    <text x="1092" y="386" text-anchor="end" class="t-small t-mute">social</text>
+    <g transform="translate(601.0 99.6) scale(0.7)"><polyline class="nf s-ink" stroke-linejoin="round" stroke-linecap="round" style="stroke-width:2.1" points="628,292 632,281 636,304 640,278 644,306 648,282 652,301 656,284 660,299 664,280 668,307 672,276 676,309 680,282 684,301 688,286 692,296 696,283 700,303 704,286 708,296 712,292"/></g>    <g transform="translate(604.5 50.2) scale(0.7)"><g class="s-ink" style="stroke-width:1.4"><line x1="640" y1="512" x2="658" y2="528"/><line x1="690" y1="512" x2="672" y2="528"/><line x1="640" y1="556" x2="658" y2="540"/><line x1="690" y1="556" x2="672" y2="540"/></g><g class="f-surface s-ink" style="stroke-width:2.1"><rect x="624" y="498" width="22" height="16"/><rect x="684" y="498" width="22" height="16"/><rect x="654" y="526" width="22" height="16"/><rect x="624" y="554" width="22" height="16"/><rect x="684" y="554" width="22" height="16"/></g></g>  </g>
+  <!-- step 4: the collapse. Ghosts of the interior windows fly right; what is left is dotted; the web is drawn over the exterior half. -->
+  <rect x="820" y="240" width="160" height="120" class="wv-ghost f-interior s-interior w-hair" data-at="4" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(160px, 0px) scale(0.92);"/>  <rect x="820" y="360" width="160" height="120" class="wv-ghost f-interior s-interior w-hair" data-at="4" style="transform-box: fill-box; transform-origin: 0 0; --wv-from: none; --wv-to: translate(160px, 0px) scale(0.92);"/>  <g class="wv-fade" data-at="4">
+    <rect x="820" y="240" width="160" height="120" class="nf s-line w-struct k-dot"/>
+    <text x="832" y="266" class="t-name-s t-mute">I</text>
+  </g>  <g class="wv-fade" data-at="4">
+    <rect x="820" y="360" width="160" height="120" class="nf s-line w-struct k-dot"/>
+    <text x="832" y="386" class="t-name-s t-mute">We</text>
+  </g>  <g class="wv-fade" data-at="4" style="transition-delay: 300ms">
+    <path d="M832 300 H996" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="4" marker-end="url(#sr-m-fallacy)" style="transition-delay: 300ms, 300ms"/>
+    <path d="M832 420 H996" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="4" marker-end="url(#sr-m-fallacy)" style="transition-delay: 300ms, 300ms"/>
+    <text x="832" y="322" class="t-label-b c-fallacy">I reduced to It</text>
+    <text x="832" y="338" class="t-small c-fallacy">thoughts as brain states</text>
+    <text x="832" y="442" class="t-label-b c-fallacy">We reduced to Its</text>
+    <text x="832" y="458" class="t-small c-fallacy">culture as social integration</text>
+  </g>
+  <g class="wv-fade" data-at="4" style="transition-delay: 700ms">
+    <g class="s-ink w-hair">
+      <line x1="1000" y1="330" x2="1024" y2="280"/>
+      <line x1="1000" y1="330" x2="1052" y2="302"/>
+      <line x1="1024" y1="280" x2="1052" y2="302"/>
+      <line x1="1052" y1="302" x2="1088" y2="290"/>
+      <line x1="1088" y1="290" x2="1124" y2="320"/>
+      <line x1="1052" y1="302" x2="1036" y2="338"/>
+      <line x1="1036" y1="338" x2="1072" y2="346"/>
+      <line x1="1072" y1="346" x2="1108" y2="354"/>
+      <line x1="1108" y1="354" x2="1124" y2="320"/>
+      <line x1="1088" y1="290" x2="1108" y2="354"/>
+      <line x1="1000" y1="330" x2="1036" y2="338"/>
+      <line x1="1036" y1="338" x2="1004" y2="384"/>
+      <line x1="1004" y1="384" x2="1030" y2="400"/>
+      <line x1="1030" y1="400" x2="1064" y2="380"/>
+      <line x1="1064" y1="380" x2="1072" y2="346"/>
+      <line x1="1064" y1="380" x2="1100" y2="404"/>
+      <line x1="1100" y1="404" x2="1108" y2="354"/>
+      <line x1="1100" y1="404" x2="1130" y2="428"/>
+      <line x1="1030" y1="400" x2="1020" y2="436"/>
+      <line x1="1020" y1="436" x2="1054" y2="426"/>
+      <line x1="1054" y1="426" x2="1064" y2="380"/>
+      <line x1="1054" y1="426" x2="1090" y2="438"/>
+      <line x1="1090" y1="438" x2="1100" y2="404"/>
+      <line x1="1090" y1="438" x2="1120" y2="446"/>
+      <line x1="1120" y1="446" x2="1130" y2="428"/>
+      <line x1="1020" y1="436" x2="1046" y2="448"/>
+      <line x1="1046" y1="448" x2="1054" y2="426"/>
+      <line x1="1072" y1="346" x2="1100" y2="404"/>
+      <line x1="1024" y1="280" x2="1088" y2="290"/>
+    </g>
+    <g class="f-surface s-ink w-struct">
+      <circle cx="1000" cy="330" r="3.2"/>
+      <circle cx="1024" cy="280" r="3.2"/>
+      <circle cx="1052" cy="302" r="3.2"/>
+      <circle cx="1088" cy="290" r="3.2"/>
+      <circle cx="1124" cy="320" r="3.2"/>
+      <circle cx="1036" cy="338" r="3.2"/>
+      <circle cx="1072" cy="346" r="3.2"/>
+      <circle cx="1108" cy="354" r="3.2"/>
+      <circle cx="1004" cy="384" r="3.2"/>
+      <circle cx="1030" cy="400" r="3.2"/>
+      <circle cx="1064" cy="380" r="3.2"/>
+      <circle cx="1100" cy="404" r="3.2"/>
+      <circle cx="1130" cy="428" r="3.2"/>
+      <circle cx="1020" cy="436" r="3.2"/>
+      <circle cx="1054" cy="426" r="3.2"/>
+      <circle cx="1090" cy="438" r="3.2"/>
+      <circle cx="1120" cy="446" r="3.2"/>
+      <circle cx="1046" cy="448" r="3.2"/>
+    </g>
+  </g>  <g class="wv-fade" data-at="4" style="transition-delay: 900ms">
+    <text x="1128" y="458" text-anchor="end" class="t-quote-s">“the great</text>
+    <text x="1128" y="474" text-anchor="end" class="t-quote-s">interlocking web”</text>
+    <text x="820" y="506" class="t-label t-soft">the web is kept whole and every within is gone:</text>
+    <text x="820" y="524" class="t-label t-soft">a holism of surfaces, with nothing inside it</text>
+    <text x="820" y="550" class="t-quote-s">“The truly devastating contributor to</text>
+    <text x="820" y="568" class="t-quote-s">modern flatland ontology”</text>
+    <text x="820" y="590" class="t-small t-mute">systems theorists · structural/functionalists</text>
+    <text x="820" y="606" class="t-small t-mute">“new paradigm” and “ecological/holistic” theories</text>
+  </g>
+  <!-- step 5: the note, the passages and the footer (settled frame) -->
+  <g class="wv-fade" data-at="5">
+    <text x="600" y="640" text-anchor="middle" class="t-ours">◇ The three grids, the dotted empties, the arrows and the web drawing are this wiki’s; the two reductionisms, their moves, their verdicts and their targets are Wilber’s</text>
+    <line x1="60" y1="664" x2="1140" y2="664" class="s-faint w-hair"/>
+    <text x="60" y="688" class="t-quote-s">“They don’t reduce everything to atoms; they reduce everything in the Left-Hand</text>
+    <text x="60" y="706" class="t-quote-s">to a Right-Hand description in the ‘system.’ They reduce a four-quadrant holism</text>
+    <text x="60" y="724" class="t-quote-s">(or Kosmic holism) to merely a Right-Hand holism, a flatland holism.”</text>
+    <text x="60" y="746" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 4</text>
+    <text x="640" y="688" class="t-quote-s">“…the downside of the Enlightenment was that it took a Kosmos of <tspan font-style="italic">both</tspan> Left and</text>
+    <text x="640" y="706" class="t-quote-s">Right dimensions and reduced it to a cosmos that could be empirically (or</text>
+    <text x="640" y="724" class="t-quote-s">monologically) described: it <tspan font-style="italic">collapsed the Left half to its correlates on the Right</tspan></text>
+    <text x="640" y="742" class="t-quote-s"><tspan font-style="italic">half</tspan>. Its great crime was not gross reductionism but <tspan font-style="italic">subtle reductionism</tspan>.”</text>
+    <text x="640" y="760" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 4</text>
+    <text x="60" y="778" class="t-foot">Redrawn from Wilber’s account of gross and subtle reductionism in SES ch. 4; not a reproduction of a published figure.</text>
+    <text x="60" y="792" class="t-foot">The quadrant frame follows “One thought, four windows” · sans labels summarise SES ch. 4 · ◇ marks this wiki’s own device</text>
+    <g id="sr-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
+  </g>
+</svg>
+    </div>
+    <figcaption data-wv-caption>
+      <span data-cap="0">The Kosmos as the previous figure drew it: one thought, four windows. Interiors on the left, exteriors on the right, and each window correlated with the others, which is what makes a reduction tempting.</span>
+      <span data-cap="1"><strong>Gross reductionism</strong> starts from the same four windows…</span>
+      <span data-cap="2">…and reduces all of them to the Upper Right, then reduces the Upper Right to atoms. Wilber's verdict: a few "highly gifted nuts", and "not historically that influential".</span>
+      <span data-cap="3"><strong>Subtle reductionism</strong> also starts from all four windows, and keeps the whole web of exteriors in view…</span>
+      <span data-cap="4">…but reduces every interior to its exterior correlate: I to it, we to its, a thought to a brain state, culture to social integration. The web is whole and nothing is inside it. This is flatland, and in Wilber's telling the Enlightenment's real downside.</span>
+      <span data-cap="5">The settled frame: the Kosmos and its two flattenings side by side, with Wilber's sentences. This is the shareable image.</span>
+    </figcaption>
+  </figure>
+</div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
+</div>
+<!-- /figure:subtle-reductionism -->
+
+A sequel to [One thought, four windows](four-quadrants.md). Every interior has an exterior correlate, and that is what makes two kinds of reductionism tempting. **Gross reductionism** reduces everything to the Upper Right and then to atoms. **Subtle reductionism** keeps the whole interlocking system but collapses every interior into it, so thoughts become brain states and culture becomes social integration. Wilber says the second, not the first, is what built "flatland":
+
+> "They don't reduce everything to atoms; they reduce everything in the Left-Hand to a Right-Hand description in the 'system.' They reduce a four-quadrant holism (or Kosmic holism) to merely a Right-Hand holism, a flatland holism."
+>
+> Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 4
+
+The two reductionisms, their verdicts and their targets are Wilber's. The three grids, the arrows and the web drawing are this wiki's. More: [Flatland](../concepts/flatland.md).

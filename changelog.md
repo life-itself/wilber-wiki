@@ -3,6 +3,12 @@ title: Changelog
 description: What has changed on Wilber Wiki, newest first.
 ---
 
+## 2026-10-26 — Two ways to flatten the Kosmos, and a link for every figure
+
+A sixth figure shows Wilber's distinction between gross reductionism (everything to atoms) and subtle reductionism (every interior collapsed into the exterior system), the move he blames for "flatland". It's on [Visuals](visuals/index.md) and heads the [Flatland](concepts/flatland.md) page. Every figure now also has its own page and a Copy link button, so a shared link previews that figure.
+
+![Two ways to flatten the Kosmos](assets/visuals/subtle-reductionism-og.png)
+
 ## 2026-10-26 — Wilber's books on one line
 
 A new figure puts every book in the catalog on one to-scale timeline, under the five phases of Wilber's thinking: the crowded shelf from *Sex, Ecology, Spirituality* onward and the near-empty years before it show at a glance. It's on [Visuals](visuals/index.md) and heads [The evolution of Wilber's thought](works/phases.md).

@@ -5,9 +5,14 @@ aliases: [flatland ontology, scientific materialism, the collapse of the Kosmos]
 category: core-term
 status: draft
 works: [1995-sex-ecology-spirituality, 2000-integral-psychology]
+image: /assets/visuals/subtle-reductionism-og.png
 ---
 
 # Flatland
+
+[![Two ways to flatten the Kosmos: gross reductionism collapses everything to atoms in the Upper Right; subtle reductionism collapses the interior quadrants into the exterior web](../assets/visuals/subtle-reductionism.png)](../visuals/subtle-reductionism.md)
+
+*Gross and subtle reductionism in one picture. Copy, download, share or watch it unfold on [its own page](../visuals/subtle-reductionism.md).*
 
 ## Wilber's View
 
