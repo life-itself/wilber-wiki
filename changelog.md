@@ -3,6 +3,12 @@ title: Changelog
 description: What has changed on Wilber Wiki, newest first.
 ---
 
+## 2026-10-26 — Two more figures: the four quadrants and holarchy
+
+[Visuals](visuals.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them.
+
+![One thought, four windows](assets/visuals/four-quadrants-og.png)
+
 ## 2026-10-26 — Wilber's ideas in one picture
 
 A new [Visuals](visuals.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources. Each shows as an image you can copy, download or share with one click, and you can watch the idea build step by step.
