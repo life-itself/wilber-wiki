@@ -14,6 +14,20 @@
  * data-wv-dur ms (default 1400). prefers-reduced-motion: steps still work, the
  * CSS transitions are off, and Play jumps straight to the settled frame.
  * Deep links: #step-2 opens at step 2, #play starts playing.
+ *
+ * Share blocks (the site's /visuals page, built by scripts/sync-visuals.py):
+ *
+ *   <div class="wv-root wv-share" data-wv-share="<slug>">
+ *     <img class="wv-still" src="/assets/visuals/<slug>.png" alt="…">
+ *     <div data-wv-steps …>…</div>                                <- hidden until Watch
+ *     <div class="wv-controls wv-actions" data-wv-actions></div>  <- buttons are built here
+ *   </div>
+ *
+ * The image comes first so right-click and long-press work. The buttons are
+ * Watch it unfold (swap in the animation and play it), Copy image (PNG to the
+ * clipboard), Download (saves the file rather than opening it) and Share (the
+ * system share sheet, only where it can take a file). Copy, Download and Share
+ * fetch the PNG, which works across origins because the asset host sends CORS *.
  */
 (function () {
   'use strict';
@@ -26,6 +40,7 @@
   // initialise each root once (marked .wv-ready), start after load, and watch
   // the DOM for roots that appear or are replaced later.
   function initAll() {
+    Array.prototype.forEach.call(document.querySelectorAll('[data-wv-share]:not(.wv-share-ready)'), initShare);
     var roots = document.querySelectorAll('[data-wv-steps]:not(.wv-ready)');
     if (!roots.length) return;
     document.documentElement.classList.add('wv-js');
@@ -140,5 +155,69 @@
     else if (location.hash === '#play') { play(); }
     else { show(current() || N); }
     setPlaying(false);
+  }
+  function initShare(box) {
+    box.classList.add('wv-share-ready');
+    var img = box.querySelector('.wv-still');
+    var actions = box.querySelector('[data-wv-actions]');
+    var anim = box.querySelector('[data-wv-steps]');
+    if (!img || !actions) return;
+    var url = img.currentSrc || img.src;
+    var name = (box.getAttribute('data-wv-share') || 'figure') + '.png';
+    var blob = null;
+    function getBlob() {
+      if (!blob) blob = fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.blob(); })
+        .then(function (b) { return b.type === 'image/png' ? b : new Blob([b], { type: 'image/png' }); });
+      blob.catch(function () { blob = null; });
+      return blob;
+    }
+    var canCopy = !!(window.ClipboardItem && navigator.clipboard && navigator.clipboard.write);
+    var canShare = false;
+    try { canShare = !!(navigator.canShare && navigator.canShare({ files: [new File([''], name, { type: 'image/png' })] })); } catch (e) {}
+
+    var html = '';
+    if (anim) html += '<button type="button" data-act="watch" class="is-primary" aria-pressed="false">▶ Watch it unfold</button>';
+    if (canCopy) html += '<button type="button" data-act="copy">Copy image</button>';
+    html += '<button type="button" data-act="download">Download</button>';
+    if (canShare) html += '<button type="button" data-act="share">Share…</button>';
+    actions.innerHTML = html;
+    // Share has to start from the tap itself, so fetch the file ahead of time.
+    if (canShare) getBlob();
+
+    function flash(b, text) {
+      var label = b.getAttribute('data-label') || b.textContent;
+      b.setAttribute('data-label', label);
+      b.textContent = text;
+      setTimeout(function () { b.textContent = label; }, 2000);
+    }
+
+    actions.addEventListener('click', function (e) {
+      var b = e.target.closest('button'); if (!b) return;
+      var act = b.getAttribute('data-act');
+      if (act === 'watch') {
+        var on = !box.classList.contains('wv-watching');
+        box.classList.toggle('wv-watching', on);
+        b.textContent = on ? '▣ Show the image' : '▶ Watch it unfold';
+        b.setAttribute('aria-pressed', on ? 'true' : 'false');
+        var play = on && anim.querySelector('[data-act="play"]');
+        if (play) play.click();
+      } else if (act === 'copy') {
+        // Safari needs the ClipboardItem made inside the click, holding a promise.
+        navigator.clipboard.write([new ClipboardItem({ 'image/png': getBlob() })])
+          .then(function () { flash(b, 'Copied ✓'); }, function () { flash(b, 'Copy failed'); });
+      } else if (act === 'download') {
+        getBlob().then(function (data) {
+          var a = document.createElement('a');
+          a.href = URL.createObjectURL(data); a.download = name;
+          document.body.appendChild(a); a.click(); a.remove();
+          setTimeout(function () { URL.revokeObjectURL(a.href); }, 10000);
+          flash(b, 'Saved ✓');
+        }, function () { window.open(url, '_blank'); });
+      } else if (act === 'share') {
+        getBlob().then(function (data) {
+          return navigator.share({ files: [new File([data], name, { type: 'image/png' })], title: img.alt.split('. ')[0] });
+        }).catch(function () {});
+      }
+    });
   }
 })();

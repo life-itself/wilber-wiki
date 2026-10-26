@@ -4,14 +4,15 @@ description: Wilber's ideas in one picture each. Diagrams and posters for readin
 image: /assets/visuals/pre-trans-fallacy-og.png
 ---
 
-Diagrams that each try to make one of Wilber's ideas click. Every figure is redrawn from Wilber's own descriptions, not copied from a published figure. Text set as a quotation is verbatim from the book. Anything marked ◇ is this wiki's own device or note, not Wilber's. Press play to watch each idea unfold; the final frame is the shareable image. You're welcome to share them; they're signed so they stay attributed.
+Diagrams that each try to make one of Wilber's ideas click. Every figure is redrawn from Wilber's own descriptions, not copied from a published figure. Text set as a quotation is verbatim from the book. Anything marked ◇ is this wiki's own device or note, not Wilber's. Copy, download or share any image with the buttons below it, or press Watch it unfold to see the idea build step by step. You’re welcome to share them; they’re signed so they stay attributed.
 
 More are on the way. Made with [Seeds of Renaissance](https://seedsofrenaissance.org).
 
 ## The pre/trans fallacy
 
 <!-- figure:pre-trans-fallacy -->
-<div class="wv-root">
+<div class="wv-root wv-share" data-wv-share="pre-trans-fallacy">
+<img class="wv-still" src="/assets/visuals/pre-trans-fallacy.png" width="2400" height="1600" alt="The Pre/Trans Fallacy. Left: a vertical spectrum in three bands, from bottom to top prerational, rational, transrational, with an axis reading pre-ego to ego to trans-ego. Right: what the untutored eye sees, only two bins, rational and nonrational; dashed lines carry both the prerational and the transrational band into the single nonrational bin. Along the spectrum's edges, two arrows mark the two errors: reductionism, Freud, reads the transrational down as prerational; elevationism, Jung, reads the prerational up as transrational. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 6.">
 <div data-wv-steps="4" data-step="4" data-wv-dur="1500" aria-label="Animated figure: the pre/trans fallacy">
   <div class="wv-controls" data-wv-controls></div>
   <figure class="wv-figure">
@@ -101,10 +102,9 @@ More are on the way. Made with [Seeds of Renaissance](https://seedsofrenaissance
     </figcaption>
   </figure>
 </div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
 </div>
 <!-- /figure:pre-trans-fallacy -->
-
-[Download the image](assets/visuals/pre-trans-fallacy.png) (PNG, for sharing).
 
 Development runs from the **prerational** (infantile, magical, mythic) through the **rational** to the **transrational** (mystical, contemplative). The first and last are both *nonrational*, so they are easy to confuse. In Wilber's words:
 
@@ -119,7 +119,8 @@ The two-bin "untutored eye" picture is this wiki's device for Wilber's sentence.
 ## States off the ladder
 
 <!-- figure:states-and-stages -->
-<div class="wv-root">
+<div class="wv-root wv-share" data-wv-share="states-and-stages">
+<img class="wv-still" src="/assets/visuals/states-and-stages.png" width="2400" height="1600" alt="States off the ladder: Integral Psychology (2000) beside Integral Spirituality (2006). Left: a single ladder of ten rungs from Integral Psychology, archaic, magic, mythic, rational, pluralistic, integral, and then psychic, subtle, causal, nondual on top, the top four marked as states. Right: the Wilber-Combs lattice from Integral Spirituality, the six structure-stages up the side and the four states, gross or psychic, subtle, causal, nondual, across the top, twenty-four cells. The four top rungs of the ladder have become the column headers; the six lower rungs have become the row labels. Below, a verbatim passage from Integral Spirituality chapter 4 and a note that Integral Psychology already said states are available at any stage.">
 <div data-wv-steps="4" data-step="4" data-wv-dur="1700" aria-label="Animated figure: from the 2000 ladder to the 2006 lattice">
   <div class="wv-controls" data-wv-controls></div>
   <figure class="wv-figure">
@@ -246,10 +247,9 @@ The two-bin "untutored eye" picture is this wiki's device for Wilber's sentence.
     </figcaption>
   </figure>
 </div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
 </div>
 <!-- /figure:states-and-stages -->
-
-[Download the image](assets/visuals/states-and-stages.png) (PNG, for sharing).
 
 In *Integral Psychology* (2000) the mystical states (psychic, subtle, causal, nondual) are drawn as the top four rungs of a single developmental ladder. In *Integral Spirituality* (2006) the same words name a second axis. They are **states** that can be experienced at any **stage**, and each experience is interpreted through the stage of the person having it:
 

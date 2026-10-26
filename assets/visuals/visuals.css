@@ -356,3 +356,10 @@
 /* site additions (scripts/sync-visuals.py) */
 [data-wv-steps]:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
 .wv-root > [data-wv-steps] { margin: 1.5rem 0; }
+/* share block: the image first, the animation on request */
+.wv-share { margin: 1.5rem 0; }
+.wv-share .wv-still { display: block; width: 100%; height: auto; margin: 0; border-radius: 6px; }
+.wv-share:not(.wv-watching) > [data-wv-steps] { display: none; }
+.wv-share.wv-watching > .wv-still { display: none; }
+.wv-share > [data-wv-steps] { margin: 0; }
+.wv-share .wv-actions { margin: 0.6rem 0 0; }

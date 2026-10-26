@@ -3,7 +3,10 @@
 
 For each piece: copies its PNGs to assets/visuals/, and replaces the block between
 <!-- figure:<slug> --> and <!-- /figure:<slug> --> in visuals.md with the piece's
-animated figure (controls + inline SVG + step captions). Also copies the shared
+share block: the PNG as a plain <img> (so right-click and long-press save or copy
+work), an empty actions row that wv-motion.js fills (Watch it unfold, Copy image,
+Download, Share), and the animated figure (controls + inline SVG + step captions),
+hidden until Watch is pressed. Also copies the shared
 visuals.css and wv-motion.js to assets/visuals/.
 
 Run after export.py: python3 scripts/sync-visuals.py
@@ -25,6 +28,13 @@ SITE_CSS = """
 /* site additions (scripts/sync-visuals.py) */
 [data-wv-steps]:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
 .wv-root > [data-wv-steps] { margin: 1.5rem 0; }
+/* share block: the image first, the animation on request */
+.wv-share { margin: 1.5rem 0; }
+.wv-share .wv-still { display: block; width: 100%; height: auto; margin: 0; border-radius: 6px; }
+.wv-share:not(.wv-watching) > [data-wv-steps] { display: none; }
+.wv-share.wv-watching > .wv-still { display: none; }
+.wv-share > [data-wv-steps] { margin: 0; }
+.wv-share .wv-actions { margin: 0.6rem 0 0; }
 """
 
 
@@ -44,8 +54,13 @@ def figure_block(slug):
     end = html.index("</figure>", start)
     end = html.index("</div>", end) + len("</div>")
     block = html[start:end]
+    svg = (SRC / slug / "source.svg").read_text()
+    alt = ". ".join(re.search(rf"<{t}[^>]*>(.*?)</{t}>", svg, re.S).group(1).strip() for t in ("title", "desc"))
+    alt = alt.replace('"', "&quot;")
+    still = f'<img class="wv-still" src="/assets/visuals/{slug}.png" width="2400" height="1600" alt="{alt}">'
+    actions = '<div class="wv-controls wv-actions" data-wv-actions></div>'
     # The step CSS expects the [data-step] element inside a .wv-root, so wrap it.
-    block = '<div class="wv-root">\n' + block + "\n</div>"
+    block = f'<div class="wv-root wv-share" data-wv-share="{slug}">\n{still}\n' + block + f"\n{actions}\n</div>"
     # Flowershow rewrites data: URIs in href into site-relative links, so serve
     # the embedded signature mark as a real file instead.
     block = MARK_RE.sub(lambda m: save_mark(m.group(1)), block)
