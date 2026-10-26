@@ -13,6 +13,12 @@ and includes a required quote-verification step
 (`python3 skills/add-excerpt-page/scripts/verify_quotes.py`, should always pass before
 you're done).
 
+## Checkpoint 2026-10-26
+
+- Shipped: a [Visuals](visuals.md) page with two figures, the pre/trans fallacy and states off the ladder (bead `wilberwiki-clq`, closed; follow-ups in `wilberwiki-b5y`). The figure rules are in [`docs/figure-design.md`](docs/figure-design.md); the brief and full decision log are in `docs/plans/2026-10-24-visual-brainstorm-brief.md`; the gallery of 12 directions is in `docs/plans/visual-brainstorm/`.
+- Next for visuals: the animated versions aren't on the site yet. The site is MDX, so they need an embedding approach; see figure-design.md "Embedding in Flowershow". Write plans for the other gallery directions (quadrants, holarchy, I–V timeline next). Reshape `at6.4` into before/after diptychs per `RECOMMENDATION.md`, pending Rufus.
+- Open for Rufus: drop the 24 cell labels in the states grid? Shorten its ◇ note? Swap fonts or colours later?
+
 ## Checkpoint 2026-10-11
 
 - Shipped: epic `wilberwiki-o1s` (book summary pages). SES pilot (644b726, independent review fixes in a later commit), *Integral Spirituality* (ae8542f), *Integral Psychology* (57ba74f), each reviewed against the full text. Pattern: [`skills/write-book-summary/SKILL.md`](skills/write-book-summary/SKILL.md); design and lessons: `docs/plans/2026-10-10-book-summary-pages-design.md`. `verify_quotes.py` now also checks works pages that declare `works:`.

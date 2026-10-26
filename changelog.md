@@ -3,6 +3,12 @@ title: Changelog
 description: What has changed on Wilber Wiki, newest first.
 ---
 
+## 2026-10-26 — Wilber's ideas in one picture
+
+A new [Visuals](visuals.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources.
+
+![The pre/trans fallacy diagram](assets/visuals/pre-trans-fallacy-og.png)
+
 ## 2026-10-11 — Full summaries of three key books
 
 [*Sex, Ecology, Spirituality*](works/1995-sex-ecology-spirituality.md), [*Integral Psychology*](works/2000-integral-psychology.md) and [*Integral Spirituality*](works/2006-integral-spirituality.md) each now have a full summary page: a short introduction and context, a summary of the main argument, a part-by-part overview citing chapters and endnotes, key passages in Wilber's own words, what's contested, and links to the related concepts and people. Each page was written from the book's full text and checked against it by a second, independent reader.
