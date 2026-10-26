@@ -120,3 +120,10 @@ Scope for the Fable sub-agent:
   - `docs/figure-design.md` rewritten to describe this language, with both lessons
 
   Review artifact (updated in place): https://claude.ai/artifact/1xYfJAtaZqo1TEPiYAA9a1. Held back, for Rufus to decide: dropping the 24 "stage × state" cell labels, and shortening the ◇ note on the states canvas.
+
+### 2026-10-26: live on /visuals, then made easy to share
+
+- Live at wilber.wiki/visuals. The site is plain markdown (not MDX), so the figures are inline SVG, with the CSS and JS loaded through `config.json` `head`. Three live bugs were fixed: React hydration wiped the controls, step CSS needed a `.wv-root` wrapper, and Flowershow rewrote the data-URI logo.
+- Signature shortened to a small SoR mark plus "SEEDS OF RENAISSANCE · WILBER WIKI".
+- Rufus: most people just want the image, and the "Download the image" link opened a stray page. So each figure now shows as a plain PNG first (right-click and long-press work), with Watch it unfold, Copy image, Download and Share buttons. Gotcha: the asset host's CORS needs a cache-bypassing fetch; see `docs/figure-design.md`.
+- Remaining work is under the epic `wilberwiki-8lk`.

@@ -5,7 +5,7 @@ description: What has changed on Wilber Wiki, newest first.
 
 ## 2026-10-26 — Wilber's ideas in one picture
 
-A new [Visuals](visuals.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources.
+A new [Visuals](visuals.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources. Each shows as an image you can copy, download or share with one click, and you can watch the idea build step by step.
 
 ![The pre/trans fallacy diagram](assets/visuals/pre-trans-fallacy-og.png)
 
