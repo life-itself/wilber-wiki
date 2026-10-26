@@ -155,7 +155,7 @@
 @media (prefers-reduced-motion: reduce) {
   .wv-root * { transition: none !important; animation: none !important; }
 }
-.wv-root.wv-no-motion * { transition: none !important; animation: none !important; }
+.wv-root.wv-no-motion *, .wv-root .wv-no-motion * { transition: none !important; animation: none !important; }
 
 /* ------------------------------------------------------------ step visibility
  * A piece root carries data-wv-steps="N" and data-step="k". Any element with

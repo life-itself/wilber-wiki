@@ -8,6 +8,8 @@ visuals.css and wv-motion.js to assets/visuals/.
 
 Run after export.py: python3 scripts/sync-visuals.py
 """
+import base64
+import hashlib
 import re
 import shutil
 from pathlib import Path
@@ -21,9 +23,19 @@ PIECES = ["pre-trans-fallacy", "states-and-stages"]
 # Site-only additions: no-JS shows only the settled caption (the last one).
 SITE_CSS = """
 /* site additions (scripts/sync-visuals.py) */
-.wv-root:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
-.wv-root[data-wv-steps] { margin: 1.5rem 0; }
+[data-wv-steps]:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
+.wv-root > [data-wv-steps] { margin: 1.5rem 0; }
 """
+
+
+MARK_RE = re.compile(r'href="data:image/png;base64,([A-Za-z0-9+/=]+)"')
+
+
+def save_mark(b64):
+    data = base64.b64decode(b64)
+    name = "mark-" + hashlib.sha1(data).hexdigest()[:8] + ".png"
+    (ASSETS / name).write_bytes(data)
+    return f'href="/assets/visuals/{name}"'
 
 
 def figure_block(slug):
@@ -32,7 +44,11 @@ def figure_block(slug):
     end = html.index("</figure>", start)
     end = html.index("</div>", end) + len("</div>")
     block = html[start:end]
-    block = block.replace("<div data-wv-steps", '<div class="wv-root" data-wv-steps', 1)
+    # The step CSS expects the [data-step] element inside a .wv-root, so wrap it.
+    block = '<div class="wv-root">\n' + block + "\n</div>"
+    # Flowershow rewrites data: URIs in href into site-relative links, so serve
+    # the embedded signature mark as a real file instead.
+    block = MARK_RE.sub(lambda m: save_mark(m.group(1)), block)
     # A blank line would end the raw HTML block in markdown, so drop them.
     return "\n".join(line for line in block.splitlines() if line.strip())
 

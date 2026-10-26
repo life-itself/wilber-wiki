@@ -155,7 +155,7 @@
 @media (prefers-reduced-motion: reduce) {
   .wv-root * { transition: none !important; animation: none !important; }
 }
-.wv-root.wv-no-motion * { transition: none !important; animation: none !important; }
+.wv-root.wv-no-motion *, .wv-root .wv-no-motion * { transition: none !important; animation: none !important; }
 
 /* ------------------------------------------------------------ step visibility
  * A piece root carries data-wv-steps="N" and data-step="k". Any element with
@@ -354,5 +354,5 @@
 .wv-root [data-step="8"] .wv-ghost[data-at="9"] { animation: none; }
 
 /* site additions (scripts/sync-visuals.py) */
-.wv-root:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
-.wv-root[data-wv-steps] { margin: 1.5rem 0; }
+[data-wv-steps]:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
+.wv-root > [data-wv-steps] { margin: 1.5rem 0; }
