@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "docs/plans/visual-brainstorm"
 ASSETS = ROOT / "assets/visuals"
 PAGE = ROOT / "visuals.md"
-PIECES = ["pre-trans-fallacy", "states-and-stages"]
+PIECES = ["pre-trans-fallacy", "states-and-stages", "four-quadrants", "holarchy"]
 
 # Site-only additions: no-JS shows only the settled caption (the last one).
 SITE_CSS = """
@@ -50,7 +50,7 @@ def save_mark(b64):
 
 def figure_block(slug):
     html = (SRC / slug / "index.html").read_text()
-    start = html.index("<div data-wv-steps")
+    start = re.search(r"<div[^>]*\sdata-wv-steps", html).start()
     end = html.index("</figure>", start)
     end = html.index("</div>", end) + len("</div>")
     block = html[start:end]

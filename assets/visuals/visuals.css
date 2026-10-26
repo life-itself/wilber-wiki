@@ -30,6 +30,8 @@
   --wv-fallacy-fill: rgba(190, 18, 60, 0.11);
   --wv-ground: #0f766e;
   --wv-ground-fill: rgba(15, 118, 110, 0.13);
+  --wv-interior: #6b21a8;
+  --wv-interior-fill: rgba(107, 33, 168, 0.10);
   --wv-neutral-fill: rgba(28, 25, 23, 0.055);
   --wv-accent: #b45309;
   --wv-accent-ring: rgba(217, 119, 6, 0.25);
@@ -78,6 +80,7 @@
 
 /* semantic colour roles: text, stroke, fill */
 .wv-root svg .c-level   { fill: var(--wv-level); }   .wv-root svg .s-level   { stroke: var(--wv-level); }   .wv-root svg .f-level   { fill: var(--wv-level-fill); }
+.wv-root svg .c-interior   { fill: var(--wv-interior); }   .wv-root svg .s-interior   { stroke: var(--wv-interior); }   .wv-root svg .f-interior   { fill: var(--wv-interior-fill); }
 .wv-root svg .c-state   { fill: var(--wv-state); }   .wv-root svg .s-state   { stroke: var(--wv-state); }   .wv-root svg .f-state   { fill: var(--wv-state-fill); }
 .wv-root svg .c-fallacy { fill: var(--wv-fallacy); } .wv-root svg .s-fallacy { stroke: var(--wv-fallacy); } .wv-root svg .f-fallacy { fill: var(--wv-fallacy-fill); }
 .wv-root svg .c-ground  { fill: var(--wv-ground); }  .wv-root svg .s-ground  { stroke: var(--wv-ground); }  .wv-root svg .f-ground  { fill: var(--wv-ground-fill); }

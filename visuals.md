@@ -258,3 +258,259 @@ In *Integral Psychology* (2000) the mystical states (psychic, subtle, causal, no
 > Ken Wilber, *Integral Spirituality* (2006), ch. 4
 
 What changed is mostly the picture and the weight put on it. *Integral Psychology* already says these states are "available to human beings at virtually any stage of growth" (ch. 1), and traces the grid idea back to *A Sociable God* (1983). More: [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
+
+## One thought, four windows
+
+<!-- figure:four-quadrants -->
+<div class="wv-root wv-share" data-wv-share="four-quadrants">
+<img class="wv-still" src="/assets/visuals/four-quadrants.png" width="2400" height="1600" alt="One thought, four windows: Wilber's four quadrants on his own example. A two-by-two grid of windows, interior and exterior across the top, individual and collective down the side, with a single thought sitting at the crossing. Each window shows what that one thought is from there, in Wilber's own words, with a small drawing of how it appears. Upper Right, It: a beta-wave trace; a release of norepinephrine in the frontal cortex; found by looking; validity claim truth. Upper Left, I: a thought bubble; even knowing every atom of my brain you will never know my thought unless I tell you; found by asking and interpreting; validity claim truthfulness. Lower Left, We: two speech bubbles; if you don't speak the language you won't get the meaning; found by sharing a language; validity claim justness. Lower Right, Its: a small network of structures; cultural meanings have correlates in institutions and material social structures; found by surveying the system; validity claim functional fit. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 4.">
+<div data-wv-steps="5" data-step="5" data-wv-dur="1500" aria-label="Animated figure: one thought seen through the four quadrants">
+  <div class="wv-controls" data-wv-controls></div>
+  <figure class="wv-figure">
+    <div class="wv-frame">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" data-og="0 0 1200 630" data-square="0 -200 1200 1200" role="img" aria-labelledby="fq-title fq-desc">
+  <title id="fq-title">One thought, four windows: Wilber's four quadrants on his own example</title>
+  <desc id="fq-desc">A two-by-two grid of windows, interior and exterior across the top, individual and collective down the side, with a single thought sitting at the crossing. Each window shows what that one thought is from there, in Wilber's own words, with a small drawing of how it appears. Upper Right, It: a beta-wave trace; a release of norepinephrine in the frontal cortex; found by looking; validity claim truth. Upper Left, I: a thought bubble; even knowing every atom of my brain you will never know my thought unless I tell you; found by asking and interpreting; validity claim truthfulness. Lower Left, We: two speech bubbles; if you don't speak the language you won't get the meaning; found by sharing a language; validity claim justness. Lower Right, Its: a small network of structures; cultural meanings have correlates in institutions and material social structures; found by surveying the system; validity claim functional fit. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 4.</desc>
+  <!-- title block (always visible) -->
+  <text x="60" y="48" class="t-eyebrow">WILBER WIKI · A CONCEPT IN ONE PICTURE</text>
+  <text x="60" y="104" class="t-title">One thought, four windows</text>
+  <text x="60" y="140" class="t-sub"><tspan font-style="normal">“I have a thought; a thought occurs to me.”</tspan> Wilber’s own example, and the four things that are true of it at once.</text>
+  <!-- step 0: the two distinctions, four empty windows, and the thought at the crossing -->
+  <text x="345" y="184" text-anchor="middle"><tspan class="t-head">INTERIOR</tspan><tspan class="t-small t-mute" dx="12">what it looks like from within</tspan></text>
+  <text x="855" y="184" text-anchor="middle"><tspan class="t-head">EXTERIOR</tspan><tspan class="t-small t-mute" dx="12">what it looks like from the outside</tspan></text>
+  <text transform="translate(82 300) rotate(-90)" text-anchor="middle" class="t-head">INDIVIDUAL</text>
+  <text transform="translate(82 526) rotate(-90)" text-anchor="middle" class="t-head">COLLECTIVE</text>
+  <rect x="100" y="200" width="490" height="200" class="nf s-faint w-hair"/>
+  <rect x="610" y="200" width="490" height="200" class="nf s-faint w-hair"/>
+  <rect x="100" y="426" width="490" height="200" class="nf s-faint w-hair"/>
+  <rect x="610" y="426" width="490" height="200" class="nf s-faint w-hair"/>
+  <!-- step 1: Upper Right, the behavioral aspect (Wilber's tour starts here) -->
+  <circle cx="600" cy="413" r="60" class="wv-ghost f-surface s-ink w-struct" data-at="1" style="transform-box: fill-box; transform-origin: center; --wv-from: none; --wv-to: translate(70px, -121px) scale(0.7);"/>
+  <g class="wv-fade" data-at="1" style="transition-delay: 450ms">
+    <rect x="610" y="200" width="490" height="200" class="f-neutral s-ink w-hair"/>
+    <text x="1082" y="236" text-anchor="end"><tspan class="t-small t-mute">Upper Right · the behavioral aspect</tspan><tspan class="t-name" dx="14">It</tspan></text>
+    <text x="1082" y="270" text-anchor="end" class="t-quote-s">“…there was a release of norepinephrine between</text>
+    <text x="1082" y="288" text-anchor="end" class="t-quote-s">the neural synapses in the frontal cortex,</text>
+    <text x="1082" y="306" text-anchor="end" class="t-quote-s">accompanied by high-amplitude beta waves…”</text>
+    <text x="1082" y="338" text-anchor="end" class="t-label"><tspan class="t-label-b">look</tspan><tspan class="t-soft"> · observe, measure, describe; a monologue is enough</tspan></text>
+    <text x="1082" y="380" text-anchor="end" class="t-label"><tspan class="t-small t-mute">validity</tspan><tspan class="t-label-b" dx="7">truth</tspan><tspan class="t-soft"> · does the map match the territory?</tspan></text>
+    <!-- how it appears here: a trace of beta waves -->
+    <g class="nf s-ink w-struct" stroke-linejoin="round" stroke-linecap="round">
+      <polyline points="628,292 632,281 636,304 640,278 644,306 648,282 652,301 656,284 660,299 664,280 668,307 672,276 676,309 680,282 684,301 688,286 692,296 696,283 700,303 704,286 708,296 712,292"/>
+    </g>
+  </g>
+  <!-- step 2: Upper Left, the intentional aspect -->
+  <circle cx="600" cy="413" r="60" class="wv-ghost f-surface s-ink w-struct" data-at="2" style="transform-box: fill-box; transform-origin: center; --wv-from: none; --wv-to: translate(-70px, -125px) scale(0.7);"/>
+  <g class="wv-fade" data-at="2" style="transition-delay: 450ms">
+    <!-- interior tint: proposed `interior` role, not yet a token in visuals.css (see README) -->
+    <rect x="100" y="200" width="490" height="200" class="f-interior s-interior w-hair"/>
+    <text x="118" y="236"><tspan class="t-name">I</tspan><tspan class="t-small t-mute" dx="14">Upper Left · the intentional aspect</tspan></text>
+    <text x="118" y="270" class="t-quote-s">“…even if you know what every single atom of my</text>
+    <text x="118" y="288" class="t-quote-s">brain is doing, you will never know the actual</text>
+    <text x="118" y="306" class="t-quote-s">details of my thought <tspan font-style="italic">unless I tell you</tspan>.”</text>
+    <text x="118" y="338" class="t-label"><tspan class="t-label-b">ask</tspan><tspan class="t-soft"> · talk, then interpret; looking will never find it</tspan></text>
+    <text x="118" y="380" class="t-label"><tspan class="t-small t-mute">validity</tspan><tspan class="t-label-b" dx="7">truthfulness</tspan><tspan class="t-soft"> · can the mapmaker be trusted?</tspan></text>
+    <!-- how it appears here: a thought bubble, meaning only the thinker has -->
+    <g class="f-surface s-ink w-struct" stroke-linejoin="round">
+      <path d="M498 305 C482 305, 482 279, 500 277 C498 259, 526 253, 532 267 C544 253, 570 263, 562 279 C580 281, 580 305, 562 305 Z"/>
+      <circle cx="566" cy="316" r="4"/>
+      <circle cx="576" cy="327" r="2.5"/>
+    </g>
+    <g class="c-ink"><circle cx="520" cy="288" r="1.8"/><circle cx="530" cy="288" r="1.8"/><circle cx="540" cy="288" r="1.8"/></g>
+  </g>
+  <!-- step 3: Lower Left, the cultural aspect -->
+  <circle cx="600" cy="413" r="60" class="wv-ghost f-surface s-ink w-struct" data-at="3" style="transform-box: fill-box; transform-origin: center; --wv-from: none; --wv-to: translate(-65px, 118px) scale(0.7);"/>
+  <g class="wv-fade" data-at="3" style="transition-delay: 450ms">
+    <rect x="100" y="426" width="490" height="200" class="f-interior s-interior w-hair"/>
+    <text x="118" y="462"><tspan class="t-name">We</tspan><tspan class="t-small t-mute" dx="14">Lower Left · the cultural aspect</tspan></text>
+    <text x="118" y="496" class="t-quote-s">“If I tell them to you and you don’t speak the</text>
+    <text x="118" y="514" class="t-quote-s">language, then you won’t get the meaning”</text>
+    <text x="118" y="552" class="t-label"><tspan class="t-label-b">share a language</tspan><tspan class="t-soft"> · meaning needs a shared worldspace</tspan></text>
+    <text x="118" y="606" class="t-label"><tspan class="t-small t-mute">validity</tspan><tspan class="t-label-b" dx="7">justness</tspan><tspan class="t-soft"> · can we come to mutual understanding?</tspan></text>
+    <!-- how it appears here: two speech bubbles sharing a language -->
+    <g class="f-surface s-ink w-struct" stroke-linejoin="round">
+      <path d="M494 502 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-30 l-10 10 v-10 h-4 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/>
+      <path d="M528 524 h44 a8 8 0 0 1 8 8 v16 a8 8 0 0 1 -8 8 h-4 v10 l-10 -10 h-30 a8 8 0 0 1 -8 -8 v-16 a8 8 0 0 1 8 -8 z"/>
+    </g>
+    <g class="s-ink w-hair"><line x1="500" y1="516" x2="530" y2="516"/><line x1="500" y1="523" x2="520" y2="523"/><line x1="540" y1="538" x2="570" y2="538"/><line x1="550" y1="545" x2="570" y2="545"/></g>
+  </g>
+  <!-- step 4: Lower Right, the social aspect -->
+  <circle cx="600" cy="413" r="60" class="wv-ghost f-surface s-ink w-struct" data-at="4" style="transform-box: fill-box; transform-origin: center; --wv-from: none; --wv-to: translate(65px, 121px) scale(0.7);"/>
+  <g class="wv-fade" data-at="4" style="transition-delay: 450ms">
+    <rect x="610" y="426" width="490" height="200" class="f-neutral s-ink w-hair"/>
+    <text x="1082" y="462" text-anchor="end"><tspan class="t-small t-mute">Lower Right · the social aspect</tspan><tspan class="t-name" dx="14">Its</tspan></text>
+    <text x="1082" y="496" text-anchor="end" class="t-quote-s">“…cultural meanings have correlates in objective</text>
+    <text x="1082" y="514" text-anchor="end" class="t-quote-s">social institutions and material social structures.”</text>
+    <text x="1082" y="552" text-anchor="end" class="t-label"><tspan class="t-label-b">survey the system</tspan><tspan class="t-soft"> · written records, buildings, technology</tspan></text>
+    <text x="1082" y="606" text-anchor="end" class="t-label"><tspan class="t-small t-mute">validity</tspan><tspan class="t-label-b" dx="7">functional fit</tspan><tspan class="t-soft"> · what does it do?</tspan></text>
+    <!-- how it appears here: a small system of material structures -->
+    <g class="s-ink w-hair"><line x1="640" y1="512" x2="658" y2="528"/><line x1="690" y1="512" x2="672" y2="528"/><line x1="640" y1="556" x2="658" y2="540"/><line x1="690" y1="556" x2="672" y2="540"/></g>
+    <g class="f-surface s-ink w-struct">
+      <rect x="624" y="498" width="22" height="16"/><rect x="684" y="498" width="22" height="16"/>
+      <rect x="654" y="526" width="22" height="16"/>
+      <rect x="624" y="554" width="22" height="16"/><rect x="684" y="554" width="22" height="16"/>
+    </g>
+  </g>
+  <!-- the thought, always at the crossing (drawn last so it sits over the window corners) -->
+  <circle cx="600" cy="413" r="60" class="f-surface s-ink w-struct"/>
+  <text x="600" y="409" text-anchor="middle" class="t-name-s">a thought</text>
+  <text x="600" y="429" text-anchor="middle" class="t-small t-mute">one holon</text>
+  <!-- step 5: the note, the passages and the footer (settled frame) -->
+  <g class="wv-fade" data-at="5">
+    <text x="600" y="650" text-anchor="middle" class="t-ours">◇ The “windows”, the four small drawings, the how-to-find-out lines and the layout are this wiki’s; the thought, its four aspects and their validity claims are Wilber’s</text>
+    <line x1="60" y1="664" x2="1140" y2="664" class="s-faint w-hair"/>
+    <text x="60" y="692" class="t-quote-s">“…my ‘single’ thought, the original holon, is not really a single thought as such,</text>
+    <text x="60" y="712" class="t-quote-s">but rather a holon with four inseparable aspects (intentional, behavioral, cultural,</text>
+    <text x="60" y="732" class="t-quote-s">and social), each with its own validity claims…”</text>
+    <text x="60" y="754" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 4</text>
+    <text x="640" y="692" class="t-quote-s">“If I want to know what your brain looks like <tspan font-style="italic">from within</tspan>, what its actual</text>
+    <text x="640" y="712" class="t-quote-s">lived <tspan font-style="italic">interior</tspan> is like (in other words, your <tspan font-style="italic">mind</tspan>), then <tspan font-style="italic">I must talk to you</tspan>.</text>
+    <text x="640" y="732" class="t-quote-s">There is absolutely no other way.”</text>
+    <text x="640" y="754" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 4</text>
+    <text x="60" y="778" class="t-foot">Redrawn from Wilber’s tour of the four quadrants in SES ch. 4; not a reproduction of a published figure.</text>
+    <text x="60" y="792" class="t-foot">The thought is Wilber’s own example · sans labels summarise SES ch. 4 · ◇ marks this wiki’s own device</text>
+    <g id="fq-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
+  </g>
+</svg>
+    </div>
+    <figcaption data-wv-caption>
+      <span data-cap="0">Wilber's example holon: "I have a thought; a thought occurs to me." Two distinctions, interior/exterior and individual/collective, give four windows onto it.</span>
+      <span data-cap="1"><strong>It.</strong> From the outside, the thought is a change in brain physiology: norepinephrine, beta waves. True, important, and found by looking. The validity claim is truth.</span>
+      <span data-cap="2"><strong>I.</strong> From the inside, the thought is a meaning, and knowing every atom of the brain will not give it to you unless the thinker tells you. The validity claim is truthfulness.</span>
+      <span data-cap="3"><strong>We.</strong> The meaning only exists in a shared language and culture; without them the words are noise. The validity claim is justness, cultural fit.</span>
+      <span data-cap="4"><strong>Its.</strong> Cultural meanings leave exterior correlates: records, buildings, technologies, institutions. The validity claim is functional fit.</span>
+      <span data-cap="5">The settled frame: one holon with four inseparable aspects, each with its own validity claim, and Wilber's own sentences. This is the shareable image.</span>
+    </figcaption>
+  </figure>
+</div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
+</div>
+<!-- /figure:four-quadrants -->
+
+Wilber's four quadrants come from two distinctions: **interior** and **exterior**, and **individual** and **collective**. To show that they are four sides of one thing rather than four things, he takes a single thought round all four. From within, it is a meaning only I can tell you. From outside, it is a pattern of brain activity. Shared, it is a meaning that depends on a common language. Socially, it has correlates in institutions and structures. Each side is known in its own way and makes its own kind of validity claim:
+
+> "…my 'single' thought, the original holon, is not really a single thought as such, but rather a holon with four inseparable aspects (intentional, behavioral, cultural, and social), each with its own validity claims…"
+>
+> Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 4
+
+The thought and every sentence in the windows are Wilber's. The "windows", the small drawings and the how-to-find-out lines are this wiki's. More: [The Four Quadrants](concepts/four-quadrants.md).
+
+## Pull a rung out
+
+<!-- figure:holarchy -->
+<div class="wv-root wv-share" data-wv-share="holarchy">
+<img class="wv-still" src="/assets/visuals/holarchy.png" width="2400" height="1600" alt="Pull a rung out: Wilber's thought experiment for telling higher from lower in a holarchy. Left: a ladder of five rungs from Sex, Ecology, Spirituality, bottom to top subatomic particles, atoms, molecules, cells, organisms, each containing the one below but not vice versa. Right: the same ladder after the molecules rung has been pulled out and destroyed. The rungs above it, cells and organisms, are gone and drawn as dotted outlines; the rungs below it, atoms and subatomic particles, are untouched. A bracket reads: what went with it is higher, what stayed is lower. Below, Wilber's tenet 9 sentence, his thought-experiment question and his rule, all from chapter 2.">
+<div id="hol-fig" data-wv-steps="5" data-step="5" data-wv-dur="1500" aria-label="Animated figure: pull a rung out of a holarchy">
+  <div class="wv-controls" data-wv-controls></div>
+  <figure class="wv-figure">
+    <div class="wv-frame">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" data-og="0 0 1200 630" data-square="0 -200 1200 1200" role="img" aria-labelledby="hol-title hol-desc">
+  <title id="hol-title">Pull a rung out: Wilber's thought experiment for telling higher from lower in a holarchy</title>
+  <desc id="hol-desc">Left: a ladder of five rungs from Sex, Ecology, Spirituality, bottom to top subatomic particles, atoms, molecules, cells, organisms, each containing the one below but not vice versa. Right: the same ladder after the molecules rung has been pulled out and destroyed. The rungs above it, cells and organisms, are gone and drawn as dotted outlines; the rungs below it, atoms and subatomic particles, are untouched. A bracket reads: what went with it is higher, what stayed is lower. Below, Wilber's tenet 9 sentence, his thought-experiment question and his rule, all from chapter 2.</desc>
+  <defs>
+    <marker id="hol-m-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" class="c-ink"/></marker>
+    <marker id="hol-m-fallacy" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" class="c-fallacy"/></marker>
+  </defs>
+  <!-- title block -->
+  <text x="60" y="48" class="t-eyebrow">WILBER WIKI · A THOUGHT EXPERIMENT FROM THE TWENTY TENETS</text>
+  <text x="60" y="104" class="t-title">Pull a rung out</text>
+  <text x="60" y="140" class="t-sub">Wilber's test for telling higher from lower in any sequence: destroy one kind of holon and see what else goes with it.</text>
+  <!-- step 0: the sequence (Wilber's example, tenets 4 and 9) -->
+  <text x="100" y="186" class="t-head">A HOLISTIC SEQUENCE</text>
+  <line x1="76" y1="578" x2="76" y2="224" class="s-ink w-struct" marker-end="url(#hol-m-ink)"/>
+  <text transform="translate(65 401) rotate(-90)" text-anchor="middle" class="t-small t-mute" letter-spacing="1">higher</text>
+  <g id="hol-before">
+    <g><rect x="100" y="224" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="213.0" y="251" text-anchor="middle" class="t-name-s">organisms</text><text x="213.0" y="270" text-anchor="middle" class="t-small t-soft">contain cells</text></g>
+    <g><rect x="100" y="298" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="213.0" y="325" text-anchor="middle" class="t-name-s">cells</text><text x="213.0" y="344" text-anchor="middle" class="t-small t-soft">contain molecules</text></g>
+    <g><rect x="100" y="372" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="213.0" y="399" text-anchor="middle" class="t-name-s">molecules</text><text x="213.0" y="418" text-anchor="middle" class="t-small t-soft">contain atoms</text></g>
+    <g><rect x="100" y="446" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="213.0" y="473" text-anchor="middle" class="t-name-s">atoms</text><text x="213.0" y="492" text-anchor="middle" class="t-small t-soft">contain subatomic particles</text></g>
+    <g><rect x="100" y="520" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="213.0" y="555" text-anchor="middle" class="t-name-s">subatomic particles</text></g>
+  </g>
+  <text x="213.0" y="606" text-anchor="middle" class="t-small t-soft">each contains the one below · not vice versa</text>
+  <!-- step 1: a copy to experiment on. The two upper rungs and the molecules rung are authored hidden
+       (opacity="0") and shown from data-from up to data-until by wv-motion.js, so the settled frame has none of them. -->
+  <text x="404" y="186" class="t-head wv-fade" data-at="1">THE THOUGHT EXPERIMENT · DESTROY ALL THE MOLECULES</text>
+  <g class="wv-fade" data-at="1">
+    <g><rect x="700" y="446" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="473" text-anchor="middle" class="t-name-s">atoms</text></g>
+    <g><rect x="700" y="520" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="547" text-anchor="middle" class="t-name-s">subatomic particles</text></g>
+  </g>
+  <g class="wv-fade" data-from="1" data-until="3" opacity="0">
+    <g><rect x="700" y="224" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="251" text-anchor="middle" class="t-name-s">organisms</text><text x="813.0" y="270" text-anchor="middle" class="t-small t-soft">contain cells</text></g>
+    <g><rect x="700" y="298" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="325" text-anchor="middle" class="t-name-s">cells</text><text x="813.0" y="344" text-anchor="middle" class="t-small t-soft">contain molecules</text></g>
+  </g>
+  <g class="wv-fade" data-from="1" data-until="2" opacity="0">
+    <g><rect x="700" y="372" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="399" text-anchor="middle" class="t-name-s">molecules</text><text x="813.0" y="418" text-anchor="middle" class="t-small t-soft">contain atoms</text></g>
+  </g>
+  <!-- step 2: the molecules rung is pulled out (slides from its slot) and destroyed -->
+  <g class="wv-move" data-at="2" style="--wv-from: translate(296px, 0); transition-delay: 300ms, 0ms">
+    <g><rect x="404" y="372" width="226" height="58" rx="7" class="f-fallacy s-fallacy w-hair"/><text x="517.0" y="399" text-anchor="middle" class="t-name-s c-fallacy">molecules</text><text x="517.0" y="418" text-anchor="middle" class="t-small c-fallacy">pulled out and destroyed</text></g>
+  </g>
+  <rect x="700" y="372" width="226" height="58" rx="7" class="nf s-line w-struct k-dot wv-fade" data-at="2" style="transition-delay: 700ms"/>
+  <path d="M694 401 C 678 401, 652 401, 637 401" pathLength="1" class="wv-draw nf s-fallacy w-path" data-at="2" marker-end="url(#hol-m-fallacy)" style="transition-delay: 700ms, 700ms"/>
+  <text x="665" y="391" text-anchor="middle" class="t-small c-fallacy wv-fade" data-at="2" style="transition-delay: 900ms">pulled out</text>
+  <!-- step 3: everything above goes with it (ghost copies fall; dotted outlines mark the absence) -->
+  <g class="wv-ghost" data-at="3" style="--wv-from: none; --wv-to: translate(0, 48px)">
+    <g><rect x="700" y="224" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="251" text-anchor="middle" class="t-name-s">organisms</text><text x="813.0" y="270" text-anchor="middle" class="t-small t-soft">contain cells</text></g>
+    <g><rect x="700" y="298" width="226" height="58" rx="7" class="f-level s-level w-hair"/><text x="813.0" y="325" text-anchor="middle" class="t-name-s">cells</text><text x="813.0" y="344" text-anchor="middle" class="t-small t-soft">contain molecules</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 700ms">
+    <g><rect x="700" y="224" width="226" height="58" rx="7" class="nf s-line w-struct k-dot"/><text x="813.0" y="251" text-anchor="middle" class="t-name-s t-mute">organisms</text><text x="813.0" y="270" text-anchor="middle" class="t-small t-mute">needed cells</text></g>
+    <g><rect x="700" y="298" width="226" height="58" rx="7" class="nf s-line w-struct k-dot"/><text x="813.0" y="325" text-anchor="middle" class="t-name-s t-mute">cells</text><text x="813.0" y="344" text-anchor="middle" class="t-small t-mute">needed molecules</text></g>
+  </g>
+  <g class="wv-fade" data-at="3" style="transition-delay: 900ms">
+    <path d="M936 224 H942 V356 H936" class="nf s-fallacy w-struct"/>
+    <text x="954" y="286" class="t-label-b c-fallacy">gone with it</text>
+    <text x="954" y="304" class="t-small t-soft">so they are higher</text>
+  </g>
+  <!-- step 4: nothing below is touched -->
+  <g class="wv-fade" data-at="4">
+    <text x="813.0" y="492" text-anchor="middle" class="t-small t-soft">exist without molecules</text>
+    <text x="813.0" y="566" text-anchor="middle" class="t-small t-soft">exist without molecules</text>
+  </g>
+  <g class="wv-fade" data-at="4" style="transition-delay: 400ms">
+    <path d="M936 446 H942 V578 H936" class="nf s-level w-struct"/>
+    <text x="954" y="508" class="t-label-b c-level">untouched</text>
+    <text x="954" y="526" class="t-small t-soft">so they are lower</text>
+  </g>
+  <text x="404" y="606" class="t-ours wv-fade" data-at="4" style="transition-delay: 700ms">◇ the ladder and the pulled rung are this wiki's picture; the sequence, the test and the result are Wilber's</text>
+  <!-- step 5: Wilber's sentences and the footer (settled frame) -->
+  <g class="wv-fade" data-at="5">
+    <line x1="60" y1="664" x2="1140" y2="664" class="s-faint w-hair"/>
+    <text x="60" y="688" class="t-quote-s"><tspan font-style="italic">“Destroy any type of holon, and you will destroy</tspan></text>
+    <text x="60" y="708" class="t-quote-s"><tspan font-style="italic">all of the holons above it and none of the holons</tspan></text>
+    <text x="60" y="728" class="t-quote-s"><tspan font-style="italic">below it.”</tspan></text>
+    <text x="60" y="750" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 2, tenet 9</text>
+    <text x="430" y="688" class="t-quote-s">“What other types of holons would be destroyed</text>
+    <text x="430" y="708" class="t-quote-s">if we destroyed this type of holon?”</text>
+    <text x="430" y="730" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 2, tenet 9</text>
+    <text x="800" y="688" class="t-quote-s">“…destroy the particular holon, and everything else</text>
+    <text x="800" y="708" class="t-quote-s">that is also destroyed is higher; those holons not</text>
+    <text x="800" y="728" class="t-quote-s">destroyed are lower.”</text>
+    <text x="800" y="750" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 2, tenet 9</text>
+    <text x="60" y="778" class="t-foot">Source: Sex, Ecology, Spirituality (1995), ch. 2, tenets 4, 5 and 9 · the sequence is Wilber's own example</text>
+    <text x="60" y="792" class="t-foot">Redrawn from his description; not a reproduction of a published figure · ◇ marks this wiki's own device</text>
+    <g id="hol-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
+  </g>
+</svg>
+    </div>
+    <figcaption data-wv-caption>
+      <span data-cap="0">Wilber's example of a holistic sequence: subatomic particles, atoms, molecules, cells, organisms. Each contains the one below it, and not the other way round.</span>
+      <span data-cap="1">Run the thought experiment on a copy. The question is: what other types of holon would be destroyed if we destroyed this type?</span>
+      <span data-cap="2">Pull out molecules: destroy every molecule in the universe.</span>
+      <span data-cap="3">Everything above goes with it. Cells are made of molecules; organisms are made of cells.</span>
+      <span data-cap="4">Nothing below is touched. Atoms and subatomic particles can exist without molecules. What went is higher, what stayed is lower: that is all "higher" means here.</span>
+      <span data-cap="5">The settled frame, before and after, with Wilber's own sentences. This is the shareable image.</span>
+    </figcaption>
+  </figure>
+</div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
+</div>
+<!-- /figure:holarchy -->
+
+How can you tell what is "higher" in a sequence without just asserting it? Wilber's answer in the twenty tenets is a thought experiment. Take a sequence where each member contains the one before: subatomic particles, atoms, molecules, cells, organisms. Then destroy one kind of holon and see what else goes.
+
+> "Destroy any type of holon, and you will destroy all of the holons above it and none of the holons below it."
+>
+> Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 2
+
+Destroy every molecule and cells go too, and so do the organisms made of them. Atoms and particles carry on. "…destroy the particular holon, and everything else that is also destroyed is higher; those holons not destroyed are lower" (*SES*, ch. 2). The sequence, the test and the result are Wilber's. The ladder and the pulled rung are this wiki's picture. More: [Holarchy](concepts/holarchy.md).

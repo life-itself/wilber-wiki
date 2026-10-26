@@ -55,6 +55,7 @@ Light only; the figures are not themed for dark mode (Rufus, 2026-10-26). Tokens
 | **state** | states of consciousness; also the site's accent amber | `#b45309` |
 | **fallacy** | errors, pathologies, dissociation, collapse | `#be123c` (madder) |
 | **ground** | the prerational, body, nature, the "lower" | `#0f766e` (teal) |
+| **interior** | the Left-Hand quadrants: interiors, what is seen from within | `#6b21a8` (purple; added 2026-10-26 for the four quadrants) |
 | neutral fill | anything carrying no role | 5.5% ink |
 
 Each role has a text/stroke value (`c-*`, `s-*`) and a tinted fill (`f-*`). A hue appears in a figure only when the thing it marks is in the figure. Two things of the same kind share a colour: the two fallacies in the pre/trans piece are both madder, distinguished by direction and label, never by a second hue that would rank them. "State" shares the site's amber so the series feels native to wilber.wiki; a figure therefore never uses amber for both a state and a highlight (interactive highlight is ink). Rejected: Wilber's own "altitude" rainbow for levels (imports a late-Wilber convention into every figure) and monochrome (loses the state/structure distinction the states piece exists to make).
@@ -90,7 +91,7 @@ Bottom band of every canvas, on one baseline at y = 786: left, a `t-foot` line w
 ## Motion
 
 - Durations: fade 420 ms, move/flight 900 ms, draw 700 ms, stagger 90 ms. Ease `cubic-bezier(.4,0,.2,1)` for fades and moves, `cubic-bezier(.2,.7,.2,1)` for draws. Step interval (`data-wv-dur`) 1400–1700 ms; a piece plays in under eight seconds.
-- Four appearance verbs, as classes on any element with `data-at`: `wv-fade` (opacity), `wv-draw` (a stroke draws in; needs `pathLength="1"`, so not for dashed lines), `wv-move` (from a `--wv-from` transform to rest), `wv-ghost` (a one-shot flight of a copy, visible only mid-animation; invisible in the settled frame and in exports).
+- Four appearance verbs, as classes on any element with `data-at`: `wv-fade` (opacity), `wv-draw` (a stroke draws in; needs `pathLength="1"`, so not for dashed lines), `wv-move` (from a `--wv-from` transform to rest), `wv-ghost` (a one-shot flight of a copy, visible only mid-animation; invisible in the settled frame and in exports). For something that exists mid-animation and then goes (the holarchy's rungs that fall away), author it with `opacity="0"` and `data-from="a" data-until="b"`: `wv-motion.js` shows it for steps a to b−1, and it is absent from the settled frame and exports.
 - **The settled frame is the static image.** Step N is the source as authored. Play always ends on N; the step buttons can go back.
 - `prefers-reduced-motion`: transitions and keyframes are off; Play jumps to the settled frame; the step buttons still work as cuts. No JS: the markup defaults to `data-step="N"`, so the figure is static and complete and only the settled caption shows.
 - Keyboard: the figure root is focusable; ← → step, space plays. Deep links `#step-k`, `#play`.

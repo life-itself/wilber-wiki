@@ -14,6 +14,8 @@
  * data-wv-dur ms (default 1400). prefers-reduced-motion: steps still work, the
  * CSS transitions are off, and Play jumps straight to the settled frame.
  * Deep links: #step-2 opens at step 2, #play starts playing.
+ * Elements that exist mid-animation but not in the settled frame carry
+ * data-from="a" data-until="b" and opacity="0"; they show for steps a..b-1.
  *
  * Share blocks (the site's /visuals page, built by scripts/sync-visuals.py):
  *
@@ -72,6 +74,12 @@
       if (!opts.animate) { root.classList.add('wv-no-motion'); }
       root.setAttribute('data-step', String(k));
       if (opts.animate) { root.classList.add('wv-armed'); }
+      // data-from="a" data-until="b": shown only for steps a..b-1 (authored opacity="0",
+      // so the settled frame and the exports leave it out)
+      Array.prototype.forEach.call(root.querySelectorAll('[data-until]'), function (el) {
+        var a = parseInt(el.getAttribute('data-from'), 10) || 0, u = parseInt(el.getAttribute('data-until'), 10);
+        el.style.opacity = k >= a && k < u ? '1' : '0';
+      });
       Array.prototype.forEach.call(caps, function (c) {
         c.hidden = c.getAttribute('data-cap') !== String(k);
       });
