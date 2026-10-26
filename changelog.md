@@ -3,6 +3,12 @@ title: Changelog
 description: What has changed on Wilber Wiki, newest first.
 ---
 
+## 2026-10-26 — Wilber's books on one line
+
+A new figure puts every book in the catalog on one to-scale timeline, under the five phases of Wilber's thinking: the crowded shelf from *Sex, Ecology, Spirituality* onward and the near-empty years before it show at a glance. It's on [Visuals](visuals.md) and heads [The evolution of Wilber's thought](works/phases.md).
+
+![Wilber I–V: the books on a line](assets/visuals/wilber-phases-og.png)
+
 ## 2026-10-26 — Two more figures: the four quadrants and holarchy
 
 [Visuals](visuals.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them. Each figure now also heads its concept page: [the pre/trans fallacy](concepts/pre-trans-fallacy.md), [the four quadrants](concepts/four-quadrants.md), [holarchy](concepts/holarchy.md) and [from SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
