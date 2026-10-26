@@ -27,7 +27,8 @@
  * Watch it unfold (swap in the animation and play it), Copy image (PNG to the
  * clipboard), Download (saves the file rather than opening it) and Share (the
  * system share sheet, only where it can take a file). Copy, Download and Share
- * fetch the PNG, which works across origins because the asset host sends CORS *.
+ * fetch the PNG, which works across origins because the asset host sends CORS *
+ * (bypassing the browser cache; see getBlob).
  */
 (function () {
   'use strict';
@@ -166,7 +167,9 @@
     var name = (box.getAttribute('data-wv-share') || 'figure') + '.png';
     var blob = null;
     function getBlob() {
-      if (!blob) blob = fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.blob(); })
+      // no-store: the asset host only adds CORS headers when asked and does not
+      // send Vary: Origin, so the copy cached by the <img> would fail CORS.
+      if (!blob) blob = fetch(url, { cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error(r.status); return r.blob(); })
         .then(function (b) { return b.type === 'image/png' ? b : new Blob([b], { type: 'image/png' }); });
       blob.catch(function () { blob = null; });
       return blob;
