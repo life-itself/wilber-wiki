@@ -5,9 +5,14 @@ aliases: [holarchies, holarchical]
 category: core-term
 status: draft
 works: [1995-sex-ecology-spirituality]
+image: /assets/visuals/holarchy-og.png
 ---
 
 # Holarchy
+
+[![Pull a rung out: Wilber's test for higher and lower, destroying the molecules and losing everything above them](../assets/visuals/holarchy.png)](../visuals.md#pull-a-rung-out)
+
+*Wilber's test for higher and lower, in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#pull-a-rung-out).*
 
 ## Wilber's View
 

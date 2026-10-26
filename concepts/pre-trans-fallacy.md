@@ -5,9 +5,14 @@ aliases: [pre-trans fallacy, prerational and transrational, elevationism, reduct
 category: core-term
 status: draft
 works: [1995-sex-ecology-spirituality]
+image: /assets/visuals/pre-trans-fallacy-og.png
 ---
 
 # The Pre/Trans Fallacy
+
+[![The pre/trans fallacy in one picture: three bands of development, and the untutored eye that sees only two](../assets/visuals/pre-trans-fallacy.png)](../visuals.md#the-pretrans-fallacy)
+
+*The pre/trans fallacy in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#the-pretrans-fallacy).*
 
 ## Wilber's View
 

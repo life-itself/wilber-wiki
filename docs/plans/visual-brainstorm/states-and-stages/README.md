@@ -23,7 +23,7 @@ Wilber's: both pictures. The 2000 spine is his master chart's left column; the 2
 
 Ours, marked ◇ on the canvas: the "what changed is the picture" note; the framing of the two pictures as one animation in which rungs become headers and rows. Also ours, stated on the page: pairing IS's Gebser-like stage names with IP chart-1 worldview names on the small ladder labels (approximate: "mythic" spans two chart-1 rows); the one-word state glosses; "a state" with no gloss for nondual (the earlier build's "ever-present" was our word and has been dropped).
 
-Not shown on purpose: cell contents. Wilber gives examples of how particular states are read at particular stages; none have been quote-verified, so cells carry only "stage × state".
+Not shown on purpose: cell contents. Wilber gives examples of how particular states are read at particular stages; none have been quote-verified, so cells are left empty on the canvas, with "stage × state" only in each cell's tooltip and in the page's table (the in-cell labels were dropped on 2026-10-26 as clutter, Rufus).
 
 Known simplification, unchanged: IP lists psychic/subtle/causal/nondual as *structures* in the chart while saying in the text that the *states* of the same names are available at any stage. The canvas shows the chart picture on the left and quotes the caveat on the right; whether that is fair is open question 1.
 

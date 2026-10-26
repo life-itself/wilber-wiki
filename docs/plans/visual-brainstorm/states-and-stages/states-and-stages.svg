@@ -17,6 +17,8 @@
   --wv-fallacy-fill: rgba(190, 18, 60, 0.11);
   --wv-ground: #0f766e;
   --wv-ground-fill: rgba(15, 118, 110, 0.13);
+  --wv-interior: #6b21a8;
+  --wv-interior-fill: rgba(107, 33, 168, 0.10);
   --wv-neutral-fill: rgba(28, 25, 23, 0.055);
   --wv-accent: #b45309;
   --wv-accent-ring: rgba(217, 119, 6, 0.25);
@@ -49,6 +51,7 @@ text { font-family: var(--wv-sans); fill: currentColor; }
 
 /* semantic colour roles: text, stroke, fill */
 .c-level   { fill: var(--wv-level); }   .s-level   { stroke: var(--wv-level); }   .f-level   { fill: var(--wv-level-fill); }
+.c-interior   { fill: var(--wv-interior); }   .s-interior   { stroke: var(--wv-interior); }   .f-interior   { fill: var(--wv-interior-fill); }
 .c-state   { fill: var(--wv-state); }   .s-state   { stroke: var(--wv-state); }   .f-state   { fill: var(--wv-state-fill); }
 .c-fallacy { fill: var(--wv-fallacy); } .s-fallacy { stroke: var(--wv-fallacy); } .f-fallacy { fill: var(--wv-fallacy-fill); }
 .c-ground  { fill: var(--wv-ground); }  .s-ground  { stroke: var(--wv-ground); }  .f-ground  { fill: var(--wv-ground-fill); }
@@ -131,40 +134,40 @@ text { font-family: var(--wv-sans); fill: currentColor; }
 
   <!-- step 3: the cells, each a state experience interpreted through a stage -->
   <g class="wv-fade" style="transition-delay: 0ms">
-    <g><rect x="660" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × gross/psychic: a gross-state experience, interpreted through the integral stage</title></rect><text x="718" y="285" text-anchor="middle" class="t-foot">integral × gross</text></g>
-    <g><rect x="784" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × subtle: a subtle-state experience, interpreted through the integral stage</title></rect><text x="842" y="285" text-anchor="middle" class="t-foot">integral × subtle</text></g>
-    <g><rect x="908" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × causal: a causal-state experience, interpreted through the integral stage</title></rect><text x="966" y="285" text-anchor="middle" class="t-foot">integral × causal</text></g>
-    <g><rect x="1032" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × nondual: a nondual-state experience, interpreted through the integral stage</title></rect><text x="1090" y="285" text-anchor="middle" class="t-foot">integral × nondual</text></g>
+    <g><rect x="660" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × gross/psychic: a gross-state experience, interpreted through the integral stage</title></rect></g>
+    <g><rect x="784" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × subtle: a subtle-state experience, interpreted through the integral stage</title></rect></g>
+    <g><rect x="908" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × causal: a causal-state experience, interpreted through the integral stage</title></rect></g>
+    <g><rect x="1032" y="262" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>integral × nondual: a nondual-state experience, interpreted through the integral stage</title></rect></g>
   </g>
   <g class="wv-fade" style="transition-delay: 90ms">
-    <g><rect x="660" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × gross/psychic: a gross-state experience, interpreted through the pluralistic stage</title></rect><text x="718" y="345" text-anchor="middle" class="t-foot">pluralistic × gross</text></g>
-    <g><rect x="784" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × subtle: a subtle-state experience, interpreted through the pluralistic stage</title></rect><text x="842" y="345" text-anchor="middle" class="t-foot">pluralistic × subtle</text></g>
-    <g><rect x="908" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × causal: a causal-state experience, interpreted through the pluralistic stage</title></rect><text x="966" y="345" text-anchor="middle" class="t-foot">pluralistic × causal</text></g>
-    <g><rect x="1032" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × nondual: a nondual-state experience, interpreted through the pluralistic stage</title></rect><text x="1090" y="345" text-anchor="middle" class="t-foot">pluralistic × nondual</text></g>
+    <g><rect x="660" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × gross/psychic: a gross-state experience, interpreted through the pluralistic stage</title></rect></g>
+    <g><rect x="784" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × subtle: a subtle-state experience, interpreted through the pluralistic stage</title></rect></g>
+    <g><rect x="908" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × causal: a causal-state experience, interpreted through the pluralistic stage</title></rect></g>
+    <g><rect x="1032" y="322" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>pluralistic × nondual: a nondual-state experience, interpreted through the pluralistic stage</title></rect></g>
   </g>
   <g class="wv-fade" style="transition-delay: 180ms">
-    <g><rect x="660" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × gross/psychic: a gross-state experience, interpreted through the rational stage</title></rect><text x="718" y="405" text-anchor="middle" class="t-foot">rational × gross</text></g>
-    <g><rect x="784" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × subtle: a subtle-state experience, interpreted through the rational stage</title></rect><text x="842" y="405" text-anchor="middle" class="t-foot">rational × subtle</text></g>
-    <g><rect x="908" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × causal: a causal-state experience, interpreted through the rational stage</title></rect><text x="966" y="405" text-anchor="middle" class="t-foot">rational × causal</text></g>
-    <g><rect x="1032" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × nondual: a nondual-state experience, interpreted through the rational stage</title></rect><text x="1090" y="405" text-anchor="middle" class="t-foot">rational × nondual</text></g>
+    <g><rect x="660" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × gross/psychic: a gross-state experience, interpreted through the rational stage</title></rect></g>
+    <g><rect x="784" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × subtle: a subtle-state experience, interpreted through the rational stage</title></rect></g>
+    <g><rect x="908" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × causal: a causal-state experience, interpreted through the rational stage</title></rect></g>
+    <g><rect x="1032" y="382" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>rational × nondual: a nondual-state experience, interpreted through the rational stage</title></rect></g>
   </g>
   <g class="wv-fade" style="transition-delay: 270ms">
-    <g><rect x="660" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × gross/psychic: a gross-state experience, interpreted through the mythic stage</title></rect><text x="718" y="465" text-anchor="middle" class="t-foot">mythic × gross</text></g>
-    <g><rect x="784" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × subtle: a subtle-state experience, interpreted through the mythic stage</title></rect><text x="842" y="465" text-anchor="middle" class="t-foot">mythic × subtle</text></g>
-    <g><rect x="908" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × causal: a causal-state experience, interpreted through the mythic stage</title></rect><text x="966" y="465" text-anchor="middle" class="t-foot">mythic × causal</text></g>
-    <g><rect x="1032" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × nondual: a nondual-state experience, interpreted through the mythic stage</title></rect><text x="1090" y="465" text-anchor="middle" class="t-foot">mythic × nondual</text></g>
+    <g><rect x="660" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × gross/psychic: a gross-state experience, interpreted through the mythic stage</title></rect></g>
+    <g><rect x="784" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × subtle: a subtle-state experience, interpreted through the mythic stage</title></rect></g>
+    <g><rect x="908" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × causal: a causal-state experience, interpreted through the mythic stage</title></rect></g>
+    <g><rect x="1032" y="442" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>mythic × nondual: a nondual-state experience, interpreted through the mythic stage</title></rect></g>
   </g>
   <g class="wv-fade" style="transition-delay: 360ms">
-    <g><rect x="660" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × gross/psychic: a gross-state experience, interpreted through the magic stage</title></rect><text x="718" y="525" text-anchor="middle" class="t-foot">magic × gross</text></g>
-    <g><rect x="784" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × subtle: a subtle-state experience, interpreted through the magic stage</title></rect><text x="842" y="525" text-anchor="middle" class="t-foot">magic × subtle</text></g>
-    <g><rect x="908" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × causal: a causal-state experience, interpreted through the magic stage</title></rect><text x="966" y="525" text-anchor="middle" class="t-foot">magic × causal</text></g>
-    <g><rect x="1032" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × nondual: a nondual-state experience, interpreted through the magic stage</title></rect><text x="1090" y="525" text-anchor="middle" class="t-foot">magic × nondual</text></g>
+    <g><rect x="660" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × gross/psychic: a gross-state experience, interpreted through the magic stage</title></rect></g>
+    <g><rect x="784" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × subtle: a subtle-state experience, interpreted through the magic stage</title></rect></g>
+    <g><rect x="908" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × causal: a causal-state experience, interpreted through the magic stage</title></rect></g>
+    <g><rect x="1032" y="502" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>magic × nondual: a nondual-state experience, interpreted through the magic stage</title></rect></g>
   </g>
   <g class="wv-fade" style="transition-delay: 450ms">
-    <g><rect x="660" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × gross/psychic: a gross-state experience, interpreted through the archaic stage</title></rect><text x="718" y="585" text-anchor="middle" class="t-foot">archaic × gross</text></g>
-    <g><rect x="784" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × subtle: a subtle-state experience, interpreted through the archaic stage</title></rect><text x="842" y="585" text-anchor="middle" class="t-foot">archaic × subtle</text></g>
-    <g><rect x="908" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × causal: a causal-state experience, interpreted through the archaic stage</title></rect><text x="966" y="585" text-anchor="middle" class="t-foot">archaic × causal</text></g>
-    <g><rect x="1032" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × nondual: a nondual-state experience, interpreted through the archaic stage</title></rect><text x="1090" y="585" text-anchor="middle" class="t-foot">archaic × nondual</text></g>
+    <g><rect x="660" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × gross/psychic: a gross-state experience, interpreted through the archaic stage</title></rect></g>
+    <g><rect x="784" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × subtle: a subtle-state experience, interpreted through the archaic stage</title></rect></g>
+    <g><rect x="908" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × causal: a causal-state experience, interpreted through the archaic stage</title></rect></g>
+    <g><rect x="1032" y="562" width="116" height="38" rx="4" class="f-neutral s-faint w-hair"><title>archaic × nondual: a nondual-state experience, interpreted through the archaic stage</title></rect></g>
   </g>
   <text x="904" y="622" text-anchor="middle" class="t-small t-soft wv-fade" style="transition-delay: 500ms">each cell: a state experience, interpreted through a stage · 6 × 4 here; Wilber counts 7 × 4 = 28</text>
 

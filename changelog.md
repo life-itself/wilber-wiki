@@ -5,7 +5,7 @@ description: What has changed on Wilber Wiki, newest first.
 
 ## 2026-10-26 — Two more figures: the four quadrants and holarchy
 
-[Visuals](visuals.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them.
+[Visuals](visuals.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them. Each figure now also heads its concept page: [the pre/trans fallacy](concepts/pre-trans-fallacy.md), [the four quadrants](concepts/four-quadrants.md), [holarchy](concepts/holarchy.md) and [from SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
 
 ![One thought, four windows](assets/visuals/four-quadrants-og.png)
 

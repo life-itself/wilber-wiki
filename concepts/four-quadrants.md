@@ -5,9 +5,14 @@ aliases: [four quadrants, AQAL, quadrants]
 category: core-term
 status: draft
 works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
+image: /assets/visuals/four-quadrants-og.png
 ---
 
 # The Four Quadrants
+
+[![One thought, four windows: Wilber's example of a single thought seen through the four quadrants](../assets/visuals/four-quadrants.png)](../visuals.md#one-thought-four-windows)
+
+*The four quadrants in one picture, using Wilber's own example. Copy, download, share or watch it unfold on [Visuals](../visuals.md#one-thought-four-windows).*
 
 ## Wilber's View
 

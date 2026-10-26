@@ -5,9 +5,14 @@ aliases: [evolution of wilber's thought, wilber-4 to wilber-5, post-metaphysical
 category: wilber-on-x
 status: draft
 works: [1995-sex-ecology-spirituality, 2000-integral-psychology, 2006-integral-spirituality]
+image: /assets/visuals/states-and-stages-og.png
 ---
 
 # From SES to Integral Spirituality: How Wilber's Map Changed
+
+[![States off the ladder: the 2000 ladder beside the 2006 lattice of states and stages](../assets/visuals/states-and-stages.png)](../visuals.md#states-off-the-ladder)
+
+*The third shift, taking states off the ladder, in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#states-off-the-ladder).*
 
 ## Wilber's View
 
