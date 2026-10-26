@@ -21,7 +21,7 @@ PIECES = ["pre-trans-fallacy", "states-and-stages"]
 # Site-only additions: no-JS shows only the settled caption (the last one).
 SITE_CSS = """
 /* site additions (scripts/sync-visuals.py) */
-html:not(.wv-js) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
+.wv-root:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
 .wv-root[data-wv-steps] { margin: 1.5rem 0; }
 """
 

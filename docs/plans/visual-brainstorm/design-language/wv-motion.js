@@ -18,12 +18,29 @@
 (function () {
   'use strict';
   if (typeof document === 'undefined') return;
-  var roots = document.querySelectorAll('[data-wv-steps]');
-  if (!roots.length) return;
-  document.documentElement.classList.add('wv-js');
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  Array.prototype.forEach.call(roots, function (root) {
+  // On a framework-rendered site (Flowershow is React) the page can be hydrated
+  // or re-rendered after this script runs, replacing the nodes it set up, and
+  // client-side navigation brings new roots without reloading scripts. So:
+  // initialise each root once (marked .wv-ready), start after load, and watch
+  // the DOM for roots that appear or are replaced later.
+  function initAll() {
+    var roots = document.querySelectorAll('[data-wv-steps]:not(.wv-ready)');
+    if (!roots.length) return;
+    document.documentElement.classList.add('wv-js');
+    Array.prototype.forEach.call(roots, init);
+  }
+  var pending = null;
+  function schedule() { if (!pending) pending = setTimeout(function () { pending = null; initAll(); }, 150); }
+  function start() {
+    schedule();
+    if (window.MutationObserver) new MutationObserver(schedule).observe(document.body, { childList: true, subtree: true });
+  }
+  if (document.readyState === 'complete') start(); else window.addEventListener('load', start);
+
+  function init(root) {
+    root.classList.add('wv-ready');
     var N = parseInt(root.getAttribute('data-wv-steps'), 10) || 0;
     var dur = parseInt(root.getAttribute('data-wv-dur'), 10) || 1400;
     var timer = null;
@@ -123,5 +140,5 @@
     else if (location.hash === '#play') { play(); }
     else { show(current() || N); }
     setPlaying(false);
-  });
+  }
 })();

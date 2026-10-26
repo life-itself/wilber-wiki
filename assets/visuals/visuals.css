@@ -354,5 +354,5 @@
 .wv-root [data-step="8"] .wv-ghost[data-at="9"] { animation: none; }
 
 /* site additions (scripts/sync-visuals.py) */
-html:not(.wv-js) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
+.wv-root:not(.wv-ready) [data-wv-caption] [data-cap]:not(:last-child) { display: none; }
 .wv-root[data-wv-steps] { margin: 1.5rem 0; }
