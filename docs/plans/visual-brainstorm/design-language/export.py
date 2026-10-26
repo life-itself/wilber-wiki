@@ -30,7 +30,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
-PIECES = ["pre-trans-fallacy", "states-and-stages", "four-quadrants", "holarchy"]
+PIECES = ["pre-trans-fallacy", "states-and-stages", "four-quadrants", "holarchy", "wilber-phases"]
 FONTS = ('<link rel="preconnect" href="https://fonts.googleapis.com">'
          '<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,400;1,9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">')
 CSS = (HERE / "visuals.css").read_text(encoding="utf-8")

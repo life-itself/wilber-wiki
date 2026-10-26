@@ -514,3 +514,300 @@ How can you tell what is "higher" in a sequence without just asserting it? Wilbe
 > Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 2
 
 Destroy every molecule and cells go too, and so do the organisms made of them. Atoms and particles carry on. "…destroy the particular holon, and everything else that is also destroyed is higher; those holons not destroyed are lower" (*SES*, ch. 2). The sequence, the test and the result are Wilber's. The ladder and the pulled rung are this wiki's picture. More: [Holarchy](concepts/holarchy.md).
+
+## Wilber I–V: the books on a line
+
+<!-- figure:wilber-phases -->
+<div class="wv-root wv-share" data-wv-share="wilber-phases">
+<img class="wv-still" src="/assets/visuals/wilber-phases.png" width="2400" height="1600" alt="Wilber I–V: the books on a line. Ken Wilber’s books on one time axis, grouped into the five phases of his work. A shelf: a horizontal time axis from 1977 to 2024 on which every entry in the wiki’s catalog of Ken Wilber’s books stands as a spine at its year of first publication. Five soft bands above the axis mark the periods of Wilber I to V as the wiki dates them: I, the early spectrum, late 1970s; II, development, around 1980 to 82; III, levels and lines, 1980s; IV, the four-quadrant synthesis, mid-1990s to 2000; V, post-metaphysics and perspectives, early 2000s onward. Filled spines are the twelve books the wiki treats as core, outlined spines the other books the phases page names for a phase, thin ticks the rest of the catalog, dotted marks a retitled edition, an unverified entry, or the unpublished second volume of the Kosmos trilogy. The shelf is empty between 1987 and 1994 apart from a co-edited collection and the memoir Grace and Grit, under Wilber’s own words: the first theoretical book I had written in almost ten years. Below, Wilber’s one-sentence description of each of phases 1 to 4 from Integral Psychology, and a note that phase V is not in his list.">
+<div id="wp-fig" data-wv-steps="6" data-step="6" data-wv-dur="1400" aria-label="Animated figure: Wilber's books on a time axis, grouped into phases I to V">
+  <div class="wv-controls" data-wv-controls></div>
+  <figure class="wv-figure">
+    <div class="wv-frame">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" data-og="0 0 1200 630" data-square="0 -200 1200 1200" role="img" aria-labelledby="wp-title wp-desc">
+  <title id="wp-title">Wilber I–V: the books on a line. Ken Wilber’s books on one time axis, grouped into the five phases of his work</title>
+  <desc id="wp-desc">A shelf: a horizontal time axis from 1977 to 2024 on which every entry in the wiki’s catalog of Ken Wilber’s books stands as a spine at its year of first publication. Five soft bands above the axis mark the periods of Wilber I to V as the wiki dates them: I, the early spectrum, late 1970s; II, development, around 1980 to 82; III, levels and lines, 1980s; IV, the four-quadrant synthesis, mid-1990s to 2000; V, post-metaphysics and perspectives, early 2000s onward. Filled spines are the twelve books the wiki treats as core, outlined spines the other books the phases page names for a phase, thin ticks the rest of the catalog, dotted marks a retitled edition, an unverified entry, or the unpublished second volume of the Kosmos trilogy. The shelf is empty between 1987 and 1994 apart from a co-edited collection and the memoir Grace and Grit, under Wilber’s own words: the first theoretical book I had written in almost ten years. Below, Wilber’s one-sentence description of each of phases 1 to 4 from Integral Psychology, and a note that phase V is not in his list.</desc>
+  <defs>
+    <linearGradient id="wp-band-0" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="var(--wv-ink)" stop-opacity="0"/>
+      <stop offset="0.099" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="0.901" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="var(--wv-ink)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wp-band-1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="var(--wv-ink)" stop-opacity="0"/>
+      <stop offset="0.114" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="0.886" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="var(--wv-ink)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wp-band-2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="var(--wv-ink)" stop-opacity="0"/>
+      <stop offset="0.071" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="0.929" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="var(--wv-ink)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wp-band-3" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="var(--wv-ink)" stop-opacity="0"/>
+      <stop offset="0.047" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="0.953" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="var(--wv-ink)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="wp-band-4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="var(--wv-ink)" stop-opacity="0"/>
+      <stop offset="0.012" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="0.800" stop-color="var(--wv-ink)" stop-opacity="0.055"/>
+      <stop offset="1" stop-color="var(--wv-ink)" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <!-- title block (always visible) -->
+  <text x="60" y="48" class="t-eyebrow">WILBER WIKI · A READER’S MAP OF THE WORKS</text>
+  <text x="60" y="104" class="t-title">Wilber I–V: the books on a line</text>
+  <text x="60" y="140" class="t-sub">Every book in the catalog at its year, under the phases Wilber numbered himself: where the shelf is full, and where it is empty.</text>
+  <!-- step 0: the empty shelf -->
+  <line x1="96" y1="600" x2="1140" y2="600" class="s-ink w-struct"/>
+  <line x1="184" y1="600" x2="184" y2="607" class="s-ink w-hair"/>
+  <text x="184" y="622" text-anchor="middle" class="t-small t-mute">1980</text>
+  <line x1="394" y1="600" x2="394" y2="607" class="s-ink w-hair"/>
+  <text x="394" y="622" text-anchor="middle" class="t-small t-mute">1990</text>
+  <line x1="604" y1="600" x2="604" y2="607" class="s-ink w-hair"/>
+  <text x="604" y="622" text-anchor="middle" class="t-small t-mute">2000</text>
+  <line x1="814" y1="600" x2="814" y2="607" class="s-ink w-hair"/>
+  <text x="814" y="622" text-anchor="middle" class="t-small t-mute">2010</text>
+  <line x1="1024" y1="600" x2="1024" y2="607" class="s-ink w-hair"/>
+  <text x="1024" y="622" text-anchor="middle" class="t-small t-mute">2020</text>
+  <text x="96" y="622" class="t-small t-mute">1977</text>
+  <text x="1140" y="622" text-anchor="end" class="t-small t-mute">2024</text>
+  <!-- step 1: phase I -->
+  <g class="wv-fade" data-at="1">
+    <rect x="111.5" y="296" width="60.9" height="304" fill="url(#wp-band-0)"/>
+    <line x1="119.5" y1="221" x2="119.5" y2="294" class="s-faint w-hair"/>
+    <text x="112.5" y="214"><tspan class="t-name-s">I</tspan><tspan class="t-label" dx="8">The early spectrum</tspan><tspan class="t-small t-mute" dx="8">late 1970s</tspan></text>
+    <text x="60" y="706"><tspan class="t-name-s">I</tspan><tspan class="t-small t-mute" dx="7">The early spectrum</tspan></text>
+    <text x="60" y="726" class="t-quote-s">“Phase-1 was Romantic (a</text>
+    <text x="60" y="744" class="t-quote-s">‘recaptured-goodness’ model)…”</text>
+  </g>
+  <g class="wv-fade" data-at="1">
+    <line x1="60" y1="664" x2="1140" y2="664" class="s-faint w-hair"/>
+    <text x="60" y="684" class="t-head">WHAT EACH PHASE ADDED, IN WILBER’S WORDS</text>
+    <text x="1140" y="684" text-anchor="end" class="t-loc">Ken Wilber, <tspan font-style="italic">Integral Psychology</tspan> (2000), ch. 9, note 15: “I have, for convenience, divided my overall work into four general phases.”</text>
+  </g>
+  <!-- step 2: phase II -->
+  <g class="wv-fade" data-at="2">
+    <rect x="178.8" y="296" width="52.5" height="304" fill="url(#wp-band-1)"/>
+    <line x1="186.8" y1="251" x2="186.8" y2="294" class="s-faint w-hair"/>
+    <text x="179.8" y="244"><tspan class="t-name-s">II</tspan><tspan class="t-label" dx="8">Development</tspan><tspan class="t-small t-mute" dx="8">around 1980–82</tspan></text>
+    <text x="282" y="706"><tspan class="t-name-s">II</tspan><tspan class="t-small t-mute" dx="7">Development</tspan></text>
+    <text x="282" y="726" class="t-quote-s">“Phase-2 was more specifically</text>
+    <text x="282" y="744" class="t-quote-s">evolutionary or developmental (a</text>
+    <text x="282" y="762" class="t-quote-s">‘growth-to-goodness’ model)…”</text>
+  </g>
+  <!-- step 3: phase III -->
+  <g class="wv-fade" data-at="3">
+    <rect x="237.5" y="296" width="85.0" height="304" fill="url(#wp-band-2)"/>
+    <line x1="245.5" y1="281" x2="245.5" y2="294" class="s-faint w-hair"/>
+    <text x="238.5" y="274"><tspan class="t-name-s">III</tspan><tspan class="t-label" dx="8">Levels and lines</tspan><tspan class="t-small t-mute" dx="8">1980s</tspan></text>
+    <text x="532" y="706"><tspan class="t-name-s">III</tspan><tspan class="t-small t-mute" dx="7">Levels and lines</tspan></text>
+    <text x="532" y="726" class="t-quote-s">“Phase-3 added developmental</text>
+    <text x="532" y="744" class="t-quote-s">lines to those developmental</text>
+    <text x="532" y="762" class="t-quote-s">levels…”</text>
+  </g>
+  <!-- step 4: phase IV -->
+  <g class="wv-fade" data-at="4" style="transition-delay: 800ms">
+    <rect x="488.5" y="296" width="128.1" height="304" fill="url(#wp-band-3)"/>
+    <line x1="496.5" y1="251" x2="496.5" y2="294" class="s-faint w-hair"/>
+    <text x="489.5" y="244"><tspan class="t-name-s">IV</tspan><tspan class="t-label" dx="8">The four-quadrant synthesis</tspan><tspan class="t-small t-mute" dx="8">mid-1990s–2000</tspan></text>
+    <text x="742" y="706"><tspan class="t-name-s">IV</tspan><tspan class="t-small t-mute" dx="7">The four-quadrant synthesis</tspan></text>
+    <text x="742" y="726" class="t-quote-s">“Phase-4 added the idea of</text>
+    <text x="742" y="744" class="t-quote-s">the four quadrants…”</text>
+  </g>
+  <!-- step 5: phase V -->
+  <g class="wv-fade" data-at="5">
+    <rect x="635.5" y="296" width="506.1" height="304" fill="url(#wp-band-4)"/>
+    <line x1="643.5" y1="281" x2="643.5" y2="294" class="s-faint w-hair"/>
+    <text x="636.5" y="274"><tspan class="t-name-s">V</tspan><tspan class="t-label" dx="8">Post-metaphysics and perspectives</tspan><tspan class="t-small t-mute" dx="8">early 2000s onward</tspan></text>
+    <text x="930" y="706"><tspan class="t-name-s">V</tspan><tspan class="t-small t-mute" dx="7">Post-metaphysics and perspectives</tspan></text>
+    <text x="930" y="726" class="t-ours">◇ Phase V is not in Wilber’s list</text>
+    <text x="930" y="742" class="t-ours">of four; the name is this wiki’s,</text>
+    <text x="930" y="758" class="t-ours">after later commentators.</text>
+  </g>
+  <!-- step 4: the gap years, in Wilber’s words, then phase IV -->
+  <g class="wv-fade" data-at="4" style="transition-delay: 400ms">
+    <path d="M322.6 632 V640 H488.5 V632" class="nf s-line w-hair"/>
+    <text x="405.5" y="656" text-anchor="middle"><tspan class="t-quote-s">“the first theoretical book I had written in almost ten years”</tspan><tspan class="t-loc" dx="8">Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan>, rev. ed. preface</tspan></text>
+  </g>
+  <!-- the books: filled = core (works/*.md core: true); outlined = named for a phase in works/phases.md; thin = the rest of the catalog; dotted = retitled, unverified or unpublished -->
+  <!-- step 1 books -->
+  <g transform="translate(121.0 600)"><g class="wv-move" data-at="1" style="--wv-from: translate(0, 28px); transition-delay: 0ms, 0ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">The Spectrum of Consciousness<tspan class="t-small" dx="7">1977</tspan></text>
+  </g></g>
+  <g transform="translate(163.0 600)"><g class="wv-move" data-at="1" style="--wv-from: translate(0, 28px); transition-delay: 90ms, 90ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">No Boundary<tspan class="t-small t-soft" dx="7">1979</tspan></text>
+  </g></g>
+  <!-- step 2 books -->
+  <g transform="translate(184.0 600)"><g class="wv-move" data-at="2" style="--wv-from: translate(0, 28px); transition-delay: 0ms, 0ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">The Atman Project<tspan class="t-small t-soft" dx="7">1980</tspan></text>
+  </g></g>
+  <g transform="translate(205.0 600)"><g class="wv-move" data-at="2" style="--wv-from: translate(0, 28px); transition-delay: 90ms, 90ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">Up from Eden<tspan class="t-small t-soft" dx="7">1981</tspan></text>
+  </g></g>
+  <g transform="translate(219.2 600)" data-nudge="-6.8"><g class="wv-move" data-at="2" style="--wv-from: translate(0, 28px); transition-delay: 180ms, 180ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path k-dot"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Holographic Paradigm (ed.) · 1982</text>
+  </g></g>
+  <!-- step 3 books -->
+  <g transform="translate(240.5 600)" data-nudge="-6.5"><g class="wv-move" data-at="3" style="--wv-from: translate(0, 28px); transition-delay: 0ms, 0ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">A Sociable God<tspan class="t-small t-soft" dx="7">1983</tspan></text>
+  </g></g>
+  <g transform="translate(258.5 600)" data-nudge="11.5"><g class="wv-move" data-at="3" style="--wv-from: translate(0, 28px); transition-delay: 90ms, 90ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">Eye to Eye<tspan class="t-small t-soft" dx="7">1983</tspan></text>
+  </g></g>
+  <g transform="translate(269.8 600)" data-nudge="1.8"><g class="wv-move" data-at="3" style="--wv-from: translate(0, 28px); transition-delay: 180ms, 180ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Quantum Questions (ed.) · 1984</text>
+  </g></g>
+  <g transform="translate(310.0 600)"><g class="wv-move" data-at="3" style="--wv-from: translate(0, 28px); transition-delay: 270ms, 270ms">
+    <rect x="-8.0" y="-280" width="16" height="280" rx="2" class="f-surface s-ink w-hair"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s">Transformations of Consciousness<tspan class="t-small t-soft" dx="7">1986</tspan></text>
+  </g></g>
+  <!-- step 4 books -->
+  <g transform="translate(331.0 600)"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 800ms, 800ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Spiritual Choices (co-ed.) · 1987</text>
+  </g></g>
+  <g transform="translate(415.0 600)"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 890ms, 890ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Grace and Grit<tspan class="t-small" dx="7">1991</tspan></text>
+  </g></g>
+  <g transform="translate(499.0 600)"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 980ms, 980ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Sex, Ecology, Spirituality<tspan class="t-small" dx="7">1995 · rev. 2001</tspan></text>
+  </g></g>
+  <g transform="translate(520.0 600)"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1070ms, 1070ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">A Brief History of Everything<tspan class="t-small" dx="7">1996</tspan></text>
+  </g></g>
+  <g transform="translate(534.6 600)" data-nudge="-6.4"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1160ms, 1160ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Eye of Spirit · 1997</text>
+  </g></g>
+  <g transform="translate(549.1 600)" data-nudge="-12.9"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1250ms, 1250ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Essential Ken Wilber (anth.) · 1998</text>
+  </g></g>
+  <g transform="translate(563.6 600)" data-nudge="1.6"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1340ms, 1340ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Marriage of Sense and Soul · 1998</text>
+  </g></g>
+  <g transform="translate(584.9 600)" data-nudge="1.9"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1430ms, 1430ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">One Taste<tspan class="t-small" dx="7">1999 · rev. 2000</tspan></text>
+  </g></g>
+  <g transform="translate(602.9 600)" data-nudge="-1.1"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1520ms, 1520ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">A Theory of Everything<tspan class="t-small" dx="7">2000</tspan></text>
+  </g></g>
+  <g transform="translate(620.9 600)" data-nudge="16.9"><g class="wv-move" data-at="4" style="--wv-from: translate(0, 28px); transition-delay: 1610ms, 1610ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Integral Psychology<tspan class="t-small" dx="7">2000</tspan></text>
+  </g></g>
+  <!-- step 5 books -->
+  <g transform="translate(646.0 600)"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 0ms, 0ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Boomeritis<tspan class="t-small" dx="7">2002</tspan></text>
+  </g></g>
+  <g transform="translate(687.9 600)" data-nudge="-0.1"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 90ms, 90ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Simple Feeling of Being (anth.) · 2004</text>
+  </g></g>
+  <g transform="translate(709.1 600)" data-nudge="0.1"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 180ms, 180ms">
+    <rect x="-8.0" y="-270" width="16" height="270" rx="2" class="nf s-line w-struct k-dot"/>
+    <text transform="rotate(-90)" x="12" y="4" class="t-small t-mute">Kosmos vol. 2 · excerpts only, unpublished</text>
+  </g></g>
+  <g transform="translate(730.0 600)"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 270ms, 270ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Integral Spirituality<tspan class="t-small" dx="7">2006</tspan></text>
+  </g></g>
+  <g transform="translate(747.1 600)" data-nudge="-3.9"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 360ms, 360ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Integral Vision · 2007</text>
+  </g></g>
+  <g transform="translate(768.3 600)" data-nudge="-3.7"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 450ms, 450ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Integral Life Practice<tspan class="t-small" dx="7">2008</tspan></text>
+  </g></g>
+  <g transform="translate(779.6 600)" data-nudge="7.6"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 540ms, 540ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Pocket Ken Wilber (anth.) · 2008</text>
+  </g></g>
+  <g transform="translate(898.0 600)"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 630ms, 630ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">The Fourth Turning (ebook) · 2014</text>
+  </g></g>
+  <g transform="translate(919.0 600)"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 720ms, 720ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Wicked and Wise (co-auth.) · 2015</text>
+  </g></g>
+  <g transform="translate(935.8 600)" data-nudge="-4.2"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 810ms, 810ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Integral Meditation · 2016</text>
+  </g></g>
+  <g transform="translate(957.1 600)" data-nudge="-3.9"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 900ms, 900ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">The Religion of Tomorrow<tspan class="t-small" dx="7">2017</tspan></text>
+  </g></g>
+  <g transform="translate(968.3 600)" data-nudge="7.3"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 990ms, 990ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Trump and a Post-Truth World · 2017</text>
+  </g></g>
+  <g transform="translate(982.8 600)" data-nudge="0.8"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 1080ms, 1080ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path k-dot"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">Integral Buddhism · 2018 · retitled</text>
+  </g></g>
+  <g transform="translate(1102.4 600)" data-nudge="-5.6"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 1170ms, 1170ms">
+    <rect x="-8.0" y="-290" width="16" height="290" rx="2" class="c-ink"/>
+    <text transform="rotate(-90)" x="12" y="4.5" class="t-quote-s f-paper" font-weight="600">Finding Radical Wholeness<tspan class="t-small" dx="7">2024</tspan></text>
+  </g></g>
+  <g transform="translate(1113.6 600)" data-nudge="5.6"><g class="wv-move" data-at="5" style="--wv-from: translate(0, 28px); transition-delay: 1260ms, 1260ms">
+    <line x1="0" y1="0" x2="0" y2="-30" class="s-line w-path k-dot"/>
+    <text transform="rotate(-90)" x="12" y="8.5" class="t-small t-mute">A Post-Truth World · 2024 · 2nd ed.</text>
+  </g></g>
+  <!-- step 6: this wiki’s note, the footer and the signature (settled frame) -->
+  <g class="wv-fade" data-at="6">
+    <text x="1140" y="200" text-anchor="end" class="t-ours">◇ the bands are periods, dated from works/phases; their edges are approximate, and a book standing inside one is not thereby a statement of that phase</text>
+    <text x="1140" y="216" text-anchor="end" class="t-ours">memoirs, anthologies and retitled editions carry no phase · Kosmos vol. 2 stands where Wilber said it would be ready, <tspan style="font-family:var(--wv-serif)" font-style="normal">“around the year 2005”</tspan></text>
+    <text x="60" y="778" class="t-foot">Titles and years: works/catalog · periods: works/phases · phase sentences: Integral Psychology (2000), ch. 9 n. 15 · the gap: SES, rev. ed. preface</text>
+    <text x="60" y="792" class="t-foot">Filled: the wiki’s twelve core books · outlined: others named for a phase · thin: the rest · dotted: retitled, unverified or unpublished · ◇ this wiki’s own device</text>
+    <g id="wp-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
+  </g>
+</svg>
+    </div>
+    <figcaption data-wv-caption>
+      <span data-cap="0">An empty shelf: one time axis, 1977 to 2024, to scale.</span>
+      <span data-cap="1">Phase I, the early spectrum: The Spectrum of Consciousness and No Boundary. Wilber's own one-line description of phase 1 appears below the shelf.</span>
+      <span data-cap="2">Phase II, development: The Atman Project and Up from Eden (and an edited anthology, thin).</span>
+      <span data-cap="3">Phase III, levels and lines: A Sociable God, Eye to Eye, Transformations of Consciousness.</span>
+      <span data-cap="4">The gap: a co-edited collection and the memoir Grace and Grit, then nothing until 1995. "The first theoretical book I had written in almost ten years" is Wilber's own phrase for SES. Phase IV follows: SES, A Brief History of Everything, Integral Psychology, with the shelf's densest years around them.</span>
+      <span data-cap="5">Phase V, post-metaphysics and perspectives, open-ended: Integral Spirituality and the rest, with the unpublished second volume of the Kosmos trilogy standing dotted where Wilber said it would be ready. Phase V is not in Wilber's own list of four.</span>
+      <span data-cap="6">The settled frame, with the key and the sources. This is the shareable image.</span>
+    </figcaption>
+  </figure>
+</div>
+<div class="wv-controls wv-actions" data-wv-actions></div>
+</div>
+<!-- /figure:wilber-phases -->
+
+Every book in the [catalog](works/catalog.md) at its year of first publication, to scale, under the phases of Wilber's thinking. Laid out this way, the shape of the work shows at a glance: a run of early books, then almost nothing between 1987 and 1995 except *Grace and Grit*, then a crowded shelf from *Sex, Ecology, Spirituality* to *Integral Life Practice*. Wilber called SES "the first theoretical book I had written in almost ten years" (*SES*, preface to the revised edition).
+
+He numbered the first four phases himself:
+
+> "I have, for convenience, divided my overall work into four general phases."
+>
+> Ken Wilber, *Integral Psychology* (2000), ch. 9, note 15
+
+Phase V is not in his list; the name is this wiki's, following later commentators. The bands are approximate periods, and no line between books claims that one led to another. Filled spines are the twelve core books; outlined ones are others named for a phase. More: [The evolution of Wilber's thought](works/phases.md).

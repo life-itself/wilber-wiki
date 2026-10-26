@@ -21,7 +21,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "docs/plans/visual-brainstorm"
 ASSETS = ROOT / "assets/visuals"
 PAGE = ROOT / "visuals.md"
-PIECES = ["pre-trans-fallacy", "states-and-stages", "four-quadrants", "holarchy"]
+PIECES = ["pre-trans-fallacy", "states-and-stages", "four-quadrants", "holarchy", "wilber-phases"]
 
 # Site-only additions: no-JS shows only the settled caption (the last one).
 SITE_CSS = """
