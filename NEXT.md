@@ -16,7 +16,7 @@ you're done).
 ## Checkpoint 2026-10-26
 
 - Shipped: a [Visuals](visuals.md) page with two figures, the pre/trans fallacy and states off the ladder (bead `wilberwiki-clq`, closed; follow-ups in `wilberwiki-b5y`). The figure rules are in [`docs/figure-design.md`](docs/figure-design.md); the brief and full decision log are in `docs/plans/2026-10-24-visual-brainstorm-brief.md`; the gallery of 12 directions is in `docs/plans/visual-brainstorm/`.
-- Next for visuals: the animated versions aren't on the site yet. The site is MDX, so they need an embedding approach; see figure-design.md "Embedding in Flowershow". Write plans for the other gallery directions (quadrants, holarchy, I–V timeline next). Reshape `at6.4` into before/after diptychs per `RECOMMENDATION.md`, pending Rufus.
+- Animated versions are now live on /visuals via `scripts/sync-visuals.py`. The site is plain markdown, so raw HTML, SVG and JS all work. Next for visuals: write plans for the other gallery directions (quadrants, holarchy, I–V timeline next). Reshape `at6.4` into before/after diptychs per `RECOMMENDATION.md`, pending Rufus.
 - Open for Rufus: drop the 24 cell labels in the states grid? Shorten its ◇ note? Swap fonts or colours later?
 
 ## Checkpoint 2026-10-11

@@ -103,8 +103,10 @@ Commands, from the repo root: `python3 docs/plans/visual-brainstorm/design-langu
 
 ## Embedding in Flowershow
 
-1. Copy `visuals.css` and `wv-motion.js` to `assets/visuals/` and register them in `config.json` `head`, the same way `assets/roadmap/roadmap.css` and `assets/annotator/annotator.js` are. Everything is scoped under `.wv-root`, and the script returns immediately when no `[data-wv-steps]` is on the page.
-2. In a markdown page, paste the piece's figure block as raw HTML: `<div class="wv-root" data-wv-steps="4" data-step="4" data-wv-dur="1500"><div class="wv-controls" data-wv-controls></div><figure class="wv-figure"><div class="wv-frame">…source.svg…</div><figcaption data-wv-caption>…</figcaption></figure></div>`. Flowershow's Tailwind bundle is pre-purged, so nothing here relies on utility classes.
+The site is plain markdown (not MDX): raw HTML, inline SVG and scripts loaded through `config.json` `head` all work. This is live on [`/visuals`](../visuals.md).
+
+1. `config.json` `head` loads `/assets/visuals/visuals.css`, `/assets/visuals/wv-motion.js` and the Fraunces and Inter Google Fonts. Everything is scoped under `.wv-root`, and the script returns immediately when no `[data-wv-steps]` is on the page.
+2. In a markdown page, put the markers `<!-- figure:<slug> -->` and `<!-- /figure:<slug> -->` on consecutive lines, add the slug to `PIECES` in `scripts/sync-visuals.py`, and run `python3 scripts/sync-visuals.py` after `export.py`. The script copies the CSS, JS and PNGs into `assets/visuals/` and pastes the piece's animated figure block (controls, inline SVG, step captions) between the markers. It drops blank lines because a blank line would end the raw HTML block in markdown. Never edit the pasted block by hand.
 3. For a static-only placement (a header image), use `<img src="/assets/visuals/<slug>.svg" alt="…">` or the PNG. The standalone SVG carries its own tokens.
 4. The text alternative on the page (prose or an HTML table) travels with the figure. Alt text says what the figure claims, not what it looks like.
 
