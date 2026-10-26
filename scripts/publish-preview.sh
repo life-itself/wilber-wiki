@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-# Publish to the wilberwiki-preview CLI site WITHOUT exposing .beads/ or
-# NEXT.md — the fl CLI's direct-upload path ignores config.json's
+# Publish to the wilberwiki-preview CLI site WITHOUT exposing .beads/ — the fl CLI's direct-upload path ignores config.json's
 # contentExclude entirely (confirmed by testing 2026-09-13; also true for
 # docs/ and library/, per AGENTS.md), so `fl . --yes` run directly would
 # republish them at guessable URLs even though they're excluded from
@@ -15,11 +14,10 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 HOLDING="$(mktemp -d)"
-trap 'mv "$HOLDING/.beads" .beads 2>/dev/null || true; mv "$HOLDING/NEXT.md" NEXT.md 2>/dev/null || true; rmdir "$HOLDING" 2>/dev/null || true' EXIT
+trap 'mv "$HOLDING/.beads" .beads 2>/dev/null || true; rmdir "$HOLDING" 2>/dev/null || true' EXIT
 
 if [ -e .beads ]; then mv .beads "$HOLDING/.beads"; fi
-if [ -e NEXT.md ]; then mv NEXT.md "$HOLDING/NEXT.md"; fi
 
 fl . --yes
 
-echo "Restored .beads/ and NEXT.md locally (trap on exit)."
+echo "Restored .beads/ locally (trap on exit)."

@@ -28,7 +28,7 @@ Accuracy is necessary, not sufficient. The page exists for a curious reader, so 
 3. **Pilot one book, review it properly, then do the rest.** Write one page, have it reviewed by fresh agents, fold the lessons into this skill, then write the others (in parallel, by separate agents).
 4. **Two reviews, by fresh agents who are not the writer:** an accuracy review (checklist items 1–7) and a separate reader-quality review (items 8–13), done by an editor reading the page as a newcomer. The editor reports findings with quoted lines and rewrites, without editing; then a writer revises against the report, keeping sourcing intact.
 5. **Report the critics' views, not just the checks.** When summarising the work for Rufus, say what the reviewers thought of the page as reading, not only how many claims verified.
-6. **Ship by pushing to `main`; never run `fl`.** If something needs Rufus's judgement, leave a note on the bead and in `NEXT.md` and move on.
+6. **Ship by pushing to `main`; never run `fl`.** If something needs Rufus's judgement, leave a note on the bead and move on.
 
 Other conventions from Rufus:
 

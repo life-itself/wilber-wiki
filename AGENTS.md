@@ -2,9 +2,9 @@
 
 ## What this project is
 
-A concept-level knowledge base on Ken Wilber and integral theory. **Read
-[`NEXT.md`](NEXT.md) first** — it's the up-to-date map of the active work streams
-(concept wiki, people index, annotation system, text indexing), each with a Beads epic
+A concept-level knowledge base on Ken Wilber and integral theory. **Run
+`bd ready` and `bd show <epic>` first** — Beads holds the active work streams
+(concept wiki, people index, annotation system, text indexing, visuals), each with an epic
 or task and, where relevant, a linked vision/plan doc. Don't re-derive the vision from
 scratch, and don't conflate the work streams — they're deliberately separate.
 
@@ -12,7 +12,7 @@ scratch, and don't conflate the work streams — they're deliberately separate.
 
 **Use Beads for task tracking.** `bd` is the canonical CLI for this repository; create
 and update work with it, and use `bd dolt push` when a task needs to be available to
-other checkouts. Dolt is the only sync path. `.beads/issues.jsonl` is not tracked in git and JSONL auto-export is off. `NEXT.md` is the short map of active streams, not a task backlog.
+other checkouts. Dolt is the only sync path. `.beads/issues.jsonl` is not tracked in git and JSONL auto-export is off. There is no `NEXT.md`; status lives in Beads and `changelog.md`.
 Existing GitHub issues are historical/project-level references; do not create a GitHub
 issue for routine task capture unless the site owner explicitly asks for one.
 
@@ -22,7 +22,7 @@ now has its own copies of everything from there that's actually needed
 (`library/1995-sex-ecology-spirituality-full-text.md`,
 `library/1995-sex-ecology-spirituality-people-source.md`, `docs/annotation-system.md`),
 committed here at the site owner's explicit instruction (he doesn't want copyright
-excerpting concerns to slow down building this site right now — see NEXT.md). **No
+excerpting concerns to slow down building this site right now). **No
 ongoing dependency on that other repo** — everything needed to work on this project is
 in this repo. That instruction covers committing the full text to this repo; it does
 **not** by itself mean *publish it live* — see the Publishing section below before ever
@@ -69,7 +69,7 @@ Flowershow can read it with no build step.
   Publishing section below for why "private" is currently aspirational, not enforced.
   Full texts now available: SES (1995), *Integral Psychology* (2000), and *Integral Spirituality* (2006) as `library/<work-slug>-full-text.md` (IS provenance: `library/2006-integral-spirituality-notes.md`). Each is registered in `verify_quotes.py`'s `WORK_SOURCES`.
 - `people/<slug>.md` — same shape as `concepts/`, but for people Wilber engages with
-  (Habermas, Joseph Campbell, etc.). `people/index.md` lists them. See NEXT.md/issue #3.
+  (Habermas, Joseph Campbell, etc.). `people/index.md` lists them. See issue #3.
 - `docs/` — documentation of how this wiki works, not wiki content.
 - `docs/plans/` — plans, research proposals, and implementation designs. Put new
   planning documents here; keep operational documentation directly in `docs/`.
@@ -106,10 +106,10 @@ They are not — confirmed with `fl settings --name <site>` on both:
 **Do not run bare `fl . --yes`.** The CLI's direct-upload path ignores
 `config.json`'s `contentExclude` entirely (confirmed 2026-09-13, same limitation
 already noted below for `docs/`/`library/`) — it would republish `.beads/` (the full
-issue database, including backup files) and `NEXT.md` at guessable URLs even though
-both are excluded from production. `scripts/publish-preview.sh` wraps `fl . --yes`,
-moving those out of the working tree for the publish and restoring them immediately
-after, so the preview site never has them and your local checkout is untouched. The
+issue database, including backup files) at guessable URLs even though
+it is excluded from production. `scripts/publish-preview.sh` wraps `fl . --yes`,
+moving it out of the working tree for the publish and restoring it immediately
+after, so the preview site never has it and your local checkout is untouched. The
 site name is recorded in the committed `.flowershow` file, so `--name` isn't needed.
 
 **To update production (wilber.wiki), commit and `git push origin main`.** It's
