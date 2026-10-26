@@ -10,9 +10,9 @@ image: /assets/visuals/states-and-stages-og.png
 
 # From SES to Integral Spirituality: How Wilber's Map Changed
 
-[![States off the ladder: the 2000 ladder beside the 2006 lattice of states and stages](../assets/visuals/states-and-stages.png)](../visuals.md#states-off-the-ladder)
+[![States off the ladder: the 2000 ladder beside the 2006 lattice of states and stages](../assets/visuals/states-and-stages.png)](../visuals/states-and-stages.md)
 
-*The third shift, taking states off the ladder, in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#states-off-the-ladder).*
+*The third shift, taking states off the ladder, in one picture. Copy, download, share or watch it unfold on [its own page](../visuals/states-and-stages.md).*
 
 ## Wilber's View
 

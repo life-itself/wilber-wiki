@@ -5,19 +5,19 @@ description: What has changed on Wilber Wiki, newest first.
 
 ## 2026-10-26 — Wilber's books on one line
 
-A new figure puts every book in the catalog on one to-scale timeline, under the five phases of Wilber's thinking: the crowded shelf from *Sex, Ecology, Spirituality* onward and the near-empty years before it show at a glance. It's on [Visuals](visuals.md) and heads [The evolution of Wilber's thought](works/phases.md).
+A new figure puts every book in the catalog on one to-scale timeline, under the five phases of Wilber's thinking: the crowded shelf from *Sex, Ecology, Spirituality* onward and the near-empty years before it show at a glance. It's on [Visuals](visuals/index.md) and heads [The evolution of Wilber's thought](works/phases.md).
 
 ![Wilber I–V: the books on a line](assets/visuals/wilber-phases-og.png)
 
 ## 2026-10-26 — Two more figures: the four quadrants and holarchy
 
-[Visuals](visuals.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them. Each figure now also heads its concept page: [the pre/trans fallacy](concepts/pre-trans-fallacy.md), [the four quadrants](concepts/four-quadrants.md), [holarchy](concepts/holarchy.md) and [from SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
+[Visuals](visuals/index.md) now has four figures. *One thought, four windows* follows Wilber's own example of a single thought round the four quadrants. *Pull a rung out* acts out his test for what is "higher": destroy the molecules, and cells and organisms go with them. Each figure now also heads its concept page: [the pre/trans fallacy](concepts/pre-trans-fallacy.md), [the four quadrants](concepts/four-quadrants.md), [holarchy](concepts/holarchy.md) and [from SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
 
 ![One thought, four windows](assets/visuals/four-quadrants-og.png)
 
 ## 2026-10-26 — Wilber's ideas in one picture
 
-A new [Visuals](visuals.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources. Each shows as an image you can copy, download or share with one click, and you can watch the idea build step by step.
+A new [Visuals](visuals/index.md) page holds diagrams that each make one of Wilber's ideas click, signed so they can be shared. The first two are the pre/trans fallacy and how Wilber took mystical states off the developmental ladder between *Integral Psychology* and *Integral Spirituality*. Both are redrawn from his descriptions, with verbatim quotes and sources. Each shows as an image you can copy, download or share with one click, and you can watch the idea build step by step.
 
 ![The pre/trans fallacy diagram](assets/visuals/pre-trans-fallacy-og.png)
 

@@ -10,9 +10,9 @@ image: /assets/visuals/four-quadrants-og.png
 
 # The Four Quadrants
 
-[![One thought, four windows: Wilber's example of a single thought seen through the four quadrants](../assets/visuals/four-quadrants.png)](../visuals.md#one-thought-four-windows)
+[![One thought, four windows: Wilber's example of a single thought seen through the four quadrants](../assets/visuals/four-quadrants.png)](../visuals/four-quadrants.md)
 
-*The four quadrants in one picture, using Wilber's own example. Copy, download, share or watch it unfold on [Visuals](../visuals.md#one-thought-four-windows).*
+*The four quadrants in one picture, using Wilber's own example. Copy, download, share or watch it unfold on [its own page](../visuals/four-quadrants.md).*
 
 ## Wilber's View
 

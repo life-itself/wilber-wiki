@@ -10,9 +10,9 @@ image: /assets/visuals/holarchy-og.png
 
 # Holarchy
 
-[![Pull a rung out: Wilber's test for higher and lower, destroying the molecules and losing everything above them](../assets/visuals/holarchy.png)](../visuals.md#pull-a-rung-out)
+[![Pull a rung out: Wilber's test for higher and lower, destroying the molecules and losing everything above them](../assets/visuals/holarchy.png)](../visuals/holarchy.md)
 
-*Wilber's test for higher and lower, in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#pull-a-rung-out).*
+*Wilber's test for higher and lower, in one picture. Copy, download, share or watch it unfold on [its own page](../visuals/holarchy.md).*
 
 ## Wilber's View
 

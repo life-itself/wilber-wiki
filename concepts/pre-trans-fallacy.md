@@ -10,9 +10,9 @@ image: /assets/visuals/pre-trans-fallacy-og.png
 
 # The Pre/Trans Fallacy
 
-[![The pre/trans fallacy in one picture: three bands of development, and the untutored eye that sees only two](../assets/visuals/pre-trans-fallacy.png)](../visuals.md#the-pretrans-fallacy)
+[![The pre/trans fallacy in one picture: three bands of development, and the untutored eye that sees only two](../assets/visuals/pre-trans-fallacy.png)](../visuals/pre-trans-fallacy.md)
 
-*The pre/trans fallacy in one picture. Copy, download, share or watch it unfold on [Visuals](../visuals.md#the-pretrans-fallacy).*
+*The pre/trans fallacy in one picture. Copy, download, share or watch it unfold on [its own page](../visuals/pre-trans-fallacy.md).*
 
 ## Wilber's View
 

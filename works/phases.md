@@ -6,9 +6,9 @@ image: /assets/visuals/wilber-phases-og.png
 
 # The evolution of Wilber's thought
 
-[![Wilber I–V: every book in the catalog on a to-scale timeline, under the five phases, showing the dense 1995–2008 shelf and the near-empty 1987–94 gap](../assets/visuals/wilber-phases.png)](../visuals.md#wilber-iv-the-books-on-a-line)
+[![Wilber I–V: every book in the catalog on a to-scale timeline, under the five phases, showing the dense 1995–2008 shelf and the near-empty 1987–94 gap](../assets/visuals/wilber-phases.png)](../visuals/wilber-phases.md)
 
-*Every book on one line, under the phases. Copy, download, share or watch it unfold on [Visuals](../visuals.md#wilber-iv-the-books-on-a-line).*
+*Every book on one line, under the phases. Copy, download, share or watch it unfold on [its own page](../visuals/wilber-phases.md).*
 
 Wilber I, II, III, IV, and V name successive formulations of Ken Wilber's thinking.
 They help explain why two books by the same author can offer different accounts of

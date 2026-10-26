@@ -19,7 +19,7 @@
  *
  * Share blocks (the site's /visuals page, built by scripts/sync-visuals.py):
  *
- *   <div class="wv-root wv-share" data-wv-share="<slug>">
+ *   <div class="wv-root wv-share" data-wv-share="<slug>" data-wv-link="/visuals/<slug>">
  *     <img class="wv-still" src="/assets/visuals/<slug>.png" alt="…">
  *     <div data-wv-steps …>…</div>                                <- hidden until Watch
  *     <div class="wv-controls wv-actions" data-wv-actions></div>  <- buttons are built here
@@ -28,7 +28,8 @@
  * The image comes first so right-click and long-press work. The buttons are
  * Watch it unfold (swap in the animation and play it), Copy image (PNG to the
  * clipboard), Download (saves the file rather than opening it) and Share (the
- * system share sheet, only where it can take a file). Copy, Download and Share
+ * system share sheet, only where it can take a file), plus Copy link (the
+ * figure's own page, which previews as this figure). Copy, Download and Share
  * fetch the PNG, which works across origins because the asset host sends CORS *
  * (bypassing the browser cache; see getBlob).
  */
@@ -191,6 +192,8 @@
     if (canCopy) html += '<button type="button" data-act="copy">Copy image</button>';
     html += '<button type="button" data-act="download">Download</button>';
     if (canShare) html += '<button type="button" data-act="share">Share…</button>';
+    var link = box.getAttribute('data-wv-link');
+    if (link && navigator.clipboard && navigator.clipboard.writeText) html += '<button type="button" data-act="link">Copy link</button>';
     actions.innerHTML = html;
     // Share has to start from the tap itself, so fetch the file ahead of time.
     if (canShare) getBlob();
@@ -224,6 +227,10 @@
           setTimeout(function () { URL.revokeObjectURL(a.href); }, 10000);
           flash(b, 'Saved ✓');
         }, function () { window.open(url, '_blank'); });
+      } else if (act === 'link') {
+        // the figure's own page, whose preview image is this figure
+        navigator.clipboard.writeText(new URL(link, location.href).href)
+          .then(function () { flash(b, 'Link copied ✓'); }, function () { flash(b, 'Copy failed'); });
       } else if (act === 'share') {
         getBlob().then(function (data) {
           return navigator.share({ files: [new File([data], name, { type: 'image/png' })], title: img.alt.split('. ')[0] });

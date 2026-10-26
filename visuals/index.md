@@ -11,7 +11,7 @@ More are on the way. Made with [Seeds of Renaissance](https://seedsofrenaissance
 ## The pre/trans fallacy
 
 <!-- figure:pre-trans-fallacy -->
-<div class="wv-root wv-share" data-wv-share="pre-trans-fallacy">
+<div class="wv-root wv-share" data-wv-share="pre-trans-fallacy" data-wv-link="/visuals/pre-trans-fallacy">
 <img class="wv-still" src="/assets/visuals/pre-trans-fallacy.png" width="2400" height="1600" alt="The Pre/Trans Fallacy. Left: a vertical spectrum in three bands, from bottom to top prerational, rational, transrational, with an axis reading pre-ego to ego to trans-ego. Right: what the untutored eye sees, only two bins, rational and nonrational; dashed lines carry both the prerational and the transrational band into the single nonrational bin. Along the spectrum's edges, two arrows mark the two errors: reductionism, Freud, reads the transrational down as prerational; elevationism, Jung, reads the prerational up as transrational. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 6.">
 <div data-wv-steps="4" data-step="4" data-wv-dur="1500" aria-label="Animated figure: the pre/trans fallacy">
   <div class="wv-controls" data-wv-controls></div>
@@ -114,12 +114,12 @@ Development runs from the **prerational** (infantile, magical, mythic) through t
 
 The confusion runs both ways. **Reductionism** reads genuine mystical experience *down* as regression to infancy. **Elevationism** reads infantile or mythic states *up* as mystical union. "Freud was a reductionist, Jung an elevationist—the two sides of the pre/trans fallacy. And the point is that they are *both* half right and half wrong" (*SES*, ch. 6).
 
-The two-bin "untutored eye" picture is this wiki's device for Wilber's sentence. More: [The Pre/Trans Fallacy](concepts/pre-trans-fallacy.md).
+The two-bin "untutored eye" picture is this wiki's device for Wilber's sentence. More: [The Pre/Trans Fallacy](../concepts/pre-trans-fallacy.md).
 
 ## States off the ladder
 
 <!-- figure:states-and-stages -->
-<div class="wv-root wv-share" data-wv-share="states-and-stages">
+<div class="wv-root wv-share" data-wv-share="states-and-stages" data-wv-link="/visuals/states-and-stages">
 <img class="wv-still" src="/assets/visuals/states-and-stages.png" width="2400" height="1600" alt="States off the ladder: Integral Psychology (2000) beside Integral Spirituality (2006). Left: a single ladder of ten rungs from Integral Psychology, archaic, magic, mythic, rational, pluralistic, integral, and then psychic, subtle, causal, nondual on top, the top four marked as states. Right: the Wilber-Combs lattice from Integral Spirituality, the six structure-stages up the side and the four states, gross or psychic, subtle, causal, nondual, across the top, twenty-four cells. The four top rungs of the ladder have become the column headers; the six lower rungs have become the row labels. Below, a verbatim passage from Integral Spirituality chapter 4 and a note that Integral Psychology already said states are available at any stage.">
 <div data-wv-steps="4" data-step="4" data-wv-dur="1700" aria-label="Animated figure: from the 2000 ladder to the 2006 lattice">
   <div class="wv-controls" data-wv-controls></div>
@@ -257,12 +257,12 @@ In *Integral Psychology* (2000) the mystical states (psychic, subtle, causal, no
 >
 > Ken Wilber, *Integral Spirituality* (2006), ch. 4
 
-What changed is mostly the picture and the weight put on it. *Integral Psychology* already says these states are "available to human beings at virtually any stage of growth" (ch. 1), and traces the grid idea back to *A Sociable God* (1983). More: [From SES to Integral Spirituality](concepts/from-ses-to-integral-spirituality.md).
+What changed is mostly the picture and the weight put on it. *Integral Psychology* already says these states are "available to human beings at virtually any stage of growth" (ch. 1), and traces the grid idea back to *A Sociable God* (1983). More: [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md).
 
 ## One thought, four windows
 
 <!-- figure:four-quadrants -->
-<div class="wv-root wv-share" data-wv-share="four-quadrants">
+<div class="wv-root wv-share" data-wv-share="four-quadrants" data-wv-link="/visuals/four-quadrants">
 <img class="wv-still" src="/assets/visuals/four-quadrants.png" width="2400" height="1600" alt="One thought, four windows: Wilber's four quadrants on his own example. A two-by-two grid of windows, interior and exterior across the top, individual and collective down the side, with a single thought sitting at the crossing. Each window shows what that one thought is from there, in Wilber's own words, with a small drawing of how it appears. Upper Right, It: a beta-wave trace; a release of norepinephrine in the frontal cortex; found by looking; validity claim truth. Upper Left, I: a thought bubble; even knowing every atom of my brain you will never know my thought unless I tell you; found by asking and interpreting; validity claim truthfulness. Lower Left, We: two speech bubbles; if you don't speak the language you won't get the meaning; found by sharing a language; validity claim justness. Lower Right, Its: a small network of structures; cultural meanings have correlates in institutions and material social structures; found by surveying the system; validity claim functional fit. Below, two verbatim passages from Sex, Ecology, Spirituality chapter 4.">
 <div data-wv-steps="5" data-step="5" data-wv-dur="1500" aria-label="Animated figure: one thought seen through the four quadrants">
   <div class="wv-controls" data-wv-controls></div>
@@ -393,12 +393,12 @@ Wilber's four quadrants come from two distinctions: **interior** and **exterior*
 >
 > Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 4
 
-The thought and every sentence in the windows are Wilber's. The "windows", the small drawings and the how-to-find-out lines are this wiki's. More: [The Four Quadrants](concepts/four-quadrants.md).
+The thought and every sentence in the windows are Wilber's. The "windows", the small drawings and the how-to-find-out lines are this wiki's. More: [The Four Quadrants](../concepts/four-quadrants.md).
 
 ## Pull a rung out
 
 <!-- figure:holarchy -->
-<div class="wv-root wv-share" data-wv-share="holarchy">
+<div class="wv-root wv-share" data-wv-share="holarchy" data-wv-link="/visuals/holarchy">
 <img class="wv-still" src="/assets/visuals/holarchy.png" width="2400" height="1600" alt="Pull a rung out: Wilber's thought experiment for telling higher from lower in a holarchy. Left: a ladder of five rungs from Sex, Ecology, Spirituality, bottom to top subatomic particles, atoms, molecules, cells, organisms, each containing the one below but not vice versa. Right: the same ladder after the molecules rung has been pulled out and destroyed. The rungs above it, cells and organisms, are gone and drawn as dotted outlines; the rungs below it, atoms and subatomic particles, are untouched. A bracket reads: what went with it is higher, what stayed is lower. Below, Wilber's tenet 9 sentence, his thought-experiment question and his rule, all from chapter 2.">
 <div id="hol-fig" data-wv-steps="5" data-step="5" data-wv-dur="1500" aria-label="Animated figure: pull a rung out of a holarchy">
   <div class="wv-controls" data-wv-controls></div>
@@ -513,12 +513,12 @@ How can you tell what is "higher" in a sequence without just asserting it? Wilbe
 >
 > Ken Wilber, *Sex, Ecology, Spirituality* (1995), ch. 2
 
-Destroy every molecule and cells go too, and so do the organisms made of them. Atoms and particles carry on. "…destroy the particular holon, and everything else that is also destroyed is higher; those holons not destroyed are lower" (*SES*, ch. 2). The sequence, the test and the result are Wilber's. The ladder and the pulled rung are this wiki's picture. More: [Holarchy](concepts/holarchy.md).
+Destroy every molecule and cells go too, and so do the organisms made of them. Atoms and particles carry on. "…destroy the particular holon, and everything else that is also destroyed is higher; those holons not destroyed are lower" (*SES*, ch. 2). The sequence, the test and the result are Wilber's. The ladder and the pulled rung are this wiki's picture. More: [Holarchy](../concepts/holarchy.md).
 
 ## Wilber I–V: the books on a line
 
 <!-- figure:wilber-phases -->
-<div class="wv-root wv-share" data-wv-share="wilber-phases">
+<div class="wv-root wv-share" data-wv-share="wilber-phases" data-wv-link="/visuals/wilber-phases">
 <img class="wv-still" src="/assets/visuals/wilber-phases.png" width="2400" height="1600" alt="Wilber I–V: the books on a line. Ken Wilber’s books on one time axis, grouped into the five phases of his work. A shelf: a horizontal time axis from 1977 to 2024 on which every entry in the wiki’s catalog of Ken Wilber’s books stands as a spine at its year of first publication. Five soft bands above the axis mark the periods of Wilber I to V as the wiki dates them: I, the early spectrum, late 1970s; II, development, around 1980 to 82; III, levels and lines, 1980s; IV, the four-quadrant synthesis, mid-1990s to 2000; V, post-metaphysics and perspectives, early 2000s onward. Filled spines are the twelve books the wiki treats as core, outlined spines the other books the phases page names for a phase, thin ticks the rest of the catalog, dotted marks a retitled edition, an unverified entry, or the unpublished second volume of the Kosmos trilogy. The shelf is empty between 1987 and 1994 apart from a co-edited collection and the memoir Grace and Grit, under Wilber’s own words: the first theoretical book I had written in almost ten years. Below, Wilber’s one-sentence description of each of phases 1 to 4 from Integral Psychology, and a note that phase V is not in his list.">
 <div id="wp-fig" data-wv-steps="6" data-step="6" data-wv-dur="1400" aria-label="Animated figure: Wilber's books on a time axis, grouped into phases I to V">
   <div class="wv-controls" data-wv-controls></div>
@@ -802,7 +802,7 @@ Destroy every molecule and cells go too, and so do the organisms made of them. A
 </div>
 <!-- /figure:wilber-phases -->
 
-Every book in the [catalog](works/catalog.md) at its year of first publication, to scale, under the phases of Wilber's thinking. Laid out this way, the shape of the work shows at a glance: a run of early books, then almost nothing between 1987 and 1995 except *Grace and Grit*, then a crowded shelf from *Sex, Ecology, Spirituality* to *Integral Life Practice*. Wilber called SES "the first theoretical book I had written in almost ten years" (*SES*, preface to the revised edition).
+Every book in the [catalog](../works/catalog.md) at its year of first publication, to scale, under the phases of Wilber's thinking. Laid out this way, the shape of the work shows at a glance: a run of early books, then almost nothing between 1987 and 1995 except *Grace and Grit*, then a crowded shelf from *Sex, Ecology, Spirituality* to *Integral Life Practice*. Wilber called SES "the first theoretical book I had written in almost ten years" (*SES*, preface to the revised edition).
 
 He numbered the first four phases himself:
 
@@ -810,4 +810,4 @@ He numbered the first four phases himself:
 >
 > Ken Wilber, *Integral Psychology* (2000), ch. 9, note 15
 
-Phase V is not in his list; the name is this wiki's, following later commentators. The bands are approximate periods, and no line between books claims that one led to another. Filled spines are the twelve core books; outlined ones are others named for a phase. More: [The evolution of Wilber's thought](works/phases.md).
+Phase V is not in his list; the name is this wiki's, following later commentators. The bands are approximate periods, and no line between books claims that one led to another. Filled spines are the twelve core books; outlined ones are others named for a phase. More: [The evolution of Wilber's thought](../works/phases.md).
