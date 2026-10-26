@@ -12,7 +12,7 @@ scratch, and don't conflate the work streams — they're deliberately separate.
 
 **Use Beads for task tracking.** `bd` is the canonical CLI for this repository; create
 and update work with it, and use `bd dolt push` when a task needs to be available to
-other checkouts. `NEXT.md` is the short map of active streams, not a task backlog.
+other checkouts. Dolt is the only sync path. `.beads/issues.jsonl` is not tracked in git and JSONL auto-export is off. `NEXT.md` is the short map of active streams, not a task backlog.
 Existing GitHub issues are historical/project-level references; do not create a GitHub
 issue for routine task capture unless the site owner explicitly asks for one.
 
