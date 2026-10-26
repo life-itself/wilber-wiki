@@ -88,7 +88,7 @@ More are on the way. Made with [Seeds of Renaissance](https://seedsofrenaissance
     <text x="640" y="754" class="t-loc">Ken Wilber, <tspan font-style="italic">Sex, Ecology, Spirituality</tspan> (1995), ch. 6</text>
     <text x="60" y="778" class="t-foot">Redrawn from Wilber's description; not a reproduction of a published figure.</text>
     <text x="60" y="792" class="t-foot">Band descriptions summarise SES ch. 6 · ◇ marks this wiki's own device</text>
-    <g id="ptf-sig" aria-label="Wilber Wiki · Seeds of Renaissance · wilber.wiki"><image x="742" y="768" width="28" height="28" href="/assets/visuals/mark-d1745b9e.png"/><text x="782" y="786" textLength="358" lengthAdjust="spacing" class="t-mark">WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki</text></g>
+    <g id="ptf-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
   </g>
 </svg>
     </div>
@@ -233,7 +233,7 @@ The two-bin "untutored eye" picture is this wiki's device for Wilber's sentence.
     <text x="700" y="734" class="t-ours">are IS's Gebser-like list; the small labels give the nearest IP chart-1 worldview.</text>
     <text x="60" y="778" class="t-foot">Sources: Integral Psychology, chart 1 (structure spine, worldview column) · Integral Spirituality, ch. 4</text>
     <text x="60" y="792" class="t-foot">Redrawn; not a reproduction of a published figure · ◇ marks this wiki's own note</text>
-    <g id="sas-sig" aria-label="Wilber Wiki · Seeds of Renaissance · wilber.wiki"><image x="742" y="768" width="28" height="28" href="/assets/visuals/mark-d1745b9e.png"/><text x="782" y="786" textLength="358" lengthAdjust="spacing" class="t-mark">WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki</text></g>
+    <g id="sas-sig" aria-label="Seeds of Renaissance · Wilber Wiki"><image x="852" y="772" width="18" height="18" href="/assets/visuals/mark-d1745b9e.png"/><text x="876" y="786" textLength="264" lengthAdjust="spacing" class="t-mark">SEEDS OF RENAISSANCE · WILBER WIKI</text></g>
   </g>
 </svg>
     </div>

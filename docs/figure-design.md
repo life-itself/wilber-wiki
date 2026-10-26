@@ -4,7 +4,7 @@ The settled rules for the explanatory figures (diagrams, posters, animated expla
 
 ## Where the rules come from, and two lessons
 
-This language was built on 2026-10-25 and proven on two pieces, [the pre/trans fallacy](plans/visual-brainstorm/pre-trans-fallacy/) and [states off the ladder](plans/visual-brainstorm/states-and-stages/). A second pass then rebuilt everything on the restrained grammar of the **Seeds of Renaissance diagram system** (https://design.seedsofrenaissance.org/diagrams; one face, no bold, no outlines, straight ink arrows, lots of white space). Rufus compared the two and chose the first: the earlier figures were "diagrammatically much better". The SoR attempt stays in git history (`822a1d3`) and SoR remains the reference for restraint: when a figure is getting busy, its rules (fewer things, labels on the things they name, one accent, read at 400 px) are the ones to apply. Seeds of Renaissance is also the signature partner: every figure is signed with the SoR mark and "WILBER WIKI · SEEDS OF RENAISSANCE".
+This language was built on 2026-10-25 and proven on two pieces, [the pre/trans fallacy](plans/visual-brainstorm/pre-trans-fallacy/) and [states off the ladder](plans/visual-brainstorm/states-and-stages/). A second pass then rebuilt everything on the restrained grammar of the **Seeds of Renaissance diagram system** (https://design.seedsofrenaissance.org/diagrams; one face, no bold, no outlines, straight ink arrows, lots of white space). Rufus compared the two and chose the first: the earlier figures were "diagrammatically much better". The SoR attempt stays in git history (`822a1d3`) and SoR remains the reference for restraint: when a figure is getting busy, its rules (fewer things, labels on the things they name, one accent, read at 400 px) are the ones to apply. Seeds of Renaissance is also the signature partner: every figure is signed with the SoR mark and "SEEDS OF RENAISSANCE · WILBER WIKI".
 
 Two lessons, recorded so they are not relearned:
 
@@ -85,7 +85,7 @@ Arrows are rare. A marker goes on a line only when the source gives the directio
 
 ## Footer and signature
 
-Bottom band of every canvas, on one baseline at y = 786: left, a `t-foot` line with the sources (book, chapter, chart), "redrawn for wilber.wiki; not a reproduction of a published figure", and the ◇ key when the mark is used. Right, the **signature**: the Seeds of Renaissance colour mark on its white disc, 28 units tall, embedded as a base64 data URI so the SVG travels on its own, followed by `WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki` in `t-mark`. The mark file is SoR's `system/logo/mark/sizes/seeds-mark-colour-128.png`. Scale the figure, never the signature. The page repeats the sources with line numbers in a Sources section.
+Bottom band of every canvas, on one baseline at y = 786: left, a `t-foot` line with the sources (book, chapter, chart), "redrawn for wilber.wiki; not a reproduction of a published figure", and the ◇ key when the mark is used. Right, the **signature**: a small Seeds of Renaissance colour mark (18 units), embedded as a base64 data URI so the SVG travels on its own, followed by `SEEDS OF RENAISSANCE · WILBER WIKI` in `t-mark`, right-aligned to the 60-unit margin. "Wilber Wiki" appears once, at the end (Rufus, 2026-10-26). The mark file is SoR's `system/logo/mark/sizes/seeds-mark-colour-128.png`. Scale the figure, never the signature. The page repeats the sources with line numbers in a Sources section.
 
 ## Motion
 
@@ -116,6 +116,6 @@ The site is plain markdown (not MDX): raw HTML, inline SVG and scripts loaded th
 - [ ] Colour roles used only for things present in the figure; same-kind things share a colour; contrast script passes.
 - [ ] Solid for Wilber's structure, dashed for our relations, dotted for absence; arrows only where the source gives a direction; each label beside its own arrow.
 - [ ] Every quotation grepped against `library/`, line numbers on the page and in the README; ◇ on every device of ours, explained in the footer; "what is Wilber's and what is ours" written; no published figure traced.
-- [ ] Footer with sources bottom left; signature (SoR mark + WILBER WIKI · SEEDS OF RENAISSANCE · wilber.wiki) bottom right.
+- [ ] Footer with sources bottom left; signature (small SoR mark + SEEDS OF RENAISSANCE · WILBER WIKI) bottom right.
 - [ ] The animation settles on the static frame; reduced motion honoured; the page shows the static image without JavaScript.
 - [ ] Exported with `export.py`; rendered at desktop and 390 px with no overflow or collisions.
