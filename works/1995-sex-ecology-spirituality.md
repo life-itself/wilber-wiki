@@ -21,109 +21,115 @@ Wilber's central theoretical work, and volume one of a planned *Kosmos* trilogy 
 
 ## At a glance
 
-*Sex, Ecology, Spirituality* (*SES*) is Wilber's attempt at what he calls an "integral" or "world" philosophy: one map that fits the hierarchies of the natural sciences, developmental psychology, social theory and the contemplative traditions together (Preface). Book One argues that reality is made of **holons**, wholes that are also parts. It traces their evolution from matter to life to mind to spirit, and introduces the four quadrants. Book Two asks why that picture is so rarely seen, and answers with a history of Western thought ending in modernity's "flatland". Read it if you want the full argument behind Wilber's later, shorter books. It is long and dense, and about a third of it is endnotes.
+*Sex, Ecology, Spirituality* (*SES*) is Wilber's attempt at what he calls an "integral" or "world" philosophy: one map that fits the hierarchies of the natural sciences, developmental psychology, social theory and the contemplative traditions together (Preface). Book One argues that reality is made of **holons**, wholes that are also parts, traces their evolution from matter to life to mind to spirit, and introduces the four quadrants. Book Two asks why that picture is so rarely seen, and answers with a history of Western thought ending in modernity's "flatland". Read it for the full argument behind Wilber's later books, but expect length; one reviewer, quoted in the Preface, counted "524 pages of text and 239 pages of notes". For a shorter way in, start with [*A Brief History of Everything*](1996-a-brief-history-of-everything.md) (1996), Wilber's interview-format restatement for general readers.
 
 ## Context
 
-*SES* opens what the wiki calls Wilber's fourth phase, the four-quadrant synthesis (see [The evolution of Wilber's thought](phases.md)). It was his first theoretical book in almost ten years: the previous one, *Transformations of Consciousness*, was completed in 1984, and *Grace and Grit* was written in 1991 (Preface). It grew out of a stalled psychology textbook, later abridged as [*Integral Psychology*](2000-integral-psychology.md) (Preface). Wilber says he wrote it over three near-solitary years. The breakthrough came when his more than two hundred hierarchies fell into four major classes, the four quadrants (Preface).
+*SES* opens what the wiki calls Wilber's fourth phase, the four-quadrant synthesis (see [The evolution of Wilber's thought](phases.md)). It was his first theoretical book in almost ten years, and grew out of a stalled psychology textbook, later abridged as [*Integral Psychology*](2000-integral-psychology.md) (Preface). Wilber says he wrote it over three near-solitary years, and that the breakthrough came when his more than two hundred hierarchies fell into four major classes, the four quadrants (Preface).
 
-The book builds on his earlier developmental work, especially [*Up from Eden*](1981-up-from-eden.md) and *Eye to Eye*, which followed Jean Gebser's archaic–magic–mythic–mental sequence (ch. 4). It was planned as the first of three volumes. A second volume, provisionally titled *Sex, God, and Gender*, is referred to throughout, often as the place where the ecophilosophies get fuller treatment (Introduction; Preface). Later books changed key parts of the map. [*Integral Psychology*](2000-integral-psychology.md) restated the levels and lines, and [*Integral Spirituality*](2006-integral-spirituality.md) moved the higher states off the top of the ladder and recast the levels "post-metaphysically". [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md) traces those shifts.
-
-This wiki quotes the **revised second edition** (Shambhala; © 1995, 2000). Wilber prepared it for his *Collected Works*. He added a new Preface, new sections on the rise of scientific materialism, especially in chapters 12 and 13, and six diagrams, and he reworked the endnotes (Preface).
+The book builds on his earlier developmental work, especially [*Up from Eden*](1981-up-from-eden.md) and *Eye to Eye*, which followed Jean Gebser's archaic–magic–mythic–mental sequence (ch. 4). A planned second volume, *Sex, God, and Gender*, is referred to throughout (Introduction; Preface). Later books changed key parts of the map. [*Integral Psychology*](2000-integral-psychology.md) restated the levels and lines, and [*Integral Spirituality*](2006-integral-spirituality.md) moved the higher states off the top of the ladder and recast the levels "post-metaphysically". [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md) traces those shifts. This wiki quotes the revised second edition (see Publication history).
 
 ## Summary
 
-**Reality is made of holons.** Wilber calls the whole of reality the "Kosmos": matter, life, mind and spirit together. It is made not of things or processes but of holons: whole atoms inside whole molecules inside whole cells, "all the way up, all the way down" (ch. 2). Holons arrange themselves in **holarchies**, ordered by depth, where each new level "transcends but includes" the one before it. Wilber insists that every theory of wholeness depends on such an order: "the only way to get a holism is via a holarchy" (ch. 1). He sets out about twenty tenets that he says hold for holons in every domain (ch. 2).
+**Reality is made of holons.** Wilber calls the whole of reality, matter, life, mind and spirit together, the "Kosmos". It is made of holons, wholes that are parts of larger wholes, "all the way up, all the way down" (ch. 2). Holons form **holarchies** ordered by depth, where each level "transcends but includes" the one before, and Wilber argues that wholeness itself depends on such ordering (ch. 1–2).
 
-**Every holon has an inside.** Ecological and systems science describe only exteriors. Every holon also has an interior, its depth or consciousness. And every holon is both individual and social. Those two distinctions give the **four quadrants**: intentional (I), behavioral (it), cultural (we) and social (its). None can be reduced to another (ch. 3–4). In shorthand these are the **Big Three** of art, morals and science, matching the Beautiful, the Good and the True (ch. 4).
+**Every holon has an inside.** Ecological and systems science describe only exteriors. But every holon also has an interior, its depth or consciousness, and every holon is both individual and social. Crossing those two distinctions gives the **four quadrants**: intentional (I), behavioral (it), cultural (we) and social (its), none reducible to another (ch. 3–4). In shorthand these are the **Big Three** of art, morals and science (ch. 4).
 
-**Consciousness keeps developing.** Human consciousness has evolved through archaic, magic, mythic and rational worldviews, and an integrating "vision-logic" may now be emerging (ch. 5–6). Development can go further still, into psychic, subtle, causal and nondual stages. Wilber treats these as real developments that can be tested, not as metaphysics (ch. 7–8).
+**Consciousness keeps developing.** Human consciousness has evolved through archaic, magic, mythic and rational worldviews, and an integrating "vision-logic" may now be emerging (ch. 5–6). Beyond it lie psychic, subtle, causal and nondual stages, which Wilber treats as real developments that can be tested, not as metaphysics (ch. 7–8).
 
-**Modernity flattened the Kosmos.** Western thought has swung between "Ascenders", who seek the One beyond the world, and "Descenders", who find spirit only in the world. Plato and Plotinus held the two together (ch. 9–10). Modernity's "dignity" was to separate art, morals and science. Its "disaster" was that it could not reintegrate them, so everything collapsed into the exterior, "it"-language world Wilber calls **flatland** (ch. 11–12). Two camps formed on that flatland. The rational "Ego" camp produced repression. The Romantic "Eco" camp produced regression (ch. 12–13).
+**The West split spirit in two.** "Ascenders" seek the One beyond the world; "Descenders" find spirit only in the world. Plato and Plotinus held the two together, and Western thought has swung between them ever since (ch. 9–10).
 
-**The way forward is up, not back.** The ecological crisis is at bottom a problem of interior development, not of teaching people systems theory. Schelling and the German Idealists glimpsed the needed integration, recovering what "Plotinus knew and Nagarjuna taught", but without contemplative practices their systems were dismissed as metaphysics (ch. 14).
+**Modernity flattened the Kosmos.** Modernity's "dignity" was to separate art, morals and science. Its "disaster" was that it could not reintegrate them, so everything collapsed into the exterior, "it"-language world Wilber calls **flatland** (ch. 11–12). On that flatland, the rationalist "Ego" camp prized autonomy and repressed nature and the body, while the Romantic "Eco" camp tried to heal the split by going back to a state before it (ch. 12–13).
+
+**The way forward is up, not back.** The ecological crisis is at bottom a problem of interior development (ch. 14). The German Idealists glimpsed the needed integration but had no contemplative practices to back it (ch. 14). Wilber's answer is to integrate the Big Three again, and to treat contemplation as a form of knowledge with its own practices, evidence and community checks (ch. 4; ch. 7; ch. 14).
 
 ## Overview
 
+*Within each chapter section, quotations and claims come from that chapter unless another location is given.*
+
 ### Preface and Introduction
 
-The Preface to the revised edition tells how the book came about and answers its main critics (Preface). Wilber says the book has "two parts (three actually, counting the endnotes, a separate book in themselves)". He had once named them "Spirit-in-Action" and "Flatland" (Preface). The Introduction's method is to string together widely agreed "orienting generalizations", making "a book of a thousand hypotheses" (Introduction).
+The revised edition's Preface tells how the book came about and answers critics of the first edition (see What's contested). The Introduction sets out the method: string together what each field broadly agrees on, its "orienting generalizations", into "a book of a thousand hypotheses".
 
 ### Book One
 
+Book One builds the map: what holons are, how they evolve, and what they look like from the inside.
+
 #### 1. The Web of Life
 
-Ecological thinkers blame the crisis on a "fractured" worldview, and Wilber says they are "half right and half wrong" (ch. 1). The half-right part is that the sciences of complexity really have healed the old split between physics' arrow of time, which points toward disorder, and biology's arrow, which points toward order (see [Two Arrows of Time](../concepts/two-arrows-of-time.md); ch. 1). What the chapter goes on to contest is their attack on hierarchy (the deeper half-wrong part, that these sciences see only exteriors, is set up in ch. 3–4). Using Arthur [Koestler](../people/koestler.md)'s *holon*, Wilber separates normal hierarchy from the pathological "dominator" kind ([Dominator vs. Growth Hierarchy](../concepts/dominator-vs-growth-hierarchy.md); ch. 1). The chapter ends by recasting the traditional [Great Chain of Being](../concepts/great-chain-of-being.md) as "a Great Holarchy of Being" nested in Spirit (ch. 1).
+The book opens with the ecological thinkers' diagnosis, that the crisis comes from a "fractured" worldview, and Wilber says they are "half right and half wrong". They are right that the sciences of complexity have reconciled physics' arrow of time, toward disorder, with biology's, toward order ([Two Arrows of Time](../concepts/two-arrows-of-time.md)), but wrong to reject hierarchy. Using [Koestler](../people/koestler.md)'s *holon*, Wilber separates normal growth hierarchy from the pathological "dominator" kind ([Dominator vs. Growth Hierarchy](../concepts/dominator-vs-growth-hierarchy.md)), and recasts the [Great Chain of Being](../concepts/great-chain-of-being.md) as "a Great Holarchy of Being".
 
 #### 2. The Pattern That Connects
 
-This chapter sets out the "twenty tenets" of holons, drawn from the evolutionary and [systems sciences](../concepts/systems-theory.md) but meant to apply in every domain (ch. 2). Each holon has four capacities: self-preservation, self-adaptation, self-transcendence and self-dissolution. Holons emerge, each "transcends but includes" its predecessors, and evolution produces "greater depth and less span": depth is how many levels a holon contains, span how many holons there are on a level (ch. 2). Wilber adds a first "fundamental addition": the greater a holon's depth, the greater its consciousness, so "a spiritual dimension is built into the very fabric" of the Kosmos (ch. 2). His test for what is higher: destroy a holon, and everything destroyed with it is higher (ch. 2). He revives the Greek word [Kosmos](../concepts/kosmos-vs-cosmos.md) for the whole of matter, life, mind and spirit (ch. 2).
+Chapter 2 supplies the theory: the "twenty tenets" of holons, drawn from the [systems sciences](../concepts/systems-theory.md) but meant to hold in every domain. Evolution produces greater depth and less span: more levels within each new holon, fewer holons at each new level. Wilber's test for what is higher is simple: destroy a holon, and everything destroyed with it is higher. His first "fundamental addition" is that more depth means more consciousness, so "a spiritual dimension is built into the very fabric" of the [Kosmos](../concepts/kosmos-vs-cosmos.md).
 
 #### 3. Individual and Social
 
-Wilber separates individual holons from social ones. They are "the heads and tails of the *same* coin at *every* currency", not separate levels (ch. 3). Holists who rank by span, he argues, get the sequence exactly backward. The biosphere is not a deeper whole that contains humans: it is a more fundamental part of the noosphere, the realm of mind (ch. 3). Erich Jantsch's account of how individuals and their environments evolve together supplies the model for [micro/macro coevolution](../concepts/micro-macro-coevolution.md) (ch. 3). The chapter closes on the gap the next chapter fills: the brain is the outside and the mind is the inside, and the web-of-life sciences see only the outside (ch. 3).
+Every holon is also both individual and social, and the two evolve together ([Micro/Macro Coevolution](../concepts/micro-macro-coevolution.md)). The chapter's most counterintuitive claim follows. Holists who rank wholes by span make the noosphere, the realm of mind, one part of the bigger biosphere, and Wilber says they get the sequence "*exactly* backward". The biosphere is more fundamental (destroy it and mind goes too), but mind has more depth: the biosphere is part of the noosphere, not the reverse. And these sciences map only exteriors: the brain, never the mind.
 
 #### 4. A View from Within
 
-This is the book's pivot: every holon has an [interior](../concepts/interiority.md) as well as an exterior (ch. 4). Putting inside/outside together with individual/social gives the [four quadrants](../concepts/four-quadrants.md) (ch. 4). The Right-Hand quadrants can be *seen*. The Left-Hand ones must be *interpreted*, through "What does it *mean*?" rather than "What does it *do*?" ([Right-Hand and Left-Hand Paths](../concepts/right-hand-and-left-hand-paths.md); ch. 4). Here Wilber introduces his distinction between **gross reductionism**, which reduces everything to atoms, and **subtle reductionism**, which reduces the Left-Hand interiors to a Right-Hand "system". He charges systems theorists and eco-holists with the subtle kind ([The Limits of the Exterior Approach](../concepts/limits-of-the-exterior-approach.md); ch. 4). Following [Habermas](../people/habermas.md), the quadrants reduce to the [Big Three](../concepts/big-three.md), whose integration Wilber calls "the great task of modernity and postmodernity" (ch. 4).
+This is the book's pivot. Every holon has an [interior](../concepts/interiority.md) as well as an exterior, and crossing inside/outside with individual/social gives the [four quadrants](../concepts/four-quadrants.md). The Right-Hand quadrants can be seen; the Left-Hand ones must be interpreted ([Right-Hand and Left-Hand Paths](../concepts/right-hand-and-left-hand-paths.md)). That lets Wilber name eco-holism's error: not **gross reductionism**, which reduces everything to atoms, but **subtle reductionism**, which reduces the Left-Hand interiors to a Right-Hand "system" ([The Limits of the Exterior Approach](../concepts/limits-of-the-exterior-approach.md)).
 
 #### 5. The Emergence of Human Nature
 
-Drawing on Habermas and Gebser, Wilber traces collective worldviews: magical-animistic, mythological, mythic-rational, rational, and an emerging vision-logic (ch. 5). Along the way he offers a contested account of [sex and gender](../concepts/sex-and-gender.md) (ch. 5). Women's public status fell when the plough replaced the hoe, a shift he does not blame on oppression alone (ch. 5). Once the noosphere and biosphere were differentiated, "biology was no longer destiny", and the patriarchy is "something that needs to be outgrown" rather than reversed (ch. 5). He argues that tribal societies did not necessarily possess ecological wisdom. They "lacked the means" to damage the wider environment ([The Myth of Primal Ecological Wisdom](../concepts/primal-ecological-wisdom.md); ch. 5). [Vision-logic](../concepts/vision-logic.md), Gebser's "integral-aperspectival" mind, is the next stage, though nothing guarantees it (ch. 5). Each stage has its own burdens: Habermas's [dialectic of progress](../concepts/dialectic-of-progress.md). The dividing line on [multiculturalism](../concepts/multiculturalism-and-transnationalism.md) runs "*within* cultures", not between them (ch. 5).
+Chapters 5 and 6 ask how the inside develops, first in cultures, then in individuals. Drawing on Habermas and Gebser, chapter 5 traces worldviews from magic through myth and reason to an emerging [vision-logic](../concepts/vision-logic.md). Wilber then turns the scheme on two popular stories. In his contested account of [sex and gender](../concepts/sex-and-gender.md), patriarchy was not simply imposed by men; once mind was differentiated from biology, "biology was no longer destiny", so patriarchy is "something that needs to be outgrown" rather than reversed. And tribal peoples, he argues, "lacked the means" to damage the wider environment, which is not the same as ecological wisdom ([The Myth of Primal Ecological Wisdom](../concepts/primal-ecological-wisdom.md)).
 
 #### 6. Magic, Mythic, and Beyond
 
-The same stages now appear in individual development, using [Piaget](../people/piaget.md)'s cognitive stages as the main thread (ch. 6). The chapter opens with the [pre/trans fallacy](../concepts/pre-trans-fallacy.md). [Freud](../people/freud.md)-style reductionism collapses the higher into the lower, and [Jung](../people/jung.md)-style elevationism raises the lower into the higher. "Spirit is indeed nonrational; but it is trans, not pre" (ch. 6). A section headed "Waves and Streams" places cognition as one developmental line among many ([Waves and Streams](../concepts/waves-and-streams.md); ch. 6), the kind of clarification Wilber says he added to the second edition (Preface). In Wilber's account, [repression](../concepts/repression.md) is mind cutting itself off from body: "Every neurosis... is a miniature ecological crisis", and the global crisis is "a worldwide collective neurosis" (ch. 6). He argues that [Joseph Campbell](../people/campbell.md)'s "real" myth, myth held "as if", is only possible from formal-operational reason (Piaget's stage of abstract, hypothetical thinking), so it is reason that releases myth (ch. 6). The great mystics, by contrast, "inherited the future" (ch. 6).
+The same stages now appear in individual growth, with [Piaget](../people/piaget.md)'s cognitive stages as one line among many ([Waves and Streams](../concepts/waves-and-streams.md)). The chapter opens with the [pre/trans fallacy](../concepts/pre-trans-fallacy.md): confusing the prerational with the transrational because both are nonrational. [Freud](../people/freud.md) collapses the higher into the lower; [Jung](../people/jung.md) raises the lower into the higher. Psychology then links back to ecology: [repression](../concepts/repression.md) cuts mind off from body, so "Every neurosis... is a miniature ecological crisis". And the great mystics, on this view, were not throwbacks to a mythic past: they "inherited the future".
 
 #### 7. The Farther Reaches of Human Nature
 
-Against critics who call meditation narcissistic, Wilber argues that every "going within is also a going beyond to a wider embrace" (ch. 7). He then defends the [transpersonal domains](../concepts/transpersonal-domains.md) against the charges that they are merely private or ineffable. All valid knowledge, he says, has three strands: an injunction, an apprehension, and confirmation or refutation by a community. A Kuhnian paradigm is first an injunction, a practice ([Paradigm as Injunction](../concepts/paradigm-as-injunction.md); [Validity Claims of Mysticism](../concepts/validity-claims-of-mysticism.md); ch. 7). Contemplative traditions such as Mahamudra, the Visuddhimagga and the Yoga Sutras show a shared stage sequence underneath their differences ([The Reconstruction of the Contemplative Path](../concepts/reconstruction-of-the-contemplative-path.md); ch. 7). The chapter names four higher stages, [psychic, subtle, causal and nondual](../concepts/psychic-subtle-causal-nondual.md), with Emerson, Saint Teresa, Meister Eckhart and Ramana Maharshi as examples (ch. 7). A long note answers Steven Katz and the "constructivist" scholars of mysticism, calling them "armchair contemplatives" (ch. 7, note 16).
+Chapters 7 and 8 carry development past reason into the [transpersonal domains](../concepts/transpersonal-domains.md), and chapter 7 defends them as knowledge. All valid knowledge, Wilber argues, has three strands: an injunction ("Do this, then look"; see [Paradigm as Injunction](../concepts/paradigm-as-injunction.md)), an apprehension, and confirmation or refutation by a community of those who have done the same. Contemplative manuals from three traditions, the Tibetan Buddhist Mahamudra, the Theravada Visuddhimagga and the Hindu Yoga Sutras, share a stage sequence ([The Reconstruction of the Contemplative Path](../concepts/reconstruction-of-the-contemplative-path.md)). Wilber names four higher stages: [psychic, subtle, causal and nondual](../concepts/psychic-subtle-causal-nondual.md).
 
 #### 8. The Depths of the Divine
 
-"Transpersonal" means the personal is "negated and preserved", not lost (ch. 8). The psychic level is Emerson's Over-Soul. Wilber reads Emerson as treating nature as an expression of Spirit, not Spirit itself: Spirit "puts forth nature through us" (ch. 8). The subtle level is deity mysticism, shown through Teresa's *Interior Castle*. The causal is the formless Godhead of Eckhart and Ramana. The nondual is not a separate stage but the "Suchness" of all of them, in which Emptiness and the whole Kosmos are "not-two" (ch. 8). Two important ideas live in the notes. One is the **Basic Moral Intuition**, "Protect and promote the greatest depth for the greatest span" (ch. 8, note 23). The other is a clarification that peak experiences of higher states can occur at almost any stage (ch. 8, note 8).
+Chapter 8 walks through those stages. "Transpersonal" means the personal is "negated and preserved", not lost. The psychic is Emerson's Over-Soul, the subtle is the deity mysticism of Teresa's *Interior Castle*, and the causal is the formless Godhead of Eckhart and Ramana Maharshi. The nondual is not a separate stage but the "Suchness" of all of them.
 
 ### Book Two
 
+Book One describes the map; Book Two asks why the West lost it.
+
 #### 9. The Way Up Is the Way Down
 
-Book Two retells Western intellectual history as a struggle between two movements in Plato ([Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md); ch. 9). **Ascent** is the return from the Many to the One. **Descent** is the One overflowing into the Many. Plato held them together: "flee the Many, find the One; having found the One, embrace the Many *as* the One" (ch. 9). Later thinkers split them, leaving the "fractured footnotes to Plato" ([Ascent and Descent](../concepts/ascent-and-descent.md); ch. 9). [Plotinus](../people/plotinus.md) is the hero of the story. His levels are set beside [Aurobindo](../people/aurobindo.md)'s (ch. 9). The chapter defines [Eros and Agape](../concepts/eros-and-agape.md): Eros is the lower reaching up, Agape the higher reaching down. Eros without Agape becomes Phobos (repression); Agape without Eros becomes Thanatos (regression) (ch. 9). The [involution and evolution](../concepts/involution-and-evolution.md) argument is developed mostly in a long note (ch. 9, note 26). The verdict: the Enlightenment's move from mythic to rational was its "great achievement", and its collapse of the Kosmos into flatland its "great and enduring crime" (ch. 9).
+The answer starts with two movements in Plato ([Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md)). **Ascent** is the return from the Many to the One; **Descent** is the One overflowing into the Many. Plato and [Plotinus](../people/plotinus.md) held them together (see Key passages); later thinkers split them, leaving the "fractured footnotes to Plato" ([Ascent and Descent](../concepts/ascent-and-descent.md)). [Eros and Agape](../concepts/eros-and-agape.md) are the forces behind them: the lower reaching up, the higher reaching down. Its verdict: the Enlightenment's move from mythic to rational was its "great achievement", and its collapse of the Kosmos into flatland its "great and enduring crime".
 
 #### 10. This-Worldly, Otherworldly
 
-Wilber calls "this world" versus an "other world" the great dualism of all dualisms, and calls each side "half right and half wrong" (ch. 10). He proposes a nondual position: the One is both the Good (the Ascenders' goal) and Goodness (the Descenders' source), and the Absolute is the nondual Ground of both the One and the Many (ch. 10). Web-of-life theories, he says, "get the All but miss the One" (ch. 10). Aristotle tipped the West toward Ascent. Mythic Christianity, by making Jesus's realization unique, blocked Ascent for everyone else, and so blocked true Descent as well ([The Two Gods](../concepts/the-two-gods.md); ch. 10). The chapter ends with the Descending principle of [Plenitude](../concepts/great-plenitude.md), "the greater the diversity, the greater the Goodness".
+Wilber calls "this world" versus an "other world" the great dualism of all dualisms, with each side "half right and half wrong". By his nondual measure, web-of-life theories "get the All but miss the One". Mythic Christianity, by making Jesus's realization unique, blocked Ascent for everyone else, and because the Way Up could not be completed in this life, it could never spill over into the Way Down ([The Two Gods](../concepts/the-two-gods.md)). Meanwhile the Descending principle of [Plenitude](../concepts/great-plenitude.md), "the greater the diversity, the greater the Goodness", waited to shape modernity.
 
 #### 11. Brave New World
 
-Modernity began with two slogans (ch. 11). "No more myths!" was the good news: ego identity, worldcentric morality and the liberation movements (ch. 11). "No more Ascent!" was the bad news. Wilber's one-sentence version: "modernity brought a *deeper* subject in a *shallower* world" (ch. 11). Kant's three critiques mark the differentiation of science, morality and art. Integrating them again is "the *central problem of postmodernity*" ([The Big Three](../concepts/big-three.md); ch. 11). When reason threw out myth, it threw out contemplation too ([The Death of God](../concepts/death-of-god.md); ch. 11). With the One gone, Plenitude became modernity's research programme: "Systems theory was born" (ch. 11). The chapter ends: "the Descenders were destroying this world, because this world was the only world they had" (ch. 11).
+Modernity began with two slogans. "No more myths!" brought the good news: ego identity, worldcentric morality, the liberation movements. But it also came to mean "No more Ascent!", so reason threw out contemplation along with myth ([The Death of God](../concepts/death-of-god.md)), leaving a deeper subject in a shallower world. Kant's three critiques mark the differentiation of science, morality and art; integrating them again is "the *central problem of postmodernity*". With the One gone, Plenitude became modernity's research programme: "Systems theory was born."
 
 #### 12. The Collapse of the Kosmos
 
-The core of the [flatland](../concepts/flatland.md) argument, expanded in the revised edition (Preface). The Great Chain, once a map of liberation, became "the plan of the prison cell" (ch. 12). Modernity's [dignity and disaster](../concepts/dignity-and-disaster-of-modernity.md) followed. With no unifying centre, the Big Three slid from differentiation into dissociation, and were reduced to "the Big One" of it-language (ch. 12). Interiors were explained only in exterior terms: subtle reductionism again (ch. 12). Out of this came the [Ego and Eco camps](../concepts/ego-camp-and-eco-camp.md), "flatland to the core" and mortal enemies (ch. 12). In Wilber's words, "where the Ego camps were marked by *repression*, the Eco camps were shot through with *regression*" (ch. 12).
+Chapter 12, expanded in the revised edition (Preface), is the core of the [flatland](../concepts/flatland.md) argument (see Key passages). With no unifying centre, the Big Three slid from differentiation into dissociation and were reduced to "the Big One" of it-language. Out of this came the [Ego and Eco camps](../concepts/ego-camp-and-eco-camp.md), "flatland to the core". The Eco camp blamed modernity's dissociations on differentiation itself and sought a cure in going back: "where the Ego camps were marked by *repression*, the Eco camps were shot through with *regression*".
 
 #### 13. The Dominance of the Descenders
 
-Each camp's success brought back what it excluded: the Ego's "hyperagency" produced "massive unfreedom", and the Eco, setting out to decentre the Ego, ended up championing egocentric feeling (ch. 13). Wilber separates three senses of nature, first set out in ch. 12: NATURE (the whole Kosmos), Nature (the sensory, Right-Hand world) and nature (the biosphere as opposed to culture). "Back to nature is away from NATURE" (ch. 13). Both camps found the "secret" of nature in sex, and Freud stands where they meet ([Sexuality and Modernity](../concepts/sexuality-and-modernity.md); ch. 13). The 1790s watchword was to unite [Fichte and Spinoza](../concepts/agony-of-modernity-fichte-vs-spinoza.md), the total I and the total It (ch. 13). Schelling's answer was [Spirit-in-Action](../concepts/spirit-in-action.md): Spirit is both alpha and omega, nature is "slumbering Spirit", and evolution is "Plotinus temporalized" (ch. 13). Darwin's lasting contribution, Wilber says, was "a massive obscuratanism" about evolution's need for something like Eros ([Darwin](../people/darwin.md); ch. 13).
+Each camp then produced what it most wanted to avoid. The Ego's "hyperagency" produced "massive unfreedom". The Eco, setting out to decentre the Ego, ended up championing egocentric feeling: "back to nature is away from NATURE" (nature being the biosphere, NATURE the whole Kosmos). An entire age, Wilber says, sought "the integration of Absolute Subject and Absolute Object, of Fichte and Spinoza": Fichte's infinite Subject (the total I) with Spinoza's infinite Substance (the total It) ([The Agony of Modernity](../concepts/agony-of-modernity-fichte-vs-spinoza.md)). Schelling's answer was [Spirit-in-Action](../concepts/spirit-in-action.md): evolution as "Plotinus temporalized". Darwin's theory, Wilber charges, then "obscured for over a century the fact that a genuine theory of evolution demands something resembling Eros".
 
 #### 14. The Unpacking of God
 
-The final chapter asks how a real intuition of Spirit gets "unpacked". Unpacked only as a Higher Self, it repeats Fichte. Unpacked only as a web or system, it repeats Spinoza (ch. 14). Two more "additions" to the tenets arrive. Every holon issues an IOU ("Incomplete Or Uncertain") to the Kosmos, and all IOUs are redeemed in Emptiness (ch. 14). [The Idealists' legacy](../concepts/legacy-of-the-idealists.md) was to see Ego and Eco as manifestations of one Spirit, recovering what "Plotinus knew and Nagarjuna taught": "the other world is this world rightly seen". Their failure was to have no contemplative practices, so their systems were taken for "mere metaphysics" (ch. 14). Wilber's [holonic ecology](../concepts/environmental-ethics.md) distinguishes equal Ground-value from unequal intrinsic value: "It is *much better* to kill a carrot than a cow" (ch. 14). The book ends with a lyrical nondual passage and the hope that we stand "poised on the edge of transrational perception" (ch. 14).
+The last chapter asks how an intuition of Spirit gets "unpacked" into thought without collapsing into Fichte's Self or Spinoza's system. [The Idealists](../concepts/legacy-of-the-idealists.md) saw Ego and Eco as one Spirit, recovering what "Plotinus knew and Nagarjuna taught", but they had no contemplative practices, so their insights were dismissed as "mere metaphysics". In Wilber's [holonic ecology](../concepts/environmental-ethics.md), every holon has equal "Ground-value" as a manifestation of Spirit, but more depth means more intrinsic value: "It is *much better* to kill a carrot than a cow". The book ends with the hope that we stand "poised on the edge of transrational perception".
 
 ### The endnotes
 
-Wilber calls the notes "a separate book in themselves" (Preface). Several of the book's most important arguments live there:
+Wilber says many of the book's most important ideas are "developed only in the notes" (Preface):
 
-- **Ethics.** The Basic Moral Intuition appears only in the notes, and Wilber applies it to abortion and animal rights (ch. 8, note 23; ch. 14, note 13).
+- **Ethics.** The **Basic Moral Intuition**, "Protect and promote the greatest depth for the greatest span", applied to abortion and animal rights (ch. 8, note 23; ch. 14, note 13).
 - **Consciousness.** Depth exists from the first boundary, so Wilber is "a pan-depthist, not a pan-psychist" (ch. 4, note 2).
-- **Replies to critics.** Michael Winkelman's cultural relativism (ch. 1, note 26; ch. 4, note 51; ch. 5, note 26). Steven Katz on mysticism (ch. 7, note 16; ch. 8, note 58). Charlene Spretnak and "victim" feminism, where Wilber argues women "co-selected, with men" the older social arrangements (ch. 5, note 12). Stanislav Grof's objections to the model (ch. 6, note 3; ch. 14, note 17). Morris Berman and Theodore Roszak on "reenchantment" (ch. 13, note 32).
-- **Dialogue with philosophers.** [Foucault](../people/foucault.md), read as attacking only monological reason (reason that treats people as objects to be represented and managed), not reason as such; reason's misuse comes from its motives, since "The *means* are rational; the *motives* precisely are *not* up to reason" (ch. 12, note 46). [Derrida](../people/derrida.md)'s deconstruction, read as "another approach to the IOU principle" (ch. 14, note 4).
-- **Buddhism.** The longest note argues against a literal "no-self", quoting Jack Engler's "You have to be somebody before you can be nobody" (ch. 14, note 1).
+- **Replies to critics.** Michael Winkelman (ch. 1, note 26; ch. 4, note 51; ch. 5, note 26); Steven Katz and other "armchair contemplatives" (ch. 7, note 16; ch. 8, note 58); Charlene Spretnak (ch. 5, note 12); Stanislav Grof (ch. 6, note 3; ch. 14, note 17); Morris Berman and Theodore Roszak (ch. 13, note 32).
+- **Philosophers.** [Foucault](../people/foucault.md), read as attacking only monological reason, not reason as such (ch. 12, note 46); [Derrida](../people/derrida.md)'s deconstruction as "another approach to the IOU principle" (ch. 14, note 4).
+- **Buddhism.** The longest note argues against a literal "no-self": "You have to be somebody before you can be nobody", in Jack Engler's words (ch. 14, note 1).
 
 ## Key passages
 
 Wilber's claim that holism depends on hierarchy, which underlies the whole book:
 
-> Thus heterarchists, who claim that “heterarchy” and “holism” are the same thing (and that both are contrasted to the divisive and nasty “hierarchy”), have got it exactly backward: The only way to get a holism is via a holarchy. Heterarchy, in and by itself, is merely differentiation without integration, disjointed parts recognizing no common and deeper purpose or organization: heaps, not wholes.
+> Thus heterarchists, who claim that “heterarchy” and “holism” are the same thing (and that both are contrasted to the divisive and nasty “hierarchy”), have got it exactly backward: The only way to get a holism is via a holarchy.
 >
 > — ch. 1, “The Web of Life”
 
@@ -139,9 +145,11 @@ The pre/trans fallacy in two sentences, guarding the book's spirituality against
 >
 > — ch. 6, “Magic, Mythic, and Beyond”
 
-How Wilber grounds the higher stages in evidence rather than speculation:
+Why Wilber treats contemplation as a method that produces checkable data, not as private belief:
 
-> So the first thing I would like to emphasize is that the higher stages of transpersonal development are stages that are taken from those who have actually developed into those stages and who display palpable, discernible, and repeatable characteristics of that development. The stages themselves can be *rationally reconstructed* (explained in a rational manner after the fact), but they cannot be rationally experienced.
+> The contemplative traditions, on the other hand, have always come first and foremost with a set of injunctions in hand. ...
+>
+> Once one masters the exemplar or the paradigmatic practice (strand one), then one is ushered into a worldspace in which new data disclose themselves (strand two). ... These data are rigorously checked (strand three) in the community of those who have also completed the first two strands (injunction and illumination).
 >
 > — ch. 7, “The Farther Reaches of Human Nature”
 
@@ -151,13 +159,13 @@ The nondual formula that Book Two measures the whole Western tradition against:
 >
 > — ch. 9, “The Way Up Is the Way Down”
 
-The task Wilber sets for postmodernity:
+How the Great Chain, once a map of liberation, was turned against itself:
 
-> What is required, of course, is not a retreat to a predifferentiated state (that’s not even *possible*, although retro-Romantics often make the recommendation); what is required is the *integration* of the Big Three. And that, indeed, is what might be called the *central problem of postmodernity*: now that science, art, and morality have been irreversibly *differentiated*, how does one *integrate* them?
+> The Great Chain, the map of what we could become, became a map of what we should not even try. The Great Chain was used to deny the Great Chain. ... The Great Chain was no longer the map of escape, but the plan of the prison cell with a sentence of life.
 >
-> — ch. 11, “Brave New World”
+> — ch. 12, “The Collapse of the Kosmos”
 
-The dignity and disaster of modernity, the hinge of the flatland argument:
+Why modernity is, for Wilber, both an achievement and a disaster:
 
 > But if the *dignity* of modernity was the differentiation of the Big Three, the *disaster* of modernity would be that it had *not yet* found a way to *integrate* them. Indeed, with no unifying center, the Big Three had already begun to move into *dissociation*—to exist as radically separate, “hyper-autonomous” realms, with nothing to say to each other, bound only by a thoroughgoing and often mutual disdain.
 >
@@ -171,74 +179,70 @@ The book's practical conclusion about the ecological crisis:
 
 ## What's contested
 
-**What's strong.** The holon/quadrant scheme gives a clear way to name a common mistake, explaining interiors entirely in terms of exteriors, and the critique of "subtle reductionism" in systems-based holism is sharp (ch. 4; ch. 12).
+**What's strong.** The holon/quadrant scheme gives a clear way to name a common mistake, explaining interiors entirely in terms of exteriors, and the critique of "subtle reductionism" in systems-based holism is sharp (ch. 4; ch. 12). The four quadrants, first worked out here, define the next phase of Wilber's work (see [The evolution of Wilber's thought](phases.md)). The pre/trans fallacy cuts both ways, against reductionists who explain mysticism away and against Romantics who glorify the prerational (ch. 6).
 
-**What Wilber himself conceded or revised.** In the revised edition he agrees that the book "lumped together the many various ecophilosophies and treated them indiscriminately" (Preface). He admits small errors in quoting Emerson and Plotinus (Preface). He accepts that a reader of *SES* alone could take the model to be linear and Piaget-based, and says he "should have made my overall model much clearer" (Preface). His fuller model of waves, streams and states appears mainly in notes and revised passages (ch. 6; ch. 8, note 8). He defends the polemical tone, calling the book "a cry of anger and anguish" (Preface). *Integral Spirituality* takes the higher states off the top of the developmental ladder and recasts the levels "post-metaphysically" (see [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md)). The trilogy was never completed ([The evolution of Wilber's thought](phases.md)).
+**What Wilber himself conceded or revised.** In the Preface he agrees that the book "lumped together the many various ecophilosophies and treated them indiscriminately". He accepts that a reader of *SES* alone could take the model to be a single linear, Piaget-based ladder, and says he "should have made my overall model much clearer". His fuller model, with separate developmental lines and with higher states available as peak experiences at almost any stage, appears here mainly in notes and revised passages (ch. 6; ch. 8, note 8). He defends the polemical tone: the book was "a cry of anger and anguish" (Preface). *Integral Spirituality* later moved the higher states off the top of the ladder (see [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md)), and the trilogy was never completed ([The evolution of Wilber's thought](phases.md)).
 
-**What remains contestable.** By Wilber's own account the book is "a summary" built on "orienting generalizations", many paragraphs compressing whole books (Preface; Introduction). Jeff Meyerhoff's book-length critique, [*Bald Ambition*](https://www.integralworld.net/meyerhoff-ba-toc.html), takes *SES* as its main text and works through holons, the twenty tenets, the quadrants, social evolution, Western history and postmodernism. It argues that Wilber does not actually use the method of orienting generalizations: the agreement he claims in those fields is, Meyerhoff says, contested. Within the book itself, Wilber's own replies show where the pushback came: the account of how gender roles arose, especially the claim that women "co-selected" them, answered in a long note against "victim" feminism (ch. 5; ch. 5, note 12); and the parallels drawn between individual and historical development, which he says "a few critics have objected to" (ch. 4).
+**What remains contestable.** By Wilber's own account the book is "a summary" built on "orienting generalizations" (Preface; Introduction). Jeff Meyerhoff's book-length critique, [*Bald Ambition*](https://www.integralworld.net/meyerhoff-ba-toc.html), takes *SES* as its main text and argues that Wilber does not actually use the method of orienting generalizations: the agreement he claims in those fields is, Meyerhoff says, contested. The case for Eros in evolution rests on a claim about biology rather than philosophy: that natural selection "can account not at all for macroevolution", which Wilber presents as "almost universally recognized by scientists" (ch. 13; ch. 13, note 39). Wilber's own replies show other points of pushback: the account of how gender roles arose, especially the claim that women "co-selected" them (ch. 5, note 12), and the parallels between individual and historical development, which he says "a few critics have objected to" (ch. 4).
 
 ## Concepts in this book
 
 **Holons and holarchy (ch. 1–3)**
 
-- [Holons](../concepts/holons.md): the basic unit of the Kosmos, set out in the twenty tenets.
-- [Holarchy](../concepts/holarchy.md): holons nested by depth, each transcending and including the last.
-- [Dominator vs. Growth Hierarchy](../concepts/dominator-vs-growth-hierarchy.md): normal versus pathological hierarchy, ch. 1's answer to anti-hierarchy critics.
-- [Systems Theory and the Sciences of Complexity](../concepts/systems-theory.md): the half-right science behind the "web of life".
-- [Two Arrows of Time](../concepts/two-arrows-of-time.md): thermodynamics versus evolution, reconciled by self-organization.
-- [Kosmos vs. Cosmos](../concepts/kosmos-vs-cosmos.md): why Wilber revives the older, all-inclusive word.
-- [Micro/Macro Coevolution](../concepts/micro-macro-coevolution.md): individual and social holons evolving together.
+- [Holons](../concepts/holons.md): the basic unit; the twenty tenets.
+- [Holarchy](../concepts/holarchy.md): holons nested by depth.
+- [Dominator vs. Growth Hierarchy](../concepts/dominator-vs-growth-hierarchy.md): normal versus pathological.
+- [Systems Theory and the Sciences of Complexity](../concepts/systems-theory.md): the half-right science.
+- [Two Arrows of Time](../concepts/two-arrows-of-time.md): thermodynamics versus evolution.
+- [Kosmos vs. Cosmos](../concepts/kosmos-vs-cosmos.md): the revived older word.
+- [Micro/Macro Coevolution](../concepts/micro-macro-coevolution.md): individual and social together.
 
 **Interiors and the quadrants (ch. 3–4)**
 
 - [Interiority](../concepts/interiority.md): the "within" of every holon.
-- [The Four Quadrants](../concepts/four-quadrants.md): inside/outside crossed with individual/collective.
+- [The Four Quadrants](../concepts/four-quadrants.md): interior/exterior crossed with individual/social.
 - [Right-Hand and Left-Hand Paths](../concepts/right-hand-and-left-hand-paths.md): seeing versus interpreting.
-- [The Limits of the Exterior Approach](../concepts/limits-of-the-exterior-approach.md): subtle reductionism in systems theory.
-- [The Big Three](../concepts/big-three.md): I, we and it; art, morals and science.
+- [The Limits of the Exterior Approach](../concepts/limits-of-the-exterior-approach.md): subtle reductionism.
+- [The Big Three](../concepts/big-three.md): art, morals and science.
 
 **Human development (ch. 5–6)**
 
-- [The Dialectic of Progress](../concepts/dialectic-of-progress.md): each stage brings new problems.
-- [Sex and Gender](../concepts/sex-and-gender.md): Wilber's account of male and female roles across history.
-- [The Myth of Primal Ecological Wisdom](../concepts/primal-ecological-wisdom.md): tribes "lacked the means" to do large-scale harm, which is not the same as wisdom.
-- [Multiculturalism and Transnationalism](../concepts/multiculturalism-and-transnationalism.md): the dividing line runs within cultures.
-- [Vision-Logic](../concepts/vision-logic.md): the integrating stage beyond formal reason.
-- [The Pre/Trans Fallacy](../concepts/pre-trans-fallacy.md): confusing prerational with transrational.
-- [Repression](../concepts/repression.md): neurosis as a "miniature ecological crisis".
-- [Waves and Streams](../concepts/waves-and-streams.md): levels and lines, clarified in the revised edition.
+- [The Dialectic of Progress](../concepts/dialectic-of-progress.md): each stage, new problems.
+- [Sex and Gender](../concepts/sex-and-gender.md): gender roles across history.
+- [The Myth of Primal Ecological Wisdom](../concepts/primal-ecological-wisdom.md): incapacity, not wisdom.
+- [Multiculturalism and Transnationalism](../concepts/multiculturalism-and-transnationalism.md): the line runs within cultures.
+- [Vision-Logic](../concepts/vision-logic.md): the stage beyond formal reason.
+- [The Pre/Trans Fallacy](../concepts/pre-trans-fallacy.md): prerational confused with transrational.
+- [Repression](../concepts/repression.md): neurosis as ecological crisis in miniature.
+- [Waves and Streams](../concepts/waves-and-streams.md): levels and lines.
 
 **The transpersonal (ch. 7–8)**
 
-- [The Transpersonal Domains](../concepts/transpersonal-domains.md): development beyond the personal, and why it counts as knowledge.
-- [The Psychic, Subtle, Causal, and Nondual](../concepts/psychic-subtle-causal-nondual.md): the four higher stages and their exemplars.
-- [Validity Claims of Mysticism](../concepts/validity-claims-of-mysticism.md): the reply to the charge that mystical experience is merely private.
+- [The Transpersonal Domains](../concepts/transpersonal-domains.md): beyond the personal.
+- [The Psychic, Subtle, Causal, and Nondual](../concepts/psychic-subtle-causal-nondual.md): the four higher stages.
+- [Validity Claims of Mysticism](../concepts/validity-claims-of-mysticism.md): mysticism as public knowledge.
 - [Paradigm as Injunction](../concepts/paradigm-as-injunction.md): the three strands of valid knowledge.
-- [The Reconstruction of the Contemplative Path](../concepts/reconstruction-of-the-contemplative-path.md): cross-cultural contemplative stages.
+- [The Reconstruction of the Contemplative Path](../concepts/reconstruction-of-the-contemplative-path.md): shared meditative stages.
 
 **Ascent, Descent and modernity (ch. 9–14)**
 
-- [Ascent and Descent](../concepts/ascent-and-descent.md): the two movements that organize Book Two.
-- [Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md): Plato as holding both movements together.
-- [Eros and Agape](../concepts/eros-and-agape.md): the two loves, and their shadows Phobos and Thanatos.
+- [Ascent and Descent](../concepts/ascent-and-descent.md): Book Two's two movements.
+- [Wilber's Non-Dual Reading of Plato](../concepts/wilber-on-plato.md): Plato holding both together.
+- [Eros and Agape](../concepts/eros-and-agape.md): the two loves and their shadows.
 - [Involution and Evolution](../concepts/involution-and-evolution.md): Spirit's descent and return.
-- [The Great Chain of Being](../concepts/great-chain-of-being.md): recast as a Great Holarchy, then collapsed.
-- [The Two Gods](../concepts/the-two-gods.md): the otherworldly and this-worldly Gods.
-- [The Great Plenitude](../concepts/great-plenitude.md): the Descending principle that became modernity's research programme.
-- [The Death of God](../concepts/death-of-god.md): myth rejected and contemplation with it.
+- [The Great Chain of Being](../concepts/great-chain-of-being.md): recast as holarchy, then collapsed.
+- [The Two Gods](../concepts/the-two-gods.md): otherworldly versus this-worldly.
+- [The Great Plenitude](../concepts/great-plenitude.md): diversity as Goodness.
+- [The Death of God](../concepts/death-of-god.md): contemplation discarded with myth.
 - [The Dignity and Disaster of Modernity](../concepts/dignity-and-disaster-of-modernity.md): differentiation without integration.
-- [Flatland](../concepts/flatland.md): the Kosmos collapsed to its exteriors.
+- [Flatland](../concepts/flatland.md): the Kosmos reduced to exteriors.
 - [The Ego Camp and the Eco Camp](../concepts/ego-camp-and-eco-camp.md): repression versus regression.
-- [Sexuality and Modernity](../concepts/sexuality-and-modernity.md): sex as the "secret" of flatland nature.
+- [Sexuality and Modernity](../concepts/sexuality-and-modernity.md): sex as nature's "secret".
 - [The Agony of Modernity: Fichte versus Spinoza](../concepts/agony-of-modernity-fichte-vs-spinoza.md): the total I against the total It.
 - [Spirit-in-Action](../concepts/spirit-in-action.md): Schelling's evolutionary nondualism.
-- [The Legacy of the Idealists](../concepts/legacy-of-the-idealists.md): their achievement and their failure.
-- [Environmental Ethics / Holonic Ecology](../concepts/environmental-ethics.md): Ground-value, intrinsic value and extrinsic value.
-- [Wilber on Postmodernism](../concepts/postmodernism.md): its truths and its "aperspectival madness".
-
-**Across the books**
-
-- [From SES to Integral Spirituality](../concepts/from-ses-to-integral-spirituality.md): how later books revised this one.
+- [The Legacy of the Idealists](../concepts/legacy-of-the-idealists.md): achievement and failure.
+- [Environmental Ethics / Holonic Ecology](../concepts/environmental-ethics.md): three kinds of value.
+- [Wilber on Postmodernism](../concepts/postmodernism.md): truths and "aperspectival madness".
 
 ## People
 
@@ -251,9 +255,9 @@ Main interlocutors; the [People Index](../people/index.md) has the full list.
 - [Joseph Campbell](../people/campbell.md): criticized as an elevationist reader of myth (ch. 6).
 - [Plotinus](../people/plotinus.md): the model of integrated Ascent and Descent (ch. 9, 14).
 - [Sri Aurobindo](../people/aurobindo.md): the Eastern parallel to Plotinus and Schelling (ch. 9, 14).
-- [Michel Foucault](../people/foucault.md): drawn on for the "Age of Man" and defended in the notes (ch. 4, 12; ch. 12, note 46).
+- [Michel Foucault](../people/foucault.md): the "Age of Man", and defended in the notes (ch. 4, 12; ch. 12, note 46).
 - [Baruch Spinoza](../people/spinoza.md): the "total It" of the Eco side in modernity's agony (ch. 13).
-- [Georg Hegel](../people/hegel.md): the Idealist in whom, Wilber argues, Spirit became "wholly *identified*" with vision-logic, overloading reason (ch. 14).
+- [Georg Hegel](../people/hegel.md): the Idealist who, Wilber argues, overloaded reason with Spirit (ch. 14).
 - [Charles Darwin](../people/darwin.md): faulted for obscuring Eros in evolution (ch. 13).
 
 ## Publication history
